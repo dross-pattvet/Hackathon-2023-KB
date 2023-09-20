@@ -1,0 +1,29 @@
+Lab Installation, Integration and 
+Test Results
+
+
+Lab Installation Instructions
+
+
+Lab Integration
+
+
+ From the IntraVet Menu Bar, select 
+Setup | 
+Lab Interface
+.
+
+
+ Click 
+New
+.
+
+
+ Select the 
+Manufacturer
+.
+ Select a 
+Lab Machine
+. This will fill in the 
+Description
+.

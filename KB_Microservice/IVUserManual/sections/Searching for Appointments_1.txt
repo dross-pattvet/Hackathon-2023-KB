@@ -1,0 +1,145 @@
+Searching for Appointments
+
+
+You can search for available appointments to find a slot that suits your client’s requests, and 
+you 
+can search for an existing appointment by client to confirm a time. 
+
+
+How to Search Available Appointment Slots
+
+
+ Click 
+Search 
+in the top center of the calendar or right
+-
+click in the calendar
+and select 
+Search
+. 
+ Check only the columns/providers you want or check the 
+Select All 
+box.
+ Choose a 
+Type
+if you want to make sure that the slots you find are available for the 
+necessary duration associated with that type. 
+Duration
+can also be selected 
+if there are 
+no times associated with appointment types.
+ Check 
+Reserved
+for
+and pick a 
+Reserve
+code only if you want to restrict your search to 
+slots that are reserved for a particular activity (Surgery, Sick Patie
+nts, 
+etc.
+).
+ Indicate a preference of time span to search with
+:
+Today
+, 
+Month
+, 
+6 Month 
+buttons or by 
+date. Leave open to search with no end time/date. This will lengthen your search time.
+ If a client prefers morning or afternoon, choose the time desired (
+A
+M
+or 
+PM
+).
+ Number of results
+defaults to 10, but you can change it.
+ Click 
+Search
+.
+
+
+
+
+<<NEW PAGE 179>>
+
+
+ The results are displayed. You can 
+select
+the column headings to sort by each. 
+
+
+ Click 
+Open
+to select the highlighted slot and make the appointment or 
+Goto…
+to view 
+the sl
+ot.
+ Click 
+New Search
+to enter different parameters. Your results remain until you close the 
+calendar or do a new search and can be accessed by clicking 
+Search Results
+in t
+he lower 
+right corner of the appointment calendar window.
+ Click 
+Modify
+to alter the existing search based on the previous criteria entered.
+ To clos
+e the list, 
+select
+the double down
+-
+arrow
+s at the top right corner 
+of the 
+Search 
+Results
+.
+
+
+
+
+<<NEW PAGE 180>>
+
+
+How to Find Existing Appointments
+
+
+ Click the 
+Find
+button 
+in the top center of the calendar, or right
+-
+click and 
+select 
+Find
+.
+
+
+ Enter the client.
+ Check 
+Include 
+p
+ast
+appointments 
+if desired.
+ Click 
+Find
+.
+
+
+ The results display for current, future and past. 
+
+
+ Sort by clicking on the column headings.
+ Click 
+Open
+to select the highlighted slot and edit the 
+appointment or 
+Goto…
+to view 
+the slot.

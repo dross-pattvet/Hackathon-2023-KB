@@ -1,0 +1,86 @@
+ F
+rom the 
+IntraVet
+Menu Bar, 
+select
+the 
+Setup
+| 
+Program
+| 
+General Bra
+nch Setup
+. 
+ Select a Branch. 
+Select
+Invoice
+/Visit
+in the left pane
+. 
+ I
+n the 
+Printing Options
+section, check 
+Print Multiple Patient Invoices
+. T
+his feature is 
+optional.
+
+
+Information Tabs on the Invoice
+
+
+The invoice has information tabs along the lower portion of the window available for quick 
+reference:
+
+
+ Code Summary
+–
+displays
+information 
+regarding
+the highlighted code.
+ Prescription
+–
+prescription label details of the highlighted code.
+ Messages
+–
+add an invoice message (freeform or from templates). 
+ To access a message template, scroll
+the Descriptions on the left. 
+Click once to 
+highlight
+. 
+Click the 
+-
+> to the right to move the message to the message pane.
+ You can edit this message by double
+-
+clicking on a single word or clicking and 
+dragging the mouse pointer over any portion of the message, right
+-
+clicking and 
+cho
+osing 
+Delete
+. For example, you might want to add the patient’s name to the 
+message.
+ You can choose more than one message to appear on an invoice. 
+ You can also create a message on
+-
+the
+-
+fly. 
+Single
+-
+click in 
+the blank
+field
+. 
+Type 
+your message
+.
+ Click 
+Save
+i
+n the lower right corner of the invoice window when you are done.

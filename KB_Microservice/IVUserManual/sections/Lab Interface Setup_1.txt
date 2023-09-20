@@ -1,0 +1,44 @@
+Marshfield
+Lab Interface Setup
+
+
+IntraVet allows 
+you to set
+up a procedure code as a lab test. Check this box if the code is a lab test. 
+This generates a lab request when added to the plan or invoiced (depending on your workflow) to 
+track lab reques
+ts and attach imported lab results.
+
+
+ Click New. 
+
+
+ Select Marshfield in the Manufacturer drop-down list. 
+ Select Marshfield in the Lab Machine drop-down list. This will fill in the 
+Description. 
+ Use the ellipsis button under Location to navigate to the folder where the files 
+are stored. 
+ Click OK. 
+
+
+Edit Procedure Code
+to mark as a Lab Test
+
+
+ From the IntraVet Menu Bar, select Setup | General Codes | Procedure. 
+
+
+
+
+<<NEW PAGE 413>>
+
+
+ Select (highlight) the code to be edited. 
+ Click Edit. 
+ Select the Advanced tab. 
+ Check Lab Test checkbox. 
+ Click OK. 
+
+
+When Procedure Codes are marked as a Lab Test they are added to the plan and a lab request will 
+be generated. The lab Results will automatically become green within the visit.

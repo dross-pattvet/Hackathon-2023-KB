@@ -1,0 +1,168 @@
+Ch
+anging the Columns
+on the Control Center
+
+
+The columns displayed by default are 
+Patient
+and
+Client
+. 
+You can drag and drop the column 
+headers to change the order that this informat
+ion appears, or you can remove or add other 
+columns of information.
+
+
+Control Center Column Chooser
+
+
+To change the information that appears 
+for each visit line entry:
+
+
+ Right
+-
+click in the column heading area and 
+select
+Col
+umn Chooser
+. 
+
+
+
+
+<<NEW PAGE 235>>
+
+
+ The 
+Column Chooser
+box appears. Scroll through to see the available selections.
+
+
+ To add a column
+to the display, 
+select
+and drag the column title to the column 
+headings and drop it there. You may
+need to right
+-
+click on the column heading area 
+and choose 
+Best Fit
+to see your new column.
+
+
+ To remove
+an existing column, drag the column heading back down to the
+Column 
+Chooser
+box and release it.
+ You can re
+-
+arrange
+the columns you have placed by dragging and dropping them into 
+the positions you prefer. You can also adjust the
+width of each column.
+
+
+In the example image below of a modified Control Center, columns are removed, added 
+and re
+-
+arranged. 
+
+
+
+
+<<NEW PAGE 236>>
+
+
+Custom Column/Status
+
+
+If there is something that you want to track about a visit that 
+cannot be done through adding 
+other columns, you may want to create a custom status set. 
+You can designate a column for this 
+and then define as many different statuses for it as needed, each with its own custom icon. 
+
+
+To
+add a custom column/status set:
+
+
+ Fi
+rst, add the 
+Custom Status
+column to the Control Center
+with the 
+Column Chooser
+. 
+(Refer to the previous instructions for
+Column Chooser
+.
+)
+ Right
+-
+click in the
+Control Center main window and choose 
+Custom Statuses Setup
+.
+
+
+ The Custom Status List screen will appear.
+ Click 
+New
+to create a new custom status.
+
+
+
+
+<<NEW PAGE 237>>
+
+
+ Add a 
+Description
+. 
+ Click the 
+down
+-
+arrow to select a p
+re
+-
+defined default icon, or 
+ Click 
+Browse
+to locate an icon of your own design or preference.
+
+
+Image files must be 16x16 pixels and saved as either a 
+.bmp
+or 
+.icon
+file type.
+
+
+ Click 
+OK
+. 
+ Click 
+Close
+.
+
+
+ A
+dd more statuses and associated icons. 
+ To change a Custom Status on a visit, right
+-
+click on it and go to 
+Custom Statuses
+and 
+select the corresponding icon/description.
+ To remove a Custom Status from the visit line, right
+-
+click on it and select 
+Custom 
+Stat
+uses | Reset
+.

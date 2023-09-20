@@ -1,0 +1,109 @@
+The Appointment Calendar
+
+
+IntraVet
+keeps customized calendars for each provi
+der in the system
+. Y
+ou can set all providers up 
+in the same calendar or set up different calendars for specialists and technicians depending on 
+how you want to view and manage them
+. T
+here is no limit to how many groups you can set up or 
+how many provider
+s that you put in each group
+. Y
+ou will want to set them up in a way that you 
+can see and use them efficiently at your 
+practice
+. 
+
+
+Appointment Calendar
+Setup 
+
+
+Type Codes
+
+
+Before
+setting up your groups and deciding which providers go where, decide on your block and 
+reserve types
+. W
+hen you go into each provider’s setup, you will want to set aside time for things 
+like lunch, surgery, emergency appointments, catch
+-
+up time and staff 
+meetings
+. 
+B
+lock
+and 
+Reserve
+types let you quickly assign reasons and times for providers to be unavailable
+. 
+A
+ppointment types let you assign a def
+ault, color coded 
+time
+to frequent appointment types as a 
+guide and visual cue for the staff.
+
+
+Appointment Types
+: Use when making individual appointments for patients
+. C
+olor codes and 
+time le
+ngths can be assigned to each appointment type
+. F
+or example, allot 40 minutes to new 
+patient appointments or sick patients, but allot 15 minutes to suture removal types.
+
+
+Block
+Types
+: Use block types/blo
+cking for times that the provider is not available
+. 
+IntraVet
+restricts 
+users from making appointments in these slots
+. However, y
+ou can grant access 
+to certain users 
+to 
+unblock these slots as 
+needed
+.
+
+
+Reserve
+Types
+: Use 
+these 
+to indicate that a provider is available but that the time is 
+dedicated for a 
+certain purpose
+,
+for example,
+emergency appointments or surgery
+. A
+ppointments can be made in 
+these slots.
+
+
+How to Set Up Type Codes
+
+
+ From the 
+IntraVet
+Men
+u Bar, 
+select
+Setup
+|
+Appointment Calendar
+| 
+Type Codes
+.

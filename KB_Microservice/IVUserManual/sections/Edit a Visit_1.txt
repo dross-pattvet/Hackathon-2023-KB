@@ -1,0 +1,172 @@
+Depending on your 
+Visit 
+settings, the 
+Visit
+, 
+Invoice 
+or 
+Nothing 
+opens. The 
+Checked In 
+appointment will display
+with a green arrow, or as ready to invoice, based on your Visit 
+settings. 
+
+
+ To review your 
+Visit 
+settings, go to 
+Setup 
+| 
+Visits 
+| 
+Visit Settings
+.
+
+
+Edit a Visit
+
+
+Any changes made to a 
+Finalized
+visit, one that is permanently charged out o
+r manually finalized if 
+there are no charges involved, are tracked via auditing
+. C
+urrent and finalized visits may both be 
+edited from 
+Medical History
+. 
+
+
+To Edit a Visit / Finalized Visit
+
+
+ In
+the
+Control 
+Center
+, 
+right
+-
+click on the client/patient 
+Visit l
+ine
+under 
+Patient 
+Appointment Status
+.
+ Click 
+Go To | Patient | 
+Medical History
+.
+
+
+
+
+<<NEW PAGE 340>>
+
+
+ Make your changes. If this is a current visit, you can do anything with it except check
+-
+in 
+the visit. 
+To Check
+-
+In a visit, go to the Control Center. 
+
+
+If this is a 
+Finalized
+visit, notes may be added, and sections may be added or removed. You 
+can add line items to the plan, but they default to 
+Done
+status and may not be sent to 
+invoice. You can still ch
+ange the status to 
+Done
+, 
+Not Done
+, 
+Deferred
+, or 
+Rejected
+.
+
+
+ Click 
+Save
+to save any changes.
+
+
+Add a Problem List to a Patient’s Medical History
+
+
+Diagnosis codes can be set to automatically create an entry in the 
+Problem List
+when they are 
+entered into a visit
+. Y
+ou can also set them to prompt you each time
+. A
+ll codes can be manually 
+added to the Problem List (
+Diagnosis
+, 
+Procedure
+, or 
+Inventory
+)
+. R
+efer to 
+Setup
+/
+General 
+Codes
+/
+Diagnosis
+to select options.
+
+
+ In 
+Control Center
+, ri
+ght
+-
+click on the client/patient 
+Visit
+summary line.
+ Click 
+Open Visit
+.
+
+
+
+
+<<NEW PAGE 341>>
+
+
+ Scroll until 
+Plan
+is visible
+, or click the Plan section inside the Navigation section
+. Right
+-
+select
+a line item in the 
+Plan
+or 
+Assessment
+section. 
+ Select 
+Add to Problem List
+. The line item now shows in the Problem List.
+
+
+ To remove an entry from the 
+Problem List
+, right
+-
+click the line and select 
+Remove
+.

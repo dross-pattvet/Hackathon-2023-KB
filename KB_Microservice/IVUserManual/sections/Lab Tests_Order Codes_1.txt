@@ -1,0 +1,13 @@
+Or,
+
+
+ From the Control Panel, highlight the patient and select the Lab Results icon. 
+ Click View Recent. 
+
+
+Lab Tests/Order Codes
+
+
+IDEXX VetConnect and Antech practices now have the ability 
+to send requests from IntraVet as 
+well as receiving lab results. Submit lab requests from within the IntraVet software and

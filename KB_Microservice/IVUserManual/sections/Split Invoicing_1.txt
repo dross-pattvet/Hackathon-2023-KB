@@ -1,0 +1,157 @@
+ Discounts
+–
+all discounts, whether by amount or percent, applied to the invoice.
+
+
+ Payments
+–
+s
+hows payments made
+on this invoice.
+ Documents
+–
+a 
+list of documents printed or set to print for the visit
+. Y
+ou may also add 
+new prints from here.
+
+
+Split Invoicing
+
+
+Owner Partnerships
+
+
+There are two ownership conditions that require sp
+lit invoices: 
+
+
+ Caretaker client
+–
+not financially responsible for the patient
+. A
+ll medical and financial 
+history is part of the caretaker client’s account.
+ Partnership
+–
+financial responsibility is shared among multiple owners
+. O
+wnership 
+percentages are set up in either the caretaker client or full partner’s account.
+
+
+The caretaker client and patient must be entered into the system as well as all the owners 
+(financiall
+y responsible clients) before entering the partnership setup.
+
+
+To Enter Partnership Information
+
+
+ Use one of the three methods described 
+under the Invoice chapter 
+and open a client 
+account.
+
+
+If this is a new client, t
+hese steps can be performed at the time the new client account is 
+established (typically, when scheduling an appointment).
+
+
+ Select
+the 
+Split 
+Ownership
+icon
+. 
+
+
+
+
+<<NEW PAGE 316>>
+
+
+ Type the first few letters of a partner’s last name into the second blank field. If 
+necessary, s
+croll to the partner’s name and double
+-
+click on the name to enter it into the 
+fields, or click the down
+-
+arrow to activate a client list.
+ Enter the percentage of ownership for this partner. 
+ A percentage must be entered before you 
+Add
+the client to the Spli
+t Ownership screen. 
+Repeat the steps above 
+until all owners have been added and the percentage totals 
+100%.
+
+
+To change a partner’s percentage, double
+-
+click on the partner’s name; change the 
+percentage and click 
+Add
+.
+
+
+ When complete, click 
+OK
+.
+
+
+
+
+<<NEW PAGE 317>>
+
+
+Removing a P
+artne
+r
+
+
+ To remove a partner, follow 
+the steps above 
+To Enter Partnership Information
+. 
+ Right
+-
+click on the line of
+the partner to be removed, and 
+select 
+Delete Line
+.
+
+
+ If you click 
+OK
+before having a total percen
+tage of 100% a warning will appear.
+
+
+ If you press 
+C
+ancel
+without saving the data, your changes will need to be re
+-
+entered.
+
+
+Splitting an Invoice
+
+
+The caretaker client who is not a financially responsible partner does not owe a
+ny money for 
+services provided
+. H
+owever, the patient’s medical records are kept under this account name and 
+the invoice details can be displayed/reprinted from this client’s account. 
+
+
+When an invoice is saved for a patient with multiple owners, 
+IntraVet
+:

@@ -1,0 +1,141 @@
+ IntraVet asks you to confirm that you want to update this item.
+
+
+ If you choose 
+Yes
+, this makes the necessary changes in the 
+Inventory Price Update
+window. 
+ Click 
+No
+to return to the Inventory Correcti
+ons
+window. 
+ Click
+Save
+to save changes
+when you are finished making corrections to your inventory.
+
+
+Labels
+
+
+Print 
+Labels for All Items [One for Each]
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| Labels for All Items [
+One for Each]
+
+
+ Check the appropriate box:
+ Print Hospital/Branch Name
+ Print Selling Price on the label
+
+
+
+
+ Click 
+Print
+.
+
+
+Labels will print to the default printer.
+
+
+
+
+<<NEW PAGE 225>>
+
+
+Print 
+Label
+for One Item [Multiple Copies]
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| 
+Label
+for One Item [Multiple Copies].
+
+
+ Click the down
+-
+arrow, scroll and select or type the first few letters of the 
+code/description into the blank entry line in the lower portion of the window, and 
+select the item.
+ Enter the number of labels to print.
+ Check th
+e appropriate box:
+ Print Hospital/Branch Name
+ Print Selling Price on the label
+
+
+
+
+ Click 
+Print
+.
+
+
+Print 
+Labels for All Vendors [One for Each]
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| Labels for All Vendors [One for Each].
+
+
+
+
+<<NEW PAGE 226>>
+
+
+ If you would like the Contact 
+printed, check 
+Print Contact
+.
+ Click 
+Print
+.
+
+
+Print 
+Label for One Vendor [Multiple Copies]
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| Label for One Vendor 
+[
+Multiple Copies].
+
+
+ Click the down
+-
+arrow, scroll and select or type the first few letters of the 
+code/description into the blank entry line in the lower portion of the window, and 
+select the item.
+ Enter the number of labels to print.
+ If you would like the Contact printed, check 
+Print Contact
+.
+ Click 
+Print
+.
+
+
+
+<<NEW PAGE 227>>

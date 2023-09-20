@@ -1,0 +1,90 @@
+Method 2: 
+
+
+ Click on
+ce to highlight a line item. Right
+-
+click on the 
+line item
+and choose 
+Line 
+Discount
+.
+ Select the 
+Discount Type
+(optional).
+ Enter the 
+Discount $
+amount. The remaining fields will auto
+-
+fill, or
+ Enter the 
+Discount %
+amount. The remaining fields will auto
+-
+fill.
+ Click 
+OK
+. This 
+discount 
+will only affect this line item.
+
+
+ Click 
+Save
+in the lower right corner of the screen. The save and print window has four 
+options:
+ You can continue addin
+g, deleting and verifying codes as part of the invoice, and then 
+choose one of the following 
+Save
+options: 
+ Permanent
+–
+Print
+: The invoice is complete and ready to be closed out (nothing will 
+be added). The customer wants a 
+receipt, certificates, patient information sheets 
+and/or patient forms. When the invoice is permanently saved, it changes the status 
+of the visit in the Control Center to 
+Checked Out
+.
+ Permanent 
+–
+No Print
+: The invo
+ice is complete and ready to be closed out (nothing 
+will be added). The customer does not want a receipt or certificate.
+ Temporary
+–
+Print
+: This option allows you to save the invoice but not any payments 
+made because the pat
+ient’s treatment plan is not finished (additional items can be 
+added later). A temporarily saved pre
+-
+invoice is typically not printed. However, 
+sometimes the client wants a copy of the day’s charges.
+ Temporary
+–
+No Print
+: T
+his option allows you to save the invoice but not any 
+payments made because the patient’s treatment plan is not finished, and the invoice 
+does not print (additional items can be added later).
+ Cancel 
+–
+Returns you to the Invoice without printing.
+
+
+
+
+You can s
+et an invoice to print multiple patients on the same page or one page per patient
+. 
+D
+epending on your default setup selections, invoices may print with 
+single or multiple pets
+per 
+page
+.

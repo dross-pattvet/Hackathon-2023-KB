@@ -1,0 +1,174 @@
+Inventory Barcode
+
+
+If you have a bar code scanner, you can associate codes to barcodes which can then be used during 
+inventory processing and invoicing.
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| 
+Inventory
+Barcode
+. 
+
+
+ Click the 
+Lookup By Barcode
+radio button.
+ Enter the 
+SKU
+number located under the barcode.
+ Click 
+Lookup
+.
+
+
+You can also search by Inventory Code:
+
+
+ Click the 
+Lookup By Inventory Code
+radio button.
+ Enter the code and desc
+ription.
+ Click the 
+Associate item to Barcode
+button.
+
+
+Inventory In
+-
+House Use
+
+
+This allows for items such as cotton balls, syringes, things used during surgery that you don’t 
+necessary want to charge the client for but track t
+he Inventory on Hand.
+Unlike an inventory 
+adjustment, multiple items can be depleted at one time noting why the item was depleted. 
+You 
+can create templates for weekly/monthly depletions for those items that are depleted on a regular 
+basis. 
+Once a templat
+e is loaded, additions or adjustments can always be made
+. I
+n
+-
+house use 
+
+
+
+
+<<NEW PAGE 221>>
+
+
+adjustments show as a separate type of depletion in your reports so that you can accurately track 
+your in
+-
+house use.
+
+
+How 
+t
+o Deplete Inventory
+for In
+-
+H
+ouse Us
+age
+
+
+Deplete using a template:
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory In
+-
+House Usage
+. 
+
+
+ Select the appropriate 
+Warehouse
+if you have more than one. 
+ Click 
+Load Template
+to choose a previously saved template, if desired. 
+ If you have loaded an incorrect template, click 
+Cancel
+.
+ C
+lick
+the down
+-
+arrow
+, 
+scroll and select 
+or type the first few letters of the 
+code/description
+into the blank entry line in th
+e lower portion of the window, and 
+select the item. 
+ If you have selected an incorrect item, click 
+Clear Line
+. Repeat
+the step above
+.
+ Use the blank field to the right to add notes; 
+e
+nter
+the amount in the 
+Quantity
+field at 
+the far right
+. Click 
+Done
+or
+pr
+ess 
+Enter
+to move the item into the grid.
+
+
+If your mouse has a scroll wheel, roll it up or down while the mouse cursor is inside the 
+Quantity
+field to increase or decrease the number.
+
+
+ If the incorrect quantity was typed in, 
+right
+-
+click and select 
+Edit
+or 
+do
+uble
+-
+select
+the 
+line in the grid to reopen
+.
+ Click 
+Done
+to accept the change.
+
+
+If you did not enter a quantity, the following message will appear.
+
+
+ To add other items, repeat
+the steps above
+.
+ Right
+-
+click on any line item to edit or delete it. You can also 
+jump to the top or bottom 
+of your inventory list.

@@ -1,0 +1,90 @@
+Inventory
+
+
+Create purchase orders and process them, or receive in 
+the inventory
+as it comes through the door.
+IntraVet
+has a flexible inventory management system: 
+The more you put into it, the more 
+information and automation you get out of it.
+
+
+Inventory Setup
+
+
+There are 
+warehouses
+(if
+you have multiple branches or inventory
+locations), 
+Vendor
+Codes
+, 
+Unit 
+Type Codes
+and 
+Individual Code
+setups for your inventory items to put in pla
+ce before fully 
+utilizing the inventory module.
+
+
+Warehouses
+
+
+If you have separate physical branches for your practice, a main distribution center, a pharmacy or 
+a storage area for which you want to be able to separately track inventory
+, you
+can set up separate 
+warehouses
+. 
+For the same code, you can then track different quantities 
+on
+-
+hand
+, reorder levels, 
+markup percentages and costs. 
+
+
+To keep each warehouse’s information accurate, users need to pick the correct warehouse t
+o both 
+receive/return goods into and 
+take goods out of, by invoicing
+or in
+-
+house use.
+
+
+If you would like separate prices per branch and would like 
+IntraVet
+to help maintain a certain 
+markup percentage as costs increase, you must have a one
+-
+to
+-
+one branch/war
+ehouse setup.
+
+
+Set up a Warehouse
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Program
+| 
+Inventory Setup
+| 
+Warehouse 
+Setup
+. 
+
+
+ On the Warehouse List screen click 
+New
+.

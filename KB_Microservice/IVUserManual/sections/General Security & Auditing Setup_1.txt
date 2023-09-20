@@ -1,0 +1,62 @@
+General Security
+& Auditing
+Setup
+
+
+IntraVet offers a wide range of security settings so that you can make your program as open or as 
+secure as you would like. There are two main areas of security setup: 
+General
+Branch Setup
+and 
+Security
+Setup
+. 
+G
+eneral
+Branch Setup
+provides security auditing features. 
+Security Setup
+includes:
+Security Templates, User S
+etup and Job Setup.
+
+
+ Security Templates 
+–
+set up the position held and their access level.
+o Doctor
+o Hygienist
+o Receptionist
+o Etc.
+
+
+ User Setup 
+–
+set up ea
+ch user that will access the system.
+The user setup is required to 
+have both a user name and password and must be set
+up prior to enabling the 
+General 
+Branch Setup
+| Security
+.
+o C Smith, DVM
+o Technician
+o M Adams
+o Security Administrator
+o Emergency
+o Etc.
+
+
+ Job
+Setup 
+–
+set up the job description
+. This is only required if you are going to use the 
+Time
+C
+lock and should be set
+up first.
+o Holiday
+o Kennel

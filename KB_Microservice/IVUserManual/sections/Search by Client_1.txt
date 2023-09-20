@@ -1,0 +1,148 @@
+ Click the 
+Save Reservation 
+hot link in the Menu Bar t
+o place the patient into the 
+Boarding
+grid.
+
+
+ You will receive a prompt that asks you to confirm the reservation.
+
+
+ If you have overbooking, split invoicing or confirmation numbers defined in 
+General 
+Branch Setup |
+Boar
+ding
+, you may receive additional prompts.
+
+
+How to Edit a Reservation
+
+
+A reservation can be revised. Patients can be moved to the same cage or split into different cages. 
+Cage sizes can be updated as 
+well.
+
+
+Search by Client
+
+
+ From the IntraVet Menu Bar, select 
+Boarding | Boarding Reservation Availability
+.
+
+
+ Click 
+Search
+.
+
+
+
+
+<<NEW PAGE 271>>
+
+
+ Under 
+Search by Client
+, use the down
+-
+arrow to scroll through and locate the 
+client/patient.
+ Double
+-
+click on the client.
+ Click 
+Search
+.
+ Do
+uble
+-
+click on the Account/Name for your client.
+
+
+ This brings up the Search Results for that client’s patients. 
+ To filter, click on the push
+-
+pin in the column header to be filtered.
+
+
+
+
+ To sort, right
+-
+click on the column header to be sorted.
+
+
+
+
+
+
+<<NEW PAGE 272>>
+
+
+ To create New
+, Edit or Delete a reservation, 
+right
+-
+click
+on the line associated. 
+ Select 
+New
+, 
+Edit
+or
+Delete Boarding Reservation
+. For this example, select Edit.
+
+
+
+
+ Edit Boarding Reservation
+will open.
+ Select
+Cage Assignm
+e
+nt
+. 
+ Click th
+e down
+-
+arrow on the field at the top of the screen. Choose the appropriate 
+cage size and type, for the patient that is to be moved. Use the scroll bar to see all the 
+choices if necessary. 
+ Once it has been selected, click 
+Add
+to place in the 
+s
+elected ca
+ges panel.
+
+
+
+
+<<NEW PAGE 273>>
+
+
+ Select
+the patient that is going to be moved, then drag
+-
+and
+-
+drop to the new location.
+ Click 
+OK
+.
+ If you need to adjust the cage size
+on 
+either p
+atient, repeat the s
+teps above
+.
+ All cages must have a boarding pat
+ient assigned to them to continue. Delete any 
+empty cages by clicking the red X 
+.
+ Click 
+OK
+.

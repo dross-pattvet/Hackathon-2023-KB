@@ -1,0 +1,290 @@
+ondary Tax 
+–
+this will add the 
+Sales Tax and the Secondary Tax 
+percentages together and charge them as one total amount.
+ Compound Sales Tax and Secondary Tax 
+–
+this
+will apply the Sales Tax first and
+then 
+taking the total, apply the Secondary Tax to that amount.
+
+
+ Click 
+OK
+.
+ To revise your
+selections after the window is saved and closed
+,
+r
+eopen the window 
+using instructions given above.
+ Select
+the 
+Invoicing
+tab.
+ Make the desired changes and click 
+OK
+.
+
+
+
+
+<<NEW PAGE 77>>
+
+
+Inventory Code
+–
+Message
+Options
+
+
+Messages on the invoice
+can help educate your clients. Entering a message to accompany an 
+inventory product can keep your clients informed of possible side effects and dangers as well as 
+application instructions or ways to administer the product. 
+
+
+ Click the 
+Message
+tab.
+ Message
+to be printed on the invoice
+(total 480 characters and/or 6 lines) 
+–
+Create a 
+message for the client and/or use 
+Select Canned Text
+. When this code is on the invoice, 
+the message automatically prints
+at the bottom of the invoice.
+ Print Documents
+–
+If you purchased the 
+LifeLearn
+Client Handouts
+modules, some 
+documents automatically attach when the 
+LifeLearn
+installation 
+CD 
+plays
+. 
+You may 
+also attach any documents that you have create
+d as client handouts. You can print a 
+total of three handouts to send home with your client. Use the 
+down
+-
+arrow
+at the end 
+of each blank field
+and double
+-
+click on the handout to enter it into the blank field.
+ Click 
+OK
+.
+ To revise a 
+Message
+of an existing 
+Inventory Code, double
+-
+click the code/description in 
+the Inventory Code List screen, highlight 
+the desired code 
+and click the 
+Edit
+button at 
+the bottom of the screen.
+ Make the desired changes and click 
+OK
+.
+ To remove a 
+Message
+, double
+-
+click the code/descrip
+tion and then 
+select
+the 
+Message
+tab. Highlight the message text and press the 
+Delete
+key on the keyboard.
+ Click 
+OK
+. 
+
+
+
+
+<<NEW PAGE 78>>
+
+
+Inventory Code
+–
+Reminder
+Options
+
+
+Reminder
+setup is important for sending reminders at regular interv
+als. Create reminders for 
+inventory
+items that should be refilled or purchased regularly by the client. A reminder can be set 
+up as a 
+Reminder
+, 
+Callback
+, or
+Manual
+reminder that creates a reminder but does not clear any 
+previous reminders.
+
+
+ Click the 
+Reminder
+tab.
+ You can also 
+select
+the down
+-
+arrow next to the center blank field and locate the i
+tem; 
+then, double
+-
+click on the item to move it into the blank field.
+ Type a 
+Code
+into the left
+-
+most section of the blank entry line in the center of the 
+window for the inventory item you wish to create a reminder for when this code is 
+invoiced. 
+ Select
+th
+e down
+-
+arrow next to the 
+Reminder
+and choose 
+Reminder
+or 
+Callback
+. 
+Recommendation will not show if a code has been selected.
+
+
+
+
+<<NEW PAGE 79>>
+
+
+ Set the number of days in which the reminder will generate a due date.
+ If you choose 
+Callback
+, set the number of days in which i
+t will expire.
+ Check the 
+Qty
+box if this is a reminder
+in which the date needs to change based on the 
+quantity of the code entered. This feature is used mostly with inventory items such as 
+Heartworm or Flea & Tick pre
+ventative. If you enter 30 and check Qty, the reminder will 
+be created 30 days later for every item sold, in 60 days if you sell two, in 90 days if you 
+sell three, etc. There can only be one reminder on a code. Multiple reminders or 
+callbacks can be set
+manually.
+ Check the 
+Lock
+option if you want to make changes to the reminder setup without 
+affecting what was invoiced in the past when running the History and Recall Correction 
+Utility.
+ Clear reminder
+also for
+–
+Discontinue reminders for the type code(s) description(s) 
+entered in these fields. You may add an unlimited number of related codes to be 
+cleared when this code is entered.
+ Click 
+OK
+. 
+ To revise the 
+Reminder 
+setup o
+f an existing Inventory Code, double
+-
+click the 
+code/description in the Inventory Code List screen, or highlight and click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+ To remove a Code/Description/Reminder, scroll th
+e list, highlight the 
+Code/Description, right
+-
+click and select 
+Remove
+. 
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 80>>
+
+
+Inventory Code
+–
+Rx Label
+Options
+
+
+ Click the 
+Rx
+Label
+tab.
+ Enter up to 4 lines of text and/or use 
+Select Canned Text
+(usually directions) to print on 
+the prescription label. This is the default text that automatically prints and is editable 
+from 
+Medical History
+or 
+Invoicing
+. Be sure to leave the name of the product
+as one of 
+the lines in the label directions; removing the name eliminates it from the Rx label at 
+the time of printing.
+ Enter the 
+National Drug Code
+Number
+, if needed.
+ Check the box to have IntraVet automatically generate a label any time this code is 
+use
+d in 
+Medical History
+and 
+Invoicing
+.
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 81>>
+
+
+ To revise an existing 
+Rx label
+,
+go 

@@ -1,0 +1,37 @@
+Clock Out 
+–
+End of Shift
+
+
+This procedure also follows the same steps as clocking in.
+
+
+ 
+
+
+Job Codes
+
+
+Job codes are used with the Time Clock module
+, 
+and also where security is set
+up based on the 
+employee’s job within the practice. This feature allows 
+practice
+s to track the number of hours 
+worked in each job code. If you ha
+ve an employee that works in 
+two 
+separate departments within 
+the 
+practice
+you can keep track of the hours worked in each department.
+
+
+Change Job Codes
+
+
+ Select
+Change Job Code
+to switch to a different operator role
+.

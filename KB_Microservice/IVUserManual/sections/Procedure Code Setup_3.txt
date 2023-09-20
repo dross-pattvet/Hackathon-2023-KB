@@ -1,0 +1,285 @@
+ning will appear asking to confirm the 
+decision to 
+Remove
+.
+)
+ Click 
+OK
+.
+
+
+Procedure Codes 
+–
+Advanced Setup
+
+
+When the 
+Advanced
+tab 
+is selected it 
+causes the code to make changes 
+to other files when it is 
+entered on a permanently saved patient invoice.
+
+
+ Select
+the 
+Advanced
+tab.
+
+
+
+
+<<NEW PAGE 95>>
+
+
+ This code is
+(Choose one):
+ Vaccination
+–
+If marked, the code will be counted on various vaccination and 
+procedure reports. It will show in the current vacci
+nation certificate.
+ Rabies Vaccination
+–
+If marked, the code will be counted on various vaccination and 
+procedure reports. It will show in the current vaccination certificate. It also allows 
+you to reprint the rabies certificate if needed.
+ Neither
+–
+This
+lists the codes as a procedure code, not listed on any vaccination 
+reports, but other procedure reports.
+
+
+
+
+Hide Supplier Info
+–
+When either of the vaccinations above has been selected you 
+have the option to hide the supplier’s information.
+
+
+ Ask For
+(Choose o
+ne):
+ Tag ID
+–
+when 
+this procedure code is entered into an invoice, a 
+prompt asks for a 
+Tag 
+ID
+(rabies tag number) to be recorded to the patient information and printed on the 
+Rabies Certificate (if set up). 
+ X
+-
+Ray Nu
+mber
+–
+when 
+this procedure code is entered into an invoice, a
+prompt asks 
+for an 
+X
+-
+Ray Number
+. If this option is selected, you also have the option to print an 
+X
+-
+Ray Label
+.
+ Microchip
+–
+when 
+this procedure code is entered into an invoice, a
+prompt asks for a 
+Microchip
+number to be recorded to the patient information.
+ None
+–
+(default) should be marked for all codes that do req
+uire any of the advanced 
+functions listed above.
+
+
+ Lab Test
+–
+Check this box if this code is for a lab test. This generates a lab request when 
+invoiced to track requests and attach imported lab results.
+ Certificate
+–
+If necessary
+, 
+select
+the 
+down
+-
+arrow
+to choose 
+(from the list available) 
+a 
+rabies certificate to print. Form 51
+is the AVMA standard recommendation. If you need 
+more t
+han one copy, change the number in the 
+Copies
+field.
+
+
+ Changes sex from
+-
+to
+–
+Select
+this 
+checkbox
+if this is a code that would require a change 
+of sex. IntraVet automatically changes the sex of the animal when t
+he invoice is 
+permanently saved. Typically used for spay and neuter surgery procedure codes, etc. 
+(See 
+Patient Setup
+“Create or Edit Patient Species Codes” at the beginning of this 
+chapter.)
+ While invoicing, this code c
+hanges patient status from active to
+–
+If this code needs to 
+change a patient’s status to anything other than active, 
+select
+the 
+down
+-
+arrow
+or 
+double
+-
+click in the blank line and choose the patient’s ne
+w status. This status change 
+
+
+
+
+<<NEW PAGE 96>>
+
+
+occurs when the invoice is permanently saved. This is typically used for euthanasia and 
+cremation procedure codes, etc.
+
+
+ Enter a Task
+to be added to the task list when this procedure code is added to a plan or 
+invoice
+–
+The task will automatically be attached to the patient in the Control Center
+when this Procedure Code is added to the patient’s visit plan or invoice. See the 
+Control Center
+chapter. 
+ Click 
+OK
+.
+ To revise the information, reopen the setup window if it has already been saved and 
+closed. 
+Select
+the 
+Advanced
+tab.
+ Edit items 
+by using the steps above
+. 
+ Click 
+OK
+.
+
+
+Procedur
+e Codes 
+–
+Linked Items
+
+
+Procedure codes
+or other inventory codes
+can be linked to an inventory code to create groups. 
+When an inventory item is linked, it depletes from the inventory numbers once that code is 
+invoiced.
+
+
+ Click the 
+Linked Items
+tab.
+
+
+
+
+<<NEW PAGE 97>>
+
+
+ I
+n the blank field at the bottom of the window, enter an item you want to link to this 
+code. You can 
+e
+nter
+the first few letters of the item to quickly go to that alphabetical 
+listing. Double
+-
+click on the code or description to move the code into the blan
+k line. If 
+an incorrect item is chosen, 
+select
+Clear Entry Line
+to remove it from the field.
+ Click the down
+-
+arrow for 
+Print/Update
+and choose one of the following:
+a. 
+Update
+–
+depletes inventory
+but do
+es not show on the invoice/visit.
+b. 
+Print/Update
+–
+prints on the invoice and depletes inventory.
+c. 
+Edit/Update
+–
+allows the item to be edited (such as quantity, etc.) while invoicing 
+and depletes inventory but does not print out.
+
+
+
+
+ Quantity (Qty)
+–
+This lists 
+if a default quantity of a linked item should be used.
+ Price and Amount
+–
+The price (cost of an individual unit) and amount (qty x price) of 
+the item will appear in the next fields as a reference (the selling price of the linked code 
+is defaulted and can o
+nly be changed at the time of invoice if the linked item is set to 
+Edit/Update, Print/Update, or if you set the linked item up as discounted within the 
+linking).
+ Click 
+Add
+to move your selection into the upper grid.
+ Add additional codes to link as 
+necessar
+y by repeating the steps above
+. 
+ Click 
+OK
+.
+
+
+To edit or make changes to the Linked Items
+
+
+ D
+ouble

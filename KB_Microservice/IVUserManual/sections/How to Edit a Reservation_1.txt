@@ -1,0 +1,38 @@
+ Click the 
+Save Reservation 
+hot link in the Menu Bar t
+o place the patient into the 
+Boarding
+grid.
+
+
+ You will receive a prompt that asks you to confirm the reservation.
+
+
+ If you have overbooking, split invoicing or confirmation numbers defined in 
+General 
+Branch Setup |
+Boar
+ding
+, you may receive additional prompts.
+
+
+How to Edit a Reservation
+
+
+A reservation can be revised. Patients can be moved to the same cage or split into different cages. 
+Cage sizes can be updated as 
+well.
+
+
+Search by Client
+
+
+ From the IntraVet Menu Bar, select 
+Boarding | Boarding Reservation Availability
+.
+
+
+ Click 
+Search
+.

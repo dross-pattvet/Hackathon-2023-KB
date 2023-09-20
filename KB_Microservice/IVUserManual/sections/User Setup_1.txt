@@ -1,0 +1,125 @@
+User Setup
+
+
+They must have an ID, a first and last name, and they require a password and Job Description if 
+usern
+ame and password (required for T
+ime
+C
+lock) 
+is set up 
+under 
+General Branch Setup | 
+Security
+for
+the 
+branch
+. 
+
+
+How to enter Operator IDs
+
+
+ From the IntraVet Menu Bar, select 
+Setup |
+Security
+| 
+User Setup
+.
+
+
+ Click 
+New
+or 
+Edit
+. 
+ To inactivate an operator, click once on the name to highlight. Click 
+Inactivate
+.
+
+
+ Enter the 
+User ID
+.
+ Enter
+a 
+Pas
+sword
+. You may need a minimum number of characters if you have set up a 
+minimum in 
+General Branch Setup
+| 
+Security
+.
+ Use the down
+-
+arrow to select a 
+Job Description
+.
+ Check the 
+Provider
+box (bottom left) if the ID is for a provider. 
+
+
+Provid
+ers are generally doctors but could be anyone els
+e who provides services at your 
+practice. Operators must be denoted as providers to be chosen in the invoice 
+or listed 
+
+
+
+
+<<NEW PAGE 117>>
+
+
+on the appointment calendar
+. Once a User is designated as a provider, it cannot be 
+und
+esignated.
+
+
+ Enter a 
+License
+number
+of a provider (bottom right).
+ Enter the 
+DEA
+number for a provider.
+ Add additional information as needed.
+ Click 
+OK
+.
+
+
+If further security needs to
+be set up for a particular user:
+
+
+ Click 
+Security
+.
+
+
+ Select the 
+Area 
+of
+System
+the User will access.
+ Check the activities they will be allowed to 
+Access
+.
+ Repeat for each 
+Area 
+of
+System
+.
+ Click 
+OK
+.
+ Click 
+OK
+again.
+ Click 
+Close
+.

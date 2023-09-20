@@ -1,0 +1,50 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Reason Codes.png
+Reason Codes
+
+
+Reason Codes are 
+chosen when creating a new appointment and provide 
+a brief description of the 
+purpose of the patient’s visit.
+
+
+ From the IntraVet Menu Bar, select 
+Setup | General Cod
+es |
+Reason Codes
+.
+
+
+To create a new Reason Code
+:
+
+
+ Click 
+New
+.
+ Enter a 
+Description
+.
+ Click 
+OK
+.
+
+
+To edit a Reason Code:
+
+
+ Click 
+Edit
+.
+ Update the 
+Description
+.
+ Click 
+OK
+.
+
+
+To inactivate a Reason Code:
+
+
+ Click Inactivate.

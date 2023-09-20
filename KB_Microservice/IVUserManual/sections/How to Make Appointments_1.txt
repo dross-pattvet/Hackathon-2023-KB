@@ -1,0 +1,328 @@
+Appointment Display Options
+:
+
+
+Show Status
+–
+Display the patient status.
+
+
+Show Time
+–
+Display Time.
+
+
+Show Reason
+–
+Display the reason fo
+r the 
+appointment.
+
+
+Show Appointment Notes
+–
+Display the 
+notes for this appointment.
+
+
+Show Account Number
+–
+Display the patient 
+account number.
+
+
+Show Phone Number
+–
+Display the client’s 
+phone number.
+
+
+Show Address
+–
+Display the address for the 
+client.
+
+
+Show Use
+r
+–
+Display the user who made the 
+appointment.
+
+
+
+
+If 
+Show Top T
+oolbar
+is deselected
+,
+y
+ou can still change the monthly/daily view from the right
+-
+click 
+menu
+within the calendar
+by selecting 
+Change View To
+.
+
+
+How to Make Appointments
+
+
+ Double
+-
+click on the slot where you want to make the new 
+appointment
+or right
+-
+click 
+on the slot and choose 
+New Appointment
+. 
+
+
+The 
+New Appointment
+window appears. It d
+efaults to the column/provider that you 
+selected.
+
+
+Choose your 
+Client
+and 
+Patient
+. If one or both is not yet in the system:
+
+
+ Click the 
+Open Account
+icon 
+on the upper left of the Appointment screen. 
+
+
+
+
+<<NEW PAGE 167>>
+
+
+ For new clients, click the 
+New
+button at the bottom of
+the 
+Client List
+screen. 
+New 
+Account
+screen will appear. Enter 
+First Name
+, 
+Last Name
+, 
+Address
+and 
+Phone Number
+. 
+Click 
+OK
+.
+
+
+ For new patients, click the 
+Add Patient
+icon 
+. Enter 
+Patient Name
+and 
+Species
+. The 
+other fields and options can be completed wh
+en they arrive for their appointment.
+ To change a client or patient’s name after the appointment is made, or to change any 
+client/patient information, right
+-
+click on the appointment. Then select 
+Client Account
+. 
+
+
+
+
+<<NEW PAGE 168>>
+
+
+ If the patient’s age is not known at the time the account is set up, IntraVet provides a 
+screen to choose a generic age such as 3 months or 1 year, then, converts your 
+selection to real age. 
+Select
+Age
+and the 
+Birthdate
+screen will appear
+. Enter 
+information and click 
+OK
+.
+
+
+ If the patient is already in the system but is inactive
+, open an appointment time slot. 
+There are two blank fields at the top of the window for 
+Client
+informat
+ion. Click the 
+Open Account
+icon 
+on the upper left of the Appointment screen. The 
+Client List
+screen will appear. Check the box 
+Show Inactives
+.
+
+
+
+
+<<NEW PAGE 169>>
+
+
+ Scroll to find the client/patient, highlight and click 
+Use
+or 
+Edit
+. Or you can double
+-
+select
+the client 
+name.
+
+
+A warning pop
+-
+up will appear if the patient is inactive
+or has other warnings recorded 
+in the file. 
+
+
+ Click 
+OK
+to 
+continue
+.
+ Edit the 
+Provider
+and 
+Column
+, if needed. Check the 
+Provider
+requested box if the client 
+wants to see only this provider. (A lock symbol appears on the appointment display 
+when checked.
+)
+ Enter a 
+Reason
+(optional).
+ Choose a 
+T
+ype
+(optional). Types can be assigned a color and default time in setup.
+ Select a 
+Template
+(optional). If you have visit templates (default
+treatment plans for 
+common visits), you can associate it with a type. When the patient is checked in, this 
+treatment plan is already there to be confirmed and edited. Associating visit templates 
+to types/appointments is useful for forecasting revenue an
+d staff time. 
+ Change the dates/times as needed. The time needed defaults to either the interval 
+selected for your group in setup or the time associated with the appointment type, if 
+you have entered one.
+ Check the 
+Drop
+-
+off
+box if this is a drop
+-
+off with no particular time associated. Drop
+-
+offs
+appear as a separate list on the bottom of the appointment calendar for that day. They 
+can be dragged to a particular slot as you accommodate them.
+ Enter no
+tes
+. The white area is for typing general notes about the appointment, if 
+needed. These appear on the appointment and in the Control Center
+.
+
+
+A place for operator warnings
+and reminders
+for the patient 
+(
+Reminders/Recommendations
+)
+is located below general notes. 
+
+
+
+
+<<NEW PAGE 170>>
+
+
+ Click 
+Sa
+ve 
+and
+Close
+in the top left of the window. If you receive a message that your 
+appointment conflicts with another, you will need to edit your date/times.
+
+
+ Two people can open and schedule an appointment at the same time. The first to save 
+their appoint
+ment gets the appointment.
+
+
+How to Make Multiple Appointments
+for the Same Client
+
+
+ Click the 
+Additional
+link at the top of the 
+Appointment
+window.
+ Use 
+the steps above 
+to enter information for the
+next appointment. 
+
+
+A new tab for the additional appointment appears. This additional appointment can be for 
+the same patient or for a different patient.
+
+
+
+
+<<NEW PAGE 171>>
+
+
+The time for the next appointment defaults to the next slot after the first appointment. 
+The res
+t of the information defaults to the same as the first appointment made for the 
+client. It can all be edited.
+
+
+ You can see a list of all this client’s scheduled appointments by clicking on 
+Client 
+Appointments
+in the Menu Bar. Close this window.
+
+
+ Click 
+Save and Close
+to save all together.
+
+
+After saving an appointment, you

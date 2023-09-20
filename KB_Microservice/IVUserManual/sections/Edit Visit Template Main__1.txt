@@ -1,0 +1,33 @@
+ Visit Template List s
+creen opens.
+ Click 
+New
+to create a new Visit Templ
+ate or 
+Edit
+to update. The Inactivate button will 
+inactivate a template.
+
+
+ Once you have selected a Code/Description, click 
+Edit
+.
+ Open each of the tabs to set up your usual treatment for this particular visit. See Edit 
+Visit Template example below.
+
+
+Edit 
+Visit Template
+Main
+:
+
+
+ The
+Code
+cannot be changed. The
+Description
+may be changed
+.
+ To continue, select another tab. To accept your changes and close, click 
+OK
+.

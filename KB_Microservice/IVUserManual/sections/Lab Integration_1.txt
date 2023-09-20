@@ -1,0 +1,79 @@
+Lab Installation, Integration and 
+Test Results
+
+
+Lab Installation Instructions
+
+
+Lab Integration
+
+
+ From the IntraVet Menu Bar, select 
+Setup | 
+Lab Interface
+.
+
+
+ Click 
+New
+.
+
+
+ Select the 
+Manufacturer
+.
+ Select a 
+Lab Machine
+. This will fill in the 
+Description
+.
+
+
+
+
+<<NEW PAGE 388>>
+
+
+cid:image001.png@01D31FF6.D66EAE30
+All the machines set
+up within IntraVet will be listed. You can have more than one of the 
+same type of lab machine. Change the description to
+reflect the name of the room in which 
+the machine is located to distinguish between them. 
+
+
+ Select a 
+Port
+or 
+Location
+.
+ Click 
+OK
+. 
+
+
+ If you select 
+Location
+, use the 
+ellipsis button to navigate to the folder where the 
+files are stored.
+
+
+ Click 
+OK
+.
+
+
+The st
+atus of the Lab machine is located at the bottom right of the screen. 
+
+
+ Double
+-
+click on this status to bring up the Lab communication screen, which gives the 
+name, the Path/Port and the status. 
+ Right
+-
+click in the Por
+t
+to connect or disconnect.

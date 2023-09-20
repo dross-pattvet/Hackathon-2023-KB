@@ -1,0 +1,104 @@
+A new lab test can be created from the lab resu
+lts screen by clicking U
+pdate and s
+elect
+ing
+Create a new lab test. Use this method if you have already imported a lab result that does 
+not have a test created that is associated.
+
+
+Attach Lab Results to Patient History
+
+
+There are several ways to send your lab results to the patient history. T
+hey include:
+
+
+Update
+–
+This allows you to assign the lab result to a specific client/patient file or an existing lab 
+test. Choose this option if IntraVet was unable to read the client name and/or account number, 
+and you need to find the correct client acco
+unt.
+
+
+ From the IntraVet Menu Bar, select File | Lab Results. 
+
+
+ Highlight the lab result. 
+ Click Update. 
+
+
+ Select the Create a new Lab Test tab. 
+ Enter the Client Name or Account number. 
+ Use the down-arrow to select the correct Patient. 
+ Highlight the Visit the Lab Result is associated with. 
+
+
+
+
+<<NEW PAGE 423>>
+
+
+ If the Visit is not listed, click New or Manually create lab test. 
+ Click OK. 
+
+
+ Enter the Test Name. 
+ Select a Test Procedure for the lab test. 
+ Sample Date and Time are prefilled. Leave Sample ID blank for an auto generated 
+Sample ID. 
+ Verify Provider (update if needed). 
+ Status choices include: 
+a. 
+Requested
+b. 
+Received
+c. 
+Reviewed
+d. 
+Completed
+
+
+
+
+Leave as 
+Requested
+.
+
+
+ Add Notes (if desired). 
+ Click OK to save. 
+
+
+
+
+<<NEW PAGE 424>>
+
+
+Lab results should now be in the correct client account/patient medical history.
+
+
+P
+ost and Post All
+
+
+If the client name and/or account number can be read by IntraVet, the lab result will automatically 
+post to the correct client/patient file.
+
+
+ Highlight the lab result.
+ Click 
+Post
+. If the client and patient data is found then it will automa
+tically post
+;
+if not 
+the user will follow the same steps as discussed above.
+ Or,
+ Highlight all lab results.
+ Click 
+Post All
+. If IntraVet can read the client names and/or account numbers, the lab 
+results will automatically post to the correct client/patient
+files.

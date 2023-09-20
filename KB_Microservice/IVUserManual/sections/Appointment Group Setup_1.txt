@@ -1,0 +1,175 @@
+ Indicate whether the type is for 
+Appointment
+, 
+Block
+, or 
+Reserve
+.
+ Click 
+OK
+. 
+
+
+Appointment Group
+Setup
+
+
+After setting up type codes, providers and templates, you can easily put together 
+groups/calendars for your practice. 
+Each gro
+up is a separate calendar and a separate window.
+Keep this in mind when deciding if you should have separate groups for Surgery, Grooming, or 
+other departments of your practice. 
+Even if you have separate groups, all appointments made for 
+the same branch 
+appear together in the Control Center
+where you view the day’s activity and track 
+patient progress.
+
+
+How to Set Up Appointment Groups/Calendars
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Appointment
+Calendar
+| 
+Appointment
+Calendar
+Setup
+. 
+
+
+Create users and providers before completing the group cale
+ndar setup so that 
+everyone is in the database. (See chapters 
+Security
+and 
+Auditing
+for details
+.
+)
+
+
+
+
+<<NEW PAGE 159>>
+
+
+ Click the 
+Groups
+tab.
+
+
+ Select 
+New
+to create a new appointment group, or double
+-
+click on an existing 
+Group
+to 
+edit.
+ Enter or edit the 
+Group
+Name
+(f
+or example: Branch names, if you have multiple 
+locations, 
+Grooming
+, 
+Surgery
+, and 
+Regular
+Appointments
+).
+ Select a 
+Start Time
+and 
+End Time
+fo
+r hours you are scheduling appointments. (
+Drop
+-
+offs
+appear in a separate section with no time assigned, so you do not have to allow for 
+them
+.
+)
+ Choose a default 
+Time Interval
+(5,
+10,
+15,
+20,
+30
+and 
+60)
+: 
+This feature affects only the 
+display. Choose an hour to see an entire day, or choose smaller intervals to see more 
+detail for each hour. The interval prevents you from making appointments for other 
+time intervals. You can change intervals wi
+thout affecting your previously booked 
+appointments. 
+ Select 
+Enable Overbooking
+to allow multiple appointments to be booked in the same 
+time slot.
+ Set the number of 
+Minutes to Delay Auto No
+-
+show Detection
+.
+ Enter a date for 
+No Appointments Before This Date
+.
+ Enter a 
+Date Limit for Future Appointments
+.
+ Enter the number of 
+Days Limit for Future Appointments
+.
+ Click 
+Save
+.
+
+
+
+
+<<NEW PAGE 160>>
+
+
+ Click the 
+Columns
+tab to add providers or columns to your calendar. 
+ Click 
+New
+to add a new provid
+er or column, or double
+-
+click to edit an existing column.
+
+
+ You can use the up
+-
+and down
+-
+arrows to change the order that your columns appear.
+ Enter a provider/user and change the display name to something else if desired. 
+ Select a different background col
+or
+for this column, e.g., yellow for doctors, green for 
+technicians, and utility columns like Rx refill requests blue.
+ Click 
+Save
+. Click 
+Save
+again.
+ Click 
+Close
+.

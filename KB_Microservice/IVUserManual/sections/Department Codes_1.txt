@@ -1,0 +1,49 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Departmetn.png
+Department Codes
+
+
+Department codes
+are mandatory for every 
+Procedure
+and 
+Inventory
+code
+. 
+P
+roductivity
+and 
+Inventory
+reports can be 
+run
+by department
+or all departments
+.
+Running the report
+by 
+department gives 
+the
+practice be
+tter information for making business decisions.
+
+
+Department Codes
+–
+Create, Edit or 
+Inactivate
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Department
+.
+
+
+ To create a new 
+Department
+code, click 
+New
+at the bottom of the Department Code 
+List scr
+een.

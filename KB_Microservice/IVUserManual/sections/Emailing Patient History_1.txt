@@ -1,0 +1,125 @@
+Printing History
+
+
+Medi
+cal History
+can be printed for any highlighted patient
+based on the criteria selected under 
+Print Options. 
+
+
+ Choose the 
+Print
+drop
+-
+down
+menu in the 
+Medical History
+window
+and sele
+ct one of the 
+following options:
+ Print
+–
+to pri
+nt without changing your default print options.
+ Display
+–
+to review the printout prior to sending the job to the printer.
+
+
+
+
+ Options
+–
+Date
+Limit
+, 
+Day
+and 
+Visit Limit
+i
+f you want to print only the five most recent 
+visits, for example. 
+R
+eminders
+, 
+Problem Li
+st
+, 
+Weight History
+, 
+Chronological 
+(if 
+unchecked
+it prints the 
+most recent visit first)
+.
+
+
+
+
+Emailing
+Patient 
+History
+
+
+Medical History
+can be 
+emailed
+for any 
+p
+atient
+based on the criteria selecte
+d under Print Options. 
+
+
+ Open the Medical History for the patient whose records you wish to email, click the 
+drop
+-
+down menu 
+next to Print
+and select 
+Options.
+
+
+ Set up your print 
+options
+as show
+n
+below. These will help you choose what 
+part of your 
+patient 
+records gets
+emailed. 
+
+
+
+
+<<NEW PAGE 356>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\email button.jpg
+ Choose 
+OK
+to save your changes.
+ Next select Email from the bottom left of the Medical History Window.
+
+
+ Choose a recipient by typing the email address in the “To” field and choose to include 
+any other information and/or
+save the em
+ail to the patient’s
+medical history, add any 
+other attachments and you are now ready to send your patient
+’
+s medical history 
+records. 
+
+
+
+
+<<NEW PAGE 357>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\email.jpg

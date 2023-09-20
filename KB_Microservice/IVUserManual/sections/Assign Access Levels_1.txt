@@ -1,0 +1,32 @@
+ Enter a 
+Desc
+ription
+of the users’ position.
+ Select the 
+Area 
+of
+System
+to be accessed. To do this, use the down
+-
+arrow. Check all 
+access levels that pertain. Select as many areas as pertain to the chosen position and 
+repeat with the access levels.
+ If this position us
+es the same areas of the system as another position, you can copy the 
+areas of access. To do this, click the
+Copy From
+down
+-
+arrow and select the matching 
+position.
+ To remove 
+Access
+, uncheck. 
+
+
+Assign Access Levels 
+
+
+Within the Edit User Screen click the Security button at the bottom. From the Edit Security 
+Template you can choose the area of system to check the boxes to grant access to those areas of 
+the system.

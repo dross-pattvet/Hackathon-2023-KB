@@ -1,0 +1,331 @@
+ Click
+the down
+-
+arrow in the 
+Provider
+field 
+to 
+select a new provider. 
+ Click 
+OK
+. The line in the 
+Transactions
+window now displays the provider change.
+
+
+Credit Adjustments
+
+
+Credits decrease the client’s balance. They ar
+e generally used to write off balances for various 
+reasons or to offset mistakes. 
+
+
+Credit Adjustment 
+–
+Return
+
+
+There are times when a 
+practice
+or hospital will accept a return, such as a bag of unopened pet 
+food or unused supplies. If your facility accepts returns, you will need to open the client’s 
+Transactions
+window to process the return. You first need to open the client’s account.
+
+
+ Open
+the client account.
+ Select the
+T
+ransactions
+tab
+. 
+ Select
+the + (plus) sign at the beginning of a line item to expand for more detailed 
+information.
+
+
+
+
+<<NEW PAGE 322>>
+
+
+ Right
+-
+click on the item being returned and select 
+Return Item
+.
+
+
+ The Returned Item displays grayed
+-
+out until the 
+Quantity
+is entered and you c
+lick
+Continue
+.
+
+
+
+
+<<NEW PAGE 323>>
+
+
+ Check 
+Restock Returned Item
+if the item will be placed back into inventory
+.
+I
+f checked, 
+the Restock Returned Item will update the inventory count.
+ Enter a brief reason for the return in 
+Description
+and change the date, if necessary.
+
+
+There is a 20
+-
+character limit in both 
+Description
+fields. Letters, numbers, spaces and 
+punctuation 
+are included in the character count.
+
+
+If you need to record more than what fits in a 
+Description
+field or want to keep other notes, 
+use the 
+Medical History
+Log
+.
+
+
+ The default date is today’s 
+Date
+. Backdate, if necessary.
+ In the 
+Refund
+portion of the window, the 
+Amount
+is calculated based on the number of 
+items being returned and their cost. 
+E
+nter an amount unless the amount was auto
+-
+calculated. 
+If the client requests an account credit,
+enter zero (0) in 
+the 
+Amount
+field
+.
+
+
+Enter a brief
+Description
+(optional). For security reasons, it is recommended that you not 
+use the 
+Description
+field to record the card number.
+
+
+ Select 
+Method of Payment
+, Cash, Check, or Charge. 
+ Click 
+Save
+or 
+Save / P
+rint Receipt
+if the client asks for a receipt or you want to store a 
+paper copy in the client’s file.
+
+
+
+
+<<NEW PAGE 324>>
+
+
+Credit Adjustment 
+–
+Refund
+
+
+There are times when a 
+practice
+will accept a return, such as a bag of unop
+ened pet food or unused 
+supplies. If your facility accepts returns and reimburses the client, you will need to open the 
+client’s 
+Transactions
+window to process the refund. You first need to open the client’s account.
+
+
+ L
+o
+cate and open the client account.
+ Select the
+Transactions
+tab
+.
+
+
+If you are issuing a refund that is not associated with an invoice:
+
+
+ Right
+-
+click on a line item to display the 
+Transactions
+option list and select 
+Refund.
+
+
+
+
+<<NEW PAGE 325>>
+
+
+ Enter the refund 
+A
+mount
+. 
+ Enter the refund 
+D
+ate
+if different than the current date. 
+ Select the 
+Method of Refund Payment
+(Cash, Check or Card).
+
+
+For security reasons, it is recommended that you not use the 
+Description
+field
+to record the 
+card number.
+
+
+ If it is a Card refund, select the 
+Card Type
+.
+ Click 
+Save
+or 
+Save / Print Receipt
+if the client asks for a 
+receipt or you want to store a 
+paper copy in the client’s file.
+
+
+The amount refunded is added to the client’s balance due. 
+
+
+
+
+<<NEW PAGE 326>>
+
+
+To offset the client balance added by the refund after saving the 
+Refund Procedure
+:
+
+
+ Right
+-
+click in the 
+Transactions
+window and select 
+Financial Adjustment
+. 
+
+
+ Click the 
+Credit Adjustment
+radio button
+. 
+A list of Adjustment Types appears.
+ Enter the 
+A
+mount
+you refunded the client. 
+ Enter the 
+D
+ate
+of the refund 
+if different than current date. 
+ Select 
+Return Adjustment
+for the 
+Adjustment Type
+. 
+ Click 
+Save
+. 
+
+
+ The client 
+New B
+alance reflect
+s
+that you have refunded the money. 
+
+
+
+
+<<NEW PAGE 327>>
+
+
+Credit Adjustment 
+–
+Non
+-
+Sufficient Funds (NSF) Checks
+
+
+To open a client’s 
+Transactions
+window, you first need to open the client’s account.
+
+
+ Open 
+the client account.
+ Select the
+Transactions
+tab
+.
+
+
+ Right
+-
+click on a line item to display the 
+Transaction
+s
+option list and select 
+Financial 
+Adjustment
+.
+
+
+ Select
+Debit Adjustment
+and fill in the remaining 
+field
+s.
+ Amount of the original check
+ Date
+ Adjustment Type 
+–
+select Returned Check
+ Adjustment Descr
+iption
+
+
+ Click 
+Save
+or 
+Save/Print Receipt
+.

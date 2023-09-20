@@ -1,0 +1,86 @@
+Communications
+
+
+The Communications
+section provides your 
+practice
+ways to search for and commun
+icate with 
+your clients
+. Y
+ou can search your client database using man
+y different parameters and then
+send 
+email
+s, printed cards, letters, or labels, or you can export your Result List
+. T
+he following types of 
+searches are available:
+
+
+ Due Reminders
+:
+Search for specific or all due procedures, callbacks and/or 
+recommendations within a date range
+. T
+hen, 
+email
+, send postcards or letters to 
+clients
+. Y
+ou can also export the results to send them to a third party that generates 
+your r
+eminders for you, like our online reminders.
+ New Clients
+/New Patient Searches
+:
+Search by entered date of the client or patient 
+to send welcome packets or coupons.
+ Recall Generator
+:
+Search by certain client or patient parameters to target a specific 
+audience for promotions like dental care, spays/neuters or heartworm/
+flea/
+tick 
+preventative.
+ Referring Clients Search
+:
+Find and thank clients who 
+referred others to your 
+practice.
+
+
+Due Reminders
+
+
+How to Search for Due Procedures, Callbacks or Recommendations
+
+
+ From the 
+IntraVet
+Menu Bar
+,
+select
+Communications
+| 
+Due Reminder Search
+.
+
+
+ Enter a 
+Beginning
+a
+nd 
+Ending
+D
+ate
+range to find recalls due within a time period
+. You 
+can also select the down
+-
+arrow to make your choice from a calendar. 
+
+
+Only codes due within that period will be included. To find outstanding past due 
+reminders, change your beginning date
+to include earlier months.

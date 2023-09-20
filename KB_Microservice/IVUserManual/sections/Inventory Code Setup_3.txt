@@ -1,0 +1,255 @@
+to the Inventory Code List (previous screen). Scroll to 
+locate the desired code. Highlight the code and choose 
+Edit
+at the bottom of the 
+s
+creen.
+ Make the necessary changes and click 
+OK
+.
+ To remove an inventory code’s Rx label instructions
+or to stop it from prompting for a 
+label, delete the label instructions and/or uncheck the box to gener
+ate an Rx label.
+ Click 
+OK
+.
+
+
+Inventory 
+–
+Price Update
+: Pricing Information
+
+
+Pricing Information
+allows you to adjust the selling price of this inventory code
+by single units and 
+quantity as well as automatically adjusting markup percentages. 
+
+
+ Sell
+Price
+–
+Enter selling price per unit for the item. 
+ Dispensing Fee
+–
+Enter 
+the dispensing fee for the item
+. 
+This amount can be added to 
+whatever the per unit or pill price adds up to in order to defray the cost of dispensing 
+(the label, pill count, etc.).
+ M
+inimum Charge
+–
+Enter 
+the minimum charge for the item
+. 
+Set a minimum so that this 
+code 
+will not be invoiced
+for less than a certain amount, no matter how many are sold. 
+Thi
+s can be applied alone or in conjunction with the dispensing fee.
+ Current Markup %
+–
+Calculates the current markup between the cost and the base 
+selling price. It changes wh
+en the cost or price changes to accurately show your 
+current markup.
+a. 
+New
+b. 
+Existing
+
+
+ K
+eep Markup %
+–
+when checked, if cost changes, markup % automatically adjusts. 
+Why is Markup Disa
+bled? 
+This option (
+Keep Markup
+) can be disabled if you have 
+
+
+
+
+<<NEW PAGE 82>>
+
+
+multiple branches or warehouses
+and do not have a one
+-
+to
+-
+one relationship between 
+them.
+a. 
+If there are multiple warehouses for one branch, they each could have different 
+costs for
+the same code. This means the markups would be different for each 
+warehouse. There will still be a prompt when costs change; IntraVet cannot 
+assume what markup to apply.
+ Item Cost 
+–
+The base cost of the code as you sell or use it (by pill, CC, can).
+ Est
+imate Ranges Minimum and Maximum Price
+–
+If you often create estimates
+from 
+scratch rather than using pre
+-
+defined estimate templates, you can specify a default 
+price range for a 
+code. If defined, whenever the code is used in an estimate, 
+Minimum 
+Price
+and 
+Maximum Price
+ranges
+appear.
+ Quantity Pricin
+g
+–
+Instead of having multiple codes for an item because you give price 
+breaks for buying more, use quantity pricing to set the price breaks on the same code. 
+You can define up to 3 quantit
+y price break levels. If a bottle of 100 is sold, make the 
+price per pill 20 cents instead of 24 cents, for example. 
+ Use disp
+.
+fee and min. charge for all price levels
+–
+Check if you would like the same 
+dispensing fee and minimums to apply to your quantity pricing levels.
+a. 
+Many of these individual pricing choices (dispensing fees, minimums, keep 
+markup) can be mass changed by departme
+nt or for all inventory codes
+in the 
+Utilities
+section of IntraVet. If most codes in a certain department should be set 
+up the same, use these utilities to quickly change all of them. Then, go back 
+and adjust the ex
+ceptions one by one.
+ Apply Settings to All Branches
+–
+If checked, this will apply all the settings to all 
+branches. Or click the down
+-
+arrow to select the branch to be updated.
+
+
+
+
+<<NEW PAGE 83>>
+
+
+Inventory 
+–
+Purchasing Information
+
+
+Purchasing 
+Information
+extends inventory control to overall purchases for your 
+practice 
+to keep a 
+record of your cost, vendor and product data.
+
+
+ Item Cost
+–
+Cost can be manually entered, or it is automatically updated when 
+inve
+ntory
+is received. 
+ Available Quantity
+–
+This is the amount 
+on
+-
+hand
+.
+ Reorder Level
+–
+Set this number as a guideline to assist you in when to reorder
+. 
+When 
+stock 
+goes below this level, the item appears on the 
+Inventory Reorder Report
+and 
+loads into 
+Purchase Orders
+.
+ Optimal Quantity
+–
+Enter the minimum number of this inventory item that you want to 
+keep 
+on
+-
+hand
+. 
+ Prim
+ary Vendor
+–
+To assist you in creating 
+Purchase Orders
+,
+select a vendor that you 
+have purchased this item from
+.
+ Product Code
+–
+To assist with future ordering, enter the
+product code from the vendor.
+ SKU
+–
+Enter the manufacturer’s number for reference.
+ Purchase Unit
+–
+Select the unit in which you purchase the item. This will appear as the 
+unit type
+you order by when receiving inventory.
+ Sale Unit
+–
+Select the unit in which you sell the item. This will appear as the unit type 
+you sell by when receiving inventory.
+ eShelf Code Association
+–
+You can associate your Inventory Codes with eShelf under 
+the Purchasing Tab. At the bottom of this screen you can select the eShelf code that is 
+associated with this Inventory code.
+ Click 
+Apply Settings to All Warehouses
+if needed or select t
+he appropriate warehouse 
+using the drop
+-
+down.
+ Click 
+OK 
+to save your information and return to the 
+Inventory Code Setup
+window.
+
+
+
+
+<<NEW PAGE 84>>
+
+
+Inventory 
+–
+Linked Items
+
+
+P
+rocedure codes
+or other inventory codes
+can be li

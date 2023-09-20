@@ -1,0 +1,71 @@
+Time Clock
+
+
+The t
+ime
+c
+lock is not functional until the following areas are set
+up:
+User Setup (operator IDs and
+passwords
+), 
+Job Setup
+(
+operator roles
+)
+and security levels for all your employees (refer to the 
+Security
+chapter), as well as setting 
+enabling security within the General Branch Setup. 
+(refer to the 
+General Branch Setup
+chapter).
+Username and passw
+ord within the General Branch Setup is 
+required for use of the time
+clock. 
+
+
+Clock In
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Time Clock
+| 
+Time Clock
+.
+
+
+The login window will appear.
+
+
+ To select the 
+User
+, click the 
+down
+-
+arrow
+.
+ If requ
+ested, enter the associated Password. Click 
+OK
+.
+
+
+NOTE:
+Password is assigned within the User Setup window.
+
+
+The Time Clock module will open and the User Name will appear on the 
+title bar
+of the 
+window.
+
+
+ Select
+Clock In
+to take a snapshot and record the time
+the button was pushed.

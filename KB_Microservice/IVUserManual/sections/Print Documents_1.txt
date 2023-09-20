@@ -1,0 +1,59 @@
+ When you have finished all additions, deletions and revisions, move to th
+e 
+Plan
+section. 
+You can add, delete and edit treatment plan items.
+Prescriptions and Section Notes are 
+added here as well.
+
+
+Print Documents
+
+
+Documents are selected and prin
+ted from the visit as needed on the fly or automatically loaded as 
+part of the 
+Visit Template
+setup. 
+Documents (
+Check
+-
+in Report
+, 
+Certificates
+, 
+Routing Sheets
+, etc.) 
+can be set to print at check
+-
+in, check
+-
+out or printed on demand.
+We keep track of these 
+documents and whether they were printed as p
+art of the permanent medical record. 
+
+
+ In Control Center, 
+select
+the client/patient to 
+select
+. 
+ Click the
+Documents
+down
+-
+arrow to select the type of document
+. 
+
+
+ Right
+-
+c
+lick on the 
+document to select
+when you want the document to print. 
+Printed 
+documents a
+re marked out with a line through them and a check appears in a box in 
+the Printed column. See above.

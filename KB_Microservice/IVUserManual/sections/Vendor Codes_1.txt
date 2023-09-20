@@ -1,0 +1,106 @@
+You can also associate your codes through Setup | General Codes | Inventory. 
+
+
+Select the code you want to associate with eShelf and click Edit.
+
+
+Under th
+e Purchasing tab, at the bottom of this screen you will find eShelf Code Association. Select 
+the eShelf code you want to associate with this Inventory Code. 
+
+
+Click OK to save your changes.
+
+
+Vendor Codes
+
+
+A vendor code must be set
+up for each vendor that su
+pplies your 
+practices. 
+When doing receipt 
+and purchase orders, vendor information entered in vendor code 
+setup
+shows for your reference. 
+See 
+General Codes | Vendor
+to set
+up vendor codes
+.
+
+
+Inventory Update
+
+
+If you do not want to cr
+eate purchase orders and then process them, you can opt to 
+enter
+inventory
+into IntraVet
+as it arrives. 
+However, you lose the ability to automatically track what is on 
+order.
+As long as the re
+-
+order and optimal quantity is set
+u
+p, an item can always be pulled into a 
+PO. PO information for an item is not available until POs are used. 
+You can use the 
+Reorder Report
+(a list of all items below reorder level) to determine what nee
+ds to be ordered.
+
+
+How to Receive Inventory
+(without a Purchase Order)
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory Update
+. 
+
+
+ 
+
+
+To select the Vendor, use
+the down
+-
+arrow or 
+Enter
+the blank field. T
+hen scroll to find the vendor
+and double
+-
+click to select
+. 
+
+
+Verify
+the correct warehouse
+is displayed
+. To cha
+nge the warehouse, use the down
+-
+arrow.
+
+
+Type either the Code
+or Inventory item name into 
+the blank field, or
+use the down
+-
+arr
+ow and 
+scroll 
+to your selection.
+
+
+Click Receive Inventory.

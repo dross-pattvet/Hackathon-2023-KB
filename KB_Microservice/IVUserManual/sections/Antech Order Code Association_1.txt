@@ -1,0 +1,43 @@
+This information is provided by Antech. You can register with Antech at 
+www.zoasis.com
+.
+
+
+Antech Order Code Association 
+
+
+From the Antech Order Code List, you can create, edit, inactivate, and reactivate codes
+. You can 
+also select from predefined Antech codes. Procedure Codes can be selected to associate with the 
+Antech order code. 
+
+
+ From the IntraVet Menu Bar, select Setup | Lab Interface. 
+
+
+ Select Antech | Antech Order Codes. 
+
+
+
+
+<<NEW PAGE 394>>
+
+
+ Click New. 
+
+
+ Click Select. 
+
+
+If you create a code, it must be validated by Antech before it will be accepted. Contact Antech at 
+one of the following telephone numbers:
+
+
+ West
+800.745.4725
+ East
+800.872.1001
+ Canada
+800.341.3440
+ Test Express
+888.397.8378

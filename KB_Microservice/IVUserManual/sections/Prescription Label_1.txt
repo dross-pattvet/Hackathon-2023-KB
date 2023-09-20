@@ -1,0 +1,209 @@
+Debit 
+PIN
+Pad
+Setup 
+
+
+ Click
+the 
+PINpad
+Setup
+button
+. This
+opens
+the
+Debit PIN Pad Setup
+window
+. 
+ PIN Pa
+d
+Device
+–
+Select the type of PIN Pad that is being used. 
+ COM Port
+–
+Select the COM Port into which the PIN Pad
+device is plugged. 
+ Default Message
+–
+automatically set to 
+READY
+. T
+his message appears on the PI
+N
+P
+ad
+when it is ready for use (commonly changed to “Thank You”). 
+ Test Button
+–
+Click the Test
+button to verify that the PIN
+P
+ad
+is communicating 
+correctly with the COM Port that was selected. If 
+i
+t is the correct port, the PIN
+P
+ad will 
+ask for a password. “1234” can be entered as the password and press 
+Enter
+on the PIN 
+Pad.
+
+
+(
+If it does not 
+connect, try another COM port from the 
+drop
+-
+down
+menu
+.
+)
+
+
+ Click 
+OK
+. 
+
+
+Prescription Label
+
+
+Prescription Label 
+
+
+To set up the default prescription label
+settings:
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | Program | General Branch Setup. 
+
+
+
+
+<<NEW PAGE 35>>
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the
+Branch.
+
+
+Select 
+Prescription
+Label.
+
+
+Check the box to 
+Use Default 
+Branch Header
+Information
+. This will automatically set up the first 
+three lines of the prescription label
+to match the previously entered name and address under 
+General options. 
+If you woul
+d like different information, leave the box unchecked and type the 
+desired prescription label information into the 
+Label 
+Directions
+box. 
+
+
+The 
+Label Directions
+box has a 240
+-
+character and/or a 3
+-
+line limit. Letters, n
+umbers, spaces 
+and punctuation are included in the character count.
+
+
+ Customize
+the
+Prescription
+warning
+that prints at the bottom of the label. 
+
+
+The 
+Prescription
+warning has a 50
+-
+character limit. Letters, numbers, spaces
+and punctuation 
+are included in the character count.
+
+
+ Print 
+provider
+’s 
+license 
+number
+on prescription label
+–
+If checked, 
+this prints the 
+provider
+’s license number on the prescription labels.
+ Prescription Label Se
+lection
+–
+Click the 
+down
+-
+arrow
+to choose from 
+the
+Standard 
+Prescription Label
+,
+the 
+Texas Prescription
+Label
+, 
+the 
+Nevada Prescription Label,
+or the
+Arizona
+Prescription Label
+type. 
+
+
+The 
+Texas
+label and the
+Nevada
+label contain the client’s address information, whereas the 
+Standard
+does not.
+
+
+ Print Test
+–
+Print a Test label to v
+erify 
+the information entered is accurate and printing 
+correctly.
+ Click 
+Copy to all Branches
+if all 
+branches
+use the same prescriptio
+n label setup.
+ Click 
+OK
+.

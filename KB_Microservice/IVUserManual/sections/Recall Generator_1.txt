@@ -1,0 +1,389 @@
+New Patient
+–
+Export Result L
+ist
+
+
+To expor
+t your 
+Result List
+for use with a third
+-
+party application, for online reminders or Word:
+
+
+To remove a contact from the 
+Result List 
+print or export:
+
+
+ Uncheck the box on the left. This will omit them from the Print/Process or Export.
+
+
+You can go to the client’
+s account from this location.
+
+
+ Right
+-
+click and select 
+Open selected Client
+.
+
+
+To Export:
+
+
+ Select
+the 
+Export
+tab.
+ Place a check in the 
+Patient 
+checkbox in the 
+Patient Section
+to activate the option for 
+Number of patients
+, 
+O
+ne record per Client
+and 
+One record per Patient
+. If a client has 
+more than one patient matching your search criteria, you may want to send only one 
+card, letter or 
+email
+.
+
+
+To 
+exp
+ort patient information:
+
+
+ E
+nter the 
+Number of patients
+per Client to include (
+maximum is 9).
+ C
+lick to highlight each 
+Patient
+field to export.
+ Select One record per Client or One record per Patient.
+ Click to highlight each 
+Patient
+fiel
+d you want to export.
+ Click the 
+Export
+button. A 
+Save
+As
+window appears.
+ Navigate to the location w
+here you want to save your exported record and name your 
+file.
+ Save as Type:
+Choose the file type you want to save it as. You can export it as Delimited 
+text, Excel, XML, or Healthy Pet (encoded for use with 
+Healthy Pet
+magazine).
+ Click 
+Save
+.
+
+
+Recall Gener
+ator
+
+
+The 
+Recall Generator
+is used to search for client and patients
+. Y
+ou can narrow your search by 
+entering multiple criteria to various characteristics of the 
+Client
+, 
+Patient
+, 
+Patient History
+and 
+some 
+General Options
+.
+
+
+For example, 
+you can use the recall generator
+to send 
+an email to your clients with an email 
+address
+or if you would like to print a list or send a postcard to all canine patients for dental 
+month. 
+
+
+How to Search using the 
+Recall Gene
+rator Search
+:
+
+
+ From the 
+IntraVet
+Menu Bar
+, 
+select
+Communications
+| 
+Recall Generator Search
+.
+
+
+
+
+<<NEW PAGE 376>>
+
+
+Client Section
+
+
+ Select your search parameters from the 
+Client
+section
+. B
+egin by clicking on the 
+down
+-
+arrow
+next to a field; then, double
+-
+cli
+ck on your choice
+. T
+his puts your choice in the 
+field.
+ Next, 
+select
+the plus sign (
++
+) corresponding to your selected parameter
+. T
+his adds your 
+selection to the search pane on the right. 
+a. 
+Classification
+:
+typi
+cally used as financial indicators on an account (
+Cash Only
+, 
+Collections
+, 
+Bad Check passed
+, 
+Employee
+, etc.) 
+Located under
+Setup 
+| General 
+Codes |
+of Client
+| Classification
+. C
+lassifications can be included or excluded 
+from a search.
+b. 
+Search Code
+s
+:
+typically used to identify groups of clients (
+Senior Citizen
+, 
+Grooming Client
+, 
+Breeder
+, 
+Employee
+, etc.), Search Codes can be included or 
+excluded from a search.
+c. 
+No. of Patients:
+Choices are 
+Equal to
+, 
+Less than or equal 
+to
+, 
+Greater than or 
+equal to
+, or 
+between
+.
+ Enter the corresponding number(s) in the box(es) to the right.
+
+
+d. 
+City:
+Where the client/patient resides. 
+e. 
+Zip Code:
+Where the client/patient resides.
+f. 
+Balance Due:
+Choices are 
+Equal to
+, 
+Less than or equal to
+, 
+Greater 
+than or equal 
+to
+, or 
+Between
+.
+ Enter the corresponding number(s) in the box(es) to the right.
+ YTD Services:
+typically used to
+contact
+those clients who spend a 
+certain amount of money 
+with
+in your practice. 
+Choices are 
+Equal to
+, 
+Less than or equal to
+, 
+Great
+er than or equal to
+, or 
+Between
+.
+ Enter the corresponding number(s) in the box(es) to the right.
+ Discount
+%:
+typically used to find those clients who have a certain 
+discount %. 
+Choices are 
+Equal to
+, 
+Less than or equal to
+, 
+Greater than 
+or equal to
+, or 
+Betwee
+n
+.
+ Enter the corresponding number(s) in the box(es) to the right.
+ Branch:
+Click the down
+-
+arrow
+to make your selection.
+ Choose 
+Match ALL 
+or 
+Match ANY
+client parameters
+. 
+
+
+Patient Section
+
+
+
+
+<<NEW PAGE 377>>
+
+
+ Select your search parameters from the 
+Patient
+section using the same procedure
+above
+.
+ Sex
+ Species
+ Breed
+ Color
+ Age
+ Month of Birth
+ Last Visit Date: 
+Choose 
+Equal to
+, 
+Less than or equal to
+, 
+Greater than or equal to
+, 
+or 
+Between
+. 
+ Last Visit Provider
+ Referring Provider 
+ Stable 
+ Status
+a. 
+Status Date:
+Cho
+ices are
+Equal to
+, 
+Less than or equal to
+, 
+Greater than or 
+equal to
+, or 
+Between
+.
+ Choose 
+Match ALL or ANY
+patient parameters
+.
+ When the plus sign (
++
+) corresponding to your selected parameter is clicked, it will be 
+added to the search pane on
+the right. 
+
+
+History Section
+
+
+ Select your search parameters from the 
+History
+section.
+Here you can find those 
+patients who were invoiced with certain codes.
+a) 
+To choose a procedure, 
+enter
+a procedure code, or 
+click in
+the blank entry line 
+and 
+select
+the desi
+red procedure
+using the down
+-
+arrow
+.
+b) 
+Select either 
+Include
+or 
+Exclude
+and a date range. 
+c) 
+Click the green plus sign (
++
+) to add to the search pane. 
+d) 
+Choose 
+Match ALL or ANY
+history parameters
+.
+ Select your search par

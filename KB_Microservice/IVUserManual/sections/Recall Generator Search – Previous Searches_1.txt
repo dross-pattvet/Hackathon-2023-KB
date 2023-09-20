@@ -1,0 +1,41 @@
+ A
+progress bar indicates 
+that your search is in progress. W
+hen the search completes, 
+the 
+Result List
+appears.
+
+
+Recall Generator Search
+–
+Previous Searches
+
+
+In
+traVet saves the most recent search parameters for audit purposes and convenience so that you 
+can reuse them. You may want to use the same search criteria several times. To load previous 
+search parameters:
+
+
+ Click the 
+Previous Searches
+tab. The list of th
+e most recent searches with 
+date 
+and 
+time 
+appear
+s
+in the left column.
+ Select
+a search to view its details to the right. Details include all parameters chosen for 
+the search.
+ Double
+-
+click on the search you want to reuse, or click once to highlight and clic
+k 
+Load
+. 
+Screen will pop
+up to tell you the Previous search has loaded successfully.

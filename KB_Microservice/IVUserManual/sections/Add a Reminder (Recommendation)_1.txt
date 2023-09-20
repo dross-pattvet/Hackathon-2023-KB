@@ -1,0 +1,46 @@
+You can also click the 
+Manually Clear
+button to r
+emove the reminder without having 
+another code given that clears or satisfies it. Be sure that the reason you 
+must
+do this has 
+nothing to do with code setup issues. You can delete the reminder only if it was manually 
+entered.
+
+
+Audit Trail
+
+
+The audit trail button displays and/or prints a list of the patient’s reminders and indicates the date 
+it is/was due and how a reminder was changed.
+
+
+ After a reminder has been edited or removed, 
+click
+the 
+Audit Trail
+button
+if you want t
+o 
+view it before printing.
+
+
+Add a Reminder (Recommendation
+)
+
+
+You can manually add a reminder (or recommendation) instead of generating it from codes a
+dded 
+to the 
+Medical History
+. 
+
+
+ From the Control Center, right
+-
+click the client/patient line and 
+select
+Go To | Patient | 
+Reminders
+.

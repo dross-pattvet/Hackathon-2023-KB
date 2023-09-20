@@ -1,0 +1,48 @@
+This 
+feature is used to troubleshoot co
+nnectivity issues. If it says “Connected,”
+that means the lab 
+machine will be able to import results within the IntraVet Lab Results feature. 
+
+
+VetConnect Integration
+
+
+ Select Vet Connect and enter your User Name and Password. 
+ Click OK. 
+
+
+The Vet
+Connect username and password will need the username and password that is 
+used to log into the VetConnect website. The Web Service username and password will 
+need the vcagent username and password. 
+Both
+are provided by Idexx.
+
+
+ Click New. 
+
+
+
+
+<<NEW PAGE 390>>
+
+
+cid:image001.png@01D31FF8.79D79B80
+ Select Idexx in the Manufacturer drop-down list. 
+ Click the drop-down to select the Port. 
+ Click OK. 
+
+
+ You must type the path to a folder within the Lab Results folder as shown in the 
+screenshot. For example, C:\Program Files (x86)\IntraVet\Lab Results\VetConnect 
+
+
+T
+o view Lab Results for VetConnect:
+
+
+ From the IntraVet Menu Bar, select File | Lab Results. 
+
+
+ Click VetConnect.

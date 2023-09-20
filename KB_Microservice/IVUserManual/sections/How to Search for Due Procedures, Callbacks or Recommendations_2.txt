@@ -1,0 +1,197 @@
+ams); 
+callback
+s are for checking on patients after a surgery; recommendations are for general 
+health maintenance areas like diet and dental health.
+ Include Clients with future Appointments
+will include clients/patients that are currently 
+scheduled with an upcoming appoi
+ntment on the IntraVet calendar.
+ Check the 
+Exclude Codes in List
+box if you want to search for all due codes except the 
+ones entered. Leave blank to search for entered codes only.
+ Click 
+Search
+. A progress bar in
+dicates that your search is in progress. 
+
+
+If you are logged into ePetHealth, t
+o access your practice’s Health Service Reminder 
+setup within ePetHealth, 
+select
+the ePetHealth button at the bottom 
+left 
+of the Due 
+Reminder Search window. 
+Select either 
+Email &
+Text Reminders
+to launch the 
+ePetHealth Health Service Reminders 
+–
+Email / Text setup page
+,
+or c
+hoose 
+Postal 
+Reminders
+to 
+launch
+the ePetHealth Health Service Reminders 
+–
+Postal setup page.
+
+
+Result List
+
+
+ T
+he 
+Result List
+tab 
+automatically opens when the se
+arch is complete to display a
+complete list of results.
+ Click the
+Print
+radio button
+. This will display the number of 
+M
+atching Results
+.
+ When either the 
+Cards
+or 
+Letters
+radio button is selected, the canned text field 
+becomes activated.
+ If you want to cre
+ate a new 
+Card
+or 
+Letter
+or edit the 
+“
+canned text
+”
+version, select the 
+Edit
+or 
+New
+button to the right. Make your edits. Click 
+Save
+. 
+(See Edit Result List 
+below
+.
+)
+
+
+
+
+<<NEW PAGE 361>>
+
+
+ When the 
+Export
+radio button is selected and the 
+Patient
+box is checked
+,
+the 
+Number of 
+pa
+tients
+, 
+One record per Client
+and 
+One record per Patient
+will be activated.
+ Select
+the 
+Export
+tab.
+ Place a check in the 
+Patient 
+checkbox in the 
+Patient Section
+to activate the option for 
+Number of patients
+, 
+one
+record per Client
+and 
+One record per Patient
+. 
+If a client has more 
+than one patient matching your search criteria, you may want to send only one card, letter 
+or 
+email
+.
+ If exporting patient information, enter the 
+Number of patients
+per Client to include 
+(maximum is 9).
+ If exporting client information
+, click to highlight each client field (far left pane) to export.
+ Select 
+One record per Client
+or 
+One record per Patient
+.
+ Place a check in the 
+Codes 
+checkbox in the 
+Codes 
+section to activate the option for 
+Number 
+of Codes
+.
+ If you want to export codes, ente
+r the 
+Number of Codes
+.
+ Highlight the code information to be included.
+ Click the 
+Export
+button. 
+
+
+
+
+<<NEW PAGE 362>>
+
+
+ A 
+Save As
+window appears.
+ Navigate to the location where you want to save your exported record and name your file.
+ Save as Type:
+Choose the file type you wan
+t to save it as. You can export it as Delimited 
+text, Excel, XML, or Healthy Pet (encoded for use with 
+Healthy Pet
+magazine).
+ Click 
+Save
+. 
+
+
+Load Parameters and Reuse a Reminder Search
+
+
+IntraVet saves the most recen
+t search parameters for audit purposes and convenience so that you 
+can reuse them. You may want to use the same search criteria several times. To load previous 
+search parameters:
+
+
+ Click the 
+Previous Searches
+tab. The list of the most recent searches with
+time and date 
+appear in the left column.
+ Select
+a search to view its details to the right. Details include all parameters chosen for 
+the search.

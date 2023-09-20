@@ -1,0 +1,52 @@
+Job Setup
+
+
+A Job is the duty the employee is performing within your practice. 
+This is required for Time
+C
+lock 
+u
+se and can be assigned to the employees through the 
+User Setup
+.
+
+
+ From the IntraVet Menu Bar, select 
+Setup |
+Security
+|
+Job
+Setup
+. 
+
+
+ All Job Descriptions for your practice that you can password protect are listed. 
+ Select one and click 
+Edit
+.
+
+
+
+
+<<NEW PAGE 119>>
+
+
+ Click the down
+-
+arrow to select the 
+Security Template
+you want to apply to this job 
+description.
+ Click 
+OK
+.
+ Click 
+Close
+.
+
+
+ After se
+tting up the above information, go to 
+Setup | Program |General Branch Setup
+and under Security you will want to set
+up the security options for each area.

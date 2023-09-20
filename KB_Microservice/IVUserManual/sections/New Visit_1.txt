@@ -1,0 +1,114 @@
+New Visit
+
+
+Usually, a new visit is initiated through 
+Appointments
+, 
+Boarding
+or the 
+Control Center
+when a visit 
+is scheduled
+. I
+t is checked in and displays in 
+Medical History
+at that p
+oint
+. H
+owever, a new visit 
+can also be entered from 
+Medical History
+for today’s date. 
+There are several ways to access the 
+Medical History screen.
+
+
+Check in a Visit from the Control Center
+
+
+ In the 
+Control Center
+, right
+-
+click on the client/patient 
+Visit l
+in
+e under 
+Patient 
+Appointment Status
+.
+ Click
+Go To | Patient | 
+Medical History
+.
+
+
+ Right
+-
+click in the 
+Visits
+pane and select 
+New Visit
+. 
+
+
+The 
+Appointment
+window opens. (Medical history can also be added through the 
+App
+ointment Calendar
+, 
+Control Center
+, and 
+Boarding
+.)
+
+
+
+
+<<NEW PAGE 338>>
+
+
+ Use the down
+-
+arrow to select a 
+Provider
+.
+ Enter a 
+Reason
+for the visit or use the down
+-
+arrow to select. 
+ Enter the Type of visit or use the down
+-
+arrow to selec
+t.
+ Choose a 
+Template
+, if desired. 
+ Click the 
+Save and Close
+hot link at the top of the window.
+
+
+The Visit screen opens to 
+Assessment
+and 
+Plan, ready for data entry
+. 
+Scroll 
+or use the 
+navigation section 
+to access other areas of the
+Visit screen.
+
+
+Check in a Visit from the Appointment Calendar
+
+
+ In the Appointment Calendar
+, right
+-
+click on an appointment and select 
+Check In
+.

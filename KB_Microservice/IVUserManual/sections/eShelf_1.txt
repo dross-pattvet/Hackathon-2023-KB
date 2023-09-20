@@ -1,0 +1,60 @@
+NOTE:
+If
+a cage type 
+is inactivated it 
+deletes ALL reservati
+ons assigned to that cage type.
+
+
+eShelf 
+
+
+IntraVet includes an option for eShelf,
+an
+inventory ordering integration.
+
+
+ To enable this option, go to 
+Setup | Program | General Branch Setup
+,
+select your branch 
+and click the Edit button. 
+Selec
+t
+eShelf Setup to display the eShelf configuration 
+window.
+
+
+ To enable eShelf and the settings options, 
+select the checkbox
+Enable eShelf.
+After this 
+box is checked, 
+enter
+your eShelf options:
+a) 
+eShelf Vendor Selection: Select your Patterson Veterinary Ven
+dor Code.
+b) 
+First Name: First Name of the contact person that will answer any questions 
+regarding the purchase order.
+c) 
+Last Name: Last Name of the contact person that will answer any questions 
+regarding the purchase order.
+d) 
+E
+-
+mail Address: Email Address the
+purchase order receipts will be sent to.
+e) 
+Bill To Account Number: The Patterson Veterinary Account number the 
+purchase order will be billed to.
+f) 
+Ship To Account Number: The Patterson Veterinary Account Number the 
+purchase order will be shipped to. If thi
+s number is the same as the Bill To 
+Account Number, you can check the box for Same as Bill To Account Number.
+g) 
+Click 
+OK
+to save your changes.

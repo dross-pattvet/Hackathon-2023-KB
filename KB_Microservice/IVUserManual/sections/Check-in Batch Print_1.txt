@@ -1,0 +1,98 @@
+Check
+-
+in 
+Batch 
+Print
+
+
+You can mass print check
+-
+in reports (summaries of a patien
+t’s recent history, reminders, reason for 
+current visit
+,
+etc.) and/or check
+-
+in labels from the appointment calendar.
+Check
+-
+in labels
+are on 
+prescription
+-
+size labels and contain general client/patient informatio
+n and reminders. 
+
+
+ Click the 
+Printer
+icon in the upper left of the appointment calendar
+and choose 
+Check
+-
+in Batch
+.
+
+
+ Select 
+from the following 
+O
+ptions
+to include:
+ Print Check In Report
+ Pr
+int Check In Label
+ Print Appointments
+ Print Drop Offs
+ Print Control Center Entries
+
+
+ Print what groups?
+–
+Place a checkmark in the box next to the groups to be printed. If 
+all groups are to be printed, check the box to the right, 
+Select All
+.
+ Print what colu
+mns?
+–
+Place a checkmark in the box next to the columns to be printed. 
+If all columns are to be printed, check the box to the right, 
+Select All
+. 
+ Date
+–
+Use the down
+-
+arrow to select the 
+Date
+to print them. 
+ Details
+–
+Check the box if you want to:
+ Print R
+eason
+ Print Time and Provider
+ Print Appointment Notes
+ Print Directions
+
+
+ Duration of Patient History to Print
+–
+Start
+and 
+End
+date range for history if printing 
+check
+-
+in reports, or leave blank to print history based on check
+-
+in options for your 
+b
+ranch.
+ Clic
+k 
+Display
+or 
+Print
+.

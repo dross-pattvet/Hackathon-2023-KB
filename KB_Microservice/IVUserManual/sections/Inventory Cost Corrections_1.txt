@@ -1,0 +1,186 @@
+ If you would like to save the entries as a template to load and deplete again, give the 
+template a name in the 
+Template
+Description
+field and click 
+Save Templat
+e
+. 
+ Click 
+Save
+to deplete and record the depletions as in
+-
+house usage in all inventory 
+reports.
+
+
+Deplete in
+-
+house inventory without a template
+:
+
+
+ Select the appropriate 
+Warehouse
+if 
+you have more than one. 
+ Click the down
+-
+arrow, scroll and select or type the first few letters of the 
+code/description into the blank entry line in the lower portion of the window, and 
+select the item
+. 
+ If you have selected an incorrect item, click 
+Clear L
+ine
+. Repeat 
+the step above
+.
+ Use the blank field to the right to add notes; 
+e
+nter
+the amount in the 
+Quantity
+field at 
+the far right. Click 
+Done
+or press 
+Enter
+to move the item into the grid.
+
+
+If your mouse has a scroll wheel, roll it up or down while the m
+ouse cursor is inside the 
+Quantity
+field to increase or decrease the number.
+
+
+ If the incorrect quantity was typed in, right
+-
+click and select 
+Edit
+or double
+-
+click on the 
+line in the grid to reopen.
+ Click 
+Done
+to accept the change.
+ To add other items, repeat
+the steps above
+.
+ Right
+-
+click on any line item to edit or delete it. You can also jump to the top or bottom 
+of your inventory list.
+ Click 
+Save
+to deplete and record the depletions as in
+-
+house usage in all inventory 
+reports.
+
+
+Inventory 
+Cost 
+Corrections
+
+
+If yo
+ur cost or quantity 
+on
+-
+hand
+is incorrect, it may be because of a typo or mistake in a past 
+inventory transaction (receive, return)
+. Y
+ou can locate and edit past transactions when necessary 
+in 
+Inventory 
+Cost 
+Corrections
+. W
+hen
+you make a change, 
+IntraVet
+recalculates the average cost 
+
+
+
+
+<<NEW PAGE 223>>
+
+
+and quantity 
+on
+-
+hand
+accordingly so that all reports that look at costs in previous periods are 
+updated.
+
+
+How to Make an Inventory Correction
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory
+Cost 
+Corrections
+. 
+
+
+ Enter the 
+Warehouse
+(if you have more than one).
+ Click the down
+-
+arrow and d
+ouble
+-
+click on, or type the first few letters of an item name 
+in the blank entry line in the upper portion of the window to locate the item; 
+double
+-
+click to place the item in 
+the entry line and the grid below
+. 
+ Click 
+Enter
+. The past transactions for your code/warehouse appear in the grid.
+
+
+ Double
+-
+click on the line item to populate the blank fields in the upper portion of the 
+window.
+ The 
+Descr
+iption
+or 
+Note
+can be changed. You can
+check the 
+Sale/Free Goods
+box.
+ Cl
+ick 
+Apply
+(or press Enter on your keyboard) when all changes to the entry have been 
+made 
+–
+or click 
+Reset
+to cancel and choose a different code. 
+
+
+After you change information on an entry, the quantity 
+on
+-
+hand
+and average cost for that 
+item is recalculated.

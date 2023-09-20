@@ -1,0 +1,188 @@
+ Scheduled Out (date and time)
+ Cage Type
+ Confirmation Number
+
+
+
+
+The left portion of the window contains a scrollable calendar and the Patient Status classifications.
+
+
+How to Make a Reservation
+
+
+There are multip
+le ways
+to make a Boarding reservation:
+you can create a new reservation through 
+the Boarding Reservation Grid, the Boarding Control Center or by following the steps below.
+
+
+Check cage availability before making a reservation. 
+
+
+NOTE:
+Before opening the Boa
+rding Availability Calendar, at least one cage type
+must be defined 
+and set up in 
+General Branch Setup |
+Boarding
+and associated with the current branch. 
+
+
+ From the IntraVet Menu Bar, select 
+Boarding |
+Boar
+ding
+Reservation Availability
+. 
+
+
+ The 
+Availability
+grid displays a 14
+-
+day span. You can change which 14
+-
+day calendar 
+portion displays by clicking on a date in a calendar in the left column.
+
+
+
+
+<<NEW PAGE 264>>
+
+
+ Use your 
+Shift
+or 
+Ctrl
+key along with your mouse to select and compare availability of 
+more than one cage type
+.
+
+
+Example:
+Hold down the 
+Shift
+key, and with your mouse, click the first date (4/24 on the 
+calendar) next to the cage sizes. The
+lower panel displays a bar chart of cage
+availability. If you use the S
+hift key it will highlight everything between the first and 
+second selection made.
+
+
+ Next, hold down the 
+Ctrl
+key, and with your mouse, click a date next to the small dog 
+cage (4/26) 
+and the medium cat (4/27). Use the Ctrl key to highlight multiple, 
+individual selections.
+
+
+
+
+<<NEW PAGE 265>>
+
+
+If you have overbooked cages, the bar graph will appear red.
+
+
+ Select
+the 
+New Reservation
+icon/hot link in the 
+Boarding
+Res
+ervation Availability
+Menu 
+Bar.
+
+
+Reservations can also be made from 
+Control Center | Boarding
+and click the 
+icon.
+
+
+ To locate the client, click the Open Account icon 
+, or type the name in the second 
+blank field to the right. Press the 
+Enter
+key on your 
+keyboard to bring up your choices. 
+Scroll and 
+select
+the appropriate name. Click 
+Use
+.
+ S
+elect the correct patient.
+ Click 
+Add Patient 
+to
+Reservation
+in the New Boarding Reservation Menu Bar to select 
+the patient. This will add the patient information to t
+he Services tab.
+
+
+ Select
+the 
+Cage Assignment
+icon/hot link in the 
+Boarding
+Menu Bar. This will open the 
+Cage Assignment window.
+ Click the down
+-
+arrow on the empty field at the top of the screen. Choose the 
+approp
+riate cage size and type for the patient. Use the scroll bar to see all the choices 
+if necessary. Once it has been selected, click 
+Add
+to place in the 
+Selected cages
+panel.
+
+
+
+
+<<NEW PAGE 266>>
+
+
+ Once the cage type has been selected, click
+-
+drag
+-
+and
+-
+drop the patient from the 
+Unassigned patients panel to the Selected cages.
+ Click 
+OK
+.
+
+
+An alert will be received if more than one workstation is accessing the same reservation 
+date and time.
+
+
+The sections explaining moving a patient to a different cage and split reservations 
+follow 
+this set of instructions.
+
+
+ Back on the Boarding Reservation screen, click 
+Enable
+to select the 
+Start
+and 
+End
+dates 
+and times.
+ When finished, click 
+Set Dates
+.

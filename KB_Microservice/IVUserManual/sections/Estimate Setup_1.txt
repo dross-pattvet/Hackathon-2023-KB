@@ -1,0 +1,105 @@
+h) 
+(Refer to the Inventory section on how to use eShelf.)
+
+
+Estimate Setup
+
+
+Estimate Setup
+
+
+ From the
+Int
+raVet
+Menu Bar, select
+Setup
+| 
+Program
+| 
+Estimate Setup
+.
+
+
+The 
+four checkb
+oxes 
+enable automatic
+actions that will be 
+applied 
+when a Visi
+t
+Estimate Template
+is loaded into a visit.
+
+
+ Select or deselect
+the options that best su
+it 
+the
+branch
+. F
+or example, 
+Auto load 
+l
+inked 
+items
+will save
+time because
+there will be no need to 
+manually load 
+items that are 
+already 
+linked.
+ Select the checkbox
+if you want to print 2 copies of the Estimate
+.
+ Sel
+ect the checkbox
+if you want to print the description of the Estimate Template
+.
+ Select the checkbox
+if you want to Show or Print Tax on the patient
+’
+s Estimate
+.
+ Specify an
+Estimate 
+amount of days 
+before it is removed from that patient
+’
+s account.
+ Enter
+the
+p
+referred estimate header such as “Treatment Plan” or “Estimation of 
+Charges”, etc. 
+(There is a 30
+-
+character
+limit. Character count includes letters, n
+umbers, 
+spaces and punctuation.)
+
+
+
+
+<<NEW PAGE 46>>
+
+
+ Enter text that will be printed on the bottom of all estimates
+. This message can include 
+treatment disclaimer, treatment authorization, payment agreement, etc.
+ Canned text can be 
+used to insert pre
+-
+configured text
+. C
+lick 
+Select Canned Text
+. 
+Select 
+from 
+the available options.
+ Click 
+OK
+.

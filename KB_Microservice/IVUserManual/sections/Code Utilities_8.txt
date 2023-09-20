@@ -1,0 +1,290 @@
+ollowing fields are available: 
+
+
+Overwrite
+
+
+ Overwrite Date
+–
+If this field is checked it allows the operator to enter a date on the 
+invoice line. 
+
+
+Example
+: If you ha
+ve a patient that has been treated over a period of several days, 
+Line items entered on a date other than the current date, save in the patient history 
+with the line item date. However, the accounting date for the entire invoice is the 
+date on which it is
+saved permanently.
+
+
+ Overwrite Description
+–
+If this field is checked it allows you to change the wording 
+of the description on the invoice and in the patient history for this procedure code.
+ Overwrite Quantity
+–
+If this field is checked it allows you to ch
+ange the quantity, or 
+default it to 1 and skip the entry.
+ Overwrite Price
+–
+If this field is checked it allows the price to be changed for this 
+procedure at the time of invoicing. If left unchecked, the price cannot be changed 
+and remains the price set in
+procedure code setup.
+ Overwrite Amount
+–
+If this field is checked it allows you to change the total amount 
+for the invoice line. If left unchecked for a code, the amount will always be the total 
+of the quantity times the price.
+
+
+Taxable
+
+
+
+
+<<NEW PAGE 483>>
+
+
+The taxable option
+s change depending on what is set
+up for the 
+practice
+. 
+If the 
+practice
+has the 
+secondary tax option selected in general branch setup then the following options will be added to 
+the code edit tax options
+.
+
+
+ No Tax
+–
+If checked, tax will not apply to this cod
+e.
+ Primary
+–
+If checked, it will charge for the primary tax option setup in General 
+Branch Setup.
+ Secondary
+–
+If checked, it will charge for the secondary tax option that is set
+up in 
+General Branch Setup.
+ Add Both
+–
+If checked, it will charge for both Pri
+mary and Secondary tax for the 
+code.
+ Compound Both
+–
+If checked, it will compound the Primary and Secondary sales tax 
+for the code. 
+ Confirm 
+–
+There will be a pop
+-
+up message asking you to confirm whether or not tax 
+should be charged.
+
+
+Basic 
+
+
+ Species
+–
+Codes
+with a defined species generate a warning when invoicing for a 
+different species. 
+
+
+If you select species, it will be set to that Procedure code setup.
+
+
+Discount
+
+
+ No
+–
+If checked, (or left blan
+k
+and Yes is NOT checked) the selected codes will not 
+be marked d
+iscountable.
+ Yes
+–
+If checked, the selected codes will be marked as discountable.
+ Confirm 
+–
+There will be a pop
+-
+up message asking you to confirm whether or not tax 
+should be charged.
+
+
+Action
+
+
+ Apply To All
+–
+If this button is clicked, it applies to all codes. 
+It does not 
+Apply To All
+until after 
+Save
+is clicked. 
+When this option has been selected it highlights in blue. 
+Only 1 apply option can be selected. If 
+Apply To All
+is selected, you cannot choose 
+Apply To Selection
+.
+ Apply To Selection
+–
+If this button
+is clicked, it applies to the selected codes. When 
+this option has been selected it highlights in blue. Only 1 apply option can be 
+selected. If 
+Apply To Selection
+is selected, you cannot choose 
+Apply To All
+. 
+ Save
+–
+Save will take the apply option sele
+cted and save the selected changes to 
+the selected code/s. If there is not an apply option selected before you click save, it 
+will only make the changes to the selected code/s.
+
+
+If the 
+Save
+button is clicked to save changes without selecting 
+Apply
+To All
+o
+r 
+Apply To Selection
+buttons the following message appears: 
+
+
+
+
+<<NEW PAGE 484>>
+
+
+ Cancel
+–
+Cancels all changes and takes you back to the main IntraVet screen.
+
+
+Multi
+-
+User
+
+
+Running the utility requires exclusive use.
+
+
+Code Combine
+
+
+The 
+Code Combine
+utility allows you to combine like codes for Diagnosis, Inventory and Procedure 
+codes.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Code
+Utilities
+| 
+Code Combine
+.
+
+
+
+
+<<NEW PAGE 485>>
+
+
+ In the blank, 
+Change From
+entry line, enter the code nu
+mber that is to be changed, or 
+click inside the entry line and scroll to the code, or simply double
+-
+click in the entry line 
+and scroll to the desired code. Press Enter to move your selection into the entry line.
+ Repeat 
+the step above 
+for the 
+Change To
+bla
+nk entry line.
+ Click 
+Add
+to move the two codes into the grid.
+ If you made a mistake, highlight the line in the grid and click 
+Delete
+; then, repeat 
+the 
+steps above.
+ Click 
+Start
+.
+ NOTE: 
+Make a full backup before running this utility. 
+
+
+This utility cannot be i
+nterrupted or stopped once the Start button is clicked. The program 
+makes the changes and automatically closes the window.
+
+
+Document
+Utility
+
+
+The 
+Document U
+tility allows you to 
+install the LifeLearn documents int
+o your documents Code list. 
+You can also co
+n
+vert any Endnotes/Footnotes to the document body text. The latter requires 
+Microsoft Word
+®
+to be installed. Remember to make a full backup before running this utility.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Code
+Utilities
+| 
+Document Utility
+.
+
+
+Import LifeLearn from CD 
+
+

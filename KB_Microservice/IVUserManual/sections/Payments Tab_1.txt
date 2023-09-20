@@ -1,0 +1,158 @@
+Payments
+
+
+Payments
+Tab
+
+
+Payments can
+be accepted 
+through the 
+Payment
+screen.
+
+
+To open a client’s 
+Payment
+screen, first open the client’s account.
+
+
+Select the
+Payment
+tab
+. 
+
+
+ 
+
+
+Cash
+
+
+ Use the down
+-
+arrow to select the appropriate
+Branch
+.
+ Cash should be the default 
+Type
+. If it is not selected, use the down
+-
+arrow to select 
+Cash
+.
+
+
+
+
+<<NEW PAGE 331>>
+
+
+q
+
+
+ Enter
+a 
+Description
+. 
+ Today’s 
+Date
+should be the default. If you require a different date, use the dow
+n
+-
+arrow 
+to select. 
+ Enter
+the payment 
+Amount
+. (When typing in a whole dollar amount, it is not necessary 
+to type the cents (.00). IntraVet will auto
+-
+fill the rest of the amount.)
+ Click 
+Add Payment
+.
+
+
+Check
+
+
+ Use the down
+-
+arro
+w to select the appropriate 
+Branch
+.
+ Cash should be the default 
+Type
+. Use the down
+-
+arrow to select 
+Check
+.
+ Description will change to 
+Check Num
+. Enter the check number.
+ Today’s 
+Date
+should be the default. If you require a different date, use the down
+-
+arro
+w 
+to select. 
+ Enter
+the payment 
+Amount
+. (When typing in a whole dollar amount, it is not necessary 
+to type the cents (.00). IntraVet will auto
+-
+fill the rest of the amount.)
+ Click 
+Add Payment
+.
+
+
+
+
+<<NEW PAGE 332>>
+
+
+Credit Card
+
+
+ Use the down
+-
+arrow to select the appropriate 
+Branch
+.
+ Cash should be the default 
+Type
+. Use the down
+-
+arrow to select 
+Card
+.
+ Description is optional.
+ Card Info
+appears. Use the down
+-
+arrow to select the correct card type.
+
+
+ Today’s 
+Date
+should be the default. If you req
+uire a different date, use the down
+-
+arrow 
+to select. 
+ Enter
+the payment 
+Amount
+. (When typing in a whole dollar amount, it is not necessary 
+to type the cents (.00). IntraVet will auto
+-
+fill the rest of the amount.)
+ Click 
+Add Payment
+.

@@ -1,0 +1,106 @@
+Debit 
+and Credit Card Transaction Types
+
+
+Debit and Credit Transaction Type Codes
+are used for 
+adjusting
+account balances that do not 
+affect services or payments.
+
+
+A debit transaction increases a client’s balance
+due and affects the account like a charge
+. 
+U
+se debits for adjustments such as returned check fees.
+
+
+A credit transaction decreases the client’s balance and affects the account like a payment
+. 
+U
+se credits for adjustments such as balance write
+-
+off.
+
+
+T
+hese c
+odes
+can be defined
+for a
+ny specific adjustments that are
+frequently use
+d
+.
+
+
+
+
+<<NEW PAGE 63>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Debit and Credit Transaction Types.png
+Debit and Credit Card Transaction
+Types
+–
+Create, Edit or 
+Inactivate
+
+
+From the 
+IntraVet
+Menu Bar, select
+Setup | General Codes | 
+Debit and Credit Transaction Types
+.
+
+
+ To create a ne
+w 
+Transaction Type
+, click 
+New
+at the bottom of the Debit and Credit 
+screen.
+ Enter
+a 
+Description
+for the new transaction type.
+ Debit
+or 
+Credit
+–
+Use the 
+down
+-
+arrow
+or click in the blank entry line to choose either 
+Debit
+or 
+Credit
+.
+ Click 
+OK
+.
+ To revise 
+the
+De
+scription
+of an existing Debit or Credit Code, click once to highlight, 
+and then click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, 
+highlight the desired code
+and click the 
+Inacti
+vate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)

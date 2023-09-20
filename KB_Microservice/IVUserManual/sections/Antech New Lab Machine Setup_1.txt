@@ -1,0 +1,14 @@
+Antech New Lab Machine Setup 
+
+
+ Click New. 
+
+
+ Select Antech in the Manufacturer drop-down list. 
+ Select Antech (Zoasis) in the Lab Machine drop-down list. 
+ Use the ellipsis button under Location to navigate to the folder where the files 
+are stored. 
+ Click OK. 
+
+
+ Click OK.

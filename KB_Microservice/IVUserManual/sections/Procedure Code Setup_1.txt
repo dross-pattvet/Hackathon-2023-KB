@@ -1,0 +1,290 @@
+ Enter
+a 
+Desc
+ription
+.
+ Enter
+a message and/or use 
+Select Canned Text
+. Messages can contain up to 870 
+characters (including spaces and punctuation).
+ By placing a check mark in the box, you can edit the message temporarily
+at the time of 
+invoicing. (Changes made will not change the invoice message code default but are 
+intended to give you the ability to “customize” the messages on an individual basis for 
+your clients.) 
+ Click 
+OK
+.
+ To revise a 
+Description
+or 
+Message
+of an exi
+sting Invoice Message code, reopen the 
+window if it has already been saved and closed. Select 
+Edit
+or double
+-
+click on the 
+code/description. 
+ Make the changes and click 
+OK
+.
+
+
+Procedure Code Setup
+
+
+Proce
+dure codes are used for the services your 
+practice 
+provides
+. S
+ome examples include
+:
+
+
+ Office calls (Professional Fees)
+ Lab work
+ Surgeries
+ Vaccinations
+
+
+Procedure Codes
+–
+Basic 
+Tab
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Procedure
+.
+
+
+
+
+<<NEW PAGE 89>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Procedure.png
+ To cre
+ate a new Procedure code, 
+select
+New
+at the bottom of the Procedure Code List 
+screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+. This description should be the terminology used in your 
+practice
+. 
+ Enter
+a 
+Client Description
+. 
+The description field automatically fills in the 
+Client 
+Description
+. 
+
+
+It can be 
+manually 
+changed so that it better explains the charges to your clients. E.g., 
+Description 
+–
+“Dental Prophy”; Client Description 
+–
+“Dental Cleaning.”
+
+
+ Select
+the down
+-
+ar
+row or click inside the blank entry line, and scroll to your choice to 
+select a 
+Department
+. 
+
+
+Every procedure code must be assigned to a department. This helps determine where 
+the information for this code prints on dep
+artmental productivity reports and 
+departmental listings.
+
+
+ Select
+the down
+-
+arrow or click inside the blank entry line, and scroll to your choice to 
+select a 
+Species
+. Assign a specific species to your code. 
+
+
+A message appear
+s if this code is invoiced under a different species. It will not prevent 
+you from using the code on the wrong species. (This is not a required field.)
+
+
+ Select
+the 
+down
+-
+arrow
+or click inside the blank entry line, and scroll to your choice to 
+select a 
+Templ
+ate
+. 
+
+
+Each procedure code can be associated with a template and canned text so that 
+medical note entries will be consistent. Refer to the 
+General Branch Setup
+chapter for 
+information about 
+Canned Text
+. (This is not a required field.)
+
+
+ Enter
+the 
+Provider
+code, or 
+select
+the 
+down
+-
+arrow
+, or click inside the blank entry line 
+and scroll to your choice to select a 
+Provider
+. 
+
+
+This sets this procedure code to b
+e credited to a particular provider. This is particularly 
+helpful if there are lab, grooming, or technical procedures that should not report on 
+
+
+
+
+<<NEW PAGE 90>>
+
+
+the attending veterinarian’s productivity. Be sure the Providers have been set
+up 
+under Operator Setup
+.
+(This is not a required field.)
+
+
+ To revise information in the 
+Basic
+tab, reopen the window if it has been saved and 
+closed.
+ To revise 
+the
+Description
+of an existing Procedure code, 
+highlight the desired code 
+and 
+click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+ To inactivate a Code/Description, 
+highlight the desired code
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear 
+asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+Procedure Code
+s 
+–
+Invoicing Options
+
+
+At the time of invoicing, you can overwrite the following data
+. B
+y default, all items are checked to 
+be overwritten
+. U
+ncheck any it
+em that you do 
+not
+want overwritten for a particular procedure 
+code. 
+
+
+ Select
+the 
+Invoicing
+tab.
+ Overwrite Date
+–
+Allows users to change the date on the invoice line. This is helpful if 
+you have a patient that
+has been treated over a period of time. The line items will be 
+entered into history using the date entered on the invoice. However, the accounting 
+date
+for the entire invoice will be the date on which it is permanently sa
+ved. 
+ Overwrite Description
+–
+Allows users to change the wording of the description on the 
+invoice and in the patient history for this procedure code. This does not change the 
+description for this code
+for future use.
+ Overwrite Quantity
+–
+Allows users to change the quantity being charged.
+
+
+
+
+<<NEW PAGE 91>>
+
+
+ Overwrite Price
+–
+Allows users to change the price for this procedur
+e at the time of 
+invoicing. If unchecked, the price cannot be changed and will remain the price set in 
+procedure code setup.
+ Overwrite 
+Amount
+–
+Allows users to change the total amount for the invoice line. 
+If 
+unchecked
+, the amount will remain the total of the quantity times the unit price.
+ Apply Blanket Discount
+–
+There are three selections for 
+Discounts
+(Percentage). Check 
+o
+ne

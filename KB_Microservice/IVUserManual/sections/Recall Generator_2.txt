@@ -1,0 +1,27 @@
+ameters from the 
+General Options
+section. 
+
+
+General Options
+
+
+ Select your search parameters from the 
+General Options
+section.
+ One record per Client
+ Clients With Email O
+nly
+ Patients 
+N
+ot 
+Receiving
+R
+eminders
+ Include Clients with future appointments
+
+
+ When you are satisfied with the parameters, click 
+Searc
+h
+.

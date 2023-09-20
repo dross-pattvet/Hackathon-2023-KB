@@ -1,0 +1,84 @@
+Debit 
+PIN
+Pad
+Setup 
+
+
+ Click
+the 
+PINpad
+Setup
+button
+. This
+opens
+the
+Debit PIN Pad Setup
+window
+. 
+ PIN Pa
+d
+Device
+–
+Select the type of PIN Pad that is being used. 
+ COM Port
+–
+Select the COM Port into which the PIN Pad
+device is plugged. 
+ Default Message
+–
+automatically set to 
+READY
+. T
+his message appears on the PI
+N
+P
+ad
+when it is ready for use (commonly changed to “Thank You”). 
+ Test Button
+–
+Click the Test
+button to verify that the PIN
+P
+ad
+is communicating 
+correctly with the COM Port that was selected. If 
+i
+t is the correct port, the PIN
+P
+ad will 
+ask for a password. “1234” can be entered as the password and press 
+Enter
+on the PIN 
+Pad.
+
+
+(
+If it does not 
+connect, try another COM port from the 
+drop
+-
+down
+menu
+.
+)
+
+
+ Click 
+OK
+. 
+
+
+Prescription Label
+
+
+Prescription Label 
+
+
+To set up the default prescription label
+settings:
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | Program | General Branch Setup.

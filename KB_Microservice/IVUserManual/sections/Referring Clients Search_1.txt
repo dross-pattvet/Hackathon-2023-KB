@@ -1,0 +1,321 @@
+Referring Clients Search
+
+
+When you enter new client information, you can opt to select a referring client
+. T
+his search will 
+find referring clients
+. O
+nce th
+e search is completed, you can print appreciation cards or letters to 
+referring clients. 
+
+
+How to Search Using Referring Client Search
+
+
+ From the 
+IntraVet
+Menu Bar
+,
+select
+Communications
+| 
+Referring Clients Search
+.
+
+
+ Enter the 
+Beginning
+and 
+Ending
+D
+ate
+range. 
+The date that the computer is searching is 
+the entry date of the client that was referred. You can also select the 
+down
+-
+arrow
+to 
+make your choice from a calendar.
+ Select the branch you want to search or choose All Branches.
+ To 
+Include Clients with futur
+e Appointments
+, check the corresponding box.
+ Click 
+Search
+. A progress bar indicates that your search is in progress.
+
+
+Referring Client Search
+–
+Result List
+
+
+When your search is complete, the 
+Result List
+populate
+s. These are patients and clients matching 
+your search criteria. You can edit or research this list before sending 
+email
+s, cards, letters or 
+exports. 
+
+
+
+
+<<NEW PAGE 384>>
+
+
+To remove a contact from the 
+Result List
+:
+
+
+ Uncheck the box on the right. This will omit them from the 
+P
+rint
+/
+Process
+.
+
+
+To print the 
+Result List
+:
+
+
+ Click 
+Print/Process 
+in the lower right corner of the 
+Result List 
+window.
+
+
+You can also go to the client’s account:
+
+
+ Right
+-
+click and select 
+Open selected Client
+.
+
+
+Referring Clien
+t Search
+–
+Print Cards
+
+
+To print reminder cards for the clients found in your search:
+
+
+ Click the 
+Cards
+radio button and check the options desired:
+a. 
+Print only month and year for reminder dates:
+If checked, the day 
+will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+b. 
+Print multiple pets on cards/letters:
+Check to combine patients in the same 
+household on the same card. This reduces the number of cards needed. If 
+unchecked, each patie
+nt gets an individual card. Eight due procedures fit on a 
+multiple patient reminder card, four procedures on a single patient. Single 
+patient cards allow more room for a text message. 
+c. 
+Exclude clients with email address:
+If checked, clients with email ad
+dresses 
+receive emails instead of printed cards. Save paper and cards by sending 
+communications by email when you can. 
+d. 
+Send email to those with email addresses:
+Check to send only an email.
+e. 
+Send as card/letter and email:
+Check to send an email and a card
+.
+
+
+
+
+<<NEW PAGE 385>>
+
+
+f. 
+To change the already created (canned) text, click 
+Edit
+. 
+g. 
+Make your changes and click 
+Save
+.
+
+
+ 
+
+
+Referring Client Search
+–
+Print Letters
+
+
+To print letters for clients found in your s
+earch:
+
+
+ Click the 
+Letters
+radio button and check the options desired: 
+a. 
+Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+b. 
+Print multiple pets on reminder car
+ds/letters:
+Check to combine patients in the 
+same household on the same letter. This reduces the number of letters needed. 
+If unchecked, each patient gets an individual letter. 
+c. 
+Exclude clients with email address:
+If checked, clients with email addresse
+s 
+receive emails instead of printed letters. Save paper by sending 
+communications by email when you can. 
+d. 
+Send email to those with email addresses:
+Check to send only an email.
+e. 
+Send as card/letter and 
+email
+:
+Check to send an email and a letter.
+f. 
+To change 
+the already created (canned) text, click 
+Edit
+. 
+g. 
+Make your changes and click 
+Save
+.
+
+
+ Click 
+Print
+to send your letters to the default printer. If the option to send as 
+email
+is 
+selected, the 
+email
+will also be sent when you click 
+Print
+. A progress bar indic
+ates that 
+your letters are being printed.
+
+
+Referring Client Search
+–
+Print Labels
+
+
+To print mailing labels on Avery laser labels (5161 or 5261) for clients found in your list:
+
+
+ Click the 
+Print Labels
+tab and check
+the options desired:
+a. 
+Exclude clients with 
+email
+address:
+If checked, clients with 
+email
+do not have 
+labels printed. 
+b. 
+Click
+Print
+to send your labels to the default printer. A progress bar indicates 
+that your labels are being printed.
+
+
+
+
+<<NEW PAGE 386>>
+
+
+Referring Client S
+earch
+–
+Export
+Result List
+
+
+To export your 
+Result List
+for use with a third
+-
+party application, for online reminders or Word:
+
+
+ Select
+the 
+Export
+tab.
+ Place a check in the 
+Referred Client
+checkbox to activate 
+the option for 
+Number of 
+clients
+, 
+One record per 
+referring c
+lient
+and 
+One record per referral client
+. If a client has 
+more than one patient matching your search criteria, you may want to send only one 
+card, letter or 
+email
+.
+ If exporting 
+referred client
+in
+formation, enter the 
+Number of 
+clients
+(maximum is 9).
+ Click to highlight each 
+Referred
+Client
+field to export. 
+ If exporting 
+client
+information, click to highlight each 
+Client
+field to export.
+ Select 
+One record per 
+referri

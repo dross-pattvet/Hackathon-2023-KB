@@ -1,0 +1,153 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Recommendation.png
+Recommendation
+
+
+You can
+keep track of those clients who follow your instructions, e.g., schedules a dental exam 
+with
+in 60 days after you recommend one to them
+. W
+hen the client does not schedule an 
+appointment, “No Compliance” prints on reports. 
+
+
+Recommendation
+Code
+–
+B
+asic Tab
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Recommendation
+.
+
+
+ To create a new Recommendation code, 
+select
+New
+at the bottom of the 
+Recommendation Code List screen.
+
+
+
+
+<<NEW PAGE 104>>
+
+
+ Click the 
+Basic
+tab.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Descr
+iption
+. The 
+Description
+is the terminology you typically use in your 
+practice
+.
+ Enter
+a 
+Client
+Description
+. Use terminology that a client will better understand. For 
+example, the Description might be “Dental Prophy,” but the Client Description would 
+be “
+Dental Cleaning.”
+ Click 
+OK
+.
+ To revise a 
+Description
+or 
+Client
+Description
+of an existing Recommendation code, click 
+once to highlight, and then click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary c
+hanges and click 
+OK
+.
+ To inactivate a Code/Description, 
+highlight the desired code 
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+Recommendation Code 
+–
+Mess
+age
+Tab
+
+
+ From the IntraVet Menu Bar, select 
+Setup | General Codes |
+Recommendation
+.
+
+
+
+
+<<NEW PAGE 105>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Recommendation.png
+ Highlight the Recommendation Code that requires a message. 
+Select
+Edit
+at the 
+bottom of the Recommendation Code List screen.
+ Select
+the 
+Message 
+tab.
+ Click the 
+down
+-
+arrow
+next to each 
+Print Documents
+field to select a maximum of two 
+handouts to send home with the client.
+ Click 
+OK
+.
+ To revise your choices after the window h
+as been closed, repeat steps above
+.
+ Click 
+OK
+.
+ To 
+inactivate a Recommendation Code
+and its associated message code, highlight it in 
+the Recommendation Code List screen and click the 
+Inactivate
+button at the bottom of 
+the screen. (A s
+econd chance warning will appear asking to confirm the decision to 
+Inactivate
+.
+) You will receive a pop
+-
+up that alerts you that the process could take some 
+time.

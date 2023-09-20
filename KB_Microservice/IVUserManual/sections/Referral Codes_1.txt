@@ -1,0 +1,309 @@
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+. 
+ Click the appropriate radio button for the patient’s sex. 
+If checked, the altered box 
+does not allow for an alternative sex to be selected below 
+–
+that code is already alt
+ered. 
+For example, a Female Spayed code would be checked as Altered; a Female code would 
+be selected as female and have an altered sex of Female Spayed.
+ Click in the 
+Altered Sex
+blank entry lines and choose the desired Code/Description or 
+use the 
+down
+-
+ar
+row
+.
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Sex Code, click once to 
+highlight the desired 
+code 
+and,
+and then click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+
+
+Referral Codes
+
+
+Ref
+erral Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Referral
+codes can be used to track the effectiveness of 
+the practice’s
+public relations efforts. 
+These codes are used to 
+link
+each client with a code that indicates
+how he/she found out about the
+practice.
+Some 
+commonly entered codes are 
+Website
+, 
+Newspaper 
+and 
+Yellow Pages
+.
+If other 
+means of advertising 
+are
+used for the practice, 
+enter these as referral codes.
+
+
+Periodically run the 
+Client
+Referral Report
+to monitor the number of 
+clients for each referral code 
+and the year
+-
+to
+-
+date total sales for each referral code.
+(This report pulls the date from when the 
+client was entered into the system. It does not pull from when the referral was added to the Client.)
+
+
+ From the 
+IntraVet
+Menu B
+ar, select 
+Setup | General Codes | 
+Referral Code
+s | 
+Referral 
+Code
+.
+
+
+
+
+<<NEW PAGE 56>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-ReferralCodes-Referral Code.png
+ To create a new 
+Referral
+code, click 
+New
+at the bottom of the Referral Code List screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+. 
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Referral Co
+de, 
+highlight the code
+and click 
+Edit
+at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, highlight
+the desired code
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warnin
+g will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+
+
+<<NEW PAGE 57>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-ReferralCodes-Referring Clinic.png
+Referring 
+Clinic
+Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Many 
+practices 
+like to send courtesy thank you letters to other 
+practices 
+when they refer a patient 
+to them. 
+Setting up a separate code for each referring 
+practice 
+allows 
+for a quick
+mail merge onto 
+a master letter. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Referral Code
+| 
+Referring 
+Practice
+.
+
+
+ To create a new 
+Referring 
+Practice
+code, click 
+New
+at the bottom of the Referring 
+Practice 
+List screen.
+ Enter
+a 
+Code
+.
+ Complete the Name and Address information. 
+ Click 
+OK
+.
+ To revise 
+any information
+of an existing Referring 
+Practice 
+Code, 
+except the code itself, 
+click once to highlight, and then click the 
+E
+dit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, highlight
+the desired code
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+con
+firm the decision to 
+Inactivate
+.
+) 
+
+
+
+
+<<NEW PAGE 58>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-ReferralCodes-Referring Provider.png
+Referring Provider Codes
+–
+Create, Edit or 
+Inactivate
+
+
+Many 
+practices 
+like to send courtesy thank you letters to other providers when they refer a patient 
+to them. 
+Setting up a separate
+code for each referring provider allows 
+for a quick
+mail merge onto 
+a master letter. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Referral Code | 
+Referring 
+Provider
+.
+
+
+ To create a new 
+Referring Provider
+code, click 
+New
+at the bottom of the 
+Referring 
+Provider List screen.
+ Enter
+a 
+Code
+.
+ Complete the Name and Address information. 
+
+
+
+
+<<NEW PAGE 59>>
+
+
+ Click 
+OK
+.
+ To revise 
+information
+of an existing Referral Provider Code, click once to highlight, and 
+then click the 
+Edit
+button at the bottom of the screen.
+ Make the n
+ecessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, 
+highlight the desired code 
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+ Once the Refer
+ring Provider has been created, you will link this provider to 
+a patient
+visit and/or Appointment.

@@ -1,0 +1,121 @@
+ If the docum
+ent’s name needs to be changed, 
+select
+Save
+as
+in the 
+Attached Files
+screen’s Menu Bar. Give the document a new name and click 
+Save
+.
+ To remove a document, 
+select it and click
+Delete
+.
+ To view a document, 
+select
+View
+in the Menu Bar or double
+-
+click on the d
+ocument title. 
+ If you make changes to a document, you can save it under a different name to preserve 
+the original document or overwrite the original document.
+ The patient’s Visit
+window will display an attachment icon (page and paperclip) ne
+xt to 
+the visit date and at the end of each Plan line that has an attached document. 
+See 
+illustration in
+the step above
+.
+ To view a comprehensive list of documents and images attached to a patient’s visit, 
+select
+Attachments
+in the
+Menu Bar. To view attachments for a specific plan, 
+select
+the 
+attachment icon on each Plan line.
+
+
+Plan
+Section of the Visit
+
+
+After the patient is checked in, you can make changes as services are 
+comp
+leted.
+
+
+ T
+o add items to the patient 
+Plan
+, either click 
+Plan
+in the 
+Navigation
+panel to jump to 
+the Plan section, or scroll up/down the window.
+ Double
+-
+click in a blank Plan line, and 
+Enter
+the code or description of the item you 
+want to add.
+ Press the 
+Ente
+r
+key to accept the item and exit the line. 
+Then click 
+Add
+.
+ T
+o delete an item in a treatment plan, right
+-
+click on the line and select 
+Delete
+.
+ To 
+add a line note
+,
+right
+-
+click on
+a
+plan
+line that
+displays
+a treatment, and select 
+Add 
+Line Note
+.
+
+
+Loading 
+Estimates into the Visit
+
+
+Estimates
+or 
+Estimate Templates
+can be directly loaded into the visit, either to a blank Plan section 
+or an existing Plan section with l
+ine items
+. T
+hese can be added at any time before check
+-
+out. 
+
+
+ Open the Visit
+by double
+-
+clicking on the client/patient line in 
+the 
+Control Center
+.
+ Click 
+Estimate
+in the Visit
+Menu Bar.

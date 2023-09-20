@@ -1,0 +1,287 @@
+ Save as Type:
+Choose the file type you want to save it as. You can
+export it as Delimited 
+text, Excel, XML, or Healthy Pet (encoded for use with 
+Healthy Pet
+magazine).
+ Click 
+Save
+.
+
+
+New Patient Search
+
+
+Search for new patients to your practice and send them newsletters, welcome packets, or 
+discount
+s for wellness packages.
+
+
+ From the 
+IntraVet 
+Menu Bar
+, 
+select
+Communications
+|
+New Patient Search
+.
+
+
+ Enter a 
+Beginning
+and 
+Ending
+D
+ate
+range
+. You can also select the down
+-
+arrow to make 
+your choice from a calendar.
+ Branch:
+Choose a branch to search patients 
+from that branch only, or select all 
+branches.
+ Search for new Patients from new Clients only:
+When checked, only new clients will be 
+searched; otherwise, an existing client who has brought in a new patient will be 
+included in the search.
+ Include Clients wi
+th future Appointments: 
+Check to include clients with future 
+appointments.
+ Exclude Temporary Clients: 
+Check to exclude new clients who have no activity (visits or 
+invoices) entered in the system.
+ All Species are selected by default. 
+
+
+If you want to incl
+ude only certain species:
+
+
+ Uncheck a box to remove that species. Leave a check for only the species you want to 
+include.
+ If you want only one (or a few species), it is quicker to exclude all species by removing 
+the check in the checkbox next to 
+Description
+. Proceed to
+check the species you do 
+want.
+ Click 
+Search
+. A progress bar indicates 
+that your search is in progress. 
+
+
+
+
+<<NEW PAGE 372>>
+
+
+A
+Result List
+appears. 
+
+
+If you are logged into ePetHealth and 
+select
+the ePetHealth button
+within the New Patient Search
+, 
+the ePetHeal
+th Birthday Cards setup page will open in your web browser.
+
+
+New Patient
+–
+Result List
+
+
+When your search is complete, the 
+Result List
+populates
+. T
+hese are patients and clients matching 
+your search criteria
+. Y
+ou can ed
+it or research this list before sending 
+email
+s, cards, letters or 
+exporting records.
+
+
+To remove a contact from the 
+Result List 
+print or export:
+
+
+ Uncheck the box on the left. This will omit them from the Print
+/
+Process or Export.
+
+
+You can go to the client’s 
+account from this location.
+
+
+ Right
+-
+click and select 
+Open selected Client
+.
+
+
+To print the 
+Result List
+:
+
+
+ Click the 
+Print
+radio button. This will display the number of 
+Matching Results
+.
+ Click the 
+Results
+radio button under 
+P
+rint what?
+ Click 
+Print
+/
+Process 
+in the lower right corner of the 
+Result List 
+window.
+
+
+
+
+<<NEW PAGE 373>>
+
+
+New Patient
+–
+Print Cards
+
+
+To print 
+New Patient
+cards fo
+r clients found in your search: 
+
+
+ Click the 
+Cards
+radio button and check t
+he options desired:
+ Enter the 
+Card Text
+or use the down
+-
+arrow to select from the canned text.
+ Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+ Print mult
+iple pets on cards/letters:
+Check to combine patients in the same 
+household on the same card. This reduces the number of cards needed. If 
+unchecked, each patient gets an individual card. Eight due procedures fit on a 
+multiple patient reminder card, four
+procedures on a single patient. Single patient 
+cards allow more room for a text message. 
+ Exclude clients with email address:
+If checked, clients with email addresses receive 
+emails instead of printed cards. Save paper and cards by sending communication
+s 
+by email when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card/letter and email:
+Check to send an email and a card.
+ To change the already created (canned) text, click 
+Edit
+. 
+ Make your changes and click 
+Save
+.
+
+
+ 
+
+
+
+
+<<NEW PAGE 374>>
+
+
+ Click
+Print/Process 
+to send your cards to the default printer. If the option to send as 
+email
+is selected, the 
+email
+will also be sent when you click 
+Print
+. A progress bar 
+indicates that your cards are being printed. 
+
+
+New 
+Patient
+–
+Print Letters
+
+
+To print 
+New Patient
+letters f
+or clients found in your search:
+
+
+ Click the 
+Letters
+radio button and check the options desired: 
+ Enter 
+Letter Text
+or use the down
+-
+arrow to select from the canne
+d text.
+ Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/1
+9
+.
+ Print multiple pets on reminder cards/letters:
+Check to combine patients in the 
+same household on
+the same letter. This reduces the number of letters needed. If 
+unchecked, each patient gets an individual letter. 
+ Exclude clients with email address:
+If checked, clients with email addresses receive 
+emails instead of printed letters. Save paper by se
+nding communications by email 
+when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card/letter and email:
+Check to send an email and a letter.
+ To change the already created (canned) text, click 
+Edit
+. 
+ Make your chan
+ges and click 

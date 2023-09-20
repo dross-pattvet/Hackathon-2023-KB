@@ -1,0 +1,315 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\edit patient.png
+ Click 
+Close
+.
+
+
+Edit Medical Histo
+ry
+
+
+Revise Patient Weight
+
+
+If a patient’s weight was recorded incorrectly, for example, the weight can be changed, even on 
+the same day that i
+t
+was originally recorded. 
+
+
+Patient weight is accessed several ways, one of which is through a patient’s history
+. I
+f necessary, 
+open 
+Control Center
+by clicking on the icon 
+in the upper left corner of the main 
+IntraVet
+window.
+
+
+ From 
+Control Center
+, locate the date of the visit and c
+lick once to
+highlight the 
+client/patient line
+. R
+ight
+-
+click on the client/patient line
+.
+S
+elect
+Edit
+. 
+
+
+ Click the 
+Edit Patient
+icon.
+
+
+ Select the 
+Weights
+tab.
+ Select the 
+Date
+.
+ Enter the 
+Weight
+.
+ Click 
+Record
+.
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 343>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\edit patient.png
+You can also access the account u
+sing the 
+Client Account
+Management
+tool. 
+
+
+ From the IntraVet Menu Bar, 
+select
+Open Account
+. The Client List screen will 
+appear. Scroll, if necessary, to locate the client’s name. 
+ Double
+-
+click on the client’s name to o
+pen that account. 
+ Click the 
+Edit Patient
+icon.
+
+
+ Select the 
+Weights
+tab.
+ Follow 
+the steps above
+.
+
+
+Add Patient Photo
+
+
+The client oftentimes wants to add a photo of the patient to their file
+. A
+photo can be add
+ed when 
+the account is created or after it is saved and closed.
+
+
+To open the 
+Control Center
+, 
+select
+the 
+icon
+in the upper left corner of the 
+IntraVet
+window.
+
+
+ From 
+Control Center
+, 
+click once to
+highlight a client/patient line
+.
+R
+ight
+-
+click
+on the 
+client/pat
+ient line and 
+select
+Go To | Account
+.
+ Right
+-
+click in the picture frame and select 
+Load
+.
+
+
+
+
+<<NEW PAGE 344>>
+
+
+ Navigate to the location where the patient photo is stored and double
+-
+click on the title, 
+or click once on the title and click 
+Open
+. If you want to change the photo 
+or you loaded 
+the wrong photo, just right
+-
+click on the photo and select 
+Delete
+.
+
+
+If the client and patient information has already been entered and saved, the client can be located 
+by more th
+an one method, one of which is:
+
+
+ Click
+the 
+Open Account
+icon
+below the 
+IntraVet
+Toolbar to locate the client
+. 
+Scroll to 
+the account or 
+e
+nter
+the Search field. 
+ D
+ouble
+-
+click on the name
+or click 
+Use
+or 
+Edit
+to
+open
+. 
+ Right
+-
+click in the picture frame and select 
+Load
+.
+ Navigate to the loca
+tion where you store patient photos and add the photo.
+
+
+Add Medical Image
+
+
+IntraVet
+supports BMP, JPG,
+PNG,
+and TIF image formats; Doc, PDF, XL, Journal files, and Dicom
+* 
+file types are a
+lso supported
+. S
+canned documents, digital camera and/or ultrasound images that 
+meet these requirements can be stored in the patient’s medical history. 
+
+
+*Dicom
+requires additional equipment, software and setup.
+
+
+Stored images can be displayed,
+printed and 
+email
+ed as an attachment. 
+
+
+Images are attached to the patient’s medical record from the 
+Control Center
+. U
+se the calendar to 
+locate the day of the patient’s visit. 
+
+
+ Double
+-
+click on the client/patient line to open the visit
+or right
+-
+click and g
+o to Open 
+Visit
+.
+ Right
+-
+click on the 
+Plan
+line where you want to attach the image. 
+ Choose 
+Line Attachment
+from the pop
+-
+up menu. 
+
+
+
+
+<<NEW PAGE 345>>
+
+
+Attachment icon
+An 
+Attachments
+window appears.
+
+
+ Click 
+New
+. 
+Navigate to the location w
+here the image is stored and double
+-
+click on the 
+title, or click once on the title and click 
+Open
+. If you want to change the image or you 
+loaded the wrong image, click once on the image to highlight and click 
+Delete
+.
+
+
+When an image is attached to a 
+Plan
+li
+ne, an attachment icon (page and paperclip 
+) 
+appears next to the line. You can attach multiple images to a Plan line.
+
+
+ If you want to change the image’s name, 
+select
+Save as
+in the 
+Attached Files
+Screen’s
+Menu Bar. Give the image a new name and click 
+S
+ave
+As
+.
+ To remove an image, 
+select
+Delete
+.
+
+
+An image can be manipulated (e.g., rotate, zoom, fix color) by either double
+-
+clicking on the image 
+or clicking on 
+View
+in the Menu Bar, then making a selection from the Menu Bar above the image.

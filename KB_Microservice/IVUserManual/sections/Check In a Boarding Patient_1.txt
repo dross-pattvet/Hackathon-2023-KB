@@ -1,0 +1,121 @@
+Search by Confirmation Number or Date
+
+
+To search by Confirmation Number or by Date, follow the instructions for Search by Client except 
+for: 
+
+
+Confirmation Numbe
+r
+
+
+ Select the 
+Search by Conf Number
+tab.
+ Enter the 
+Confirmation Number
+.
+
+
+Date
+
+
+ Select the 
+Search by Date
+tab. 
+ Enter the 
+Start
+and 
+End
+dates using the down
+-
+arrow and the calendar provided.
+
+
+Check In a Boarding Patient
+
+
+The patient can 
+be checked in via the Boarding
+or Control Center
+windows.
+
+
+If a patient is not checked 
+in because of a no
+-
+show or cancellation and the reservation has not 
+been deleted, the cage is unavailable for the duration of th
+e reservation. Delete any no
+-
+shows and 
+cancellations to reopen those cages for availability.
+
+
+ Open the Control Center by clicking on the Control Center icon 
+in the IntraVet 
+Toolbar.
+
+
+
+
+<<NEW PAGE 275>>
+
+
+ Select
+the 
+Boarding
+icon 
+located in the Control Center menu bar.
+ Right
+-
+click on the Client/Patient line for the patient you want to check in. 
+A drop
+-
+down 
+will appear; select 
+Check In
+.
+
+
+The reservation now displays as 
+Checked In
+. You can also wait until the Visit
+form is 
+c
+ompleted and then check in the patient. 
+
+
+ Now that the reservation has been made and the patient is/is not checked in, complete 
+the 
+Visit
+form.
+
+
+ Click the Control Center icon 
+in the Control Center Toolbar to switch back to the 
+Control Center
+grid.
+ Double
+-
+click on the Client/Patient line
+to open the Visit
+. 
+ Use the 
+Add/Remove Section
+options in the left column to add or remove (SOAP
+) 
+elements for the visit.
+ If nece
+ssary, add to the treatment 
+Plan
+by adding services. Type the first few letters of 
+the code/treatment name into a blank field. Once you locate your treatment choice, 
+double
+-
+click on it to move it into the blank line.
+ With the treatment
+highlighted (surrounded by a dotted line), press Enter to move 
+through to the end of the entry line. Choose the 
+Provider
+, if necessary.

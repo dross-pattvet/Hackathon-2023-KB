@@ -1,0 +1,159 @@
+ The blank line at the bottom of the window can be used to include a 
+standard message 
+on each invoice
+. E
+xamples of commonly used messages are 
+practice 
+slogans, hours of 
+operation, emergency 
+practices 
+for after hours, etc
+. 
+o There is a 
+116
+-
+character
+limit. Letters, numbers, spaces and punctuation are 
+included in the charac
+ter count.
+
+
+ Click 
+OK
+to save your changes
+.
+
+
+ 
+
+
+Statemen
+t
+
+
+Statement
+Setup
+
+
+Statement
+setup defines the monthly statement parameters
+. T
+hese parameters are the general 
+guidelines
+for the preparation of 
+monthly billing 
+st
+atements. 
+You can customize c
+lient accounts 
+individually by editing the selections that affect the monthly statements in the Setup screen of 
+Edit Client
+. 
+
+
+Whether or not to charge
+billing fees an
+d interest is an option at the time of billing, so even if 
+monthly interest 
+and billing fees have
+been 
+defined, the client is not charged unless the account
+has been set
+to receive these charges, and the program 
+was set 
+to charge the client at the time 
+whe
+n monthly statements are generated.
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+|
+Program
+| General Branch Setup. 
+
+
+
+
+<<NEW PAGE 18>>
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+ Select
+Statement
+. 
+ Billing Fee Amount
+–
+Enter the amount to be charged for a Billing Fee, if any.
+ Print on Statement as 
+–
+Enter the description you want printed on the statement for 
+the Billing Fee Amount.
+ Monthly Interest %
+–
+Enter the percentage to be charged for Monthly Interest, if any.
+ Print on Statement as 
+–
+Enter the description you want printed on the statement for 
+Monthly Interest Fee
+.
+ On Summary Page
+, Combine Invo
+ices
+for the Same Patient 
+–
+When this box is checked, 
+the summary page displays a total for the combined outstanding invoices for the 
+patient without a description of the individual visit totals.
+
+
+If 
+Printing Detailed St
+atements
+
+
+When printing detailed statements
+, you have
+three 
+additional 
+optio
+ns
+. W
+hen checked:
+
+
+ Page Break for Each Patient
+–
+A separate detailed statement prints for each patient.
+If 
+unchecked, patients are combined onto th
+e same page, if possible, 
+but detailed 
+separately
+.
+ Print Unit Price 
+–
+Clients will see the price per unit on the monthly statement. When 
+unchecked, only the quantity and total amount prints.
+ Print Totals by Invoice
+[or 
+Print Totals by Patient
+]
+–
+The details with a total for each 
+invoice prints. When unchecked, the list of details for the whole billing period and total 
+for each patient is provided.
+ After selections have bee
+n made, click 
+OK
+to save your changes
+.

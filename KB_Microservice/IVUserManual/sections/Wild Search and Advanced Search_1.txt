@@ -1,0 +1,57 @@
+Control Center
+
+
+Wild Search
+and Advanced Search
+
+
+Many of the workflow and tracking features will require you to locate a client or patient.
+There will 
+be times when you need to search by breed, species, or invoice, for example. 
+This type of search is 
+quickly handled 
+by 
+Wild Search
+and 
+Advanced Search
+.
+
+
+General Wild Searc
+h
+
+
+Use 
+Wild Search
+on the 
+IntraVet
+T
+oolbar for specific client or patient information searches.
+
+
+ Click in the 
+Wild Search
+field
+. 
+Enter
+a tag ID, phone number, 
+email
+address, street name 
+or the first few letters of a client name.
+ Press Enter or click 
+Search
+an
+d select 
+General Wild Search
+.
+
+
+ A list of possible matches appears. It displays the client name with the patient name, 
+and type of match. For example, if you type “5678,” you may get a matching Tag ID for 
+a patient and a matching street number for a clie
+nt’s address.
+ The number of matches display
+s
+at the bottom of the window.
+ As you hover or roll your mouse over each client or patient in the list, additional 
+client/patient information pops up.

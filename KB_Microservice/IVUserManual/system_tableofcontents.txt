@@ -1,0 +1,4 @@
+Give me a json array of json with content and page properties for each key value pair found in the table of contents below. Its a table of contents section from a pdf. Please remove any duplicates you find.
+
+<<TABLE OF CONTENTS>>
+

@@ -1,0 +1,25 @@
+RADInfo Integration
+
+
+RADInfo Integration Setup
+
+
+ From the IntraVet Menu Bar, select Setup | Other Programs | PUR Digital Viewer 
+Setup. 
+
+
+ Enter the Server Path for the PURdigital software. 
+ Click OK. 
+
+
+RADInfo File Acquisition
+
+
+ From the IntraVet Toolbar, select the Control Center icon, or 
+
+
+ Open the Appointment Calendar. Select Appointment | Appointment Calendar in 
+the IntraVet Menu Bar. 
+
+
+ Select the New hot link in the Control Center Menu Bar, or

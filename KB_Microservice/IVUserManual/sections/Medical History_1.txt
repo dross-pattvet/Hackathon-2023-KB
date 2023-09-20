@@ -1,0 +1,57 @@
+Medical History
+
+
+Medical History
+provides a complete, integrated picture of the patient’s health.
+
+
+Open Medical History
+
+
+There are several 
+methods 
+to open 
+Medical History
+; only two are outlined below. 
+
+
+Clien
+t Account
+:
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Open Account
+. The Client
+List screen will 
+appear. 
+S
+croll, if necessary, to locate the client’s name
+. 
+ Double
+-
+click on the client’s name to open that account. 
+ Click 
+once to highlight the Patient. Click the 
+Medical History
+icon. 
+
+
+Patient Status
+:
+
+
+ In 
+Control Center
+, right
+-
+click on the client/patient 
+Visit l
+ine.
+ Click 
+Go To | Patient | 
+Medical History
+.

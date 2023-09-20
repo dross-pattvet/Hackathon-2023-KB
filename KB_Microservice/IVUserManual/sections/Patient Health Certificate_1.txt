@@ -1,0 +1,61 @@
+ Enter the 
+Number of copies
+.
+ Click 
+Print
+.
+
+
+Print 
+Altered 
+Certificate
+
+
+Some breeders and licensing agencies require proof of alteration of a pet’s sex. 
+You can print or 
+rep
+rint a
+n
+Altered
+Certificate
+for a patient. 
+If the patient’s gender (as entered in the patient 
+information) is not MN or FS the certificate will not print.
+
+
+Patient Health Certificate
+
+
+Some places
+require that a health ce
+rtificate be provided when an animal is traveling. 
+Notes 
+relevant to a specific patient are entered individually.
+
+
+
+
+<<NEW PAGE 305>>
+
+
+ To enter canned text: 
+From
+the 
+Control Center
+, 
+right
+-
+click on the client/patient line and 
+go to 
+Print | Health Certificate
+.
+
+
+ Click the down
+-
+arrow next to 
+Select Canned Text
+, or 
+e
+nter
+your own.

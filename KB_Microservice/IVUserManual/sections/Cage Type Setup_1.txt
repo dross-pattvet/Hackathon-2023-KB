@@ -1,0 +1,183 @@
+Cage Type
+Setu
+p
+
+
+C
+age codes and descriptions 
+must be 
+set up as well as codes and descriptions for cages that will 
+accommodate
+more than one 
+patient
+prior to saving reservations
+. 
+These
+codes and descriptions 
+are necessary to make a reservation.
+
+
+How to set up Cage Types
+
+
+ F
+rom
+the 
+IntraVet
+Menu Bar, select
+Setup 
+| 
+Boarding
+| 
+Cage Type
+Setup
+.
+
+
+ Click 
+New
+to create new Cage Type codes and descriptions.
+ After the coding system has been d
+etermine
+d,
+enter the 
+Code
+. 
+If
+adding to
+existing 
+codes, it is be
+st to
+follo
+w the coding convention 
+already established.
+ Add a short 
+Description
+for 
+the
+code.
+ Capacity
+–
+Determine
+how many patients 
+the
+cage
+can
+accommodate
+together
+.
+ Quantity
+–
+Dete
+rmine
+how many 
+cages of that type are available
+.
+
+
+
+
+<<NEW PAGE 43>>
+
+
+ Charge
+–
+If a charge code is assigned to a cage type, it defaults to that charge code 
+when creating a reservation for that cage type
+. H
+owever, the charge code can always 
+be
+changed during the reservation.
+This code can be set
+up under 
+Setup | General 
+Codes | Procedure Codes.
+ Add an 
+Alternative cage type
+for split reservations
+–
+Use the blank entry line
+at the 
+bottom of the window to locate a 
+Cage Type
+Code
+to be used as an alternative cage 
+type for the Cage Type that is being added. (
+Multiple cage types will need to be set up 
+first and then, go back through them to add t
+his option. 
+Also
+, this section needs 
+to be 
+filled out only 
+if
+there will be Split Reservations enabled in the Boarding Setup under 
+General Branch Setup).
+
+
+T
+ype the first few 
+characters
+into 
+the field
+. 
+While the mouse cur
+sor is inside a field, 
+select
+Enter
+on 
+the
+keyboard
+to move 
+the
+selection into the grid.
+
+
+ If
+the wrong cage type 
+is chosen 
+or 
+needs to be changed
+, r
+ight
+-
+click the
+cage type 
+and 
+select
+Remove
+.
+
+
+ Click
+OK
+when complete
+.
+ Click the 
+New
+button
+at the bottom of the window
+to add another 
+Cage Type
+code and 
+description. 
+ To revise 
+either 
+the Code or Description of an existing Cage Type code, 
+select
+to 
+highlight, and then click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+ To inactivat
+e a code/description, highlight
+the desired code and
+click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+).

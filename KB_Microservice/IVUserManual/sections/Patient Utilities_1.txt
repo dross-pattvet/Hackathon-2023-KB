@@ -1,0 +1,366 @@
+Patient Utilities
+
+
+Before using Patient
+Utilities, make a full backup of your data.
+
+
+Patient Owner Change
+
+
+Patient Owner Change
+will move the patient, history, logs, and reminders, to another client’s 
+account
+. T
+he invoices and financial records will remain with the original client
+. B
+efore running the 
+patient owner change utility, make su
+re that the new client exists in your system
+. A
+ll financial 
+responsibility prior to the transfer will remain with the original owner. 
+
+
+ From the
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Patient Utilities
+| 
+Patient Owner 
+Change
+. 
+
+
+ Select the client by
+entering the 
+Old Account
+number or name. 
+Enter
+the first few 
+letters of the client’s last name. Double
+-
+click on the correct name to move it into the 
+blank entry line.
+ If the client has multiple patients, the first patient name appears in the 
+Patient
+fie
+ld. 
+Click the down
+-
+arrow to choose a different patient. 
+ Select the new client by entering the 
+New Account
+number or name as described 
+above. 
+ Click 
+Start
+. 
+
+
+
+
+<<NEW PAGE 445>>
+
+
+You will see a progress bar across the bottom of the 
+Patient Owner Change
+screen as the records 
+ar
+e transferred. 
+
+
+If you do not want to change patient owners, click the 
+X
+(before you click Start) 
+in the upper right 
+corner of the window to exit.
+
+
+Patient Combine
+
+
+This utility combines two patient
+s that have the same status to one client
+. T
+he program will 
+recalculate reminders for the combined patient.
+
+
+ From the
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Patient Utilities
+| 
+Patient Combine
+.
+
+
+ Select the client by entering the 
+Old Account
+number
+or name. 
+Enter
+the first few 
+letters of the client’s last name. Double
+-
+click on the correct name to move it into the 
+blank entry line. 
+ Select
+the first patient name in the 
+Patient to Combine
+field. Click the down
+-
+arrow to 
+choose the correct patient. 
+ Select the 
+Patient to Keep
+by clicking on the down
+-
+arrow and choosing the patient’s 
+name. 
+ Click 
+Start
+.
+
+
+You will see a progress bar across the bottom of the 
+Patient Combine
+screen as the patient’s record 
+is transferred. 
+
+
+
+
+<<NEW PAGE 446>>
+
+
+Patient Delet
+e
+
+
+When a patient is deleted, unless you choose to “archive” the patient data, all patient related data 
+is permanently deleted from the system
+. T
+he patient will be deleted permanently, but its history 
+will be written 
+to an archive file, and you will be able to access all data in the pet history for display 
+or print, except the images and referral letters
+. O
+nce a patient is removed from the system it 
+cannot be reactivated. 
+There is a record made to the deletions list t
+hat provides:
+
+
+ The date the patient was deleted, and
+ The operator ID of the person who deleted the patient.
+
+
+Consider inactivating the patient instead of deleting if you wish to have access to the patient’s medical 
+history.
+
+
+The client and patient statistics 
+report does not include archived patient information. 
+
+
+Tag ID
+and 
+Vaccination
+list reports will not include archived patients. 
+
+
+ From the
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilitie
+s
+| 
+Patient Utilities
+| 
+Patient Delete
+. 
+
+
+ Select the client by entering the account number or name. 
+Enter
+the first few letters of 
+the last name, or double
+-
+click anywhere in the blank entry line. Scroll the list and 
+double
+-
+click on the desired name to m
+ove it into the entry line.
+ If the client has only one patient, that name will appear in the 
+Patient
+field. For 
+multiple patients, 
+select
+the down
+-
+arrow and choose the correct patient. 
+ Click 
+Delete
+. 
+ Confirm the deletion by clicking 
+Yes
+or cancel by clic
+king 
+No
+. 
+
+
+
+
+<<NEW PAGE 447>>
+
+
+
+
+Example One:
+
+
+After you click 
+Delete
+, the following message appears if 
+the patient
+that is being deleted 
+has
+any 
+active visits
+.
+
+
+ Click 
+Yes
+. The Patient Delete screen appears showing a 
+Deleting Patient
+progress bar 
+for the patie
+nt being deleted.
+
+
+If the patient that is being deleted has any open visits or invoices a message will appear that states
+the patient has an active visit. It provides the date and informs you they cannot be deleted.
+
+
+
+
+<<NEW PAGE 448>>
+
+
+ Click 
+OK
+, and the following message 
+will appear.
+
+
+ C
+lick 
+Cancel
+. T
+he Patient Delete message will go away. 
+
+
+Example Two:
+
+
+After you click 
+Delete
+, the following message appears if 
+the patient
+that is being deleted 
+has
+any 
+future visits
+.
+
+
+ 
+
+
+ Click 
+Yes
+. 
+Patient Delet
+e
+message appears.
+
+
+ Click 
+Yes
+. 
+A
+progress bar appears.
+
+
+
+
+<<NEW PAGE 449>>
+
+
+The selected patient is deleted.
+
+
+ C
+lick 
+No
+. T
+he 
+following message will appear
+.
+
+
+ Click 
+Cancel
+. 
+
+
+Example Three:
+
+
+ After you click 
+Delete
+, the following message appears if 
+the patient
+has multiple 
+owne
+rs.
+
+
+ Click 
+OK
+, and the following message will appear.
+
+
+
+
+<<NEW PAGE 450>>
+
+
+ Click 
+Cancel
+. 
+
+
+Definition of List Boxes
+
+
+Client 
+–
+You select the client account of the patient that will be deleted from the system

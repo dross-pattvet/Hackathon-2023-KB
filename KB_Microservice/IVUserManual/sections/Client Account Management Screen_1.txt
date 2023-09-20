@@ -1,0 +1,70 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\Status.png
+Client Account Management Screen
+
+
+The box on the upper left side of the Client Account
+Management
+Screen holds that client’s list of 
+patients. This list holds both active and inactive patients. Black means active and red inactive. 
+Inac
+tive patients will 
+display at
+the bottom of this list.
+
+
+If the patient has an operator warning a red exclamation point will show on the right side, in this 
+box. Hold the mouse over the red exclamation point and the warning will appear.
+
+
+Right
+-
+click in th
+e patient list to choose between the following options: 
+
+
+ Add Patient
+
+
+ Edit Patient
+
+
+ Split Ownership
+
+
+ Status
+
+
+ Client Label
+
+
+
+
+Patient General Overview 
+
+
+When a patient is selected, the weight
+chart and a general overview are
+provided of the patient’s 
+inform
+ation to the right of the patient list. Items such as the species, breed, sex, color, microchip #, 
+rabies tag #, weight, date of birth, status, patient’s picture (if one is uploaded for that patient) and 
+the client account balance will appear. 
+
+
+Patient We
+ight 
+
+
+To edit the patient’s weight from the general C
+lient Account Management screen, r
+ight
+-
+click in the 
+weight graph and then choose 
+Edit Patient Weights
+. This window 
+allow
+s
+you to edit an existing 
+weight, add a new weight, or even backdate a weight entr
+y.

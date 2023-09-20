@@ -1,0 +1,52 @@
+Column 
+Print 
+
+
+ Click the 
+Printer
+icon in the upper left of the 
+Appointment C
+alendar 
+window and 
+choose 
+P
+rint 
+by column
+.
+
+
+ Print what groups?
+–
+Place a checkmark in the box next to the groups to be printed. If 
+all groups are to be printed, check the box to the righ
+t, 
+Select All
+.
+ Print what columns?
+–
+Place a checkmark in the box next to the columns to be printed. 
+If all columns are to be printed, check the box to the right, 
+Select All
+. 
+ Date Range?
+–
+Use the down
+-
+arrow to select the 
+Start
+and 
+End
+dates.
+ Details
+–
+C
+heck the box if you want to:
+ Print appointment notes?
+ Print empty appointment times?
+
+
+ Click 
+Display
+or 
+Print
+.

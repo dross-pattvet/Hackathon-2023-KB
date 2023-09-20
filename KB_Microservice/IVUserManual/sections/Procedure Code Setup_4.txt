@@ -1,0 +1,207 @@
+
+-
+click the code/description in the Inventory Code List screen, or click once to 
+highlight
+the code
+and click the 
+Edit
+button at the bottom of the screen.
+ Select
+t
+he 
+Linked Items
+tab. 
+ To add another item to the linked list, type a partial code or description into the blank 
+entry line under the grid, or double
+-
+click in the line and scroll to your selection. Then, 
+click 
+Add
+to mo
+ve it into the blank line.
+
+
+
+
+<<NEW PAGE 98>>
+
+
+ Repeat steps above
+.
+ Right
+-
+click on the item, select Discount. 
+Enter
+the amount you want to discount the 
+item. IntraVet fills in the rest of the data.
+ When you are finished, click 
+OK
+to save your data, or click 
+Cancel
+to not 
+make a 
+discount change.
+
+
+ Enter
+either the discount percentage or the amount you want to discount the item. 
+IntraVet fills in the rest of the data.
+
+
+
+
+<<NEW PAGE 99>>
+
+
+ When you are finished, click 
+OK
+to save your data, or click 
+Cancel
+to not make a 
+discount change.
+ You ca
+n click the 
+OK
+button and close the window if you are only adding to the list 
+and/or setting up discounts.
+ However, if you also want to delete a linked item, do not click OK yet. Right
+-
+click on 
+any line and choose 
+Delete
+.
+ When you are done adding and dele
+ting items, click 
+OK
+.
+
+
+Procedure Code 
+–
+Pricing Options
+
+
+Pricing can only be set as one of the three options: 
+Standard Pricing
+, 
+Pricing by Weight
+, or 
+Pricing 
+by Species.
+
+
+ Click the Pricing tab.
+
+
+For Standard Pricing:
+
+
+ Sel
+ect the Standard Pricing radio button to charge standard prices.
+ Enter
+a
+Cost
+for this procedure. (
+optional) Although
+procedures are usually not things 
+that you buy, you can enter a cost for the procedure code. This is intende
+d for 
+procedures such as laboratory and disposal that are purchased services with associated 
+costs. For those procedures that have a cost defined, productivity reports print 
+productivity, cost and net.
+ Enter
+a
+Selling Price
+. E
+nter the price that you normally charge for this procedure. Price 
+can be set to allow overwrite from the 
+Invoicing
+tab in 
+Procedure Code Setup
+. See 
+“Invoicing Options”.
+ Enter
+a price range to use as a default in 
+estimates
+. (This is not a required field.)
+
+
+
+
+<<NEW PAGE 100>>
+
+
+For Pricing By Weight:
+
+
+ Click in the 
+Pricing By Weight
+radio button to charge by the patient’s weight.
+ Use the 
+down
+-
+arrow
+to sele
+ct the 
+Weight Unit
+, or double
+-
+click anywhere inside the 
+entry line.
+ Set the 
+Low
+and 
+High Weight 
+range. 
+ Enter
+the price for that weight range and click 
+Add
+to display your weight ranges and 
+associated prices in grid.
+ Repeat 
+the steps above 
+to add additiona
+l weight ranges until all weight categories are 
+satisfactorily defined. (Choosing a different weight unit after a weight range has been 
+defined will convert existing ranges to the new weight unit.) If this code is applied to a 
+patient whose weight does no
+t fall within a weight range you defined, the 
+Standard 
+Pricing
+for this code is applied.
+
+
+
+
+<<NEW PAGE 101>>
+
+
+For Pricing By Species: 
+
+
+ Click in the 
+Pricing By Species
+radio button to charge by the patient’s species.
+ Use the 
+down
+-
+arrow
+to select the 
+Species
+, or double
+-
+click anywhere inside the entry 
+line.
+ Enter
+the price and click 
+Add
+to display your species
+-
+defined prices in the grid. If this 
+code is applied to a patient whose species is not displayed in the grid, the 
+Standard 
+Pricing
+for this code is applied.
+ When complete, click 
+OK
+to save.

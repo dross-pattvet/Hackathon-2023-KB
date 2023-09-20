@@ -1,0 +1,254 @@
+ Round to the nearest dime
+–
+When selected, rounds prices up or down to the nearest 
+dime.
+ Round to the nearest do
+llar
+–
+When selected, rounds prices up or down to the nearest 
+dollar.
+ Always round up
+–
+Re
+gardless of the updated price, it always rounds up when this 
+checkbox is checked. 
+(This box works with the other rounding selection options with this 
+utility.)
+
+
+You c
+an update:
+
+
+ Individual codes
+.
+ All codes per branch
+.
+ Codes within a certain department or species that are selected.
+
+
+`
+
+
+Inventory Code Quick Edit
+
+
+Inventory Code
+Quick Edit
+allows
+you 
+to 
+quick
+ly change inventory code setup globally, 
+departmentally, or individually
+. Y
+ou can select default settings for more than one field to create a 
+profile and apply the profile to all inventory codes, to specific departments or to individually 
+selected codes. 
+
+
+The settings for the inventory codes are originally set
+up for the code under 
+Setup | General Codes 
+| Inventory
+. Select a code and click Edit, and then click the Invoicing tab.
+
+
+From the 
+IntraVet
+Menu Bar, select 
+Tools
+| 
+Utilities
+| 
+Code
+Utilities
+| 
+Inven
+tory Code Quick Edit
+. 
+
+
+
+
+<<NEW PAGE 477>>
+
+
+When you enter the utility, one code will be selected and the current settings are reflected in the 
+right pane for that code. You can select default settings for more than one field to create a profile 
+and apply the profile to the
+selected procedure codes. 
+
+
+To select multiple codes:
+
+
+ Hold down the 
+Ctrl
+key to highlight and select multiple (non
+-
+consecutive) codes. 
+ Hold down the 
+Shift
+key to highlight and select multiple (consecutive) codes.
+
+
+You can use the utility when you have mu
+ltiple Inventory codes that need to be edited. Codes that 
+were not set
+up properly initially can be corrected in the utility. Run the 
+Inventory Code Quick Edit
+utility, which sets the codes to the preferred settings.
+
+
+The list of codes can be filtered by:
+
+
+ Description 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that identifies the Description.
+ Department 
+–
+Section of your practice.
+ Species 
+–
+Type or variety of animal.
+
+
+Action
+
+
+ Show All 
+–
+Shows all the Inventory codes set
+up within IntraVet. If ther
+e is a filter 
+set and you click 
+Show All
+, it ignores the filter and shows all the inventory codes.
+ Filter 
+–
+Filters the Inventory codes to only show those that meet the requirements 
+added for Description, Code, Department, and Species.
+
+
+When you have a sing
+le code highlighted in the left pane, its current setup is reflected on the right 
+pane. If there is more than one item highlighted, the right pane has everything unchecked at the 
+top, with no tax, and no discount. In order to change the 
+values,
+you must 
+select
+the flag so it 
+changes to green
+. If the flag remains red
+, the codes selected do not update.
+
+
+The following fields are available:
+
+
+Overwrites
+
+
+ Overwrite date 
+–
+If this field is checked it allows the operator to enter a date on the 
+invoice line. 
+
+
+
+
+<<NEW PAGE 478>>
+
+
+Example
+: If you have a patient that has been treated over a period of several days, Line items 
+entered on a date other than the current date, save in the patient history with the line item date. 
+However, the accounting date for the entire invoice is the d
+ate on which it is saved permanently.
+
+
+ Overwrite Description 
+–
+If this field is checked it allows you to change the wording 
+of the description on the invoice and in the patient history for this procedure code. 
+ Overwrite Quantity
+–
+If this field is checked
+it allows you to change the quantity, or 
+default it to 1 and skip the entry. 
+ Overwrite Price
+–
+If this field is checked it allows the price to be changed for this 
+procedure at the time of invoicing. If left unchecked, the price cannot be changed 
+and rem
+ains the price set in procedure code setup.
+ Overwrite Amount
+–
+If this field is checked it allows you to change the total amount 
+for the invoice line. If left unchecked for a code, the amount will always be the total 
+of the quantity times the price.
+
+
+
+
+Taxab
+le
+
+
+The taxable options change depending on what is set
+up for the 
+practice
+. If the 
+practice
+has the 
+secondary tax option selected in general branch setup then the following options will be added to 
+the code edit tax options
+
+
+ No Tax
+–
+If checked, tax will 
+not apply to this code.
+ Primary
+–
+If checked, it will charge for the primary tax option setup in General 
+Branch Setup.
+ Secondary
+–
+If checked, it will charge for the secondary tax option that is set
+up in 
+General Branch Setup.
+ Add Both
+–
+If checked, it wil
+l charge for both Primary and Secondary tax for the 
+code.
+ Compound Both
+–
+If checked, it will compound the Primary and Secondary sales tax 
+for the code.
+ Confirm 
+–
+There will be a pop
+-
+up message asking you to confirm whether or not tax 
+should be charged.
+
+
+
+
+Pr
+icing
+
+
+ Keep Markup % [
+or Keep 
+Price]
+–
+When an item is received into inventory with a 
+price change, IntraVet asks if you want to change

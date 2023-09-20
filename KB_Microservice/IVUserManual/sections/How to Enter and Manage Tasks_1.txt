@@ -1,0 +1,55 @@
+How to Enter and Manage Tasks
+
+
+Tasks can be freeform
+and flexible like notes, or they may be part of a Visit
+Template
+and used to 
+assign activities to certain staff members and mark off specific procedures or steps of the 
+treatment as they are done.
+
+
+ Highligh
+t the client/patient line. The selected patient’s name appears at the top of the 
+Notes 
+and
+Tasks
+sections.
+ Click in the 
+blank 
+task
+field and begin typing. Press the 
+Enter
+key on your keyboard to 
+move that task to the pane and begin a new task entry.
+ To c
+hange to 
+Completed, 
+Not Completed, 
+Open
+or 
+Delete
+an existing task, right
+-
+click 
+and make a selection. 
+
+
+ 
+
+
+How to Assign and Track Tasks
+
+
+ Select
+the client/pa
+tient line
+to select
+.
+ Right
+-
+click in the 
+Tasks
+pane on the line and select 
+Open
+.

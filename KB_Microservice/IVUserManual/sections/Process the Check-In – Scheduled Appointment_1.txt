@@ -1,0 +1,105 @@
+You can also change patient status from the left column. 
+Highlight the client/patient line in the 
+center pane and 
+select
+th
+e status in the left panel that you wish to assign to the patient.
+
+
+Process the Check
+-
+I
+n
+–
+Scheduled Appointment
+
+
+Client and patient information can be edited at
+the time of check
+-
+in
+. 
+
+
+ To edit the client, right
+-
+click on the client/patient line. 
+Select
+the gear icon, 
+Go To | 
+Client 
+Account | Edit
+.
+ Make the necessary changes and click 
+OK
+.
+
+
+
+
+<<NEW PAGE 244>>
+
+
+To make changes to the Appointment, r
+ight
+-
+click
+on the patient line and 
+s
+elect 
+Edit
+. 
+The Client 
+Appointment window opens.
+
+
+
+
+<<NEW PAGE 245>>
+
+
+ Select
+the Patient Check In icon 
+to add additional visit information or to print a check
+-
+in report and/or label. 
+
+
+ Select
+Options
+to set up printing options. 
+
+
+ After the options have been selected,
+c
+lick 
+OK
+to save the options for just this print, or 
+click 
+Save for Branch
+to set these options as the default for your branch. 
+
+
+
+
+<<NEW PAGE 246>>
+
+
+ Close 
+Client 
+Appointment 
+window
+.
+ Right
+-
+click the patient line to select the patient. 
+Then select 
+Check In
+or choose 
+Check 
+In
+from 
+Patient Status
+/
+Status
+in the left column.

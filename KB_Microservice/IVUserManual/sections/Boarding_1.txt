@@ -1,0 +1,49 @@
+Boarding
+
+
+To access the B
+oarding Reservation 
+window,
+select
+the 
+Boarding Availability
+icon 
+in the top 
+left to schedule a r
+eservation.
+
+
+Boarding 
+Reservation 
+Grid
+
+
+The Boarding
+button takes you to the boarding 
+reservation grid
+, which 
+shows you what 
+availability you have for specific dates and cage types. 
+
+
+You can also make a New Boarding Reservation from this window. 
+
+
+Boarding 
+Control Center
+
+
+Within the Control Center you have access to the Scheduled Boarding Reservations by clicking the 
+Boarding icon at the top of the screen.
+
+
+The Boarding
+Control Center
+columns include:
+
+
+ Client 
+ Status (status classifications are listed in the le
+ft column) 
+ Patient
+ Scheduled In (date and time)

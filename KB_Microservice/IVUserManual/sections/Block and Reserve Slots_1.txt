@@ -1,0 +1,139 @@
+ Click 
+New Find
+to enter different parameters. Your results remain until you close the 
+calendar or do a new search.
+ Click 
+Modify
+to revise the existing search based on the previous criteria entered.
+ To close the list, 
+select
+the two 
+down
+-
+arrow
+s at the top right corner of the 
+Find Results
+window. 
+
+
+Accessing ePetHealth
+
+
+If you are logged in
+to ePetHealth and 
+select
+the ePetHealth button
+within the Appointment 
+Calendar, 
+the ePetHealth Appointment Reminder Setup page will open in your web browser
+.
+
+
+Block and Reserve
+Slots
+
+
+Appointment slots can be blocked (made unavailable) or reserved (dedicated to a specific type of 
+appointment). 
+Templates
+(default schedules) can be set up for each doctor in the 
+Setup
+, but 
+changes can also be made to each individual day. 
+Both 
+Blocked
+and 
+Reserved
+slots can include a 
+Type
+or reason that they have been blocked/reserved. 
+Notes
+can be made as well.
+
+
+How to Add Blocks and Reserves
+
+
+ To add a 
+Block
+, highlight a time frame in the calendar (e.g., 9AM
+–
+10AM)
+,
+right
+-
+click on 
+it and select 
+Block
+.
+ To add a 
+Reserve
+, highlight a time frame in the calendar (e.g., 8AM
+–
+9AM), right
+-
+click on 
+it and select 
+Reserve
+.
+
+
+
+
+<<NEW PAGE 182>>
+
+
+ Indicate the dates/times (choose 
+Recurrence
+if it repeats). Remember t
+hat default 
+schedules can be set in the 
+Appointment Calendar Setup
+. 
+ Choose a type code and enter notes, if desired. If you have a duration associated with 
+this 
+Enter
+the 
+Type Code
+setup, the duration changes accord
+ingly.
+ Select the 
+Start
+and 
+End
+time periods or 
+All Day
+, if applicable. 
+
+
+In the calendar, you can also use your mouse and drag to expand or shorten existing 
+blocked/reserved timeslots.
+
+
+How to Insert an Opening in a Block
+
+
+ Right
+-
+click inside
+the time 
+you want to unblock.
+Select 
+Clear Blocked/Reserved Time
+.
+
+
+The image shows an example of T Webb with a Block from 7AM to 9AM.
+
+
+ Click in 
+Blocked
+to clear a Blocked time, or click in 
+Reserved
+to clear a Reserved t
+ime.
+ Select the time you want cleared.
+ Select which columns to clear.
+ Click 
+OK
+.

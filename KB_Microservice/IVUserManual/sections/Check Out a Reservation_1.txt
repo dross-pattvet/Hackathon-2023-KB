@@ -1,0 +1,152 @@
+ If 
+Tasks
+was added to the Visit
+, 
+e
+nter
+a brief description of services to be provided. The 
+servic
+es display under 
+Tasks
+in the right column of the Control Center grid.
+ To add an 
+Estimate
+, 
+Documents
+or 
+Attachments
+, click the respective icon.
+
+
+Estimates
+
+
+For Estimates, see Estimates.
+
+
+Documents
+
+
+ Select the correct document(s). When 
+you have finished your selection of documents, 
+click 
+OK
+to save. Click 
+Cancel
+if you do not want to save.
+
+
+Attachments
+
+
+ Browse to the location of your attachment. Select and click 
+Open
+. This will pull the 
+attachment into the Attachments window. Repeat unt
+il you have completed your 
+selection(s).
+ Click the 
+X
+in the upper
+-
+right corner to close the attachment window.
+ When you have completed the form, click 
+Save
+to save the Visit
+.
+ Use the right column of the Control Center grid to add any 
+Notes
+th
+at the staff will 
+need. If you included 
+Tasks
+on the Reservation form, they display below 
+Notes
+in the
+To
+-
+Do Items
+.
+ Check in the patient by using the 
+Patient Status
+/
+Status
+column on the left, or right
+-
+clicking on the client/patie
+nt line and selecting 
+Check Patient In
+.
+ If they are late for their appointment it will display as a No
+-
+Show.
+
+
+ePetHealth
+
+
+I
+f you are logged in
+to ePetHealth and 
+select
+the ePetHealth button
+, the ePetHealth 
+Client Education Articles page will open in your web 
+browser.
+
+
+Check Out a Reservation
+
+
+Reservations ready to be checked
+out are indicated by a gold arrow pointing to the right. To check
+out a patient works on a reservation basis. Depending on the options chosen in 
+Setup | Progra
+m | 
+General Branch Setup |
+Boarding Setup
+, Check Out can open a Reservation Check Out window, 
+send Boarding charges to the invoice and print a Check
+Out form that has patient information, 
+instructions, scheduled activities and an op
+tional patient picture
+.
+
+
+
+
+<<NEW PAGE 277>>
+
+
+ From the IntraVet Menu Bar, select the Control Center 
+icon.
+ There are two ways to Check Out a patient.
+ Click to highlight the Patient/Client.
+ Right
+-
+click on the patient line under Patient Appointment Stat
+us (center panel) and 
+select 
+Check Out
+, or
+ Select
+Check Out
+under Patient Status in the left panel.
+
+
+ When you check out a patient, the 
+Client Account
+opens on the Invoice tab. This will 
+process the Boarding a
+nd service charges.
+ The client can now make their payment.
+
+
+
+
+<<NEW PAGE 278>>
+
+
+ Click 
+Save
+.

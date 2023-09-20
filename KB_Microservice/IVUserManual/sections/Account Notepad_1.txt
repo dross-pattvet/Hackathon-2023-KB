@@ -1,0 +1,319 @@
+The 
+Inactivate
+option allo
+ws you to inactivate a client. If a client is inactivated it 
+automatically inactivates the patients associated with that client. Once the client has been 
+inactivated the button changes to 
+Activate
+. This allows you to reactivate a client. Once a 
+client 
+is inactive they will not show up on the Client List unless you check the 
+Show 
+Inactives
+box.
+
+
+Established Client and N
+ew Patient
+
+
+ Follow s
+tep
+s
+for “Established Client and Patient”
+above. 
+Select
+Add
+Patient
+icon
+. 
+Enter 
+Patient Name
+and 
+Species
+. The other fields and options can be completed after 
+the emergency has been resolved. 
+The patient is ready to be seen.
+
+
+Other information can be entered while the patient is in the exam room or at time 
+of invoicing. 
+
+
+A walk
+-
+in emergency will be time
+-
+stamped with the current time when you begin 
+the check
+-
+in process.
+
+
+If it is necessary to ho
+spitalize the patient, you can change the patient’s status to 
+Hospitalize
+either directly from scheduled status or after check
+-
+in is complete. 
+
+
+Account
+Notepad
+
+
+Making a
+n Account
+Notepad
+Entry 
+
+
+Account Notepad
+allows users to add any notes special to that account. New notes can be 
+added; previously saved ones can be edited. Notes can also be deleted as well as printed.
+Often 
+
+
+
+
+<<NEW PAGE 175>>
+
+
+A
+c
+count
+Notepad is used to
+keep collection attempts notes an
+d
+special events with the client
+.
+
+
+To access the
+client’s account: 
+
+
+ From the 
+IntraVet
+T
+oolbar, 
+select
+the Open Account icon 
+. The Client List screen will 
+appear.
+ Scroll to locate the client. 
+Highlight the client and click Use
+or double
+-
+click the entry t
+o 
+open.
+ To create a new note, either 
+select
+the 
+New
+hot link in the Menu Bar, or right
+-
+click in the 
+Notepad pane and select 
+New Note
+.
+
+
+ Enter a description and a date. 
+ Enter
+your own note and/or 
+Select Canned Text
+. 
+
+
+ Click 
+Save
+to ma
+ke the notes part of the client account. 
+ From the 
+Appointment Calendar
+, right
+-
+click in the appointment and select 
+Client 
+Account
+; then, 
+select
+Account Notepad
+.
+
+
+
+
+<<NEW PAGE 176>>
+
+
+How to Move an Appointment
+
+
+Method 1:
+Double
+-
+click on the appointment to edit the dates/times directly.
+
+
+Method 2:
+Select
+the appointment and drag it to a different date and/or time slot.
+
+
+Method 3:
+Right
+-
+click on the appointment and select 
+Cut
+; left
+-
+click on the desired date 
+and time slot; then, right
+-
+click and select 
+Paste
+. (If you forget to left
+-
+click on 
+the location where you want to move the appointment before you try to 
+move it, 
+Paste
+is deacti
+vated when you right
+-
+click. You cannot then left
+-
+select
+the new slot and move the appointment. You must start over: right
+-
+click/
+Cut
+, left
+-
+click on new slot, right
+-
+click/
+Paste
+.
+)
+
+
+How to Delete an Appointment
+
+
+ Right
+-
+click on the appointment to be deleted.
+ Select 
+Delete
+from the menu.
+ Confirm the deletion by clicking 
+Yes
+.
+
+
+Not all users have access to delete appointments. This depends on the user/security setup.
+
+
+How to Edit an Appointment
+
+
+ Double
+-
+click on the appointment or right
+-
+click and select
+Open
+Appointment
+.
+ Make necessary changes.
+ Click 
+Save and Close
+.
+
+
+Drop
+O
+ff List
+
+
+If the 
+Drop Off
+checkmark is checked w
+hen an appointment is made, no specific time is assigned to 
+it
+. I
+nstead it appears on a separate drop
+-
+off list. 
+
+
+ Click the 
+Drop
+Offs
+tab on th
+e bottom right to view the 
+Drop 
+Off list.
+It includes the 
+species of each patient, reason and a count of drop
+-
+of
+fs for the day. 
+
+
+
+
+<<NEW PAGE 177>>
+
+
+ To close the list, 
+select
+the double 
+down
+-
+arrow
+s at the top right corner of the 
+Drop
+Off
+list. Notice that there will be a number in parentheses indicating how many drop
+-
+offs 
+there are for that day.
+
+
+Client Appointment History/No
+-
+Shows
+
+
+ If a client has no
+-
+shows, an alert will
+appear. 
+When you right
+-
+click in an open slot in the 
+appointment calendar, select 
+New Appointment
+, 
+select
+the client
+,
+the alert appears in 
+red in the 
+l
+ower
+left portion of the window. 
+ Click the 
+Client Appointments
+button in the upper left corner of the window to see a 
+history and summary
+of all an individua
+l client’s appointments and appointment types. 
+The no
+-
+shows will appear in red.

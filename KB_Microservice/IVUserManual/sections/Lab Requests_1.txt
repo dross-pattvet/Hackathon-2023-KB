@@ -1,0 +1,43 @@
+Lab Requests
+
+
+Requesting a Lab Test
+
+
+There is more than one way to request a 
+Lab Test
+for a patient. You can set u
+p a procedure code so 
+that it automatically requests a lab test each time the code is used. There are also two ways to 
+request a lab test through the Control Center.
+
+
+Request a Lab Test within Setup
+
+
+To automatically request a lab test
+,
+whenever chosen in a
+Visit
+or an 
+Invoice
+:
+
+
+ From the IntraVet Menu Bar, select 
+Setup | 
+General Codes | Procedure
+. 
+
+
+ Click 
+New
+.
+ Select
+the 
+Advanced
+tab. 
+ Place a check mark in the 
+Lab Test
+box
+.

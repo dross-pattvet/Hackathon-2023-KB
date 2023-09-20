@@ -1,0 +1,36 @@
+Save
+.
+
+
+ Click 
+Prin
+t
+/
+Process
+to send your letters to the default printer. If the option to send as 
+email is selected, the email will also be sent when you click 
+Print
+. A progress bar 
+indicates that your letters are being printed.
+
+
+New Patien
+t
+–
+Print Labels
+
+
+To print mailing labels on Avery laser labels (5161 or 5261) for clients found in your list:
+
+
+ Click the 
+Print Labels
+tab and check the options desired:
+ Exclude clients with email address:
+If checked,
+clients with email do not have labels 
+printed. 
+ Click
+Print
+to send your labels to the default printer. A progress bar indicates that 
+your labels are being printed.

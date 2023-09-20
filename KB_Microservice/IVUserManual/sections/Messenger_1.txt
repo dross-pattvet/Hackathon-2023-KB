@@ -1,0 +1,69 @@
+Messenger
+
+
+The messenger
+is a great communication tool for your practice. 
+The messenger can be used to 
+inform the Veterinary Technician or Doctor that the patient
+is in the exam room, or to tell your 
+reception that the patient is ready to be invoiced. 
+
+
+To open Messenger, click the Messenger option on the main tool bar at the top of the screen.
+
+
+Key in the display name you would like to show in the onl
+ine users
+list. Some practices 
+have 
+employees log in 
+with 
+their names, while others may choose to log
+in based on the computer 
+being used (reception, kennel, etc
+.
+)
+.
+
+
+After you have keyed in your display name, the available online users list will display. If tho
+se 
+users/employees are not logged in
+to their computer, you will not be able to message them until 
+they log in to Messenger. 
+
+
+You can customize the Senders Font color
+and
+the Receivers Font color
+. 
+I
+f you would like to 
+receive a prompt when Messenger is c
+losed
+, click the O
+ptions button located at the bottom of the 
+online user list. 
+
+
+
+
+<<NEW PAGE 435>>
+
+
+To chat with another user, 
+double
+-
+click
+on their name within the Online user list and a messenger 
+window will display. 
+Type
+in the message and hit the Enter key or click Se
+nd to s
+end your message. 
+
+
+If you minimi
+ze the M
+essenger window, it will flash every time you receive a message to notify 
+you.

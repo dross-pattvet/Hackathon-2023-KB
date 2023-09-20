@@ -1,0 +1,48 @@
+Patient Photo 
+
+
+A patient’s photo can easily be uploaded. Right
+-
+click in the picture pane and choose 
+Load
+. This 
+will allow you to browse your machine to locate a patient photo, and upload directly from there.
+
+
+The bottom portion of the Client Accou
+nt Management screen is separated into 6 tabs:
+
+
+ Account
+
+
+ Invoice
+
+
+ Payment
+
+
+ Estimates
+
+
+ Transactions
+
+
+ Prescriptions
+
+
+
+
+Access Tabs
+
+
+Account
+
+
+When selected
+,
+the 
+Account
+tab shows the client’s current account balance as well as any current 
+and future visits and boar
+ding reservations.

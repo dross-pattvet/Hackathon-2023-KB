@@ -1,0 +1,67 @@
+Finance Charge Removal
+
+
+This utility displays a list of dates and transactions for clients who had a billing
+fee or interest 
+transaction applied to their accounts for any given date of service
+. T
+he program automatically 
+gathers data and displays a progress bar when the window opens.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Finance Charge Removal
+.
+
+
+The Finance Charge Removal Utility screen will appear. After the progress bar finishes: 
+
+
+ Click 
+Remove Charges 
+to delete the last charges applied to a client’s account. 
+
+
+This utility will remove both billing fee and interest rates. 
+
+
+Financial Recalc
+ulations
+
+
+Sometimes, the client balance due in the client window does not correspond with the balance due 
+on reports
+. F
+inancial Recalculations
+recalculates the client balance based on 
+all
+the financial 
+entri
+es for that client. 
+
+
+This utility runs quickly through the financial records of each client in the database, and if no 
+problems are found, only one pass is made
+. I
+f the system finds problems, on the second pass you 
+are alerted to back up your data before 
+continuing
+. P
+lease back up your data if this message 
+appears
+. A
+utomatic changes are made to your client financial records to correct the inconsistent 
+data in the financial history. 
+
+
+When clients make a payment toward an outstanding balance, this utility 
+recalculates their 
+account balances according to what has transpired in their account and displays the results in the 
+transaction window.

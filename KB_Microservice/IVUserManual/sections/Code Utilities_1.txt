@@ -1,0 +1,282 @@
+Code Utilities
+
+
+Before using Code Utilities, make a full backup of your data.
+
+
+When working in this section, be aware that there is no re
+-
+do if you make a 
+mistake. For example, 
+you set a $15.00 price increase on an inventory item and saved your update. Later, you realize that 
+you really meant to increase it by only $1.50.
+
+
+Your options are to use your backup and restore your data; then, perform the update a
+gain
+or to 
+manually re
+-
+price each of your inventory items
+. 
+
+
+Inventory Code Mass Price Update
+
+
+You can update your inventory
+pric
+es by amount or percentage
+. Y
+ou can select by department, 
+perform a global update, or browse through the codes and update the selling price and cost 
+individually. 
+
+
+You may also select to apply changes to only non
+-
+zero prices and select a rounding option (
+nickel, 
+dime, or dollar). 
+
+
+If you want to have the new pricing reflected automatically in your estimate templates
+, you must 
+use 
+Update By Amount
+or 
+Update By Percentage
+.
+
+
+From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Cod
+e 
+Utilities
+| 
+Inventory Code Mass Price 
+Update
+. 
+
+
+When you enter the utility, one code will be selected and the selling price will be enabled. The 
+increase by amount will be disabled until you highlight multiple codes. When multiple codes are 
+selected t
+he selling price will be disabled since it is only relevant when an individual code is 
+selected. 
+
+
+
+
+<<NEW PAGE 457>>
+
+
+To select multiple codes:
+
+
+ Hold down the 
+Ctrl
+key to highlight and select multiple (non
+-
+consecutive) codes. 
+ Hold down the 
+Shift
+key to highlight and select m
+ultiple (consecutive) codes. 
+
+
+Price updates done in this utility update estimate templates to the new selling price.
+
+
+The settings for the inventory codes are originally set
+up under 
+Setup | General Codes | Inventory
+.
+
+
+In the utility:
+
+
+ Min.
+Charge and Disp.
+Fee fields contain values by default.
+ Markup
+%, Min
+.
+Charge and Disp.
+Fee
+are:
+o Enabled if one code is selected.
+o Disabled if multiple codes are selected.
+
+
+Standard Pricing
+
+
+Standard Pricing is normal pricing. It usually involves a single item with only once 
+price for that 
+item, regardless of weight or species.
+
+
+ Description 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that identifies the Description.
+ Department 
+–
+Section of your practice.
+ Species 
+–
+Type or variety of animal.
+
+
+
+
+
+
+<<NEW PAGE 458>>
+
+
+Action
+
+
+ Show All 
+–
+Shows a
+ll the Inventory codes set
+up within IntraVet. If there is a 
+filter set and you click 
+Show All
+, it ignores the filter and shows all the inventory 
+codes.
+ Filter 
+–
+Filters the Inventory codes to only show those that meet the 
+requirements added for Descripti
+on, Code, Department, and Species.
+
+
+Location
+
+
+ Branch
+–
+Allows you to change branches to update codes.
+ Warehouse
+–
+Allows you to change warehouses to update codes. The 
+warehouse list defaults to the Main Warehouse. If there are multiple 
+warehouses they will
+display in a drop
+-
+down list. 
+
+
+Updates 
+
+
+ Item Cost
+–
+Displays the actual Cost of the item. It is always disabled.
+ Selling Price
+–
+The price that is normally charged clients for this item. 
+The 
+maximum value is $999,999,999.99. It 
+has 
+two 
+list boxes: 
+o T
+he first box (next to selling price) is enabled. List the new selling 
+price for the selected code/codes. 
+o The second box is disabled. It shows the selected code
+’
+s current 
+selling price.
+o Markup %
+–
+Markup percentage is limited by the maximum value of 
+the
+new selling price.
+o The new selling price cannot exceed a maximum value of 
+$999,999,999.99.
+o Percentage markup for an inventory item. Should be 9,999.99%.
+o Min Charge
+–
+The lowest amount to be charged for an item. When 
+the quantity, multiplied by the price
+, equal to or over the minimum 
+charge, only the price per unit is charged. 
+The maximum value is 
+$999,999,999.99. 
+o Disp. Fee
+–
+When creating an invoice with a dispensing fee the 
+amount listed for the line item is, the quantity multiplied by the 
+price, plus
+the dispensing fee. 
+The maximum value is 
+$999,999,999.99. 
+
+
+
+
+
+
+
+
+The following fields are enabled if multiple codes are selected:
+
+
+ Increase by Amount
+–
+Increases the selected codes by the amount entered into 
+this list box. 
+The maximum value is $999,999,999.99.
+
+
+
+
+<<NEW PAGE 459>>
+
+
+o Increase by Percent
+–
+Increases the selected code/codes by the 
+percent entered into this box. Maximum value should be 
+9,999.99%
+o Change Amount To
+–
+Changes the selected code/codes to the 
+amount entered in this box. 
+The maximum value is 
+$999,999,999.99.
+
+
+T
+he following fields may be selected:
+
+
+ Apply only to items with an existing (non
+-
+zero) selling price
+–
+Allows you to 
+only update codes that currently have a selling price within the code setup. 
+Leaving this unchecked updates all codes regardless of their cu
+rrent selling 
+price.
+o Disabled if only one code is selected.
+o Enabled if multiple codes are selected.
+ No Rounding
+–
+Does not round prices. Thi

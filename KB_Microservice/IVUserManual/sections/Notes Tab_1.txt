@@ -1,0 +1,68 @@
+Services Tab
+
+
+ The 
+Services
+tab is selected by default. 
+ Weight
+–
+Pulls in from the patient’s accoun
+t. This field can be updated.
+ Visit Template
+–
+Click the down
+-
+arrow if you would like to select a template for this 
+reservation.
+ Check 
+Show visit in history before check
+-
+in
+if this applies.
+ Use the blank entry line underneath 
+Plan
+to add treatment plan se
+rvices. Use the 
+down
+-
+arrow or 
+e
+nter
+the first few letters of the treatment name. Double
+-
+click on the 
+name to move it into the entry line.
+
+
+Other features, such as Vitals that are associated with a visit, are added through the 
+Visit
+rather th
+an the reservation. These steps are explained in 
+How to Check in a 
+Boarding
+Patient
+later in this chapter.
+
+
+ With the treatment highlighted (surrounded by a dotted line), click 
+Add
+to place the 
+item into the grid. To remove an ent
+ry, right
+-
+click on it and select 
+Delete
+.
+
+
+ If the item involved is a prescription, the Prescription Label screen pops up. (See 
+Medical History for detailed information on prescription labels.)
+
+
+Notes Tab 
+
+
+ Click the 
+Notes
+tab to enter notes regarding this
+patient.

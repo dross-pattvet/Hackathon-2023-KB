@@ -1,0 +1,119 @@
+t entry
+–
+For a quick, 
+smooth workflow
+,
+access the deposit entry screen without leaving t
+he reservation form
+. 
+The Client Account Management
+window opens, 
+so
+you can add 
+a deposit or check 
+client/patient information after a reservation is saved
+.
+ Print release form
+after check
+-
+in
+–
+Some 
+practices 
+provide the check
+-
+in information to the 
+client for reference
+,
+and to store in the 
+boarder’s 
+hardcopy file
+, if one is used
+. If this box is 
+checked it activates the option to Select a release form and the number of copies.
+ Select release form
+–
+A 
+release form includes: Client/Patient information, check
+-
+in/
+-
+out 
+dates and times, cage number, instructions, services, patient notes, 
+patient picture 
+(if the 
+box above is checked to print patient picture on forms) 
+a boarding 
+estimate
+, 
+a 
+services 
+esti
+mate
+, standard text and total estimate amount
+. M
+ost facilities use
+multiple release 
+forms
+.
+To select the form, use the down
+-
+arrow
+.
+ Number of copies
+–
+The default is 
+zero (0) copies
+.
+Enter 
+the 
+desired number. 
+Some 
+practices
+print 
+two
+copies: one for the
+client to take home and the other 
+to store in
+the 
+patient (boarder’s) hardcopy file.
+ Print cage tag
+after check
+-
+in
+–
+Printing the cage tag at check
+-
+in saves searching to locate 
+the account 
+later
+. 
+The tag shows the boarder’s name
+/information, check
+-
+in/
+-
+out dates, 
+cage type
+, cage number, instructions, patient notes and the boarder’s pictur
+e
+.
+ Print check
+-
+out form
+–
+It is customary to provide the client with the 
+boarder’s 
+ge
+neral 
+information, instructions, 
+services, tasks and activities provided to the 
+boarder 
+and 
+any 
+reminder notices.
+ Remove tasks from cage tag 
+–
+Any tasks entered for a boarding reservation will not print 
+on the cage tag
+.

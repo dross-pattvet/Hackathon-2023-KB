@@ -1,0 +1,363 @@
+ Click 
+New
+. 
+ Select a Reminder Type. The choic
+es are:
+ Reminder
+ Recommendation
+ Callback
+
+
+ Enter a 
+Code
+in the bl
+ank entry line, or use the down
+-
+arrow to select. 
+Double
+-
+click to 
+place in the field.
+ Enter a 
+Provider
+in the blank entry line, or use the 
+down
+-
+arrow to select. 
+Double
+-
+click 
+to place in the fi
+eld.
+ Select a 
+Service Date
+(today’s date will default).
+ Select a 
+Due Date
+(today’s date will default).
+ Select an 
+Expiration Date
+if creating a callback
+(when requested)
+.
+ Click 
+OK
+.
+
+
+You can send mailings and 
+email
+s to patients and clients meeting certain c
+riteria without 
+having reminders entered. For example, you can find patients between 6 months and 36 
+months old who are not altered, geriatric patients not on Rimadyl or Etogesic, etc. These 
+types of searches are done in 
+Communications
+/
+Recall Generator
+; refer to the chapter
+Communications
+, 
+Recall Generator
+.
+
+
+Prescriptions
+
+
+Prescriptions are created and managed through the patient’s Medical History
+,
+Visit
+and Invoice
+.
+
+
+New Prescription
+
+
+A new prescription can be completed directly through invoicing or through 
+Medical History
+with 
+the same options described below for refills. 
+
+
+ In 
+Control Center
+, ri
+ght
+-
+click on the client/patient 
+Visit l
+ine.
+ Click 
+Go To | Patient | 
+Medical History
+.
+
+
+
+
+<<NEW PAGE 350>>
+
+
+ Click the 
+Prescription
+tab.
+ Right
+-
+click in the Prescription pane and select 
+New Prescription
+.
+
+
+You may be asked for a password, if set up. You
+may also be brought to an existing visit if 
+the patient has other services currently underway to add your refill. 
+
+
+ Click 
+OK
+to the existing Active Visit reminder and it will take you to that visit.
+
+
+ Fill in the information as needed.
+ Provider
+–
+prescrib
+ing doctor.
+ Expiration
+–
+the expiration of the inventory
+item itself, usually entered through 
+inventory
+receives. Date shortcuts can be used (“
+T
+”
+for Today, “
+W
+”
+or “
+K
+”
+for the 
+beginning or end of the week, “
+M
+”
+o
+r “
+H
+”
+for month, “
+Y
+”
+or “
+R
+”
+for year). You can also 
+arrow over to the year and press the arrow to change the month one month at a time.
+
+
+
+
+
+
+<<NEW PAGE 351>>
+
+
+ Directions
+–
+can be preset from the inventory code
+setup and customized per code. 
+You can
+choo
+se from common canned text. Unlimited choices can be set up by 
+selecting 
+Setup
+| 
+Forms
+| 
+Canned Text
+| 
+Prescriptions
+from the IntraVet Menu Bar. 
+ Refill Until
+–
+enter a date that a refill can be approved until (in additi
+on to the number 
+of refills)
+.
+ Est Days Supply
+(optional) 
+–
+Some states require this for controlled drugs.
+ Quantity
+–
+number of pills.
+ Refills
+–
+the number of refills approved. This nu
+mber decreases as you generate 
+additional labels for the same code/patient.
+ Copies
+–
+the number of copies to print can be set globally. From the IntraVet Menu 
+Bar, select 
+Setup
+| 
+Forms
+| Bulk Prescription Labels
+menu. However, you can change it 
+for individual prescriptions as needed.
+
+
+
+
+Inventory codes
+must be set up to generate a prescription prompt in order to get the 
+prescrip
+tion prompt in invoice.
+
+
+ Click 
+Print Now
+(prints and sends to invoice or adds to existing visit) or 
+Save to Print
+to 
+send to the invoice/current visit. It will print with the invoice instead.
+
+
+Reprint Prescription
+Label
+
+
+Reprinting does not create pending 
+charges or affect the number of refills remaining.
+
+
+ Click
+the
+Open Account
+icon 
+from the IntraVet
+Menu bar.
+ Scroll to the client/patient. Click once to highlight.
+ Click 
+Use
+.
+ Click 
+the 
+Prescriptions
+tab.
+ Locate the Rx to print; right
+-
+click on it, and select 
+Print Label
+.
+
+
+Edit Prescription
+
+
+If the visit has not yet been finalized (invoiced out), you can change the 
+Pr
+escription
+in 
+Medical 
+History
+or in the invoice
+. T
+he visit can be accessed in Control Center. 
+
+
+Your 
+Operator ID
+and/or a 
+password
+may be required depending on your setup.
+
+
+
+
+<<NEW PAGE 352>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\Medical History.png
+ From the 
+IntraVet Menu Bar
+, 
+select
+Open Account
+. The Client List screen will 
+appear. Scroll, if necessary, to locate the client’s name. 
+ Double
+-
+click on the client’s name to open that account. 
+ Click once to highlight the Patient. Click the 
+Medical History
+icon. 
+
+
+Or,
+
+
+ In 
+Control Center
+, right
+-
+click on the client/patient 
+Visit l
+ine.
+ Click 
+Go To | Patient | 
+Medical History
+.
+
+
+ Screen will open to Visits by default. Select the 
+Prescriptions
+tab.
+ Righ
+t
+-
+click in the prescription
+. Select 
+New Prescription
+. 
+
+
+You may be directed to an Active visit.
+
+
+
+
+<<NEW PAGE 353>>
+
+
+ Click 
+OK
+.
+ Move to each field where you need to edit information.
+ When you have finished making changes, click 
+Print Now
+, 
+Save to Print
+, 
+Save
+,
+No Label
+, 
+or
+C
+ancel
+. 
+
+
+Refill Prescription
+
+
+Prescriptions can be refilled 
+(if the initial prescription had been marked for refills
+and the visit has 
+already been invoiced
+)
+. Ch

@@ -1,0 +1,89 @@
+General Codes Setup
+
+
+Establishing a uniform code system is 
+important 
+for
+the 
+efficient operation of 
+IntraVet
+. C
+odes 
+make data entry easy and accurate. 
+All codes in the 
+IntraVet
+software are user
+-
+definable and may 
+be alpha
+and/or numeric
+. 
+C
+hoose numeric codes
+, 
+alpha codes or create 
+alpha numeric 
+combinations. 
+IntraVet
+has a limit of 8 characters per code and 40 characters for code description.
+
+
+General Codes
+
+
+Establish a code system for your practice using the following st
+eps.
+
+
+Client Setup
+
+
+Client Classification Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Client classification codes are used to define the financial status of a client. 
+T
+hese classifications 
+may be
+used 
+to designate a status of “collections,” “cash only,” “no checks,” etc.
+
+
+After a classification code is defined and assigned to a client, 
+certain classification codes 
+may 
+be 
+include
+d
+or exclude
+d
+while running accounts receivable reports and statements. 
+Cla
+ssification 
+codes can also be used in 
+Recall Generator
+as a search criterion.
+Refer to the 
+Communications
+chapter 
+for information
+about 
+Recall Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Client
+| 
+Classif
+ication
+.

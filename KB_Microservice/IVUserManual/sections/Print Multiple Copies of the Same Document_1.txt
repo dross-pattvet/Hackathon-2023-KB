@@ -1,0 +1,48 @@
+ Select
+Print
+to print one 
+document right away
+. 
+ You can also quickly choose documents to print for a visit by highlighting the Visit
+line
+, 
+clicking on the 
+Printer
+drop
+-
+down list and selecting a document.
+
+
+Print Multiple Copies of the S
+ame Document
+
+
+Sometimes more than one copy of a document or label is needed. 
+
+
+ To print multiple copies: From the Control Center, right
+-
+click on the client/pati
+ent line 
+and go to 
+Print | Document
+(or what it is you want printed).
+
+
+
+
+<<NEW PAGE 303>>
+
+
+Highlight
+the Document or Certificate you would like to print and then 
+Select 
+Print Preview
+
+
+ Select the printer icon with the question mark 
+.
+
+
+ Choose the printer where you would 
+like the document to print.

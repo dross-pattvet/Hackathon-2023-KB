@@ -1,0 +1,142 @@
+ Click the down
+-
+arrow
+and select the desired operator job code
+. Click to move it into 
+the field.
+
+
+ Select 
+Time Clock | Time Clock
+, 
+and 
+enter the User to find 
+the
+Job Code 
+where 
+they are 
+Clocked In. 
+
+
+Time Clock 
+Management
+
+
+This feature 
+allows
+for someone with the proper security settings
+to adjust timesheets as needed. 
+F
+or example, your technician clocked out but then stayed to assist with an 
+after
+-
+hour
+s
+emergency
+. 
+T
+ime Clock Manag
+ement also is an audit feature so that you know when your employees are 
+working overtime or perhaps leaving during their shift for personal reasons.
+
+
+This
+displays every clock
+-
+in, break and clock
+-
+out for an individual employee 
+each week. 
+
+
+
+
+<<NEW PAGE 432>>
+
+
+To Create, Edit or Delete a
+Time Entry:
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Time
+Clock
+| 
+Time Clock Management
+.
+
+
+ Click the down
+-
+arrow
+and scroll to the employee’s name. Double
+-
+click on the name to 
+move it into the blank line. 
+ Right
+-
+click 
+on a
+ny time entry in the grid and select 
+Create
+, 
+Edit
+or 
+Delete
+to adjust the 
+date and time. You can also use the buttons at the bottom once the time is selected. 
+
+
+Mo/d
+a
+y/yr, hr/min/AM
+-
+PM can be individually changed by clicking on each individual 
+section.
+
+
+ C
+lick 
+Create
+to create a new shift or break for a particular job function. 
+ Select the 
+Shift
+or 
+Break
+radio button.
+ Select the 
+Start
+and 
+End
+date and time.
+ Click the down
+-
+arrow
+to select the 
+Job
+description.
+ Click 
+OK
+.
+
+
+ Click 
+Edit
+to make changes to a date
+, time or job description.
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 433>>
+
+
+ Click 
+Delete
+to remove an entry.

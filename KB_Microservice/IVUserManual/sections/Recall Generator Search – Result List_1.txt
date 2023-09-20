@@ -1,0 +1,310 @@
+ Click 
+OK
+. This will take you to the Search screen. All the parameters are reloaded in the 
+search screen
+.
+ Edit Client and Patient information as necessary.
+ Click 
+Searc
+h
+. 
+
+
+Result List
+will open.
+
+
+Recall Generator Search
+–
+Result List
+
+
+When your search is complete, the 
+Result List
+populates. These are patients and clients matching 
+your search criteria. You can edit or researc
+h this list before sending 
+email
+s, cards, letters or 
+exports. 
+
+
+To remove a contact from the 
+Result List 
+print or export:
+
+
+ Uncheck the box on the left. This will omit them from the Print/Process or Export.
+
+
+You can go to the client’s account from this locati
+on.
+
+
+ Right
+-
+click and select 
+Open selected Client
+.
+
+
+To 
+Print
+the 
+Result List
+:
+
+
+ Click the 
+Print
+radio button. This will display the number of 
+Matching Results
+.
+ Click the 
+Results
+radio button under 
+Print what?
+
+
+
+
+<<NEW PAGE 380>>
+
+
+ Click 
+Print
+/
+Process 
+in the lower right corner of the 
+Result List 
+window.
+
+
+Recall Generator Search
+–
+Print Cards
+
+
+To print reminder cards for the clients found in your search:
+
+
+ Click the 
+Cards
+radio button and check the opti
+ons desired:
+a. 
+Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+b. 
+Print multiple pets on cards/letters:
+Check to combine patients in the same 
+household on the
+same card. This reduces the number of cards needed. If 
+unchecked, each patient gets an individual card. Eight due procedures fit on a 
+multiple patient reminder card, four procedures on a single patient. Single 
+patient cards allow more room for a text 
+message. 
+c. 
+Exclude clients with email address:
+If checked, clients with email addresses 
+receive emails instead of printed cards. Save paper and cards by sending 
+communications by email when you can. 
+d. 
+Send email to those with 
+email
+addresses:
+Check to send 
+only an email.
+e. 
+Send as card/letter and email:
+Check to send an email and a card.
+f. 
+To change the already created (canned) text, click 
+Edit
+. 
+g. 
+Make your changes and click 
+Save
+.
+
+
+ 
+
+
+
+
+<<NEW PAGE 381>>
+
+
+ Click
+Print/Process 
+to send your cards to the default print
+er. If the option to send as 
+email
+is selected, the 
+email
+will also be sent when you click 
+Print
+. A progress bar 
+indicates that your cards are being printed.
+
+
+Recall Generator Search
+–
+Print Letters
+
+
+To print 
+letters for clients found in your search:
+
+
+ Click the 
+Letters
+radio button and check the options desired: 
+a. 
+Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+b. 
+Print multiple pets on reminder cards/letters:
+Check to combine patients in the 
+same household on the same letter. This reduces the number of letters needed. If 
+unchecked, each patient gets an individual letter. 
+c. 
+Exclude clients with email address:
+If c
+hecked, clients with email addresses receive 
+emails instead of printed letters. Save paper by sending communications by email 
+when you can. 
+d. 
+Send email to those with 
+email
+addresses:
+Check to send only an email.
+e. 
+Send as card/letter and 
+email
+:
+Check to sen
+d an email and a letter.
+f. 
+To change the already created (canned) text, click 
+Edit
+. 
+g. 
+Make your changes and click 
+Save
+.
+
+
+
+
+ Click 
+Print
+to send your letters to the default printer. If the option to send as email is 
+selected, the email will also be sent when you
+click 
+Print
+. A progress bar indicates that 
+your letters are being printed.
+
+
+Recall Generator Search
+–
+Print Labels
+
+
+To print mailing labels on Avery laser labels (5161 or 5261) for clients found in your list:
+
+
+ C
+lick the 
+Print Labels
+tab and check the options desired:
+a. 
+Exclude clients with email address:
+If checked, clients with email do not have labels 
+printed. 
+b. 
+Click
+Print
+to send your labels to the default printer. A progress bar indicates that 
+your labels are 
+being printed.
+
+
+
+
+<<NEW PAGE 382>>
+
+
+Recall Generator Search
+–
+Export
+Result List
+
+
+To export your 
+Result List
+for use with a third
+-
+party application, for online reminders or Word:
+
+
+ Select
+the 
+Export
+tab.
+ Place a check in the 
+Pa
+tient 
+checkbox in the 
+Patient Section
+to activate the option for 
+Number of patients
+, 
+One record per Client
+and 
+One record per Patient
+. If a client has 
+more than one patient matching your search criteria, you may want to send only one 
+card, letter or 
+email
+.
+ If exporting patient information, enter the 
+Number of patients
+per Client to include 
+(maximum is 9).
+ C
+lick to highlight each 
+Patient
+field to export.
+ Click to highlight each 
+Client
+field to export.
+ Select 
+One record per Client
+or 
+One record per Patient
+.
+ Click the 
+Export
+button. A 
+Save
+As
+window appears.
+ Navigate to the location where you want to save your exported record and name your 
+file.
+ Save as Type:
+Choose the file type you want to save it as. You can e

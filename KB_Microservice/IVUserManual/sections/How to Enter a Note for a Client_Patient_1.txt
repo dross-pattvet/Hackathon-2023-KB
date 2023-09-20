@@ -1,0 +1,57 @@
+Notes and Tasks
+
+
+The right column of the Control Center contains notes, tasks, 
+client/patient operator warnings 
+and 
+current balance.
+
+
+Notes
+may also be entered to communicate with other st
+aff members regarding the patient or 
+client.
+
+
+Tasks
+may be predefined related to the visit (visit template) or
+added as freeform at any time. 
+
+
+Client and patient operator warnings
+–
+T
+he
+y show in r
+ed and green font, respectively
+.
+
+
+Current Balance
+shows the current balance of the highlighted client.
+
+
+How to Enter a Note for a Client/Patient
+
+
+ Highli
+ght the client/patient line. The selected patient’s name appears at the top of the 
+Notes 
+and
+Tasks
+sections.
+ Click in the 
+blank note
+field and begin typing. Your typed message automatically word 
+wraps. Press the 
+Enter
+key on your keyboard to move that n
+ote to the pane and begin 
+a new note entry.
+ To 
+Edit
+or 
+Delete
+an existing note, right
+-
+click and make a selection.

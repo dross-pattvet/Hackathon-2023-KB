@@ -1,0 +1,286 @@
+.
+a. 
+Yes
+–
+allows a discount on this 
+inventory
+item.
+b. 
+No
+–
+(default) not allowed on this inventory
+item.
+c. 
+Confirm
+–
+select at the time of invoicing if the code will be discounted.
+
+
+ Taxable
+a. 
+No Tax
+–
+(default) non
+-
+ta
+xable inventory item.
+b. 
+Sales Tax
+–
+charges the primary tax percent for this inventory item. (Tax rates are 
+set
+up in Setup | Program | General Branch Setup.)
+c. 
+Secondary Tax 
+–
+charges the Secondary Tax percent for this inventory item. (Tax 
+rates are set
+up 
+in Setup | Program | General Branch Setup.)
+d. 
+Add Sales Tax and Secondary Tax 
+–
+this will add the Sales Tax and the Secondary 
+Tax percentages together and charge them as one total amount.
+e. 
+Compound Sales Tax and Secondary Tax 
+–
+this will apply the
+Sales Tax f
+irst and
+then taking the total, apply the Secondary Tax to that amount.
+ Click 
+OK
+.
+a. 
+If there is a secondary tax set up, there will be additional options for setting 
+secondary taxes
+. [Refer to the 
+General Branch Setup
+chapt
+er.
+]
+ To revise your selections after the window is saved and closed
+,
+r
+eopen the window 
+using instructions given above.
+ Select
+the 
+Invoicing
+tab.
+ Make the desired changes and click 
+OK
+.
+
+
+
+
+<<NEW PAGE 92>>
+
+
+Procedure Code
+s
+–
+Message Tab
+
+
+Messages
+on the invoice can help you to educate your clients
+. P
+rocedures often have side effects 
+or precautions that can be pri
+nted on the invoice to help rei
+nforce the information you give your 
+clients in the exam room.
+
+
+ Select
+the 
+Message
+tab.
+ To create a new 
+Pr
+ocedure Message
+, begin typing the new message into the blank 
+Message
+field and/or use 
+Select Canned Text
+. 
+ To change an existing message, h
+ighlight the code/description that contains the 
+message to b
+e changed. Click 
+Edit
+. Click the 
+Message
+tab and revise the message. 
+Click 
+OK
+.
+ Print 
+Documents
+–
+If you purchased the 
+LifeLearn
+Client Handouts 
+or have created your 
+own documents, at the time of invoicing, you can print a total of thre
+e handouts to 
+send home with your client. 
+Select
+the down
+-
+arrow next to each blank line to make a 
+selection, or type the first few letters of the handout in the blank next to the arrow.
+ Click 
+OK
+.
+ To revise a 
+Message
+of an existing Procedure Code, double
+-
+c
+lick the code/description 
+in the Procedure Code List screen, or highlight and click the 
+Edit
+button at the bottom 
+of the screen.
+ To remove a 
+Message
+, double
+-
+click the code/description and then 
+select
+the 
+Message
+tab. Highlight the message text and press t
+he 
+Delete
+key on the keyboard. 
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 93>>
+
+
+Procedure Code
+s
+–
+Reminder Setup
+
+
+Reminder
+setup is important for sending reminders at regular intervals
+. C
+reate reminders for 
+vaccinations, lab work, dental procedures, and oth
+er procedures regularly performed
+. A
+reminder 
+can be set up as a reminder, a callback, or a manual reminder that creates a reminder but does not 
+clear any previous reminders. 
+
+
+ Select
+the 
+Reminder
+tab.
+ In the blank entry line in the center of the window, e
+nter a code for the procedure you 
+wish to create a reminder for when this code is invoiced, or type the first few letters of 
+the reminder’s name into the blank next to the 
+down
+-
+arrow
+; scroll to your choice and 
+double
+-
+click on the name.
+ Select
+the down
+-
+arro
+w next to
+the Description
+and choose 
+Reminder
+, Recommendation
+or 
+Callback
+for this reminder. You can have only one reminder on a code; you can set 
+multiple callbacks.
+
+
+ In the next field 
+to the right, set the number of days in which the reminder will 
+generate a due date.
+ If you choose 
+Callback
+, set the number of days in which it will expire.
+ Check the 
+Qty
+box if this is a reminder in which the date needs to change based on the 
+quantity of the code entered. This feature is used mostly with inventory items such as 
+
+
+
+
+<<NEW PAGE 94>>
+
+
+Heartworm or Flea & Tick preventative. If you enter 30 and check 
+Qty
+, t
+he reminder will 
+be created 30 days later for every item sold, in 60 days if you sell two, in 90 days if you 
+sell three, etc.
+ Check the 
+Lock
+option if you want to 
+make changes to the reminder setup without 
+affecting what was invoiced in the past when runni
+ng the History and Recall Correction 
+Utility.
+ Press Enter to move your selection into the grid.
+ Clears
+reminders
+also for
+–
+Type a code description into the field or use the 
+down
+-
+arrow
+to make your selectio
+n. 
+ Click Add to move your selection into the grid. You may add an unlimited number of 
+related codes to clear when this code is entered.
+ Click 
+OK
+.
+ To revise a 
+Reminder
+of an existing Procedure Code, scroll the list and double
+-
+click on 
+the Code/Descriptio
+n to open the Edit Procedure Code screen. Click the 
+Reminder 
+tab. 
+Another option is to highlight the desired item and click 
+Edit
+.
+ Make the necessary changes and click 
+OK
+.
+ To remove a Code/Description/Reminder, locate it, or right
+-
+click on the Reminder Co
+de 
+and choose 
+Remove
+. (A second chance war

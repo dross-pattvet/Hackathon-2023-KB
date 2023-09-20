@@ -1,0 +1,87 @@
+Activiti
+es
+:
+
+
+ Click the 
+Activities
+tab.
+ To enable edits, click the 
+Include
+box.
+ Information screenshot appears.
+ Click 
+OK
+.
+
+
+The Activities tab has three sections:
+
+
+Instructions
+:
+
+
+ To add instructions for Boarding click the down
+-
+arr
+ow and choose Belongings, 
+Exercise, Feeding or Medication.
+ Click the down
+-
+arrow next to your selection and choose a description.
+ Freeform text can be added.
+
+
+ To move the selection into the main pane, click the 
+Add
+button to the right of the field.
+ To remove
+an item, right
+-
+click on the line item and select 
+Delete
+. 
+
+
+
+
+<<NEW PAGE 293>>
+
+
+Activities
+:
+
+
+ If you have canned text 
+created
+, click the down
+-
+arrow and select or type Activities in 
+the blank field next to the 
+Add
+button.
+ Freeform text can be added.
+
+
+ To move the selection into 
+the main pane, click the 
+Add
+button to the right of the field.
+ To remove an item, right
+-
+click on the line item and select 
+Delete
+.
+
+
+Patient Notes
+:
+
+
+ To add notes to your custom template, click in the blank field at the bottom. Type 
+information pertaining to
+this template.
+ To continue, select another tab. To accept your changes and close, click 
+OK
+.

@@ -1,0 +1,39 @@
+Tasks
+:
+
+
+ Click the 
+Tasks
+tab.
+ To s
+elect 
+pre
+-
+created text
+, right
+-
+click in the blank f
+ield to the left of the Add button. 
+Select 
+Canned Text
+.
+ Click once to select 
+the canned text
+.
+ To move the selection into the main pane, click the 
+Add
+button to the right of the field.
+ To remove an item, right
+-
+click on the line item and select 
+Delete
+. 
+Del
+ete All
+will remove 
+all the descriptions. 
+ To add notes to your custom template, click in the blank field at the bottom. Type 
+information pertaining to this template.
+ To continue, select another tab. To accept your changes and close, click 
+OK
+.

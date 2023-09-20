@@ -1,0 +1,78 @@
+ Click 
+New Find
+to enter different parameters. Your results remain until you close the 
+calendar or do a new search.
+ Click 
+Modify
+to revise the existing search based on the previous criteria entered.
+ To close the list, 
+select
+the two 
+down
+-
+arrow
+s at the top right corner of the 
+Find Results
+window. 
+
+
+Accessing ePetHealth
+
+
+If you are logged in
+to ePetHealth and 
+select
+the ePetHealth button
+within the Appointment 
+Calendar, 
+the ePetHealth Appointment Reminder Setup page will open in your web browser
+.
+
+
+Block and Reserve
+Slots
+
+
+Appointment slots can be blocked (made unavailable) or reserved (dedicated to a specific type of 
+appointment). 
+Templates
+(default schedules) can be set up for each doctor in the 
+Setup
+, but 
+changes can also be made to each individual day. 
+Both 
+Blocked
+and 
+Reserved
+slots can include a 
+Type
+or reason that they have been blocked/reserved. 
+Notes
+can be made as well.
+
+
+How to Add Blocks and Reserves
+
+
+ To add a 
+Block
+, highlight a time frame in the calendar (e.g., 9AM
+–
+10AM)
+,
+right
+-
+click on 
+it and select 
+Block
+.
+ To add a 
+Reserve
+, highlight a time frame in the calendar (e.g., 8AM
+–
+9AM), right
+-
+click on 
+it and select 
+Reserve
+.

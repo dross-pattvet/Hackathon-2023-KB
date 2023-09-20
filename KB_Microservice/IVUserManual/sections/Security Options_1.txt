@@ -1,0 +1,139 @@
+ Utilities
+–
+Financial
+–
+Select this option to enable security in 
+F
+inancial 
+Utilities
+. When 
+enabled, saving anything in 
+Financial 
+Utilities
+will prompt you to enter the security 
+audit method selected.
+ Utilities
+–
+Time Clock
+–
+Select this option to enable security in 
+Time Clock 
+Utilities
+. 
+When enabled, saving anything in
+Time Clock 
+Utilities
+will prompt you to enter the 
+security audit method selected.
+ Utilities
+–
+Other
+–
+Select this option to enable security in 
+all other
+Utility Screens that 
+have not been listed separately
+. When enabled, saving anything in 
+these 
+Utilitie
+s
+will 
+prompt you to enter the security audit method selected.
+
+
+ Set All
+–
+You have the option to set all areas at one time and then edit the ones needed.
+ Click 
+Copy to 
+All 
+Branches
+if all 
+branches
+use the same security settings.
+ Click 
+OK
+.
+
+
+Security Option
+s
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+|
+Program
+|
+General Branch Setup. 
+
+
+
+
+<<NEW PAGE 28>>
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+
+
+Select
+the plus sign (
++
+) in front of 
+Secu
+rity
+.
+
+
+ Select
+Security Options
+to highlight
+.
+ Check the box if 
+passwords
+are 
+to be
+case sensitive
+. 
+(If password
+s
+are typed in all 
+upper
+-
+or lowercase letters, 
+or a
+combination, it must match exactly each time it is 
+entered
+.
+)
+ Minimum password length
+–
+Choos
+e a number that will represent the minimum 
+number of characters for passwords. 
+This means no passwords can be less than 
+the number enter
+ed
+in this field
+. 
+ Click 
+Copy to 
+All Branches
+if all 
+branches
+use the same operator ID and password 
+s
+ettings
+.
+ Click 
+OK
+.

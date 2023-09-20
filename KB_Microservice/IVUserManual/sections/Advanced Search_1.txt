@@ -1,0 +1,70 @@
+Search by 
+
+Invoice Date 
+
+ Enter
+a date or select a date from the pull
+-
+down calendar. 
+ Click 
+Search
+. 
+ Double
+-
+click on a client to open the 
+Client Account
+window.
+
+
+Advanced Search
+
+
+Sometimes you need to use multiple criteria to find an account, e.g., a chocolate lab named Bear or 
+a 
+sable 
+ferret that w
+as brought into the 
+practice
+within the last month. 
+This search can also be 
+done quickly from the 
+Advanced
+Search
+link on the 
+IntraVet
+main screen Toolbar.
+
+
+ Click 
+Search
+in the top right of the 
+IntraVet
+Toolbar and select 
+Advanced
+Search
+.
+
+
+ Enter as many c
+riteria as desired to narrow your search. You can enter patient and 
+client parameters as well as last visit date. 
+ Click to the right of the criteria to enter the search information.
+ Click 
+Search
+to begin the search.
+
+
+A list of matching clients/patients ap
+pears. Hover or roll your mouse pointer over an item; 
+additional information pops up.
+
+
+ Double
+-
+click on a client to open the 
+Client Account
+window. Your result window 
+remains open in case you need to 
+refer
+back
+to it.

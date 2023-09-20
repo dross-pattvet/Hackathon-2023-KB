@@ -1,0 +1,91 @@
+Backup Process Complete.
+
+
+ 
+
+
+If any part of your backup fails, please contact supp
+ort for assistance at 800.422.
+8875.
+
+
+Store
+a
+Backup
+
+
+Once you have completed your backups, it is important that you store your data on an external 
+media, preferably one that can be stored off
+-
+site. 
+
+
+Patterson offers PattLock as an online backup solution or
+c
+ontact your local hardware pr
+ovider for 
+more information on secure external backup systems for your 
+practice
+.
+
+
+Restore
+
+
+Restoring a previous backup will overwrite all existing data.
+
+
+We recommend working with IntraV
+et support before restoring a backup for any reason. 
+It is 
+typically only
+necessary to restore a previous backup in the event of a database server hardware 
+failure or upgrade. 
+
+
+ Right
+-
+click on the 
+IntraVet Server Status
+icon, located in the System Tray.
+ Select 
+Show IntraVet Server Status
+.
+
+
+
+
+<<NEW PAGE 503>>
+
+
+ Click 
+Utility
+.
+
+
+ Under Tasks, selec
+t 
+Restore
+.
+ Browse
+to the location to store your copy.
+ Check 
+Restore Additional Files
+(
+t
+his will restore the Additional Files included in the 
+back
+up 
+–
+if that was done when the b
+ackup was performed) if desired.
+ To confirm, type 
+RESTORE
+in the blank field.
+ C
+lick 
+Start
+.
+
+
+ Restore Complete.

@@ -1,0 +1,78 @@
+Merchant Services
+
+
+X
+Ch
+arge Merchant Services 
+
+
+XCharge, a product of OpenEdge, is fully compatible with the EMV requirements for using next 
+generation fraud
+-
+reducing, chip
+-
+based credit cards.
+
+
+X
+Charge
+Merchant Services
+software processes credit 
+and
+debit card transactions. 
+Sales, voids, 
+and returns are processed and approved through 
+IntraVet
+by
+dipping or
+swiping a card 
+through a 
+card 
+reader 
+that is 
+connected to the workstation. 
+This eliminates the need to process a tr
+ansaction 
+through a separate credit card reader and then again through 
+IntraVet
+. 
+
+
+X
+Charge is a
+n
+eS
+ervice. 
+Please conta
+ct the IntraVet Sales team at 1.877.422.
+8838 for more 
+information.
+
+
+In addition to selecting the option for 
+Merchant Services
+within 
+IntraVet
+, a path must be set to the 
+folder that will store the Merchant Services information
+. I
+f a 
+PIN
+Pad
+for debit transactions will be 
+used, this must 
+also 
+be set up. 
+All other users must exit from 
+IntraVet
+before 
+s
+etting up 
+this 
+module.
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | Program | General Branch Setup.

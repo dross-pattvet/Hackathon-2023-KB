@@ -1,0 +1,51 @@
+Logo
+and Background
+
+
+ From
+the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+Program
+| 
+General Branch Setup
+. 
+ Select the Branch y
+ou wish to edit. Click 
+Edit
+.
+ Click the 
+plus sign (
++
+) 
+in front of 
+General
+. C
+lick
+Logo
+and Background
+.
+
+
+NOTE: 
+The logo should include the name, address and phone number of the 
+practice
+. The logo 
+represents those three fields on printed materials such as i
+nvoices, receipts, etc.
+
+
+Logo file types must be JPEG or BMP. Size is 300 x 900 pixels.
+
+
+If a logo is to be used, click the 
+Load
+button and navigate to the location on the hard drive 
+where the logo is stored.
+
+
+ Click 
+Load
+.

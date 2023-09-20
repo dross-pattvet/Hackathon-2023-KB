@@ -1,0 +1,42 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Invoice Messge Codes.png
+Invoice Message Codes
+
+
+Invoice Message
+c
+odes are used to attach additional messages to printed invoices
+. T
+hese 
+messages could be used for seasonal messages or marketing, for example
+. W
+hen creating an 
+invoice message code, you have the option to edit the message at the time of invoicing.
+
+
+Messag
+e Codes 
+–
+Create, Edit or Delete Invoice
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Invoice Message Codes
+.
+
+
+ To create a new 
+Invoice Message
+code, click 
+New
+at the bottom of the Invoice Message 
+Code List screen.
+ Enter
+a 
+Code
+.

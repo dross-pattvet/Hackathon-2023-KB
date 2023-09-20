@@ -1,0 +1,154 @@
+ Advanced
+Search
+
+
+Refer to the 
+Control Center
+chapter
+for a detailed description of each of the 
+three
+Wild Search
+query instructions.
+
+
+Visits
+
+
+Medical histor
+y
+is stored by 
+a 
+patient
+visit. 
+Visits include your subjective
+,
+objective, assessment
+,
+and plan items. They can also include your lab results, forms
+,
+and X
+-
+rays. The plan section of your 
+visit can be used to start your invoic
+e. 
+Visits may be only one day or 
+can be used for Hospitalized 
+patients. 
+
+
+I
+n medical history, they appear as a summary line that contains provider, visit template or reason 
+and date, but each summary may be expanded for all the details. 
+This provides a qu
+ick view of 
+what types of problems or activity the patient has had overall and the ability to drill down to the 
+specifics.
+
+
+Visit
+Settings
+
+
+You can set defaults to control the way a visit opens, what information
+it displays and pre
+-
+invoice 
+options.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Visits
+| 
+Visit Settings
+. T
+he 
+Setting
+s
+tab opens 
+by default.
+
+
+ Click 
+Default Body System lines to ‘
+Normal
+’
+which may be more time
+-
+efficient than 
+individually changing this set
+ting for each item when the Visit
+window is open.
+ There is more than one invoice
+-
+related status that can be set prior to invoicing the 
+client. Click the 
+Default plan lines to ‘Pending’ for Scheduled and Active Visits
+checkbox
+. It is unlikely that a client would reject any item in the patient’s treatment 
+plan. When unchecked, the plan line defaults to 
+Send to Invoice
+.
+
+
+
+
+<<NEW PAGE 283>>
+
+
+ Check the 
+Automatically mark visit ready to invoice at check
+-
+in
+checkbox to make it 
+more convenient during the check
+-
+out/invoicing process.
+ If this option is checked you no longer have the option to mark the patient as 
+hospitalized. The visit will need to be marked as Scheduled which will t
+hen 
+remove
+anything that has been added to that patient
+’
+s visit and then you have the option to 
+mark it Hospitalized.
+
+
+ Click the down
+-
+arrow to select which item you want to open when double
+-
+clicked.
+ You can also select a default window to open once the pati
+ent has been chec
+ked in. 
+Click the down
+-
+arrow to make your selection.
+ When complete, click 
+OK
+.
+
+
+ Select
+the 
+View
+tab.
+ Select
+Hide client and patient header
+to hide that information when the window opens. 
+If you need to refer to the client/patient inform
+ation after the window opens, click the 
++
+to display the information.
+ Click 
+Hide
+Reminders
+to hide Reminders by default.
+ Click 
+OK
+.

@@ -1,0 +1,48 @@
+Letterhead
+Printout
+
+
+Letterhead Printout 
+
+
+This section allows 
+you to decide
+which type of header 
+is preferred
+for different printing options 
+within 
+IntraVet
+. 
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | P
+rogram | General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+
+
+Select
+Letterhead
+Printout.
+
+
+The different print jobs in which 
+a different header may be
+chosen
+are listed below.
+
+
+ Invoice and
+Receipt, etc.
+ Statements

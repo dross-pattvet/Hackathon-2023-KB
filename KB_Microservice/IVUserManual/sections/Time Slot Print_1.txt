@@ -1,0 +1,55 @@
+Time Slot Print 
+
+
+A certain time slot can be selected for print. Sometime
+s
+only particular hours are needed where an 
+entire column is not.
+
+
+ Click 
+the 
+Printer
+icon in the upper left of the Appointment Calendar window and 
+choose 
+Print by time slot
+.
+
+
+ Print what groups?
+–
+Place a checkmark in the box next to the groups to be printed. If 
+all groups are to be printed, check the box to the right, 
+Select 
+All
+.
+ Print what columns?
+–
+Place a checkmark in the box next to the columns to be printed. 
+If all columns are to be printed, check the box to the right, 
+Select All
+. 
+ Date Range?
+–
+Use the down
+-
+arrow to select the 
+Date
+. Use the down
+-
+arrow to select 
+the 
+St
+art Time
+and 
+End Time
+.
+ Details
+–
+Check the box if you want to 
+Print appointment notes?
+ Click 
+Display
+or 
+Print
+.

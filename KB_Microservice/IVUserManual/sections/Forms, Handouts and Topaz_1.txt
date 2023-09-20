@@ -1,0 +1,58 @@
+ Click 
+OK
+.
+
+
+ 
+
+
+Forms
+, 
+Handouts
+and Topaz
+
+
+Forms, 
+Handouts
+and Topaz
+
+
+ From the
+IntraVet
+Menu Bar,
+select 
+Setup
+|
+Program
+|
+General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+ Select
+Forms
+,
+Handouts
+and Topaz
+. 
+ Print Branch Logo on Client Handou
+t
+–
+If checked, t
+he branch logo prints on client 
+handouts and forms. When box is unchecked, the 
+practice 
+header prints on client 
+handouts and forms. See: 
+General
+/
+Logo and Background
+for instructions in attaching a 
+logo.

@@ -1,0 +1,122 @@
+Invoicing the plan items
+
+
+Plan line entries need to be finalized before entering the pre
+-
+invoice phase.
+
+
+ To open, 
+select
+the Control Center icon 
+locate
+d in the IntraVet Menu Bar. 
+ Select a date on the calendar. 
+ Right
+-
+click on the client/patient line
+and select 
+Open 
+Visit
+, 
+click plan in the add/remove 
+section on the left side of the screen to en
+ter your plan/invoice items.
+You also have the 
+option to set 
+the Plan 
+items
+to 
+Send to Invoice
+, 
+Done Elsewhere
+, 
+Rejected
+, or 
+Deferred
+.
+
+
+
+
+<<NEW PAGE 311>>
+
+
+If a P
+rovider has not been selected, you will see the following message:
+
+
+Rejecting Treatments 
+–
+This is used, for example, when more than one test is ordered, but one test 
+result may eliminate the need for additional testing.
+
+
+ Then select the 
+Ready to Invoice
+button in the
+upper left corner of the 
+Visit 
+screen
+. 
+ Click 
+Save
+. The window will close.
+ Right
+-
+click on the client/patient line and select 
+Check out, 
+which will automatically 
+open Invoice and pull in your planned items.
+ T
+he clie
+nt name 
+is
+at the top of the window, and the total 
+(Net Invoice) 
+for th
+e selected
+patient’s visit appears at the bottom 
+right 
+of the window. 
+ There is a blue bar that displays the Patient N
+ame and the 
+Patient Total for that invoice 
+on the selected Invoice 
+Date
+. 
+Below you can scroll to 
+re
+view
+the invoice information. 
+
+
+R
+ight
+-
+click on the blue bar 
+for
+the following options:
+
+
+ Remove the Invoice
+ Add Estimate
+ Repeat Invoice for (if there are multiple pets on the account)
+ Invoice Discount
+
+
+
+
+ If you right
+-
+click on 
+a line item you can choose from the following:
+ Remove Invoice Line
+ Remove Invoice
+ Add Estimate
+ Add Line Note
+ Re
+peat Invoice For (A list of 
+their 
+other 
+patients is provided)

@@ -1,0 +1,103 @@
+Attachment icon
+instruction.
+The printouts/handouts include small animal, large animal and pharmacy. 
+To work 
+with these 
+documents, you need MS Word installed on your computer.
+
+
+During 
+LifeLearn
+installation, the printouts/handouts are automatically linked to some diagnos
+i
+s 
+codes. 
+Other printouts/handouts can be manually linked. 
+You can also manually link 
+LifeLearn
+printouts/handouts to inventory
+and procedure codes. 
+
+
+Refer to the 
+LifeLearn
+chapter for setup information.
+
+
+Attach and Print Documents
+from Visit
+
+
+Documents created 
+outside of 
+IntraVet
+can also be attached to a patient visit and printed.
+
+
+Supp
+orted document format types are:
+
+
+.DOC 
+
+
+.PDF 
+
+
+.RTF 
+
+
+.TXT 
+
+
+.XLS
+
+
+.JNT, JTP 
+
+
+. DCM
+–
+Provides the basic interface for viewing medical images, such as CT Scans, MRIs and 
+Ultrasounds. 
+
+
+Attaching large files can significantly increase backup time and decrease storage space.
+
+
+Documents are attached to the patient’s medical record from the Control Center. 
+Use the calendar 
+to locate the day of the patient’s visit. 
+
+
+ Double
+-
+click on the client
+/patient line to open the visit.
+ Right
+-
+click on the 
+Plan
+line where you want to attach a document. 
+ Choose 
+Line Attachment
+from the pop
+-
+up menu. An 
+Attached Files
+window opens. 
+
+
+ Select
+New
+and navigate to the location on your hard drive, floppy disk or 
+CD where 
+the document is stored and double
+-
+click 
+Open
+to add the document.
+
+
+When a document is attached to a Plan line, an attachment icon (page and paperclip
+) will appear next to the line. Multiple documents can be attached to a Plan line.

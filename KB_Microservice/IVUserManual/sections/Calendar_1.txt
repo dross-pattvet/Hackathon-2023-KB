@@ -1,0 +1,116 @@
+ You can then individually edit each column
+in the group.
+
+
+Changes to 
+the 
+Appointment Calendar
+Setup
+may be made at any time while in use by others. You 
+can block, reserve and add columns without affecting existing appointments; however, associated 
+appointments are lost when columns or gro
+ups are deleted
+.
+
+
+Calendar
+
+
+The appointment calendar is used daily to view and make appointments and drop
+-
+offs, confirm 
+upcoming appointments and associate visits or services with them.
+
+
+
+
+<<NEW PAGE 165>>
+
+
+Viewing the Calendar
+
+
+There are a couple of
+options for viewing the calendar
+. O
+pe
+n the calendar by clicking the 
+Appointment C
+alendar
+icon
+in the 
+IntraVet
+Toolbar or
+selecting 
+Appointment
+s | Appointment 
+Calendar
+from the Menu Bar.
+
+
+Viewing Options
+
+
+ Group
+:
+The calendar that is associated with your 
+branch 
+appears. You can change the 
+group or
+calendar by clicking the 
+drop
+-
+down
+menu in t
+he upper right.
+ Time Period
+:
+Use the calendar arrows on the upper left side to switch months or years. 
+Click the 
+Day
+, 
+Work Week
+, 
+Week
+, or 
+Month
+buttons to quickly change your time period 
+view. Y
+ou can also highlight days on the monthly calendars to select specific days.
+ You can select the 
+Work Week
+button in the middle toolbar to view weekly 
+appointments. 
+ Columns
+:
+The number of columns and which columns appear in the group are 
+determined in the group setup. However, you can scroll to see more or change the 
+number you see by:
+ Checking or unchecking the column boxes in the lower left.
+ Click the “
++
+” or “
+–
+” in the lower right portion of the window to increase or 
+decrease the columns shown.
+ General
+:
+You can change the look of the calendar by hiding or 
+showing
+two 
+features: the left pa
+nel
+and the Toolbar
+. Right
+-
+click in the appointment 
+calendar, choose 
+Options
+and check or uncheck the desired feature. 
+
+
+If 
+Show Left Bar
+is de
+selected, 
+it will remove the Calendar from view.

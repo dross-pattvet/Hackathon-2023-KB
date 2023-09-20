@@ -1,0 +1,48 @@
+ To revise either a 
+Code
+or 
+Description or Reminder Type and Due Date
+of an existing 
+Code / Description / Reminder, h
+ighlight the desired code 
+and 
+click the 
+Edit
+button at 
+t
+he bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, 
+highlight the desired code 
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decisi
+on to 
+Inactivate
+.
+)
+ Click 
+OK
+.
+
+
+Discount Types Codes
+
+
+Discount ty
+pes can be used to track discounts given to your clients. 
+
+
+Discount Types 
+–
+Create, Edit or Inactivate
+
+
+ From the IntraVet Menu Bar, select 
+Setup | General Codes | 
+Discoun
+t Types
+.

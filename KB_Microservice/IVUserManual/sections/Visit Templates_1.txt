@@ -1,0 +1,83 @@
+Visit
+Templates
+
+
+A 
+Visit
+Template
+is a t
+ime
+-
+saving way to have customized SOAPs
+for common visit types already 
+set up prior to a client/patient’s appointment. 
+These Visit Templates can be attached to a 
+patient’s
+appointment and/or visit.
+
+
+Visits and Visit 
+Templates provide the 
+following:
+
+
+ A
+n unlimited number of customized Visit
+templates
+(SOAPs)
+can be created, 
+one for
+–
+Canine annuals, Feline dental cleanings, 
+Surgeries
+, etc.
+ Services
+, documents 
+(
+such as client hando
+uts
+)
+, consent forms and notes 
+associated
+with that visit type can be added to the template so they load 
+automatically.
+
+
+Visit
+and 
+Estimate
+codes must be set up before creating templates. Refer to the chapte
+r 
+General 
+Codes Setup
+.
+
+
+Visit Template
+Setup
+
+
+Templates include 
+vitals,
+a
+bnormalities, and tasks so that you can take advantage of these in the 
+Visit Template
+setup.
+
+
+How to Create a Customized Visit
+Tem
+plate
+
+
+ From the 
+IntraVet
+Menu Bar
+, 
+select
+Setup
+| 
+Visits
+| 
+Visit Templates
+.

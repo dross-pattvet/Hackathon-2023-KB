@@ -1,0 +1,129 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Document Codes.png
+Document Codes
+
+
+Document Codes
+are used 
+with
+c
+lient handouts
+, health certificates, euthanasia forms and 
+authorization forms
+. T
+his includes 
+LifeLearn
+Handouts that are purchased and installed as a 
+supplement to 
+IntraVet
+f
+or
+educating clients about conditions, diseases, and homecare 
+instruction
+. T
+he printouts/handouts include small animal, large animal and pharmacy. 
+The 
+documents are usua
+lly used for paperwork that 
+would 
+be 
+fill
+ed
+out manually (not on the 
+computer) and ei
+ther file
+d
+or give
+n
+to the client.
+
+
+Documents can be created inside IntraVet by using the word processing module. Once
+a code
+/
+description 
+has
+been created
+, 
+locate the file 
+and
+attach to this code
+/description
+. 
+To access a 
+document on an
+account
+,
+click
+the
+Documents
+button on the Client Account
+window.
+
+
+Document Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Document Codes
+.
+
+
+ To create a new 
+Document
+code, click 
+New
+at the bottom of the D
+ocument Code List 
+screen.
+ Enter
+a 
+Code
+and
+Description
+.
+ If 
+documents 
+have already been created 
+and saved on 
+the
+local drive, 
+select
+Browse 
+Existing Documents…
+and navigate to its location and select it to load it.
+ N
+ew documents can also be created from within IntraVet by clicking on 
+Create 
+New
+Document
+…
+and typing in the information. Save the document and name it 
+accordingly from within the File menu of the word processing screen.
+ If a document is already created but it needs revision, 
+select
+the document name; then 
+select
+the 
+Edit 
+button at the bottom of the Document Code List screen
+to open the file 
+and make changes.
+ Click 
+OK
+. 
+ To inactivate a
+Code/Description, highlight
+the desired code
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)

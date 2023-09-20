@@ -1,0 +1,318 @@
+s should be selected by 
+default.
+ Round to the nearest nickel
+–
+When selected, rounds prices up or 
+down to the neare
+st nickel.
+ Round to the nearest dime
+–
+When selected, rounds prices up or 
+down to the nearest dime.
+ Round to the nearest dollar
+–
+When selected, rounds prices up or 
+down to the nearest dollar.
+ Always round up
+–
+Re
+gardless of the updated price, it always ro
+unds 
+up when this checkbox is checked. 
+(This box works with the other 
+rounding selection options with this utility.)
+
+
+
+
+
+
+
+
+You can update:
+
+
+ Individual codes
+ All codes per branch 
+ Codes within a certain department or species that are selected.
+
+
+Quantity Pricing
+
+
+Qu
+antity Pricing
+only applies when one code is selected. If you select multiple codes, the quantity 
+pricing option is disabled.
+
+
+
+
+<<NEW PAGE 460>>
+
+
+ Quantity
+–
+How many items per unit. 
+The maximum value is 
+$999,999,999.99.
+
+
+
+
+
+
+There can be different prices based on the quantity 
+purchased. This is useful for items like: 
+
+
+o Canned food that is priced by the can and by the 
+case. 
+o Pills that are sold by the pill and by the entire bottle.
+ Price
+–
+The selling price per item. 
+The maximum value is $999,999,999.99.
+ Amount
+–
+Quantity times
+the price. 
+The maximum value is 
+$999,999,999.99.
+
+
+
+
+
+
+Example: 
+If you are selling 1 
+R
+imadyl chewable for $1.24 the amount is $1.24. 
+
+
+Example:
+IntraVet also calculates the price if you enter the quantity and the amount. In the 
+example above, a quantity of 
+60 entered with an amount of $53.40. IntraVet calculated the price 
+(.89 per chewable) by dividing the amount by the quantity.
+
+
+ Discount
+–
+total calculated discount. 100% reflects in the discount box by 
+default. Discount is disabled by default.
+
+
+
+
+
+
+Action
+
+
+ App
+ly to All
+–
+If selected, it applies the new selection price criteria to all the 
+inventory codes within that branch, species, and department. You must 
+select save to save the changes. This option is disabled when the Quantity 
+Pricing option is selected.
+ A
+pply to Selection
+–
+If selected, it applies the new selection price criteria, as 
+well as checkboxes listing if the min. charge, disp. Fee, and/or quantity 
+pricing were changed to all the inventory codes that you have selected or 
+highlighted. You must sele
+ct save to save the changes.
+
+
+
+
+
+
+
+
+<<NEW PAGE 461>>
+
+
+ Save
+–
+You must 
+select 
+either the A
+pply
+to All or Apply to Selection
+option 
+for
+any data to save or change. 
+After you select this option a new window 
+appears listing all the changes that will be made to the selected codes.
+
+
+If the 
+Save
+button is clicked to save changes without selecting 
+Apply
+To All
+or 
+Apply To Selection
+buttons the following message appears: 
+
+
+ Cancel
+–
+Cancels the changes and brings you back to the main IntraVet 
+screen.
+
+
+Action
+
+
+ Display
+–
+Shows the changes
+in display screen. You are able to print from 
+this screen.
+ Print 
+–
+Prints the list.
+ Save
+–
+Applies the displayed changes to the selected code/codes.
+ Cancel
+–
+Cancels the changes and brings you back to the utility screen.
+
+
+N
+OTE
+: 
+The checkboxes for Minimum
+charge, Dispensing fee, and Quantity pricing updated are only for 
+visual purposes. They cannot be checked or unchecked. If that item is being updated due to the criteria 
+selected then the box will be checked.
+
+
+Situation 1
+
+
+
+
+<<NEW PAGE 462>>
+
+
+If the checkbox 
+Use disp.
+fee an
+d min.
+charge for all price levels
+in Quantity Pricing section is 
+checked
+and the checkboxes for 
+Minimum Charge Updated 
+and 
+Dispensing Fee Updated
+in the 
+Preview
+window are 
+checked
+as well, the changes entered in 
+Minimum Charge
+and 
+Dispensing Fee
+list boxe
+s in the utility will be applied, saved and reflect in 
+Invoice
+both for Standard Pricing and 
+for all price levels in Quantity Pricing
+after clicking 
+Apply To All / Apply To Selection
+and 
+Save
+.
+
+
+
+
+<<NEW PAGE 463>>
+
+
+Situation 2
+
+
+If the checkbox 
+Use disp. fee and min. charg
+e 
+for all price levels
+in Quantity Pricing section is 
+checked
+and the checkbox 
+Minimum Charge Updated 
+is 
+checked
+as well,
+and checkbox 
+Dispensing 
+Fee Updated
+is 
+unchecked
+in Preview
+window, the changes entered in 
+Minimum Charge
+list box 
+will be applied, sa
+ved and reflect in 
+Invoice
+both for Standard Pricing and for all price levels in 
+Quantity Pricing. 
+The changes entered in 
+Dispensing Fee
+list box in the utility will 
+NOT
+be applied, 
+saved or reflect in 
+Invoice
+for Standard Pricing or for all price levels 
+in Quantity Pricing
+after 
+clicking 
+Apply To All / Apply To Selection
+and 
+Save
+.
+
+
+Situation 3
+
+
+If the checkbox 
+Use disp. fee and min. charge 
+for all price levels
+in Quantity Pricing section is 
+checked
+and the checkbox 
+Minimum Charge Updated 
+is 
+unchecked
+and the checkbox 
+Dispensing 
+Fee Updated
+is 
+checked
+in t
+he Preview
+window, the changes entered in 
+Minimum Charge
+list box 
+will 
+NOT
+be applied, saved and reflect in 
+Invoice
+for Standard Pricing or for all price levels in 
+Quantity Pricing. 
+The 
+changes enter
+ed in 
+Dispensing

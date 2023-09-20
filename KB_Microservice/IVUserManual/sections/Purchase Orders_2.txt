@@ -1,0 +1,235 @@
+you can process them to show they are now on the 
+shelf and available for use. All items in a 
+PO can be processed at once (if you have received 
+everything as ordered), or you can partially process the PO if only some items have arrived. The 
+entire PO remains in the Purchase Order window until all items have been fully received.
+
+
+How to Process a PO
+
+
+ From the IntraVet Menu Bar, select 
+Inventory
+|
+Inventory Purchase Orders
+.
+
+
+ Right
+-
+click on the PO and choose 
+Process
+.
+
+
+
+
+<<NEW PAGE 213>>
+
+
+ Enter
+Product number (optional).
+ Enter
+an expiration date, if needed.
+ Type the manufacturer number (optional).
+ If all items
+(or most) a
+re received, c
+lick
+the
+Receive
+All
+button at the bottom of the 
+screen. 
+This changes
+the
+Received 
+amount 
+to match
+the
+Ordered 
+amount 
+on all codes. 
+You can still change individual line items if needed before saving.
+ To change 
+Received 
+one code at
+a
+time on
+the PO, 
+type the number received in the 
+Received column
+.
+
+
+You cannot receive more than the quantity originally ordered. Edit the PO if you need to 
+change the quantity ordered.
+
+
+ If the cost has changed, you can choose to update the price. Click the 
+Pri
+ce Update 
+button. The Edit window for the highlighted item appears with 
+Pricing
+and 
+Purchasing
+.
+ View the 
+New
+and 
+Existing
+cost/
+price data. If you have the code set to 
+Keep Markup %
+, 
+your suggested price is already calculated and you just need to confirm it. 
+
+
+
+
+<<NEW PAGE 214>>
+
+
+ You can 
+overwrite the price or type a new markup percent in the current 
+M
+arkup %
+field to change the price.
+ Click 
+OK
+. 
+
+
+ Click 
+Save
+when you have finished updating. The PO no longer appears in the 
+Purchase 
+Order
+window if all items have been received. You can searc
+h the PO Report (IntraVet 
+pull
+-
+down menu 
+–
+Reports
+/
+Inventory Reports
+)
+for historical PO information.
+
+
+
+
+<<NEW PAGE 215>>
+
+
+Ordering through eShelf 
+–
+Patterson Veterinary Supply
+
+
+After you have com
+pleted the codes setup, you can start ordering. 
+
+
+ Go to Inventory | Purchase Orders and select Create Purchase Order.
+
+
+ 
+
+
+ To order from eShelf, you will need to select your Patterson Vendor.
+ You can sel
+ect the Auto Load button at the top of the screen to automatically load any 
+items below the reorder level. 
+
+
+
+
+<<NEW PAGE 216>>
+
+
+E:\eShelf Screenshots\PO Autoload.PNG
+E:\eShelf Screenshots\eShelf PO - eShelf Unit Cost.PNG 
+
+
+ Here you can select the items you want to order from eShelf by checking the box next 
+to
+the items in green and clic
+king OK
+.
+
+
+ 
+
+
+ 
+
+
+ Now you can see the items w
+ithin the purchase order screen.
+eShelf items 
+are showing 
+in g
+reen. The unit Cost that you see in this screen is the eShelf pric
+ing.
+
+
+ 
+
+
+
+
+<<NEW PAGE 217>>
+
+
+E:\eShelf Screenshots\Send Order to eShelf - Right mouse click.PNG
+F:\eShelf Screenshots\Send Order to eShelf- Purchase Preview.PNG
+ If you see any items in b
+lack they are not associated with eSh
+elf. You do have the 
+option to r
+ight mouse click and select Update eShelf Code Association to associate this 
+code with an eShelf code.
+ Once you have entered 
+all your
+codes for this order, c
+lick Save and it will populate in 
+the Purchase Order list. 
+ Now you can send your items to eShelf by clicking the Send Order to eShelf button or 
+by right m
+ouse clicking on the order and s
+electing Send Order to eShelf. 
+
+
+ 
+
+
+ Once you click Send O
+rder to eShelf you will see the eShelf Order Preview screen; this 
+allows you to review your order.
+ Y
+ou will notice an Availability c
+olumn; this will let you 
+know if the item is Out of Stock, 
+Special Order or Back Ordered. 
+ Click Submit to s
+ubmit your order. 
+
+
+ 
+
+
+Receiving Y
+our eShelf Order
+
+
+ Once you have re
+ceived your order from eShelf, g
+o to Inventory | Pur
+chase Orders.
+ Right
+-
+select
+the Purchase order and Process.
+ Enter the amount received and you also have the option to change the Unit Cost.

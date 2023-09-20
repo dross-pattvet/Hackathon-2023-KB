@@ -1,0 +1,130 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Subjective.png
+ To create a new 
+Subjective
+code, 
+select
+New
+at the bottom of the Subjective List screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+. The 
+Description
+is the terminology you typically use in your 
+practice
+.
+ Click 
+OK
+.
+
+
+ To revise a 
+Subjective
+Code, double
+-
+click the code/description in the Subjective List 
+screen, or 
+click once to 
+highlight and click
+the
+Edit
+button at the bottom of the screen.
+ Make the necessary 
+changes and click OK.
+ To inactivate a 
+Subjective
+Code, highlight it in the Subjective List screen and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear 
+asking to confirm the decision to 
+Inactivate
+.
+)
+
+
+Vendor
+
+
+Vendor
+codes should be set up for every vendor from whom you purchase products
+. V
+endor codes 
+are used to receive inventory
+, track purchase history by vendor and run reorder reports by vendor
+. 
+P
+urchase Orders
+ca
+n also be created by vendor
+. A
+ll inventory received through 
+IntraVet
+must have 
+a vendor associated.
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Vendor
+.
+
+
+
+
+<<NEW PAGE 109>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Vendor.png
+ To create a new 
+Vendor
+code, click the 
+New
+button at the bottom of 
+the Vendor List 
+screen.
+ Enter the new code into the blank 
+Code
+field.
+ Fill in the empty fields. (All fields are optional
+except for Name and Zip.
+)
+ To revise a 
+Vendor
+Code, double
+-
+click the code/description in the Vendor List screen, or 
+click once to highli
+ght and click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+
+
+
+
+<<NEW PAGE 110>>
+
+
+ To inactivate a 
+Vendor
+highlight it 
+in the Vendor
+List screen and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will
+appear asking to 
+confirm the decision to 
+Inactivate
+.
+)

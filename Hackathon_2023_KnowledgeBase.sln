@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot", "ChatBot\ChatBot.csproj", "{1DD55659-DA20-42DB-AD75-0D28391CAF25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KB_Microservice", "KB_Microservice", "{82A3AAE5-711F-4399-A5F8-5896FA48155E}"
+	ProjectSection(SolutionItems) = preProject
+		KB_Microservice\chromadb_peek.py = KB_Microservice\chromadb_peek.py
+		KB_Microservice\convert_to_chromadb.py = KB_Microservice\convert_to_chromadb.py
+		KB_Microservice\directory.txt = KB_Microservice\directory.txt
+		KB_Microservice\endpoint_openai_azure.txt = KB_Microservice\endpoint_openai_azure.txt
+		KB_Microservice\kb_microservice.py = KB_Microservice\kb_microservice.py
+		KB_Microservice\key_openai.txt = KB_Microservice\key_openai.txt
+		KB_Microservice\key_openai_azure.txt = KB_Microservice\key_openai_azure.txt
+		KB_Microservice\requirements.txt = KB_Microservice\requirements.txt
+		KB_Microservice\system_create.txt = KB_Microservice\system_create.txt
+		KB_Microservice\system_search.txt = KB_Microservice\system_search.txt
+		KB_Microservice\system_update.txt = KB_Microservice\system_update.txt
+		KB_Microservice\test_kb_service.py = KB_Microservice\test_kb_service.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD55659-DA20-42DB-AD75-0D28391CAF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD55659-DA20-42DB-AD75-0D28391CAF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD55659-DA20-42DB-AD75-0D28391CAF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD55659-DA20-42DB-AD75-0D28391CAF25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7D70F0-F6A5-4C0E-AAC7-22C9A2150BDB}
+	EndGlobalSection
+EndGlobal

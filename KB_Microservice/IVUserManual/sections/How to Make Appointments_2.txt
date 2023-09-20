@@ -1,0 +1,163 @@
+ can change its start and end times by dragging the 
+top edge up or the bottom edge down.
+
+
+How to Make a Walk
+-
+in Emergency
+Appointment
+
+
+A walk
+-
+in can be processed directly through the appointment calendar. 
+Onl
+y a minimal amount of 
+information needs to be gathered during check
+-
+in so that the patient can be seen immediately.
+
+
+New Client and Patient
+
+
+ Double
+-
+click on the slot where you want to make the new appointment or right
+-
+click on 
+the slot and choose 
+New Appointment
+. 
+ The 
+New Appointment
+window appears. It defaults to the column/provider that you 
+se
+lected.
+a. 
+Choose your 
+Client
+and 
+Patient
+. If one or both is not yet in the system:
+
+
+
+
+
+
+<<NEW PAGE 172>>
+
+
+ Click the 
+Open Account
+icon 
+on the upper left of the Appointment screen
+for the client 
+list to appear
+. 
+
+
+ For new clients, click the 
+New
+button at the bottom of the 
+Client 
+List
+screen. 
+New Account
+screen will appear. Enter 
+First Name
+, 
+Last Name
+, 
+Address
+and 
+Phone Number
+. Click 
+OK
+.
+
+
+ For new patients, click the 
+Add Patient
+icon
+. Enter 
+Patient Name
+and 
+Species
+. The 
+other fields and options can be completed after the emer
+gency has been resolved.
+ If the patient’s age is not known at the time the account is set up, IntraVet provides a 
+screen to choose a generic age such as 3 months or 1 year, then, converts your selection to 
+real age. 
+Select
+Age
+and the 
+Birthdate
+screen wil
+l appear. Enter information and click 
+OK
+.
+
+
+
+
+<<NEW PAGE 173>>
+
+
+Established Client and P
+atient
+
+
+ If the patient is already in the system
+, open an appointment time slot. There are two 
+blank fields at the top of the window for 
+Client
+information. Click the 
+Open Account
+icon 
+on the upper le
+ft of the Appointment screen. The 
+Client List
+screen will 
+appear. 
+
+
+To 
+Search
+, type the client’s last name, first name or account number and press Enter 
+on 
+your
+keyboard, or s
+c
+roll to find the client/patient. 
+(The system defaults to search by name. 
+If yo
+u want to search by account number, click the column header named Account #.) 
+H
+ighlight and click 
+Use
+or 
+Edit
+. Or you can 
+double
+-
+click
+on the client name.
+
+
+The 
+Auto Search
+option allows you to go to the first account that fits the search criteria that 
+wa
+s entered without having to hit the tab key. 
+
+
+ 
+
+
+When checked, the 
+Show Inactives
+shows inactive clients and allows you to search for them 
+and reactivate their account. Inactive clients will show up in gray in the Client List.

@@ -1,0 +1,344 @@
+ Fee
+list box in the utility will be applied, 
+
+
+
+
+<<NEW PAGE 464>>
+
+
+saved and reflect in 
+Invoice
+both for Standard Pricing and for all price levels in Quantity Pricing
+after clicking 
+Apply To All / Apply To Selection
+and 
+Save
+.
+
+
+Situation 4
+
+
+If the checkbox 
+Use disp. fee and min. charge 
+for all price levels
+in Quantity Pricing section is 
+checked
+and the checkboxes 
+Minimum Charge Updated 
+and 
+Dispensing Fee Updated
+in the 
+Preview
+window are 
+unchecked
+, the 
+changes entered in 
+Minimum Charge
+and 
+Dispensing Fee
+lis
+t 
+boxes in the utility will 
+NOT
+be applied, saved or reflect in 
+Invoice
+for Standard Pricing or for all 
+price levels in Quantity Pricing
+after clicking 
+Apply 
+To All / Apply To Selection
+and 
+Save
+.
+
+
+
+
+<<NEW PAGE 465>>
+
+
+Situation 5
+
+
+If the checkbox 
+Use disp. fee and min. ch
+arge 
+for all price levels
+in Quantity Pricing section is 
+unchecked
+and the checkboxes 
+Minimum Charge Updated 
+and 
+Dispensing Fee Updated
+in the 
+Preview
+window are 
+checked
+, the changes entered in 
+Minimum Charge
+and 
+Dispensing Fee
+list 
+boxes in the utility wi
+ll be 
+applied, saved and reflect in 
+Invoice
+for only one Standard Pricing. 
+The 
+changes
+will 
+NOT
+be applied, saved or reflect in 
+Invoice
+for all price lines listed in Quantity Pricing
+after clicking 
+Apply To All / Apply To Selection
+and 
+Save
+.
+
+
+
+
+<<NEW PAGE 466>>
+
+
+NOTE 
+1: 
+In all Situations. The Selling Price for the i
+tem reflects/
+doesn’t reflect in print form of the 
+Invoice if checkboxes 
+Price for items with Minimum charge 
+and
+Price for items with Quantity Pricing or 
+Dispensing Fee
+are checked
+/unchecked in Setup | Progr
+am | General Branch Setup. Select Branch | Edit | 
+Invoice tab.
+
+
+NOTE 2:
+In all Situations. The order of application of Minimum Charge and Dispens
+ing Fee depends on
+if
+the checkbox
+Add Dispensing Fee first and compare to Min.
+charge [or take Min.
+charge a
+nd add 
+Dis
+p
+.
+fee]
+is checked/unchecked in Setup | Program | General Branch Setup. Select Branch | Edit | 
+Invoice tab.
+
+
+Security
+
+
+You must have security options/
+permission to access and run the utility. 
+
+
+The Inventory Code Mass Price Update option must be ch
+ecked under 
+Setup | Security | Security 
+Templates
+. 
+
+
+
+
+<<NEW PAGE 467>>
+
+
+Select the template to which you need access. Go to 
+Area of System | Utilities
+, and check the 
+Inventory Code Mass Price Update
+box. Click 
+OK
+to save. 
+
+
+Multi
+-
+User
+
+
+Running the utility requires exclus
+ive use.
+
+
+Procedure Code Mass Price Update
+
+
+You can update your procedure codes by amount or percentage
+. Y
+ou can select by department, 
+perform a global update, or browse through the co
+des and update the selling price and cost 
+individually. 
+
+
+You may also select to apply changes to only non
+-
+zero prices and select a rounding option (nickel, 
+dime, or dollar). 
+
+
+From the 
+IntraVet
+Menu Bar, 
+select
+Tools | 
+Utilities
+| 
+Code Utilities
+| 
+Procedure
+Code Mass Price 
+Update
+. 
+
+
+
+
+<<NEW PAGE 468>>
+
+
+When you enter the utility, 
+one code is selected. 
+Selling Price
+, 
+Increase By Amount
+and 
+Increase By 
+Percent
+checkboxes are enabled and 
+Change Selling Price To
+checkbox is disabled. 
+The 
+Increase 
+By Amount
+w
+ill be disabled until you highlight multiple codes. 
+When multiple codes are selected, 
+the 
+Selling Price
+field is disabled 
+since it is only relevant when an individual code is selected. 
+Increase By Amount
+, 
+Increase By Percent
+and 
+Change Selling Price To
+c
+heckboxes are enabled.
+
+
+To select multiple codes:
+
+
+ Hold down the 
+Ctrl
+key to highlight and select multiple (non
+-
+consecutive) codes. 
+ Hold down the 
+Shift
+key to highlight and select multiple (consecutive) codes. 
+
+
+Price updates done in this utility update es
+timate templates to the new selling price.
+
+
+The settings for the Procedure codes are originally set
+up under 
+Setup | General Codes | Procedure
+. 
+
+
+In the utility you have the options of:
+
+
+ Description 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that
+identifies the Description.
+ Department 
+–
+Section of your practice.
+ Species 
+–
+Type or variety of animal.
+
+
+
+
+Action
+
+
+
+
+<<NEW PAGE 469>>
+
+
+ Show All 
+–
+Shows all the Inventory codes set
+up within IntraVet. If there is a filter set 
+and you click 
+Show All
+, it ignores the filter and sh
+ows all the inventory codes.
+o Filter 
+–
+Filters the Inventory codes to only show those that meet the requirements 
+added for Description, Code, Department, and Species.
+
+
+Location
+
+
+ Branch
+–
+Change branches to update codes.
+
+
+Updates
+
+
+ Selling Price
+–
+The price that 
+is normally charged clients for this item. 
+It 
+has 
+two 
+list 
+boxes: 
+o The first box (next to selling price) is enabled. List the new selling price for the 
+selected code/codes. 
+o The second box is disabled. It shows the selected code
+’
+s current selling pric
+e.
+
+
+
+
+Price updates done in this utility updat
+e estimate templates to the new 
+selling 
+price. If the new pricing is to be reflected automatically in your estimate templates, 
+you MUST use this utilit

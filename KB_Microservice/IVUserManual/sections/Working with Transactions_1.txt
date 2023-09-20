@@ -1,0 +1,116 @@
+ C
+reates a credit adjustment of the same amount to cancel out the charges in full
+. T
+his 
+credit transaction is called a Split Invoice
+Adjustment. 
+ D
+istributes the invoice amount amongst the partner/owners according to the 
+estab
+lished partnership percentages
+. T
+hese charges are recorded in their accounts as 
+debit transactions with the animal’s name as the transaction description. 
+
+
+If the client is also a partner/owner rather than a caretaker client, there will be three transactio
+ns 
+to handle the invoice and split invoicing:
+
+
+ T
+he invoice itself,
+ A credit to cancel out the full charges of the invoice, and 
+ A debit transaction for the amount that the owner actually owes according to the 
+partner percentage. 
+
+
+Deletions and Split Invoici
+ng 
+Deleting a Debit/Credit
+
+
+Debit or credit transactions resulting from split invoicing cannot be deleted individually
+. T
+he 
+invoice on the caretaker client’s account must be deleted instead
+. W
+hen the ori
+ginal invoice is 
+deleted, any related debit/credit transactions are also deleted from partner accounts. 
+
+
+Transactions
+
+
+Transactions
+–
+displays all the financial history for all patients associated with one client or a group 
+of partners.
+
+
+Working with Trans
+actions
+
+
+To open a client’s 
+Transactions
+window, you first need to open the client’s account.
+
+
+ Locate and
+open the client account.
+ Select
+the
+Transactions
+tab
+. 
+ There are several actions that can be performed from the 
+Trans
+action
+s
+window. For 
+example, 
+select
+the + (plus) sign at the beginning of a line item to expand for more 
+detailed information. Click again to collapse the section. 
+
+
+
+
+<<NEW PAGE 319>>
+
+
+ Right
+-
+click on a patient name or line item to display the 
+Transactions
+option list. Some 
+options may require your Operator ID
+and password.
+
+
+Payment transactions
+are processed through the 
+Transaction
+s
+screen
+.
+
+
+To 
+open/view
+a client’s 
+Transactions
+screen, 
+first open the client’s account.
+
+
+ O
+pen the client account.
+ Select
+the
+Transactions
+tab
+. 
+All the transactions for this client are displayed here.

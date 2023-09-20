@@ -1,0 +1,86 @@
+ Repeat 
+the steps above 
+to create the adjustment to apply the NSF Fee to the account. 
+Under Adjustment Type, select 
+NSF Check Fee
+.
+
+
+The returned check fee that your 
+practice
+may assess the client is handled in 
+D
+ebit 
+Adjustments
+. 
+
+
+Returned Check Adjustments
+will show on the doctor’s payment distribution report as 
+“paid,” and the amount of the adjustment taken will be undistributed.
+
+
+Debit Adjustments
+
+
+Debits increase the cli
+ent’s balance. They are generally used to assess fees not related to regular 
+services (NSF fees, collection fees) or to offset errors. 
+
+
+To open a client’s 
+Transactions
+window, you first need to open the client’s account.
+
+
+ L
+ocate and open the client account.
+ Select the
+Transactions
+tab
+.
+
+
+
+
+<<NEW PAGE 329>>
+
+
+ Right
+-
+click on a line item to display the 
+Transactions
+option list and select 
+Financial 
+Adjustment
+. 
+
+
+ Click the 
+Debit A
+djustment
+tab
+. A
+list of Adjustment Types appears
+. 
+ Enter
+the debit amount in the 
+Amount
+field. 
+ If you need to record the debit on a date other than today, tab to the 
+Date
+field and 
+change the date. 
+ Click a 
+Debit
+Adjustment Type
+from the list to the right (these are established during 
+code setup), or tab to the 
+Description
+field and 
+e
+nter
+your own. 
+ Click 
+Save
+.

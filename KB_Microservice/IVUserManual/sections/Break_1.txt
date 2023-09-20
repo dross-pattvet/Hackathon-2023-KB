@@ -1,0 +1,15 @@
+ This will provide a list of employees that are currently clocked in.
+
+
+Clock Out
+–
+Break
+
+
+Clocking out for a break follows the same steps a
+s clocking in.
+
+
+ When the break is over and the employee returns to work, click the 
+Clock In
+button.

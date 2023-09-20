@@ -1,0 +1,48 @@
+ Click 
+New
+to create a new vital description. Click 
+Edit
+to change a descri
+ption. Click 
+Inactivate
+to inactivate a vital.
+
+
+ Enter a new 
+Vital Description
+by typing a description into the 
+Description
+field.
+
+
+ Click OK. 
+
+
+Body Systems
+
+
+Enter 
+Body Systems
+(eyes, ears, gastrointestinal, etc.) and 
+set up
+subc
+ategories, such as Cornea and 
+Iris under “Eyes.” 
+You can choose whether or not to use these in each visit template that you 
+create. 
+
+
+How to Create, Edit or Delete Body Systems
+
+
+ From the 
+IntraVet
+Menu Bar
+, 
+select
+Setup
+| 
+Visits
+| Body
+Systems
+.

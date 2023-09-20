@@ -1,0 +1,32 @@
+Payment
+
+
+The 
+Payment
+tab on the Client Account Management screen applies a customer’s payment to their 
+current account balance. 
+
+
+ The branch assignment, description, type, date, and amount can all be 
+edited. 
+ Multiple types of payments can be added to one overall payment and multiple 
+payments of the same type can be added.
+
+
+The 
+Confirm Change
+button implies that the customer wants change back. If the Confirm Change 
+button is not clicked, the customer 
+will get a credit on their account for the amount of the change.
+
+
+If the 
+Remove
+button is clicked it will remove the highlighted payment. There will be no 
+confirmation or warning.
+
+
+If the 
+Clear
+button is clicked it will remove all payments. There will be n
+o confirmation or warning.

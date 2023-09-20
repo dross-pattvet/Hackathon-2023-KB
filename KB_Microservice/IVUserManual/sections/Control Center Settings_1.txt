@@ -1,0 +1,123 @@
+The main sections of the Control Center
+include:
+
+
+ Visit
+line entries for each patient/client
+ Status
+bar/changes
+ Summary
+of daily activity
+ Notes
+for each visit
+ Tasks
+for each visit
+ Documents
+for each visit
+ Current Balance
+
+
+Control Cen
+ter
+Settings
+
+
+You can customize your Control Center by defining several settings.
+The Control C
+enter options 
+can be set
+up to reflect what the user of that computer would like to see. Example
+: I
+f you
+r
+computer in your groom r
+oom only needs to see what pets are coming in for Grooming, they can 
+set
+up the options to only reflect the 
+Grooming
+appointments
+. 
+
+
+ With Control Center open, right
+-
+click in the central portion of the white pane and select 
+Options
+.
+
+
+
+
+<<NEW PAGE 233>>
+
+
+ A window opens to the 
+C
+ontrol Center Options
+. 
+
+
+The Entry Types, Status and Flags options affect which rows are displayed.
+
+
+ Select or deselect options to define how you want Control Center
+to appear.
+ If meets ALL specifi
+ed criteria is selected, the patient appointment has to 
+match exactly all options that are selected.
+ If meets ANY specified criteria is selected, regardless of what options are 
+selected the patient appointment
+should appear on the Control C
+enter. 
+
+
+
+
+
+
+
+
+
+
+
+
+ There ar
+e two 
+Save
+options. 
+Save for Branch
+saves the options you selected as defaults 
+for just that branch. If you have other facilities and you want them to have the same 
+setup, click 
+Save for All Branches
+.
+
+
+To apply the selected options for that patient and th
+at particular viewing, click 
+OK
+. 
+Once the Medical History screen is closed and re
+-
+opened, the default options will re
+-
+apply themselves. 
+
+
+*If you open your Control C
+enter and you do not see a patient on there that should be, 
+you will want to look at the Co
+ntrol Center options you have selected. If you can’t get 
+the appoi
+ntment to show on your Control C
+enter, try checking all boxes 
+including the 
+Select A
+ll boxes at the bottom of the Option
+s
+screen, 
+as well as meets 
+ANY
+specified 
+criteria and click OK
+.

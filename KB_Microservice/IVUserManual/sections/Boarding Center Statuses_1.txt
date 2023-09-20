@@ -1,0 +1,110 @@
+Boarding Center
+Statuses
+
+
+The Boarding Center is the central location for tracking which patients are scheduled to be 
+boarded on a given day and what cage type they require
+as well as what status they are currently 
+in
+. The following information is lis
+ted:
+
+
+ Client
+ Patient
+ Scheduled In 
+–
+What time the patient checked
+-
+in
+ Scheduled Out 
+–
+What time the patient checked
+-
+out
+ Hospitalized
+ Ready to Release
+ Cage Type
+ Confirmation Number
+
+
+Boarding Control Center Options
+
+
+ With Control Center open, right
+-
+click in the
+central portion of the white pane and select 
+Options
+.
+
+
+
+
+<<NEW PAGE 261>>
+
+
+ A window opens to the 
+Boarding
+Control Center Options
+. 
+
+
+The Entry Types, Status and Flags options affect which rows are displayed.
+
+
+ Select or deselect options to 
+define how you want Control Center
+to appear.
+ If meets ALL specified criteria is selected, the patient appointment has to 
+match exactly all options that are selected.
+ If meets ANY specified criteria is selected, regardless of what op
+tions are 
+selected the patient ap
+pointment should appear on the Control C
+enter. 
+
+
+
+
+
+
+ There are two 
+Save
+options. 
+Save for Branch
+saves the options you selected as defaults 
+for just that branch. If you have other facilities and you want them to have the same 
+setup, click 
+Save for All Branches
+.
+
+
+To apply the selected options for that patient and that particular viewing, click 
+OK
+. 
+Once the Medical History screen is closed and re
+-
+opened, the default options will re
+-
+apply themselves. 
+
+
+*If you open your Control C
+e
+nter and you do not see a patient on there that should be, 
+you will want to look at the 
+Boarding 
+Control Center options you have selected. If you 
+can’t get the appointment to show on your Con
+trol C
+enter, try checking 
+all boxes 
+including the Select A
+ll boxe
+s at the bottom of the Option
+s
+screen, as well as meets 
+ANY
+specified criteria and click OK
+.

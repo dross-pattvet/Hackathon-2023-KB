@@ -1,0 +1,87 @@
+Any existing estimates
+(pending or saved estimates), created for the patient, appear in the 
+window with the estimate name
+, Net Min. Total and Net Ma. Total
+. 
+
+
+ C
+lick 
+Use
+to load. You may need to confirm each line as it is loaded in the pl
+an, 
+depending on your invoice settings
+;
+e.g., if you set up cost ranges or left the field blank, 
+you must enter a definite cost.
+
+
+If there are any prescriptions associated
+,
+the Prescription Label window will appear, ready 
+to be completed. 
+
+
+ Select a 
+Provide
+r
+and determine the 
+Expiration
+date.
+
+
+There is an option in the 
+Setup | Program |
+General Branch Setup
+under Invoice/Visit
+to 
+autoload 
+pending charges
+. If left unchecked, you must 
+enter each
+separately.
+
+
+Invoicing the Visit
+
+
+Invoicing t
+he visit incorporates multiple areas within the Control Center. You will have the option 
+to enter SOAP information, enter plan lines, lab results 
+etc.
+
+
+Below is an example of what the work flow should look
+like
+. 
+
+
+Entering SOAP details
+
+
+ To open, 
+select
+the C
+ontrol Center icon 
+located in the IntraVet Menu Bar. 
+ Select a date on the calendar.
+ D
+ouble
+-
+click in the client/patient line or right
+-
+click in the client/patient line and select 
+Open Visit
+. 
+
+
+ While the Visit
+is open, you can still make c
+hanges, add or remove sections like 
+Body 
+Systems
+, 
+Weight
+, etc. by selecting from the 
+Navigation
+panel.

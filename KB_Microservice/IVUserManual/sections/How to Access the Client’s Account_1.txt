@@ -1,0 +1,78 @@
+Visits and Invoices
+
+
+How to Access the Client
+’
+s Account
+
+
+There are four
+ways to access and open a client’s account
+from different areas within IntraVet
+.
+
+
+(
+Keep in mind if you are checking in and checking out a visit, the p
+referred method is through the 
+Control C
+enter by right mouse clicking and selecting Check In or Check Out
+.
+)
+
+
+Method 1: Open Account
+
+
+ From the 
+IntraVet M
+ain menu
+,
+select
+the 
+Open Account
+icon 
+. Or 
+select
+Account | 
+Account
+.
+
+
+ Make sure the 
+Auto Search
+is checked.
+ In the Search
+field type the first few letters of the client’s last name. 
+That will bring 
+those 
+names up in the names list.
+ Select the client you would like to access by either double
+-
+clicking on the name o
+r 
+selecting the line, and click Use
+. The client window will open.
+
+
+Method 2
+: 
+Control Center
+
+
+ From the main menu 
+s
+elect
+the 
+Control Center
+icon
+. 
+Or s
+elect
+File | Control Center
+.
+ Right
+-
+click on either Client or Patient and select 
+Show Find Panel
+.

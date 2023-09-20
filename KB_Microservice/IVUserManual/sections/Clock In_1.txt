@@ -1,0 +1,135 @@
+Time Clock
+
+
+The t
+ime
+c
+lock is not functional until the following areas are set
+up:
+User Setup (operator IDs and
+passwords
+), 
+Job Setup
+(
+operator roles
+)
+and security levels for all your employees (refer to the 
+Security
+chapter), as well as setting 
+enabling security within the General Branch Setup. 
+(refer to the 
+General Branch Setup
+chapter).
+Username and passw
+ord within the General Branch Setup is 
+required for use of the time
+clock. 
+
+
+Clock In
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Time Clock
+| 
+Time Clock
+.
+
+
+The login window will appear.
+
+
+ To select the 
+User
+, click the 
+down
+-
+arrow
+.
+ If requ
+ested, enter the associated Password. Click 
+OK
+.
+
+
+NOTE:
+Password is assigned within the User Setup window.
+
+
+The Time Clock module will open and the User Name will appear on the 
+title bar
+of the 
+window.
+
+
+ Select
+Clock In
+to take a snapshot and record the time
+the button was pushed.
+
+
+
+
+<<NEW PAGE 428>>
+
+
+NOTE: 
+It shows the current status and only allows the next option. The screen shot below 
+shows the Office Staff user is currently Clocked Out and only allows them to Clock In.
+
+
+ Once you are clocked in, a 
+Job C
+ode
+must be selected
+.
+Use the down
+-
+arrow to select the 
+correct job code.
+ Click 
+OK
+.
+
+
+You are now clocked in. 
+
+
+ Once you are clocked in you have 
+three 
+options:
+ Clock out for a 
+B
+reak
+.
+ Cl
+ock out for the 
+End of
+Shift
+.
+ Change Job 
+C
+ode
+.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ To confirm that you a
+re clocked in select 
+Time Clock | Currently Clocked In
+.

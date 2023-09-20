@@ -1,0 +1,74 @@
+o Overtime
+o Etc.
+
+
+
+
+Passwords control who has access to open a window or perfor
+m a certain function. 
+Auditing
+records who makes certain changes. 
+
+
+Security
+Setup
+
+
+Setting up 
+users
+and passwords will help protect the integrity of your data by allowing only certain 
+individuals access to specific areas 
+of the program. 
+
+
+Security Template
+
+
+The access levels
+are used to protect certain functions 
+within IntraVet
+. These 
+levels
+may be 
+assigned to each Operator to quickly associate certain 
+functions
+with a certain 
+job type
+–
+all kennel 
+staff, for example. You 
+can set up as many roles as your practice needs, but some common roles 
+include Owner (with access to everything), Practice Manager, Doctor, Technician, Inventory 
+Manager and Receptionist. 
+
+
+How to Set Up Security Templates
+
+
+ From the IntraVet Menu Bar, select
+Setup |
+Security
+| Security
+Templates
+.
+
+
+ Highlight a 
+Description
+or 
+Enter
+the Search field.
+ Click 
+New
+. 
+ To 
+Edit
+roles,
+select
+the 
+Description
+to highlight; then 
+select
+the 
+Edit
+button.

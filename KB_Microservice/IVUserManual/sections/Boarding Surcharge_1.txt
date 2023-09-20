@@ -1,0 +1,207 @@
+ Remove tasks from Release Form 
+–
+Any
+tasks entered for a boarding reservation will not 
+print on the
+release form.
+
+
+ 
+
+
+Boarding
+Surcharge
+
+
+Including a surcharge in a reservation fee is typically done when the boarder is staying over a 
+holiday or weekend, 
+for example
+. S
+ome 
+practices 
+charge a holiday and a weekend surcharge if the 
+holiday falls on a weekend
+. 
+IntraVet
+checks the reservation date against the default dates 
+determined in General Branch Setup.
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | Program 
+| General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+
+
+Select
+the plus sign (
++
+) in front of 
+Boarding Setup
+.
+
+
+Select
+Boarding Surcharge.
+
+
+
+
+<<NEW PAGE 41>>
+
+
+Enable Weekend
+Surcharge?
+–
+When checked, the client will automatically have a surcharge added 
+to the reservation total when the reservation check
+-
+in and check
+-
+out dates are scheduled on any 
+part of a weekend. 
+
+
+The check also 
+enables 
+a blank entry line
+where 
+a 
+procedur
+e code or description 
+can 
+be 
+enter
+ed
+to
+apply as the weekend surcharge
+. 
+Enter a
+code or the first few letters of a d
+escription to locate the 
+option
+. 
+
+
+The procedure code can be set
+up under 
+Setup | General Codes | Procedure Codes.
+
+
+To set up a new Surchar
+ge, 
+enter
+th
+e following information and 
+click 
+ADD
+.
+
+
+ Start Date
+–
+Use the 
+down
+-
+arrow
+to select a beginning date from the calendar, or 
+Enter
+a date using the format MM/DD/YY
+YY
+.
+ End Date
+–
+Use the 
+down
+-
+arrow
+to select an ending date from the calendar, or 
+e
+nter
+a 
+date using the format MM/DD/YY
+YY
+.
+
+
+98 different date ranges 
+can be added as Surcharge codes
+(Thanksgiving,
+Christmas, 
+Spring Break, 
+etc.)
+.
+
+
+ Description
+–
+Us
+e a description to identify the
+Surcharge
+. 
+The description should 
+clearly identify the holiday or 
+purpose for the date range of the Surcharge
+.
+ Procedure Code
+–
+Select a procedure code to charge for the 
+assigned 
+date range
+.
+The 
+procedure code can be set
+up under 
+Setup | 
+General Codes | Procedure Codes.
+ To edit or 
+remove
+the code and description
+after i
+t is in the grid
+, right
+-
+select
+the item
+and 
+select
+either 
+Edit
+or 
+Delete
+. 
+ Once a description is entered and a procedure code is selected you can click the 
+Add 
+Surcharge
+button to allow for an additional charge to be applied to a boarding 
+reservation.
+ If 
+t
+here is
+more than one branch, 
+the 
+surcharges 
+can be saved 
+to all the branches
+. Click
+Copy to All Branches
+in the 
+lower left corner
+.
+ When 
+all the surcharge additions have been 
+created, 
+click
+OK
+.

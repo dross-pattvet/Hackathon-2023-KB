@@ -1,0 +1,90 @@
+Patient Status
+
+
+Patient Status
+includes two subsections: 
+Status
+and 
+Summary
+.
+
+
+A patient’s current status is 
+tracked from the time the appointment is scheduled until the patient is 
+checked out and an invoice is generated using a 5
+-
+icon system. 
+
+
+The center pane shows an icon tagged to each patient
+:
+
+
+ 
+No
+-
+Show
+ 
+Scheduled
+ 
+Check Patient I
+n
+ 
+Hospitalized
+ Ready to Invoice
+ Ready to Release
+ 
+Check Patient Out
+
+
+The patient’s status determines which of the icons will appear in the 
+Status
+pane in the left 
+column.
+
+
+Summary
+
+
+The 
+Summary
+section of the Control Center provides a quick count of the number of patients in 
+each of the following categories for the current day:
+
+
+ No Show
+–
+A patient’s status becomes 
+No Show
+a certain amount of time past 
+the scheduled appointment time (you set this interval) or can also be marked as 
+such manually. 
+ Scheduled
+–
+Treatment planned for the day, check
+-
+in has not occurred yet.
+ Checked In
+–
+The patient has arrived. 
+ Hospitalized
+–
+Treatment is still in progress.
+ Ready to Invoice
+–
+The medical staff has finished tre
+atment and the charges can 
+be processed. Displays only if the 
+Ready to Invoice
+button is turned on in 
+Setup
+/
+Visits
+/
+Visit Settings
+for your 
+practice
+.
+ Patient Left
+–
+Patient is checked out and charges have been saved and finalized.

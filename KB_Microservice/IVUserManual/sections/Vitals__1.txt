@@ -1,0 +1,26 @@
+Vitals
+:
+
+
+ Click
+the 
+Vitals
+tab. 
+ To enable edits, click the 
+Include
+box.
+ Check each vital you want to include in the template. 
+ To
+Select All
+or 
+Unselect All
+, right
+-
+click in the description field and select.
+ Check the 
+Weight
+box to add this to your Visit Template
+.
+ To continue, select another tab. To accept your changes and close, click 
+OK
+.

@@ -1,0 +1,138 @@
+Lab Requests
+
+
+Requesting a Lab Test
+
+
+There is more than one way to request a 
+Lab Test
+for a patient. You can set u
+p a procedure code so 
+that it automatically requests a lab test each time the code is used. There are also two ways to 
+request a lab test through the Control Center.
+
+
+Request a Lab Test within Setup
+
+
+To automatically request a lab test
+,
+whenever chosen in a
+Visit
+or an 
+Invoice
+:
+
+
+ From the IntraVet Menu Bar, select 
+Setup | 
+General Codes | Procedure
+. 
+
+
+ Click 
+New
+.
+ Select
+the 
+Advanced
+tab. 
+ Place a check mark in the 
+Lab Test
+box
+.
+
+
+
+
+<<NEW PAGE 420>>
+
+
+ Click 
+OK
+.
+
+
+Request a Lab Test through Control Center
+
+
+There is more than one way to request a lab test through the Control Center. 
+
+
+ Select
+the 
+Control Center icon in the upper left corner of the IntraVet window to 
+open 
+Control Center
+if it is not already open
+.
+ Right
+-
+click on the 
+Patient
+. Sele
+ct 
+Go To | Patient | Lab Tests.
+
+
+ Select
+New | Lab Test.
+
+
+
+
+<<NEW PAGE 421>>
+
+
+ Fill in the 
+Test Name
+. This will pre
+-
+fill when the procedure is chosen. (It can be 
+overwritten.) 
+ Choose a 
+Test Procedure
+for the lab test.
+ Sample Date
+and 
+Time
+are pre
+-
+filled.
+ Leave 
+Sample
+ID
+blank for an auto
+-
+generated Sample ID.
+ To select the
+Provider,
+click the down
+-
+arrow or 
+Enter
+the blank field.
+ Select a 
+Status
+.
+ Notes
+can be added.
+ Click 
+OK
+. 
+
+
+Status of the lab test can be changed at any time to 
+Requested
+, 
+Received
+, 
+Reviewed
+or 
+Completed
+.
+
+
+Each test is given a status. The status is updated when a lab result is attached to a lab test. 
+The Status can be changed from requested, received, reviewed or completed
+.

@@ -1,0 +1,51 @@
+Client and Patient Operator Warnings
+
+
+Client and patient operator warnings show in red and 
+green font, respectively.
+
+
+Current Balance
+
+
+When a client/patient line is highlighted, the client’s current, unpaid balance displays in the 
+lower 
+right panel under 
+Current Balance
+. 
+
+
+Control Center 
+–
+Task Manager
+
+
+In the 
+Task Manager
+window in the right column, you can view an overall list of all tasks for the 
+practice
+.
+
+
+ Select
+the Control Center icon 
+in the IntraVet toolbar to open the Control Center or 
+sele
+ct 
+File | Control Center
+.
+
+
+ Select
+the 
+Task Manager
+icon. This will bring you to the Task Manager screen.
+
+
+ When the Task Manager window opens, check 
+Show All Tasks
+in
+the left column for a 
+complete list, or double
+-
+click on a name to see only that patient’s task list.

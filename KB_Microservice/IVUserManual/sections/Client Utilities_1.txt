@@ -1,0 +1,361 @@
+The default is separate Branches have their own pricing structure.
+
+
+ To copy the pricing structure from one Branch to another, click the down
+-
+arrow to 
+select the branch you want to 
+Copy From
+.
+
+
+Do the same for th
+e 
+Copy To
+field to select the second Branch.
+
+
+ When you have verified that you have the correct Branches set up for the “to and from” 
+order, click 
+Copy Prices
+.
+
+
+A warning screen will appear.
+
+
+ Click 
+OK
+to proceed. Click 
+Cancel
+to return to the previous windo
+w.
+
+
+Client Utilities
+
+
+Before using Client
+Utilities, make a full backup of your data.
+
+
+Client Quick Edit
+
+
+Client Quick Edit
+globally changes client informati
+on
+. Y
+ou can create a profile with selections from 
+several fields and apply the profile globally or individually to each client. 
+
+
+Client Quick Edit global changes for all clients: 
+All options are selected (check marked) by default.
+
+
+ From the 
+IntraVet
+Menu B
+ar, 
+select
+Tools
+| 
+Utilities | 
+Client Utilities
+| 
+Client Quick Edit
+.
+
+
+
+
+<<NEW PAGE 439>>
+
+
+ Click the red flag to highlight the options and check the box or radial dial to select to 
+apply to your selected clients. 
+
+
+Global changes may update clients you have individually set t
+o another value.
+
+
+Financial
+
+
+ Tax 
+ Billing Fee 
+ Interest 
+ Statement Message
+
+
+
+
+Statements
+
+
+ Summary 
+ Detailed
+ No statement
+
+
+
+
+Terms
+
+
+ COD
+ 30Days
+ 60Days
+ 90Days
+
+
+ Enter
+a dollar amount to set a 
+Credit Limit
+.
+ Enter
+a 
+Discount %
+.
+ Click the down
+-
+arrow to select the 
+Client Cla
+ssification and Search Options
+you want 
+used.
+ Classification
+–
+Includes items such as:
+
+
+o Bad Check Passed
+o Bankrupt
+o Gold Star Client
+o Written Off
+ Search Code 1
+–
+Includes items such as:
+
+
+
+
+
+
+<<NEW PAGE 440>>
+
+
+o Breeder
+o Farm Client
+o Senior Citizen
+o Trainer
+ Search Code 2
+–
+Includes the sa
+me items as Search Code 1. It affords you a second 
+search criteria.
+
+
+ Select the 
+Branch
+.
+ Click 
+Apply
+.
+
+
+ Select the 
+Clients
+you would like included. 
+If you want to apply changes to all clients, 
+check the box next to 
+Account
+. 
+
+
+A message in red displays at th
+e bottom of the window to indicate how many clients’ 
+settings will be changed.
+
+
+ When you are ready
+to apply these settings to all 
+those 
+clients, click 
+Begin QuickEdit
+.
+
+
+You will 
+not
+receive a second chance warning that you are about to change settings on 
+spe
+cific clients in your database. 
+
+
+QuickEdit cannot be stopped once the button is clicked
+. The program makes the changes 
+and 
+prompts that the Client Update Succeeded
+when complete
+. 
+
+
+
+
+<<NEW PAGE 441>>
+
+
+Client Combine
+
+
+Co
+mbine Data for Two Clients:
+
+
+Duplicate clients or two clients who want to be combined into one account can be combined using 
+Client Combine
+.
+
+
+When you combine two accounts, 
+the patients from the account to be combined are moved to the 
+account to be kept and 
+completely removed from their original account. 
+T
+he second account is 
+inactivated
+and still exists, but the patient
+(
+s
+)
+no longer belong to that account
+after the accounts 
+have been combined. 
+
+
+Combining acco
+unts 
+a
+ffects the accounts in several ways: 
+
+
+ Pati
+ents with the same names are combined into one 
+patient
+. 
+ The medical history of each patient is tr
+ansferred to the account to be kept
+. 
+ History and recalls for pets with the same name in both accounts are checked, 
+corrected
+,
+and updated. 
+ Financial transa
+ctions are combined
+. I
+f the second account has a balance, the 
+balance transfers to the first account. 
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities | 
+Client 
+Utilities
+| 
+Client Combine
+.
+
+
+
+
+<<NEW PAGE 442>>
+
+
+You will be prompted to make a b
+ackup before running this ut
+ility.
+
+
+ Enter the first account number (the client number 
+to be kept). 
+Select
+the down
+-
+arrow
+, 
+or double
+-
+click anywhere in the blank entry line. Then, scroll to your choice and 
+double
+-
+click on the name to move it into the blank entry line.
+ Enter the seco
+nd account number (the client number to be inactivated). 
+ Click 
+Start
+. 
+ Client Combine Completed Successfully will prompt when the utility is completed. 
+
+
+Be cautious selecting account numbers as first and second. 
+
+
+You will need exclusive use of the program
+when running this utility.
+
+
+
+
+<<NEW PAGE 443>>
+
+
+Mass 
+Client 
+Inactivate
+
+
+Mass Client 
+Inactivate
+is a serious undertaking
+. I
+t will 
+inactivate
+clients, patients, histories, and 
+financial information for the clients who fi
+t the selected criteria. 
+
+
+You 
+can
+inactivate
+clients with no activity since a certain date
+. T
+his means that 
+all clients
+with no 
+invoices 
+after the selected date are 
+inactivat
+ed
+. D
+ebit or credit transactions or returns and refunds 
+are not considered an ac
+tivity
+. Y
+ou must enter a date for this function. 
+
+
+So that productivity and financial reports are maintained intact, 
+IntraVet
+will not allow you to 
+purge the current year or the immediate past two calendar years. This cut
+-
+off date will be 
+displayed within
+the dynamic

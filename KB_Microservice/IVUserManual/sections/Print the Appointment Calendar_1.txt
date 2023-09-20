@@ -1,0 +1,47 @@
+How to Clear or Delete a Block
+or Reserve
+
+
+ Follow the steps above in 
+How to Insert an Opening in a Block
+.
+ In the steps above
+, include the entire blocked/reserved times.
+
+
+Print
+the Appointment Calendar
+
+
+You can print the calendar
+in 
+four
+formats:
+
+
+Provider
+/
+Column
+–
+for each provider, separated out for only that provider’s schedule.
+
+
+Time slot
+–
+to see everything happening (all pro
+viders together) organized by time of day.
+
+
+Check
+-
+in Batch
+–
+mass print check
+-
+in reports (summaries of a patient’s recent history, reminders, 
+reason for current visit, etc.)
+
+
+Calendar Print 
+–
+select the print options as well as the style of calendar.

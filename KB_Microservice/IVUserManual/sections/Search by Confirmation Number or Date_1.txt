@@ -1,0 +1,57 @@
+Search by Confirmation Number or Date
+
+
+To search by Confirmation Number or by Date, follow the instructions for Search by Client except 
+for: 
+
+
+Confirmation Numbe
+r
+
+
+ Select the 
+Search by Conf Number
+tab.
+ Enter the 
+Confirmation Number
+.
+
+
+Date
+
+
+ Select the 
+Search by Date
+tab. 
+ Enter the 
+Start
+and 
+End
+dates using the down
+-
+arrow and the calendar provided.
+
+
+Check In a Boarding Patient
+
+
+The patient can 
+be checked in via the Boarding
+or Control Center
+windows.
+
+
+If a patient is not checked 
+in because of a no
+-
+show or cancellation and the reservation has not 
+been deleted, the cage is unavailable for the duration of th
+e reservation. Delete any no
+-
+shows and 
+cancellations to reopen those cages for availability.
+
+
+ Open the Control Center by clicking on the Control Center icon 
+in the IntraVet 
+Toolbar.

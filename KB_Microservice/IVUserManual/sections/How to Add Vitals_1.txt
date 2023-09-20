@@ -1,0 +1,44 @@
+Vitals
+
+
+Set up
+Vitals
+to use in your 
+Visit
+Templates
+. 
+You can decide whether to use none
+, some or all in 
+each visit template that you create. 
+You can enter multiple sets of vitals within the same visit. 
+
+
+How to Add Vitals
+
+
+ From the 
+IntraVet
+Menu Bar
+, 
+select
+Setup
+| 
+Visits
+| 
+Vitals
+.
+
+
+ The Vitals List screen will appear.
+ To search, 
+Enter
+the 
+Search
+field to locate a Description if the list is long and 
+Auto 
+Search
+is selected. You can also scroll through the list. To search inactive descriptions, 
+click 
+Show 
+Inactives
+.

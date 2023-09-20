@@ -1,0 +1,100 @@
+ Every service listed in the 
+Plan
+must
+be changed to 
+Send 
+All 
+to Invoice
+, 
+Deferred
+, 
+Rejected
+or 
+Not Done
+). 
+O
+ptions for default are available in 
+Visit Settings
+under 
+Setup
+/
+Visits
+.
+
+
+When the medical staff is done entering services and all services are properly tagged, 
+th
+e 
+Ready to Invoice
+hot link activates. 
+This
+indicates to the front staff that the client 
+can be charged out. 
+Ready to Invoice
+hot link activation is based on Visit
+Set
+tings.
+
+
+An 
+Invoice
+can be accessed from the Visit window, from the Control Center or from the 
+client’s account. 
+When the related invoice is permanently saved, the Control Center 
+status automatically changes to 
+Checked Out
+. 
+Refer to the chapter 
+Visits and Invoices
+for more details.
+
+
+Reactivate a Patient
+
+
+A patient can be re
+activated at the time the appointment is scheduled or at check
+-
+in. 
+
+
+ Begin by opening the Control Center if it is not already open
+. 
+Select
+the Control Center 
+icon 
+in the 
+menu bar
+.
+ Right
+-
+click on the 
+Patient Appointment Status area.
+ Select 
+New Walk In
+or
+New Reservation
+.
+
+
+
+
+<<NEW PAGE 254>>
+
+
+ The Untitled 
+–
+Appointment window will open
+.
+ Click the New Client icon. The Client List will appear.
+ Select 
+the Client. Click 
+Use
+.
+ Select the Patient. Click the 
+Edit Patient
+icon 
+.
+ Change the Status to 
+Active
+.

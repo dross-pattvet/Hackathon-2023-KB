@@ -1,0 +1,78 @@
+Start DIA
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+File
+|
+DIA
+|
+Start DIA.
+
+
+Start DIA Lit
+e
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+File
+| 
+DIA
+|
+Start DIA Lit
+e
+.
+
+
+ 
+
+
+PURD
+igital
+Viewer Setup
+
+
+The 
+PURD
+igital
+Viewer
+allows 
+you to view Dicom
+images (digital x
+-
+rays, etc.) that are stored on 
+your PACS server
+. 
+
+
+PACS (Picture Archiving and Communications System) is a combination of hardware and software 
+dedicated to storage, retrieva
+l, distribution and presentation of images.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Other Programs
+|
+PURD
+igital
+Viewer
+Setup.
+
+
+ Enter
+the se
+rver name to connect to the PURD
+igital Viewer.
+ Click 
+OK
+.

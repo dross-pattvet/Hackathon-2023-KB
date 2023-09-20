@@ -1,0 +1,86 @@
+Name
+, Address
+, Phone
+and Tax
+
+
+ From
+the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+Program
+| 
+General Branch Setup
+. 
+
+
+ Select 
+the Branch you wish to edit
+and
+choos
+e
+Edit
+.
+ Click the 
+plus sign (
++
+)
+in front of
+General
+. 
+Select
+Name, Address, Phone 
+and
+Tax
+.
+ A
+dd 
+the 
+branch
+Address
+.
+This information prints o
+n documents such as
+invoices and 
+certific
+ates. 
+Use the last line for the 
+branch
+phone number 
+if desired.
+Each
+fi
+eld has a 
+50
+-
+character
+limit which includes l
+etters, 
+n
+umbers, spaces and punctuation.
+ Set 
+up 
+your
+tax information
+. I
+f 
+there is
+a 
+Secondary Tax
+, 
+select 
+Secondary
+Tax
+and add 
+a tax description. 
+Enter the tax percent in t
+he box. 
+Be sure 
+the
+codes and clients are 
+marked as taxable. 
+ Click 
+OK
+.

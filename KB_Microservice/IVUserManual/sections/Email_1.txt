@@ -1,0 +1,196 @@
+ Browse to locate the logo. 
+ You c
+an select a different 
+Background Color
+for each branch; this will help identify 
+which branch you are logged into.
+ Click 
+OK
+to save your changes.
+
+
+Email
+
+
+IntraVet
+offers the ability to
+email reminders, 
+medical histories, 
+referral 
+letters, and purchase 
+orders. 
+Send
+e
+mail
+s 
+with attachments such as pictures, appointments, callbacks and reminders to 
+individual 
+clients
+and
+/or
+doctors. 
+
+
+Internet access and an 
+email
+account
+are
+required
+to
+use IntraVet email
+. 
+To send email
+s
+from a 
+works
+tation, that workstation must have 
+direct 
+access to the Internet.
+If 
+you are
+using
+Terminal 
+Services or Citrix, 
+the
+server must have access to the Internet.
+
+
+To set
+up 
+your 
+email
+account information 
+in
+IntraVet
+:
+
+
+ From
+the 
+IntraVet
+Menu Bar, select 
+Setup | P
+rogram | General Branch Setup
+. 
+ Select the Branch you wish to edit. Click 
+New
+or 
+Edit
+.
+ Click the plus sign (
++
+) in front of 
+General
+. Select 
+Email
+.
+ Email Address
+–
+Enter
+your practice’s 
+email
+address.
+ Reply Address
+–
+Enter
+the address the reply 
+email
+s are
+to come 
+to
+(usually the same as 
+your practice 
+email
+address).
+ Controlled Substance E
+-
+mail Address
+–
+The email address that you will email your 
+controlled substance report to. 
+ Outgoing Email Server
+(SMTP) 
+–
+Contact your local 
+Internet Service P
+rovider
+(IS
+P)
+. Your 
+systems/network administrator or IT consultant can obtain this information. 
+Sometimes this information can be found on your 
+email
+provider’s 
+w
+ebsite.
+ Authentication
+–
+Select None, Default, or Custom.
+ Account Name
+–
+Use 
+your
+practice
+’s
+email
+addr
+ess. 
+ Password
+/ 
+Confirm Password
+–
+Ask 
+your
+ISP for assistance
+. 
+ SSL Required
+–
+Ask for assistance from 
+your
+ISP.
+ SMTP Port
+–
+Ask for assistance from 
+your
+ISP.
+ Signature
+–
+To save time, 
+an
+autom
+atic
+signature 
+containing 
+your 
+cont
+act information 
+(
+practice 
+name, address, etc
+.
+) can be 
+provide
+d
+at the end of every 
+email
+. 
+ Send a test email
+–
+Send your
+practice an 
+email
+. I
+f
+the 
+email
+is 
+receive
+d
+, it confirms that 
+the 
+email
+settings are correct
+.
+ Click 
+OK
+to save your changes.

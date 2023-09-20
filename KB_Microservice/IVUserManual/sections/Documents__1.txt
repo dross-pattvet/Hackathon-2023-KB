@@ -1,0 +1,70 @@
+Documents
+:
+
+
+ Click the 
+Documents
+tab.
+ Right
+-
+click or click the down
+-
+arrow next to 
+Add
+to add documents you want to print 
+wi
+th this type of visit: 
+ Document
+–
+If selected, will open the Document Code List. Click once to select
+;
+then 
+click the Use button to attach.
+ Label
+–
+If selected, will open the Label List. Click once to select
+;
+then click the Use 
+button to attach.
+ Certifi
+cate
+–
+If selected, will open Certificates. Check the boxes next to the 
+certificates you would like printed. Click OK.
+ Routing Sheet
+–
+If selected, will open the Routing Sheet List. Click once to select
+;
+then click the Use button to attach.
+ Check In Rep
+ort
+–
+If selected, will add the Check In Report to the Edit Visit Template.
+
+
+ Right
+-
+click on a line item or click the down
+-
+arrow next to 
+Action
+to set when you want 
+to print:
+ Default
+ Print At Check In
+ Print At Check Out
+
+
+ To remove a line item, click once to
+select. Right
+-
+click and select 
+Delete
+or 
+select
+the 
+Remove
+button next to Action and Add.
+ Click 
+OK
+.

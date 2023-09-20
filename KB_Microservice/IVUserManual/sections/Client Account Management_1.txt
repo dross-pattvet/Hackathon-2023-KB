@@ -1,0 +1,363 @@
+C
+lient Account Management
+
+
+ From the IntraVet Menu Bar, select 
+Account | Account
+, or select the 
+Open Account
+icon.
+
+
+ From the Client List screen, highlight the client account name and click 
+Use
+.
+
+
+There
+are 
+picture icons that guide 
+you
+to certain areas within the Client Account Management 
+screen. The client
+’
+s account number and name 
+are
+listed at t
+he top of this screen. The client’s 
+patient(s) are listed on
+the left near the top. 
+Select
+a patient’s name 
+to receive
+additional patient 
+information.
+
+
+
+
+<<NEW PAGE 121>>
+
+
+The blue arrow in
+the top left 
+corner returns 
+you
+back t
+o the client list where you
+can then select a 
+different client.
+
+
+In the Client Account Management screen there are picture icons
+that can be selected to easily 
+move through the different areas of the client and patient information.
+
+
+Medical History
+
+
+The 
+Medical History
+icon takes 
+you
+to informat
+ion regarding the patient’s medical history
+. You can 
+print or email the 
+patient
+’
+s
+medical history when needed. 
+
+
+Add Patient
+
+
+The 
+Add Patient
+icon brings 
+up 
+the new patient screen, where all the patient information can be 
+added, as well as weights, and set
+up options. 
+
+
+Patient
+
+
+The 
+Patient
+tab is where the general information about the pet is kept such as Name, new Long 
+Name, Species, Sex, Breed, Color, Date of Birth, and Status. 
+
+
+
+
+<<NEW PAGE 122>>
+
+
+Weights
+
+
+The 
+Weights
+tab lists 
+all
+the weights recorded for the patient. Th
+ere is also the capability to add, 
+edit, and delete weights. Weights can be backdated from this window.
+Body Surface Area is also 
+displayed.
+
+
+
+
+<<NEW PAGE 123>>
+
+
+Setup
+
+
+The 
+Setup
+tab houses features such as patient operator warning, preferred provider, tag 
+ID
+, 
+microchip, re
+minder options, and ePetHealth 
+ID
+. 
+
+
+“Print Label,”
+located at the bottom of the screen
+,
+prints the default patient information label. 
+
+
+
+
+<<NEW PAGE 124>>
+
+
+Equine
+
+
+The 
+Equine
+tab is where the general information regarding a horse is contained. It holds such 
+details as wher
+e the animal is boarded, its color(s) and markings.
+
+
+
+
+<<NEW PAGE 125>>
+
+
+Edit Patient
+
+
+The 
+Edit Patient
+icon takes 
+you
+to a screen that allows the selected patient’s data to be updated. 
+O
+pen the edit patient window to change a patient’s name
+or other information
+.
+
+
+
+
+<<NEW PAGE 126>>
+
+
+Edi
+t Client
+
+
+Edit Client
+allows 
+you
+to edit or update the client information, as well as their setup, and general 
+options. 
+
+
+Client
+
+
+The 
+Client
+tab has general information such as name, address, phone numbers, and alternate 
+contact information.
+
+
+ The
+re is 
+the opt
+ion to set
+up unlimited phone numbers, each with their own 
+description.
+
+
+
+
+<<NEW PAGE 127>>
+
+
+Setup
+
+
+The 
+Setup
+tab features Financial, Statements, Terms, Credit Limit, Discount, Search codes, 
+Classification, and Referral information.
+
+
+Genera
+l
+
+
+The 
+General
+tab houses the operat
+or warning, 
+email
+, branch and other custom information 
+depending on the Branch settings. 
+
+
+ The client’s Branch association can be changed by using the Client Branch drop
+-
+down 
+and selecting the appropriate branch.
+
+
+The 
+Client Label
+,
+located at the bottom of 
+the screen, prints the default client information label.
+
+
+
+
+<<NEW PAGE 128>>
+
+
+Split Ownership
+
+
+Split Ownership
+allows multiple client accounts to share financial responsibility for the same 
+patient. The
+re is
+the 
+cap
+ability to determine the percentage for which each accoun
+t is responsible.
+
+
+Once a client account is selected, and a percentage for 
+that client entered, click the Add
+button.
+Repeat until all responsible parties have been added to the list with a corresponding percentage. 
+Added percentages must total 100% 
+to
+be
+saved. 
+T
+o edit or remove a line, right
+-
+click and select 
+Edit Line
+or 
+Delete Line
+. 
+The 
+OK
+button saves the data entered and enables th
+e split ownership
+feature.
+
+
+Medical History is stored under the account that split ownership is created under. Financial 
+responsibility is recorded under transactions for each owner. 
+
+
+Account Notepad
+
+
+
+
+<<NEW PAGE 129>>
+
+
+A
+ccount Notepad
+allows 
+you
+to add any notes 
+that are 
+special to that account. New notes can be 
+added; previously saved ones can be edited. Notes can also be deleted as we
+ll as printed.
+
+
+Direction
+
+
+Direction
+is 
+a 
+window specifically for directions to a client’s home or barn. An example would be 
+for a practice that does house calls for their clients. 
+
+
+Email
+
+
+This allows an 
+email
+to be sent to a client directly from 
+In
+traVet
+. 
+
+
+Compose
+Tab
+
+
+Attachments can be added. 
+Reminders, callbacks, recommendations
+and
+appointments can be 
+automatically included within the email by checking the appropriate checkboxes. 
+
+
+You also have the option to save the email along with any attach
+ments to the Patient
+’s Medical 
+H
+istory by checking the box Save to Medical His.
+
+
+
+
+<<NEW PAGE 130>>
+
+
+Within the email, Medical Notes Canned Text can be used or the email can be typed by hand.
+
+
+Preview
+Tab
+
+
+The 
+Preview
+tab all

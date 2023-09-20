@@ -1,0 +1,58 @@
+ Verify 
+License Key
+. Click 
+OK
+.
+
+
+Printer Setup
+
+
+IntraVet
+uses
+Microsoft Windows® for all printer handling
+. Y
+ou must have your printers installed 
+on the workstation before you enter 
+Printer Setup
+. I
+f you are having printing problems, 
+IntraVet
+recommends that you verify that you have the latest printer drivers from 
+your printer 
+manufacturer installed on each of your computers. 
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Maintenance
+| 
+Printer Setup
+. 
+
+
+ Click the down
+-
+arrow to assign a printer to each category. 
+ Select
+a printer name to select it. 
+ When all printers ha
+ve been assigned, click 
+OK
+to record the changes. 
+ If you want all categories to be set to the same Printer, click the down
+-
+arrow in the field 
+at the bottom left of the screen. Select the printer. Click 
+Set All
+. This will set all the 
+categories to that 
+printer. 
+
+
+
+<<NEW PAGE 499>>

@@ -1,0 +1,239 @@
+Note: Items on the 
+Estimate can be reordered 
+by dragging the item and 
+dropping it in the desired 
+location.
+
+
+Estimates
+
+
+The 
+Estimates
+tab allows a look at previously saved estimates for a patient. 
+From there a new 
+estimate can be created either from scratch or by using an estimate template. Estimate templates 
+can also be created with
+in this window.
+
+
+The estimates tab shows red when the patient has a saved estimate. 
+
+
+There are two options to choose from, at the top of the estimates tab.
+
+
+ Estimates
+–
+Shows the previously saved estimates for that patient.
+ Estimate Templates
+–
+Shows the li
+st of estimate templates that have been created. 
+These can be selected and edited for the current patient’s needs.
+
+
+There are 4 options to choose from at the bottom of the estimates tab. 
+These
+options are also 
+available by right
+-
+cl
+ick
+ing
+in the esti
+mates screen.
+
+
+ Click 
+Use (Estimate)
+to load the selected estimate or estimate template
+into the 
+invoice screen.
+
+
+
+
+
+
+<<NEW PAGE 150>>
+
+
+ Click 
+New (Estimate)
+to create a new estimate for the selected patient.
+ Click 
+Edit (Estimate)
+to edit the selected estimate or estimate template 
+that had 
+previously been saved.
+ Click 
+Delete (Estimate)
+to permanently remove the selected estimate for the 
+patient or estimate template from the system. 
+
+
+
+
+Estimate Discount
+
+
+An Estimate Discount allows you to apply discounts to line items within estimates
+. 
+
+
+Discounts given 
+to clients are tracked within the system to provide 
+you with 
+accurate reporting. 
+Your practice has
+total 
+control over 
+how discounts are applied to clients.
+
+
+To apply an Estimate Discount: 
+
+
+ Go to 
+Account | Estimates
+. 
+
+
+ Select a 
+client
+.
+ Click the 
+Estimates
+tab.
+ Right
+-
+click in the 
+Description
+area and choose 
+New Estimate
+.
+ Add
+the code and description.
+ Right
+-
+click on 
+the
+estimate line item
+for which you would like to apply a discount
+.
+ Select 
+Discount
+. 
+
+
+
+
+<<NEW PAGE 151>>
+
+
+A Discount 
+Form 
+window will appea
+r.
+
+
+The screen lists the selected Code, the code Description, Quantity, Amount, and the Amount after 
+Discount. You can choose a Discount Type, add a Discount $ (flat discount amount), or add a 
+Discount %. Only one of these options can be selected per li
+ne item.
+
+
+There is a discount column that lists the discount applied to the line item. 
+
+
+At the bottom right
+side of the Estimate screen you can find the following information:
+
+
+
+
+<<NEW PAGE 152>>
+
+
+ Total Min, Discount Min and Net Min 
+(Total Min 
+–
+Discount Min = Net Min) 
+ Total Max, Discount Max, and Net Max 
+(Total Max 
+–
+Discount Max = Net Max)
+
+
+To edit a discount, right
+-
+click on the Code and click Discount
+.
+T
+he current discount will be listed in 
+the Discount Form (see above). It can be edited as needed.
+
+
+Line item discount
+s can also be applied to Estimate Templates. When you are on the Estimate tab: 
+
+
+ Select 
+Estimate Templates
+at the top portion of the window. 
+ Select an existing Estimate Template and click 
+Edit
+. 
+
+
+You can follow the same steps listed above and apply a lin
+e item discount to the Estimate 
+Template. Be sure to
+:
+
+
+ Click 
+Save
+to save your changes into the template.
+
+
+Discounts are not applied to an item until the invoice is saved within the system.
+
+
+A discount cannot bring the code below a 
+zero
+-
+selling
+price.
+
+
+To vi
+ew discounts for line items within an Estimate Template to which discounts have been 
+applied, run the Estimate Templates Report. To do this:
+
+
+ Go to 
+Reports | Reporting Utility
+. 
+
+
+ Select 
+Utility | Estimate Templates Report
+.
+ Click 
+Run
+.
+
+
+ Select 
+Display
+, 
+Pri
+nt
+or 
+Cancel
+.
+ You can choose to 
+Print Details
+.

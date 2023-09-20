@@ -1,0 +1,97 @@
+Document List
+
+
+Documents can be set up as part of a standard visit template under 
+Setup
+| 
+Visits | 
+Visit
+Template
+. 
+(s
+ee Visit Templates
+.
+)
+
+
+You can select which documents you want to accompany each patient’s medical records, such as a 
+certificate or consent form. 
+
+
+You can add documents to the list or modify documents for individual visits. For exa
+mple, you can 
+print a current vaccination certificate with every annual canine visit or a consent form when you do 
+a dental.
+
+
+You can also designate when each document prints.
+
+
+Assign Documents to a Visit
+
+
+Documents that are im
+portant to the animal’s care can be attached in the patient’s Visit
+window 
+and can be printed and provided to the client. 
+
+
+To Add a Document to the List
+
+
+ To view/add documents 
+to the list
+, highlight the client. Documents for this visit will 
+a
+ppear under Documents.
+
+
+If documents have already been 
+printed, 
+there will be a checkmark in the column 
+Is 
+Printed?
+for that document
+. If they have been scheduled to print it will be designated 
+under 
+When to Print
+. 
+
+
+ To add additional documents, click the 
+Documents
+down
+-
+arrow and select 
+Document
+.
+
+
+ Choose the type of document you want to add.
+
+
+There are several document options:
+
+
+ Document
+(handout
+or form you have customized through 
+Document Code Setup 
+or from 
+LifeLearn
+)
+ Cer
+tificate
+(Vaccination
+, Spay/Neuter, Health)
+ Label
+(Patient, Client or Custom Label)
+ Check
+-
+In Report
+(Brief
+History and Reminder print
+-
+out)
+ Routing Sheet
+(travel sheet or circle sheet you have set up)

@@ -1,0 +1,220 @@
+General Codes Setup
+
+
+Establishing a uniform code system is 
+important 
+for
+the 
+efficient operation of 
+IntraVet
+. C
+odes 
+make data entry easy and accurate. 
+All codes in the 
+IntraVet
+software are user
+-
+definable and may 
+be alpha
+and/or numeric
+. 
+C
+hoose numeric codes
+, 
+alpha codes or create 
+alpha numeric 
+combinations. 
+IntraVet
+has a limit of 8 characters per code and 40 characters for code description.
+
+
+General Codes
+
+
+Establish a code system for your practice using the following st
+eps.
+
+
+Client Setup
+
+
+Client Classification Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Client classification codes are used to define the financial status of a client. 
+T
+hese classifications 
+may be
+used 
+to designate a status of “collections,” “cash only,” “no checks,” etc.
+
+
+After a classification code is defined and assigned to a client, 
+certain classification codes 
+may 
+be 
+include
+d
+or exclude
+d
+while running accounts receivable reports and statements. 
+Cla
+ssification 
+codes can also be used in 
+Recall Generator
+as a search criterion.
+Refer to the 
+Communications
+chapter 
+for information
+about 
+Recall Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Client
+| 
+Classif
+ication
+.
+
+
+
+
+<<NEW PAGE 48>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Client-Classification.png
+ To create a new code, click 
+New
+at the bottom of the Classification List screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Click 
+OK
+.
+ To revise the 
+Description
+of an existing Classification code, highlight, 
+and select
+Edit
+at 
+the bottom of the screen.
+ W
+hen you are finished,
+click 
+OK
+.
+ To inactivate a Code/Description, 
+highlight the code and select Inactivate. 
+(A second 
+chance warning will appear asking to confirm the decision to 
+Inactivate
+.
+)
+
+
+
+
+<<NEW PAGE 49>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes - client - Search Code.png
+Client Search Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Search codes
+help 
+to further define 
+clientele. 
+Each client may have up to two search codes. 
+These
+codes 
+may be used 
+as search criteria in 
+Recall Generator
+. 
+Some examples include 
+in 
+“Boarding 
+Client,” “Gr
+ooming Client,” “4
+-
+H Member,” “Puppy Kindergarten,” etc. 
+Refer to the 
+Communications
+chapter for information about 
+Recall Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Client
+| 
+Search Code
+.
+
+
+ To create a new 
+Search
+Code
+, click 
+New
+at the bottom of the Search Code List screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Search Code, click once to 
+highlight the desired 
+code and 
+click the 
+Edit
+button at the bottom of the screen.
+ Make the neces
+sary changes and click 
+OK
+. 
+ To inactivate a Code/Description, 
+highlight
+and
+select
+Inactivate
+. (A second
+chance 
+warning will appear asking to confirm the decision to 
+Inactivate
+.
+)

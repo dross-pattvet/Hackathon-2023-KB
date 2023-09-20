@@ -1,0 +1,35 @@
+Edit a Pe
+rmanently Saved Invoice
+Line
+
+
+If you realize you made a mistake entering the doctor code on an invoice after it is saved, you can 
+edit the invoice line item. Once an accounting period is locked, you 
+cannot make any changes to 
+the
+doctor c
+ode during that period. 
+
+
+To open a client’s 
+Transactions
+window, you first need to open the client’s account.
+
+
+ L
+ocate and open the client account.
+ Select the
+Transactions
+tab
+. 
+ Click on the + (plus) sign at the beginning of a line item to expand for more detailed 
+information. 
+
+
+ Right
+-
+click on the invoice line item you need to change
+and select
+Edit Invoice
+Line
+.

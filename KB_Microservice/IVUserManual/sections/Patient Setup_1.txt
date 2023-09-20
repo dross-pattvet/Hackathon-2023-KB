@@ -1,0 +1,347 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Patient-Species.png
+Patient Setup
+
+
+Patient Species Codes 
+–
+Create,
+Edit
+or Inactivate
+
+
+Species
+codes should be created for every species the practice will be treating. Create a species of 
+“other” for that unusual patient. Species codes are a two
+-
+character code that is unique for each 
+spec
+ies. Species codes allow for selecting a specific Weight Unit for each species so that weights 
+may be entered by pounds, ounces, pounds and ounces, kilograms or grams. Species codes can 
+also be used in 
+Recall Generator
+as a searc
+h criterion. Refer to the 
+Communications
+chapter for 
+information about 
+Recall Generator
+. 
+
+
+ From the IntraVet Menu Bar, select 
+Setup | General Codes | 
+Patient
+| 
+Species
+.
+
+
+ To create a new 
+Species
+code, click 
+New
+at the bottom of the Species List screen.
+
+
+
+
+<<NEW PAGE 51>>
+
+
+ Ent
+er
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Update Reminders
+and 
+Send reminders
+are checked by default. Uncheck either to not 
+update and/or send reminders.
+ Click in a radio option to choose a species if a rabies vaccination certificate is needed.
+ Select
+the down
+-
+arro
+w to select a 
+Weight Unit
+.
+ Enter
+the
+Body Surface Area
+(
+BSA
+)
+. (optional)
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Species Code, click once to 
+highlight the 
+desired code
+, and then click the 
+Edit
+button at the bottom of th
+e screen.
+ Make the necessary changes and click 
+OK
+.
+ To inactivate a Code/Description, click once to 
+highlight the desired code
+,
+and then 
+click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will 
+appear asking to confirm the dec
+ision to 
+Inactivate
+.
+)
+
+
+Patient Breed Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Breed codes help 
+make consistent entries and allow searches to find all patients of a certain breed. 
+Breed codes can be created for purebred breed
+s or combination/designer breeds. 
+The breed 
+prints on patient history, patient check
+-
+in and invoices. 
+Breed codes can be used in 
+Recall 
+
+
+
+
+<<NEW PAGE 52>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Patient-Breed.png
+Generator
+as a search criterion.
+Refer to the chapter 
+Communications
+for information about 
+R
+ecall 
+Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Patient
+| 
+Breed
+.
+
+
+ To create a new 
+Breed
+code, click 
+New
+at the bottom of the Breed List screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Select an 
+Associated Species
+from the drop
+-
+down
+list.
+ Click 
+OK
+.
+ To revise the
+Description
+of an existing Breed Code, highlight
+the desired code and
+click 
+Edit
+at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, highlight
+the desired code
+and click 
+I
+nactivate
+at the 
+bottom of the screen. (A second chance warning will appear asking to confirm the 
+decision to 
+Inactivate
+.)
+
+
+
+
+<<NEW PAGE 53>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Patient-Breed.png
+Patient Color Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+Color codes are used to further define a patie
+nt’s identification.
+It is recommended 
+to
+add 
+additional col
+or markings for animals that are
+frequently treat
+ed
+. 
+Color codes are also used to 
+indicate markings on equine patients. 
+Color codes can be used in 
+Recall Generator
+as a
+search 
+criterion.
+Refer to the chapter 
+Communications
+for information about 
+Recall Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Patient
+| 
+Color
+.
+
+
+ To create a new 
+Color
+code, click 
+New
+at the bottom of the Patient Color List scr
+een.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Color Code, highlight
+the desired code
+and click 
+Edit
+at the bottom of the screen.
+
+
+
+
+<<NEW PAGE 54>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Patient-Sex.png
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, 
+h
+ighl
+ight
+the desired code and
+click 
+Inactivate
+at the 
+bottom of the screen. (A second chance warning will appear asking to confirm the 
+decision to 
+Inactivate
+.
+)
+
+
+Patient Sex Codes 
+–
+Create or Edit
+
+
+Sex
+codes can be created for
+any gender description 
+the practice
+treat
+s
+. T
+he altered sex 
+can be 
+defined 
+and 
+the adult sex for each code that is 
+create
+d
+.
+This allows the program to change the sex 
+of a patient when a code is invoiced that prompts a change in sex. 
+Sex codes can also 
+be used in 
+Recall Generator
+as a search criterion. 
+Refer to the chapter 
+Communications
+for information about 
+Recall Generator
+. 
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Patient
+| 
+Sex
+.
+
+
+ To create a new 
+Sex
+code, 
+click 
+New
+at the bottom of the Sex List screen.

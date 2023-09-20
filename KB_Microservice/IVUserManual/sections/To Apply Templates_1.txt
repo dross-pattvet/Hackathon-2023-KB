@@ -1,0 +1,109 @@
+ You can use the up
+-
+and 
+down
+-
+ar
+row
+s to change the order of appointment calendar 
+groups (individual calendars).
+
+
+To Apply Templates
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Appointment Calendar
+| 
+Appointment 
+Calendar Setup
+.
+
+
+ By default, the window opens the 
+Groups
+tab. 
+ Click the 
+Templates
+tab.
+ Choose the template you want to apply. Click 
+Edit
+.
+
+
+
+
+<<NEW PAGE 162>>
+
+
+ Click 
+New | Block
+or 
+Reserve
+or right
+-
+clic
+k in a column and choose 
+Block
+or 
+Reserve
+. 
+
+
+ Choose the 
+Start Time
+and 
+End Time
+.
+ Set 
+Recurrence
+, if needed.
+
+
+ In the Recurrence Setup screen, select the 
+Frequency
+, days involved and 
+Duration
+.
+ Click 
+OK
+.
+
+
+
+
+<<NEW PAGE 163>>
+
+
+ Click 
+Save and Close
+.
+ Click 
+Save
+.
+ On the Appointment Calendar, go to the day of the week involved, right
+-
+click on an 
+appointment line 
+and select 
+Apply/Clear Template
+.
+
+
+ Click the 
+Add
+radio button.
+ Select a 
+Template
+.
+ Click 
+Select all
+or select individual columns.
+ Click 
+OK
+.

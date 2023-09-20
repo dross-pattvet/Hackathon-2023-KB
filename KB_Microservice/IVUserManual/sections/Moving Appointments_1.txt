@@ -1,0 +1,35 @@
+ Callback
+(phone)
+ Left Message
+(yellow 
+sticky note
+)
+ Cancelled
+(red X)
+ Confirmed
+(green checkmark)
+
+
+A symbol for the confirmed status 
+(or whatever status was selected) 
+now appears in the left of the 
+appointment display. 
+
+
+These confirmed icons also appear in the Control Center (optional).
+
+
+Moving A
+ppointments
+
+
+Cut
+/Copy
+and Paste appointments or blocks anywhere in the Calendar. Right
+-
+click on an 
+appointment and select Cut
+or Copy
+. Select the new time slot, right
+-
+click and select Paste.

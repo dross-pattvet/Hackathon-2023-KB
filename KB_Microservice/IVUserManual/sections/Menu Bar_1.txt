@@ -1,0 +1,100 @@
+General Branch Setup
+
+
+The General Branch Setup module allows you to enter your basic practice 
+information
+. 
+Each 
+bra
+nch 
+requires
+general information 
+to be entered
+for day
+-
+to
+-
+day program use. 
+General Branch 
+Setup requires exclusive use
+,
+meaning that a
+ll
+users must exit from IntraVet before running this 
+module.
+
+
+To access this area, select
+Setup | Program | General Branch
+Setup
+.
+
+
+Throughout the G
+eneral Branch Setup
+,
+the 
+Copy to all Branches
+button 
+is available 
+in the 
+Menu
+Bar. 
+Select this option 
+to save the current information to all branches of your practice.
+
+
+Each branch can be set
+up using unique data and color preferenc
+es. 
+This will help 
+you differentiate
+between branches
+at a glance and reducing the risk of posting information to the wrong branch.
+
+
+Main Screen
+
+
+Menu Bar
+
+
+The Menu Bar allows
+you to
+access to the different areas of IntraVet.
+
+
+ File
+–
+Allows access to the Cont
+rol Center, Lab Results, Lab Programs, etc. as well as Exit 
+the program.
+ Account
+–
+Retrieve account information such as invoices, payments, transactions, etc.
+ Communication
+–
+Searches can be run to locate clients, patients, 
+patient reminders, 
+recall genera
+tors, and more.
+ Inventory
+–
+This will take you to Inventory Adjustments, Warehouse Transfers, In
+-
+House Usage
+, and more.
+ Reports
+–
+Numerous reports can be run to provide a closer look at your business.
+ Appointments
+–
+This will guide you to the hub of the pr
+actice, your appointment 
+calendar.
+ Boarding
+–
+From here you can access the availability of your boarding cages.
+ Time Clock
+–
+Access to your time clock management.

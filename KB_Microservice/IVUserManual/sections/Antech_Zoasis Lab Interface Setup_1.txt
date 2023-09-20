@@ -1,0 +1,59 @@
+ If a record doesn’t automatically post to a client and patient, highlight the lab and 
+select Update. 
+ Enter the correct client and patient. 
+ Click OK to post to the account. 
+
+
+Antech/Zoasis Lab Interface Setup
+
+
+The 
+integration with 
+IntraVet 
+allows the system to gene
+rate requisition forms with bar
+code
+s
+that 
+can be included with the lab sample for better accuracy in requested labs, as we
+ll as client/patient 
+information. 
+Practice 
+procedure codes 
+can be linked, 
+for certain tests
+,
+to Antech’s lab codes. 
+
+
+ From the IntraVet Menu Bar, select Setup | Lab Interface. 
+
+
+
+
+<<NEW PAGE 392>>
+
+
+cid:image001.png@01D31FF9.DAA72060
+ Select Antech | Antech Setup. 
+
+
+ Enter the Antech ID, Zoasis ID, UserName and Password. 
+ Click the down-arrow or double-click in the empty field to select the Lab Location. 
+
+
+You must type the path to a folder within the Lab Results folder as shown in the 
+screenshot. For exampl
+e, C:
+\
+Program Files (x86)
+\
+IntraV
+et
+\
+Lab Results
+\
+Antech
+
+
+ Click OK.

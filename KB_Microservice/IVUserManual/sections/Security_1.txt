@@ -1,0 +1,285 @@
+Use the column headings to sort the list. Select a document and the View button to view, print or
+reprint a stored signed document.
+
+
+Security
+
+
+Security
+
+
+It is important to note that you must first set
+up the Users and their passwords with security access prior to 
+enabling the security access prompts under General Branch Setup. This can be found under 
+S
+etup | 
+Security | User Setup
+.
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+|
+Program
+|
+General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+ Select
+Secur
+ity
+to highlight
+. 
+
+
+
+
+<<NEW PAGE 25>>
+
+
+ Under 
+Security 
+Setup
+–
+Branch Specific
+, select the appropriate option:
+ No Security Prompts
+–
+There will not be any security prompts for auditing if this 
+option is selected. This option is only recommended for single user systems where
+users need not be tracked
+.
+ Username 
+O
+nly
+–
+This will prompt for the username
+only
+,
+not 
+the
+password. This 
+option is the minimum recommended for most 
+practices
+. 
+Username Only is not 
+intended to block access from areas of IntraVet, but to audit who has ent
+ered or 
+made any changes with the areas of the program.
+ Username and Password
+–
+This will prompt for both the username and password for 
+security/auditing purposes. This option is recommended for 
+practices 
+where the 
+highest level of security and auditing is
+required.
+Username and password 
+requirements ensure that areas of IntraVet can b
+e blocked from being used. For 
+e
+xample, transactions and/or payment deletions can be blocked for certain users in 
+your practice. 
+
+
+
+
+Under 
+Enable Security
+–
+System Wide, select t
+he appropriate options:
+
+
+ Account Management
+–
+Invoice
+–
+Select this option to enable security in the Invoice 
+tab. When enabled, the Invoice tab will prompt you to enter the security audit 
+method selected above (
+No Security Prompts
+, 
+Username only 
+or 
+Username
+and 
+Password
+).
+ Account Management
+–
+Medical History
+–
+Select this option to enable security in 
+Medical History. When enabled, saving anything in Medical History will prompt you 
+to enter the security audit method selected.
+ Account Management
+–
+Transactions
+–
+Select this option to enable security in the 
+Transactions tab. When enabled, saving anything in Transactions will prompt you to 
+enter the security audit method selected.
+ Account Management
+–
+Other
+–
+Select this option to enable security in the other 
+are
+as of the Client Account Management screen. When enabled, saving anything in 
+the Client Account Management screen such as payments, prescriptions, edit client, 
+edit patient, reminders, and more will prompt you to enter the security audit method 
+selected.
+ A
+ppt Calendar
+–
+Select this option to enable security in the Appointment Calendar. 
+When enabled, saving anything in the Appointment Calendar will prompt you to 
+enter the security audit method selected.
+ Boarding
+–
+Select this option to enable security in 
+Bo
+arding
+. When enabled, saving 
+anything in 
+Boarding
+will prompt you to enter the security audit method selected.
+ Communications
+–
+Select this option to enable security in 
+Communications
+. When 
+enabled, saving anything in 
+Communications
+will prompt you to en
+ter the security 
+audit method selected.
+ Inventory
+–
+Select this option to enable security in 
+Inventory
+. When enabled, saving 
+anything in 
+Inventory
+will prompt you to enter the security audit method selected.
+ Maintenance
+–
+Select this option to enable secu
+rity in 
+Maintenance
+. When enabled, 
+saving anything in 
+Maintenance
+will prompt you to enter the security audit method 
+selected.
+
+
+
+
+
+
+<<NEW PAGE 26>>
+
+
+ Report
+ing
+–
+Accounting
+–
+Select this option to enable security in
+Accounting
+Reports
+. 
+When enabled, saving anything in 
+Accounti
+ng 
+Reports
+will prompt you to enter the 
+security audit method selected.
+ Reporting 
+–
+Client & Patient
+–
+Select this option to enable security in
+Client and 
+Patient
+Reports
+. When enabled, saving anything in 
+Client and Patient 
+Reports
+will 
+prompt you to ente
+r the security audit method selected.
+
+
+
+
+*
+T
+hese are 2 separate reports that have been grouped together for your 
+convenience
+.
+
+
+ Reporting 
+–
+Inventory 
+–
+Select this option to enable security in
+Inventory
+Reports
+. 
+When enabled, saving anything in 
+Inventory 
+Report
+s
+will prompt you to enter the 
+security audit method selected.
+ Reporting 
+–
+Other 
+–
+Select this option to enable security in
+all other
+Reports
+that have 
+not been listed 
+separately
+. When enabled, saving anything in 
+these 
+Reports
+will 
+prompt you to enter the
+security audit method selected.
+ Reporting 
+–
+Productivity 
+–
+Select this option to enable security in
+Productivity
+Reports
+. When enabled, saving anything in 
+Productivity 
+Reports
+will prompt you to 
+enter the security audit method selected.
+ Setup Screens
+–
+A
+ppointment Calendar
+–
+Select this option to enable security in 
+the 
+Setup 
+Appo

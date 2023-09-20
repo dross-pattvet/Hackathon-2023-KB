@@ -1,0 +1,275 @@
+ Double
+-
+click on the search you want to reuse, or click once to highlight and click 
+Load
+. 
+Screen will pop
+u
+p to tell you the Previous search has loaded successfully. 
+
+
+ Click 
+OK
+. This will take you to the Search screen. All the parameters are reloaded in the 
+search screen, including date range. Dates can be changed by entering new beginning 
+and ending dates
+. 
+ Edit information as necessary.
+ Click 
+Search
+. 
+Result List
+will open.
+
+
+Due Reminders
+–
+Edit Result List
+
+
+When your search is complete, the 
+Result List
+populates. These are patients and clients matching 
+your se
+arch criteria. You can edit or research this list before sending 
+email
+s, cards, letters or 
+exports.
+
+
+To remove a contact from the 
+Result List
+:
+
+
+ Uncheck the box on the right
+. 
+This will omit them from the Print/Process.
+
+
+To print the 
+Result List
+:
+
+
+ Click 
+Print
+/Process
+in the lower right corner of the 
+Result List 
+window.
+
+
+You can 
+also go to the client’s account:
+
+
+ Right
+-
+click and select
+Open selected
+Client
+.
+
+
+
+
+<<NEW PAGE 364>>
+
+
+
+
+Due Reminder Cards
+–
+Print
+
+
+To print reminder cards for th
+e clients found in your search:
+
+
+ Click the 
+Cards
+radio button
+and check the options desired:
+ Print only month and year for reminder dates:
+If checked, the day will not be specified 
+for due dates
+. F
+or ex
+ample, 
+12/1
+9
+prints instead of 
+12/31/1
+9
+.
+ Print m
+ultiple pets o
+n cards/
+letters:
+Check to combine patients in the same household 
+on the same card
+. T
+his reduces the number of cards needed
+. I
+f unchecked, each patient 
+gets an individual card
+. E
+ight due proce
+dures fit on a multiple patient reminder card, 
+four procedures on a single patient
+. S
+ingle patient cards allow more room for a text 
+message. 
+ Exclude clients with email address:
+If checked, clients with email addresses receive 
+email
+s instead of printed ca
+rds. Save paper and cards by sending communications by 
+email
+when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card
+/letter
+and 
+email
+:
+Check to send an 
+email
+and a card.
+ To
+change the already created (canned) tex
+t
+, click
+Edit
+. 
+ Make your changes and click 
+Save
+.
+
+
+ 
+
+
+
+
+<<NEW PAGE 365>>
+
+
+Click
+Print
+or
+Print
+/
+Process
+to send your cards to the default printer
+. 
+I
+f the option to send as email 
+is selected, the email will also be sent when you click 
+Print
+. A
+progress ba
+r indicates that your 
+cards are being printed.
+
+
+Due Reminder Letters
+–
+Print
+
+
+To print letters for the cl
+ients found in your result list:
+
+
+ Click the 
+Letters
+radio button
+and check the options desired: 
+ Print only mo
+nth and year for reminder dates:
+If checked, the day will not be specified 
+for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+ Print multiple pets on reminder cards/letters:
+Check to combine patients in the
+same 
+household on the same letter
+. Th
+is reduces the number of 
+letters
+needed. If 
+unchecked, each patient gets an individual 
+letter
+. 
+ Exclude clients with email address:
+If checked, clients with email addresses receive 
+emails instead of printed 
+letters
+. Save paper by sending communications 
+by email 
+when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card/letter and email:
+Check to send an e
+mail and a letter
+.
+ To change the already created (canned) text, click 
+Edit
+. 
+ Make your changes and click 
+Save
+.
+
+
+ Click 
+Print
+or 
+Print
+/
+Process
+to send your letters to the default printer
+. 
+I
+f the option to 
+send as email is selected, the email will also be sent when you click 
+Print
+. A
+progress 
+bar indicates that your letters are being printed.
+
+
+Due Reminder
+–
+Print L
+abels
+
+
+To print mailing labels on Avery laser labels (5161 or 5261)
+for clients found in your list:
+
+
+ Click the 
+Print Labels
+tab and check the options desired:
+ Exclude clients with email address:
+If checked, clients 
+with 
+email
+do not have labels 
+printed. 
+ Click
+Print
+to send your labels to the default printer
+. 
+A
+progress bar indicates that your 
+labels are being printed.

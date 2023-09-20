@@ -1,0 +1,95 @@
+Tasks Tab
+
+
+ Click the 
+Tasks
+tab to add any special tasks requested for the patient’s stay. They can 
+be selected from the Canned Text. Click the down
+-
+arrow, scroll to locate and click once 
+to select. 
+ Click the 
+Add
+button to move the selected ite
+m to the 
+Tasks
+list.
+ Once the task has been completed, right
+-
+click and select completed.
+ To remove the task, right
+-
+click and select 
+Delete
+.
+ To add a note, right
+-
+click and select 
+Add Note
+.
+
+
+Activities Tab 
+
+
+ Click the 
+Activities
+tab to make note of belonging
+s brought for the patient, special 
+instructions and extra activities requested (usually paid).
+ Enter the 
+Cage No./ID
+.
+ Under 
+Instructions
+, click the down
+-
+arrow and select from the following:
+ Belongings
+ Exercise
+ Feeding
+ Medication
+
+
+ Select the down
+-
+arrow to th
+e right to select the item. Click the 
+Add
+button to place in 
+the grid.
+
+
+
+
+<<NEW PAGE 269>>
+
+
+ Under 
+Activities
+, 
+Enter
+the activity requested. They can be selected from the Canned 
+Text. Click the down
+-
+arrow, scroll to locate and click once to select.
+ Select the date desired 
+or check the box 
+Schedule this activity daily
+. 
+ Click the 
+Add
+button to place in the grid.
+
+
+ Patient Notes may be added to this screen. Type directly into the field to add your 
+notes about this patient.
+
+
+ The 
+Reservation Note
+field can be used to record emergency numbers, whether the 
+client is supplying food for the patient(s), or other helpful information.
+
+
+ Reminders can be accessed through the reservation as well.

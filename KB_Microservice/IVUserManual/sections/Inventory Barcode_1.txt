@@ -1,0 +1,60 @@
+Inventory Barcode
+
+
+If you have a bar code scanner, you can associate codes to barcodes which can then be used during 
+inventory processing and invoicing.
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory
+| 
+Inventory
+Barcode
+. 
+
+
+ Click the 
+Lookup By Barcode
+radio button.
+ Enter the 
+SKU
+number located under the barcode.
+ Click 
+Lookup
+.
+
+
+You can also search by Inventory Code:
+
+
+ Click the 
+Lookup By Inventory Code
+radio button.
+ Enter the code and desc
+ription.
+ Click the 
+Associate item to Barcode
+button.
+
+
+Inventory In
+-
+House Use
+
+
+This allows for items such as cotton balls, syringes, things used during surgery that you don’t 
+necessary want to charge the client for but track t
+he Inventory on Hand.
+Unlike an inventory 
+adjustment, multiple items can be depleted at one time noting why the item was depleted. 
+You 
+can create templates for weekly/monthly depletions for those items that are depleted on a regular 
+basis. 
+Once a templat
+e is loaded, additions or adjustments can always be made
+. I
+n
+-
+house use

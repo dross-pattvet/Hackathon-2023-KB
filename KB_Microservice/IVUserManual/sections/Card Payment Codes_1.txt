@@ -1,0 +1,102 @@
+Create a Referral Letter with Merge Fields
+
+
+ Open the Client Account
+.
+ Open the Patient
+’
+s Medical History
+.
+ Right
+-
+click
+in the Visits and select New Referral 
+Letter.
+
+
+Card Payment Codes
+
+
+Card Payment Codes
+are used to keep track of different forms of payment other than cash or 
+check.
+The purpose of these codes is to define payment types that will be entered on the client’s 
+transaction 
+screen. 
+The 
+End
+-
+of
+-
+Day Transaction Report
+allows for
+print
+ing
+totals by card payment 
+type.
+
+
+Card Payment Codes 
+–
+Create, Edit or 
+Inactivate
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes | 
+Card P
+ayment Codes
+.
+
+
+
+
+<<NEW PAGE 61>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Card PaymentCodes.png
+ To create a new 
+Card Payment
+code, click 
+New
+at the bottom of the Card Payment List 
+screen.
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ To select the card type
+, click the 
+down
+-
+arrow
+. 
+ Click 
+OK
+.
+ To revise either 
+Description
+or
+Type
+of an existing Card Payment Code, click once to 
+highlight, and then, click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate a Code/Description, highlight
+the desired code 
+and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)

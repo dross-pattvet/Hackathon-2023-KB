@@ -1,0 +1,323 @@
+Invoice
+
+
+The 
+I
+nvoice
+tab is what 
+you
+use to invoice clients if 
+you do not want
+to create a visit
+(
+f
+or example, if 
+the client is just coming in to purchase food
+)
+. In this instance you would not need 
+all
+the 
+additional features the visit
+offers
+(see Visits/Invoices)
+.
+
+
+The date listed on the top left
+-
+hand side is the invoice date. This can be backdated if needed. 
+
+
+When in the invoice screen, make sure the correct patient is selected in the patients list at the top 
+left of the client’s acc
+ount screen. Patients can be added and changed from inside the invoice 
+screen, as needed. Multiple patients can be invoiced on one invoice.
+
+
+Right
+-
+click and choose from the following options:
+
+
+ Add Invoice Line
+–
+to add a new procedure, inventory, or diagno
+sis code to the 
+invoice
+.
+ Remove Invoice Line
+–
+to delete the selected line item
+.
+ Remove Invoice
+–
+to delete the entire invoice for that client
+.
+ Add Estimate
+–
+brings up the estimate tab and allows 
+you
+to add a saved estimate 
+or estimate template to the inv
+oice. 
+ Add Line Note
+–
+to add a line note to the invoice item
+(option is only available if it 
+was checked in the General Branch Setup)
+.
+
+
+
+
+There is drag and drop capability.
+
+
+ Press the left mouse button down over the code (do not release the click (mouse)).
+ Dr
+ag to the desired location.
+ Release the click (mouse). This will move that item into the desired location.
+
+
+
+
+<<NEW PAGE 141>>
+
+
+Line
+Discount 
+
+
+Click the 
+Line
+Discount
+option 
+–
+It allows a discount to be applied to the selected line item within 
+the invoice. You can set
+up 
+Discount Type Codes
+to be applied to invoices. These Discount Type 
+Codes are traceable to see how often they are used and how much money was discounted by type. 
+
+
+The basic code information is supplied within the apply discount window. Select a discoun
+t type if 
+desired. These can be set
+up in 
+Setup | General Codes | Discount Types
+. 
+
+
+To Manually Discount:
+
+
+ C
+hoose whether to apply a discount by
+:
+ Dollar A
+mount
+,
+or 
+ P
+ercentage. 
+
+
+
+
+After a discount amount is selecte
+d
+,
+the total amount and the net total will 
+show. 
+The total amount is the original price of the item and the net total is the total 
+amount minus the discount amount. This is what the client is charged f
+or the 
+discounted item. 
+
+
+ Click 
+OK
+to apply the discount to the line item. 
+
+
+
+
+<<NEW PAGE 142>>
+
+
+T
+o use 
+a Discount T
+ype C
+ode
+:
+
+
+ S
+elect the discount type code
+. It automatically applies
+that discount to the invoice. It 
+keeps track of the discounted items in the discounts tab, at the bottom of the invoice 
+tab.
+
+
+Donate Item
+
+
+Items can be selected for donation. 
+To donate, r
+ight
+-
+click on the line item and select 
+Donate Item
+. 
+It applies a 100% discount to the item and keeps track of these items in the discounts tab at the 
+bottom of th
+e invoice tab. These items are
+also 
+being
+tracked within the Discounts Accounting 
+report.
+
+
+The Invoice t
+ab has 6 additional tabs at the bottom of the screen which allow you to view and edit 
+specifics to the current invoice for the client.
+
+
+
+
+<<NEW PAGE 143>>
+
+
+Code Summary
+
+
+Code Summary
+provides the summary of the code that is selected within the invoice. 
+
+
+Prescr
+iption
+
+
+The 
+Pres
+cription
+tab shows the prescription label information for the selected invoice item (if the 
+line item selected is set
+up to create a prescription label). This is also where any changes to the 
+prescription label information would be made. 
+T
+o create an Rx
+Label
+, r
+ight
+-
+click on the line item 
+and select Create Rx Label.
+
+
+The Provider must be selected as well as the Expiration date. Additional information included:
+
+
+ Directions
+ Refill Until
+ Est. Days Supply
+ Quantity
+ Refills
+ Copies
+
+
+There are 
+opti
+on
+s
+to
+:
+
+
+ Print N
+ow
+–
+this prints the label immediately. 
+
+
+
+
+<<NEW PAGE 144>>
+
+
+ Save To Print
+–
+prints the label when the invoice is permanently saved and printed.
+ Save
+–
+will not print a label at all, but it will save the label information
+to the patient’s 
+medical history. 
+ C
+ancel 
+–
+closes without saving. 
+
+
+Messages
+
+
+This tab allows a message, or multiple messages, to be added to the invoice. Invoice message 
+codes that 
+have been
+set
+up in 
+your
+system can be added and edited or a freeform message may 
+be typed. 
+
+
+Discounts
+
+
+T
+he 
+Discounts
+tab shows the discounts and donations applied to the invoice. 
+
+
+Right
+-
+click allows the applied discounts to be edited and/or removed.
+
+
+Invoice Discount
+
+
+When the 
+Invoice Discount
+button is clicked
+,
+a Discount Type may be determined. 
+
+
+If a di
+scount percentage is established, it may be 
+Set as a permanent client discount
+if the box is 
+checked. The discount may be applied to this invoice only or all current invoices for this client. 
+Other choices include:
+
+
+ Apply discount to only items set
+up for
+discount.
+ Apply discount to all items.
+
+
+
+
+<<NEW PAGE 145>>
+
+
+ Line item discounts take precedence over percent discounts.
+ Apply the greater discou

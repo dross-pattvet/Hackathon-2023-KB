@@ -1,0 +1,183 @@
+A patient who did not have an appointment but has some charges saved temporarily in an 
+invoice automatically d
+efaults to 
+ready to invoice
+.
+
+
+Process the Check
+-
+in
+–
+Walk
+-
+in Emergency
+
+
+A walk
+-
+in can be processed directly through Control Center
+. 
+Only a minimal amount of 
+information needs to be gathered during check
+-
+in so that the patient can be seen immediately.
+
+
+New Client and Patient
+
+
+ Open the 
+Control Center
+. 
+Right
+-
+click anywhere in the Patient Appointment Status 
+section (center) of the window.
+ Select 
+New Walk In
+.
+
+
+ An Untitled Appointment window will open. Click 
+New Temp Client 
+icon.
+
+
+
+
+<<NEW PAGE 248>>
+
+
+ Complete the information and click 
+OK
+.
+
+
+A mes
+sage will pop
+up 
+to alert you.
+
+
+ Click 
+OK
+.
+ Select a 
+Provider
+.
+ Click 
+Save and Close
+. The patient is ready to be seen.
+
+
+Established Client and Patient
+
+
+ Open the 
+Control Center
+. Right
+-
+click anywhere in the Patient Appointment Status 
+section (center) of the window.
+ Select 
+New Walk In
+.
+
+
+
+
+<<NEW PAGE 249>>
+
+
+ An Untitled Appointment window will open. Click 
+Client 
+icon.
+
+
+ Enter
+the first few letters of the
+client’s last name in the 
+Search
+field
+and click 
+Enter
+. 
+Scroll and double
+-
+click on the name in the grid to pull the client/patient information 
+into the previous screen.
+ The client may have more than one patient. To select, scroll and 
+select
+the 
+Patient
+.
+ Select a 
+Provider
+.
+ Click 
+Save and Close
+. The patient is ready to be seen. 
+
+
+
+
+<<NEW PAGE 250>>
+
+
+Established Client and N
+ew Patient
+
+
+ Follow 
+the steps abo
+ve 
+in 
+Established Client and Patient
+.
+ Click the
+Add Patient
+icon
+.
+
+
+ Complete the information and click 
+OK
+. At a minimum, you must enter Name and 
+Species.
+
+
+Other information can be entered while the patient is in the ex
+am room or at time of invoicing. 
+Fo
+llow
+the instructions above in the 
+Process the Check
+-
+in for a Scheduled Appointment
+description.
+
+
+If the age of the animal is unknown, such as a rescued animal, 
+IntraVet
+provides an age/birth date 
+calculator. 
+
+
+ Click
+Age
+. This window allows the patient’s ag
+e to be entered as 
+Age as
+–
+Years
+/
+Months
+/
+Weeks
+/
+Days
+. Type a number(s) into any field(s)
+;
+IntraVet automatically 
+calculates the patient’s birth date.

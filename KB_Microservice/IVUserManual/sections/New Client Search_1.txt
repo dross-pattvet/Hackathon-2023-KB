@@ -1,0 +1,347 @@
+Due Reminders
+–
+Export Result List
+
+
+To export you
+r 
+Result List
+for use with a third
+-
+party applicatio
+n, for online reminders or Word:
+
+
+To remove a contact from the 
+Result List 
+print or export:
+
+
+ Uncheck the box on the left. This will omit them from the Print
+/
+Process or Export.
+
+
+You can go to the client’s a
+ccount from this location.
+
+
+ Right
+-
+click and select 
+Open 
+Selected
+Client
+.
+
+
+To Export:
+
+
+ Select
+the 
+Export
+tab.
+ Place a check in
+the
+Patient 
+checkbox
+in the 
+Patient Section
+to activate the option for 
+N
+umber of patients
+, 
+One 
+record per Client
+and 
+One record per Patient
+. 
+If a client has 
+more than one patient matching your search criteria, you may want to 
+send only one 
+card, letter or e
+mail.
+ If exporting patient information, enter the 
+Number of patients
+per Client to include 
+(m
+aximum is 9).
+ If exporting client information, click to highlight each client field (far left pane) to 
+export.
+ Select 
+one
+record per Client or One record per Patient.
+ Place a check in the 
+Codes 
+checkbox in the 
+Codes 
+section to activate the option for 
+Numbe
+r of Codes
+.
+ If you want to export codes, enter the 
+Number of Codes
+.
+ Highlight the code information to be included.
+ Click the 
+Export
+button. A 
+Save As
+window appears.
+ Navigate to the location where you want to save your exported record and name your 
+file.
+ Save as Type:
+Choose the file type you want to save it as. You can export it as Delimited 
+text, Excel, XML, or Healthy Pet (encoded for use with 
+Healthy Pet
+magazine).
+ Click 
+Save
+. 
+
+
+New Client Search
+
+
+Search for new clients who we
+re entered into 
+IntraVet
+within a date range.
+
+
+ From the 
+IntraVet
+Menu Bar
+,
+select
+Communications
+|
+New Client Search
+.
+
+
+
+
+<<NEW PAGE 367>>
+
+
+ Enter a 
+Beginning
+and 
+Ending
+D
+ate
+range
+. You can also select the down
+-
+arrow to make 
+your choice from a calendar.
+ Select a 
+Branch
+or 
+All 
+Branches
+.
+ Check all that apply:
+ Search for Clients with 
+email
+only:
+Check to include only those clients with 
+email
+addresses for an 
+email
+only recall.
+ Include Clients with future Appointments: 
+Check to include clients with future 
+appointments.
+ Exclude Tem
+porary Clients: 
+Check to exclude new clients who have no activity (visits 
+or invoices) entered in the system.
+
+
+ Click 
+Search
+. A
+progress bar indicates the search status.
+
+
+New Client Search
+–
+Result List
+
+
+When your sear
+ch is complete, the Result List populates
+. T
+hese are clients matching your search 
+criteria.
+
+
+You can edit 
+the
+list before sending 
+email
+s, cards, letters or exporting.
+
+
+To remove a contact from the 
+Result List
+print or export
+:
+
+
+ Uncheck the box on the 
+left
+. 
+This will omit them from the Print/Process
+or Export
+.
+
+
+You can go to the client’s account from this location.
+
+
+
+
+<<NEW PAGE 368>>
+
+
+ Right
+-
+click and select 
+Open 
+Selected
+Client
+.
+
+
+To print the 
+Result List
+:
+
+
+ Click the 
+Print
+radio button. This wi
+ll display the number of 
+Matching Results
+.
+ Click the 
+Results
+radio button under 
+Print what?
+ Click 
+Print
+/
+Process 
+in the lower right corner of the 
+Result List 
+window.
+
+
+New Client Search
+–
+Print Cards
+
+
+To print c
+ards for new clients found in your search
+:
+
+
+ Click the 
+Cards
+radio button and check the options desired:
+ Enter 
+Card Text
+or use the down
+-
+arrow to select from the canned text. 
+ Print only month and year for reminder dates:
+If checked, the day will not be 
+spe
+cified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+ Print multiple pets on cards/letters:
+Check to combine patients in the same 
+household on the same card. This reduces the number of cards needed. If 
+unchecked, each patient gets an indi
+vidual card. Eight due procedures fit on a 
+multiple patient reminder card, four procedures on a single patient. Single patient 
+cards allow more room for a text message. 
+
+
+
+
+<<NEW PAGE 369>>
+
+
+ Exclude clients with email address:
+If checked, clients with email addresses receive
+email
+s instead of printed cards. Save paper and cards by sending communications 
+by email when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card/letter and email:
+Check to send an email and a card.
+ To change the
+already created (canned) text, click 
+Edit
+. 
+ Make your changes and click 
+Save
+.
+
+
+ 
+
+
+ Click
+Print
+/
+Process 
+to send your cards to the default printer. If the option to send as 
+email is selected, the email will also be sent when you clic
+k 
+Print
+. A progress bar 
+indicates that your cards are being printed.
+
+
+New Client Search
+–
+Print Letters
+
+
+To print 
+New Client
+letters f
+or clients found in your search:
+
+
+ Click the 
+Letters
+radio button and check the opti
+ons desired: 
+ Enter 
+Letter Text
+or use the down
+-
+arrow to select from the canned text. 
+ Print only month and year for reminder dates:
+If checked, the day will not be 
+specified for due dates. 
+For example, 
+12/19
+prints instead of 
+12/31/19
+.
+ Print multiple pe
+ts on reminder c

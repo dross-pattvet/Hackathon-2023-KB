@@ -1,0 +1,67 @@
+ Click OK. 
+
+
+To Rece
+ive Results from Antech
+
+
+After you have downloaded the results from the website, store in the Antech folder.
+
+
+Antech / Zoasis Lab Acquisition
+
+
+ From the IntraVet Control Center, right-click on the patient and select Go To | 
+Patient | Lab Tests. 
+
+
+
+
+<<NEW PAGE 397>>
+
+
+ Click New | Antech Lab Test. 
+
+
+ Use down-arrow to select Provider. 
+ Select Species and Breed (these lists come from Antech). 
+ Enter Notes (if desired). 
+
+
+
+
+<<NEW PAGE 398>>
+
+
+ Send the printed form with the blood samples in the package. 
+
+
+To Download Results from Antech
+
+
+ Click Antech. This will import into the new results window. 
+
+
+To view Lab Results for Antech
+
+
+ From the IntraVet Menu Bar, select File | Lab Results. 
+
+
+
+
+<<NEW PAGE 399>>
+
+
+ Click Import | Antech. 
+
+
+ Select the location you stored the results. Select the results file. 
+ Click Open. 
+
+
+To view Recent Lab 
+Results 
+
+
+ From the IntraVet Menu Bar, select File | Lab Results.

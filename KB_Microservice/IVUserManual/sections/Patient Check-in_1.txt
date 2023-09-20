@@ -1,0 +1,150 @@
+ Double
+-
+click on a client/patient line
+to open the visit
+(if your default setting is set up 
+this way)
+.
+Review if you need to change client or patient information. 
+This must be 
+done from the Client Account screen. See Edit Client/Edit Patient. 
+ Review the 
+Reminders/Recommendations
+and the 
+Plan
+for services. Add information 
+like weight or other services, if necessary.
+
+
+The patient’s weight can be revised at any time. In the case of a recording error, for 
+example, a weight can be revised more th
+an once in one day. The new weight does not 
+overwrite the previous weight; both display in the window.
+
+
+ Use 
+Add
+/
+Remov
+e
+to include or delete options as needed (
+Vitals
+, 
+Weight
+, 
+Assessments
+, 
+etc.
+).
+ When you are finished reviewing the visit, click 
+Save
+.
+ Choose
+Check In
+(green down
+-
+arrow)
+from the 
+Patient Status
+section in the left column, 
+or right
+-
+click on the client/patient line and set the status.
+
+
+Once the patient is checked 
+in
+, the charges can
+be finalized and the invoice created.
+
+
+Patient Check
+-
+in
+
+
+ Enter vitals, if needed
+. R
+ight
+-
+click in the 
+Vitals
+section and choose 
+Add 
+Vital Set
+for 
+additional sets on the same or differ
+ent day.
+Place the cursor in the right column, add 
+the data and press the 
+Tab
+key to move to the next vital.
+
+
+
+
+<<NEW PAGE 300>>
+
+
+ Complete the 
+Body Systems
+section, if used. There are three Body System 
+subcategories: 
+Normal
+displays green,
+Anomalies N
+oted
+displays red and 
+Not Noted
+displays black. 
+ To change a subcategory, click in 
+Normal
+; then, click to make a different selection. 
+T
+he 
+pop
+-
+up
+will close once you have made your selection
+.
+
+
+ Unlimited notes can be added. Click 
+i
+n the 
+Note
+s
+section under To
+-
+Do Items and 
+e
+nter
+the text. When you are done, click 
+Enter
+. 
+ To edit a note or delete a note, r
+ight
+-
+click on the note and select either 
+Edit Note
+or 
+Delete Note
+.
+
+
+ To add documents
+or images to the patient, 
+select
+the paper and paperclip icon at the 
+end of the line; 
+select
+New
+, and navigate to the locati
+on where the document or image 
+is stored. The icon changes to blue when something is attached. 
+ Click once on the icon to ac
+cess the
+attachment, and 
+click 
+View
+to open the file.

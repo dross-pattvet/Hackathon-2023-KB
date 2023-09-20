@@ -1,0 +1,97 @@
+Maintenance
+
+
+System Setup
+
+
+The 
+System Setup
+feature is where you align your computer’s configuration settings to talk to the 
+IntraVet
+server. 
+
+
+System Setup rarely needs to be
+changed or maintained. If you need to make changes to the path 
+to your files and you have an IT person at your 
+practice
+, s/he will be able to adjust these settings. 
+Otherwise, if you need assistance, please c
+ontact a Support Specialist at 
+1
+.
+800
+.
+422
+.
+8875
+. 
+IntraVet 
+Support is available between
+:
+
+
+7:00 A
+M and 
+7:
+00 PM
+, Monday
+-
+Thursday
+, Central Time.
+
+
+7:00 A
+M and 
+6
+:00 PM
+, Friday, Central Time. 
+
+
+8:00 AM and 12:00 PM, Saturday, Central Time.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Maintenance
+| 
+System Setup
+.
+
+
+ By default, the S
+erver
+computer’s name is displayed in the Server field. If this is correct, 
+click either 
+Save
+or 
+Cancel
+. If it is not correct, 
+Enter
+the name of the Server computer 
+and click 
+Save
+.
+
+
+Licensing
+
+
+ From 
+the 
+IntraVet
+Menu Bar, 
+select
+Tools
+|
+Maintenance
+| 
+Licensing
+.
+ Should the IntraV
+et license key be needed for anything it can be found in this 
+location.

@@ -1,0 +1,74 @@
+Print
+Client and Patient information on Client Handout
+–
+If checked, 
+c
+lient and patient information 
+prints as header on client handouts and forms. When box is unchecked, no client or patient 
+information pr
+ints as a header on the client handouts and forms.
+
+
+Copy to All Branches
+–
+Click this option if all branches use the same print options.
+
+
+ Click 
+OK
+to save your changes.
+
+
+ 
+
+
+Topaz Signature Pad Integration
+
+
+To set up your Topaz Si
+gnature pad integration, go to 
+General Branch Setup | Forms, Handouts, 
+and Topaz | Topaz Signature Pad
+and select the areas in which you would like to prompt for a 
+signature. 
+
+
+The signed documents are stored as PDF files. A reader such as Adobe Reader wil
+l need to be 
+installed for you to view these files.
+
+
+
+
+<<NEW PAGE 23>>
+
+
+You can c
+ollect signatures in the following areas:
+
+
+ Credit Card Receipt | Customer Signature
+ Estimate | Customer Signature
+ Invoice | Customer Signature
+ Boarding Release Form | Customer Signature
+ Health Certificate | Veterinarian Signature
+ Rabies Certificate | Veterinarian Signature
+
+
+Signing a Document
+
+
+Sign a document with the Topaz Signature Pad
+,
+then select 
+Accept
+. A message appears on the pad 
+that it saved successfully. 
+
+
+The signed document 
+will be stored in Client Account Management. To view signed documents, 
+select the Signed Documents button.
+
+
+The Signed Documents list window appears.

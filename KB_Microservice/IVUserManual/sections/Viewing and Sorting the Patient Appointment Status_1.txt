@@ -1,0 +1,53 @@
+Viewing
+and Sorting
+the 
+Patient Appointment Status
+
+
+The
+Control Center defaults to Patient
+order
+, but you can 
+select
+the heading of any
+column to sort 
+it by that column
+. 
+If you click
+a column heading 
+the sort changes to descending or
+ascending
+order. 
+
+
+Regardless of the sort order, the entr
+y that is scheduled closest to 
+the current time is highlighted
+as a reference point.
+
+
+As you hover the mouse pointer over each entry, additional information about the client, patient 
+and appointment appears in a
+Tooltip box. 
+
+
+ Each column in the Control Center can be filtered
+.
+For instance, to see only entries with 
+the 
+Reason
+of Limping
+, hover your mouse pointer over the 
+Reason
+column header and 
+select
+the filter button in 
+the upper right corner (looks like a push pin). 
+ Then, select a choice (Limping) from the list. Entries not matching the selected filter 
+will disappear from view. 
+ Select
+the filter button again and select 
+All 
+so that all entries/types display. You can 
+a
+lso close out of and then reopen the Control Center to view all entries again.

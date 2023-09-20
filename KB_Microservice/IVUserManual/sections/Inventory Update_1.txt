@@ -1,0 +1,297 @@
+You can also associate your codes through Setup | General Codes | Inventory. 
+
+
+Select the code you want to associate with eShelf and click Edit.
+
+
+Under th
+e Purchasing tab, at the bottom of this screen you will find eShelf Code Association. Select 
+the eShelf code you want to associate with this Inventory Code. 
+
+
+Click OK to save your changes.
+
+
+Vendor Codes
+
+
+A vendor code must be set
+up for each vendor that su
+pplies your 
+practices. 
+When doing receipt 
+and purchase orders, vendor information entered in vendor code 
+setup
+shows for your reference. 
+See 
+General Codes | Vendor
+to set
+up vendor codes
+.
+
+
+Inventory Update
+
+
+If you do not want to cr
+eate purchase orders and then process them, you can opt to 
+enter
+inventory
+into IntraVet
+as it arrives. 
+However, you lose the ability to automatically track what is on 
+order.
+As long as the re
+-
+order and optimal quantity is set
+u
+p, an item can always be pulled into a 
+PO. PO information for an item is not available until POs are used. 
+You can use the 
+Reorder Report
+(a list of all items below reorder level) to determine what nee
+ds to be ordered.
+
+
+How to Receive Inventory
+(without a Purchase Order)
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory Update
+. 
+
+
+ 
+
+
+To select the Vendor, use
+the down
+-
+arrow or 
+Enter
+the blank field. T
+hen scroll to find the vendor
+and double
+-
+click to select
+. 
+
+
+Verify
+the correct warehouse
+is displayed
+. To cha
+nge the warehouse, use the down
+-
+arrow.
+
+
+Type either the Code
+or Inventory item name into 
+the blank field, or
+use the down
+-
+arr
+ow and 
+scroll 
+to your selection.
+
+
+Click Receive Inventory. 
+
+
+
+
+<<NEW PAGE 199>>
+
+
+ Units
+–
+Number of units purchased from the vendor (bottles, cases, 
+etc.
+). If the unit 
+types have already been defined for this code it defaults to those descriptions.
+ No. Per Unit
+–
+Number of it
+ems in the unit purchased. If 1 case of dog food was 
+purchased that has 24 cans, enter in 1 unit and the no. per unit would be 24.
+ QTY (as Sold)
+–
+This number automatically calculates. Units (as purchased) x # No. per 
+Unit. 3 (Units as purchased) x 150 (
+Per Unit) = 450 Qty for the 
+practice 
+to sell or use. 
+ Last Qty
+–
+Shows the last quantity that was received.
+ New QoH 
+–
+Lists the New Quantity 
+on
+-
+hand
+.
+ Unit Cost 
+–
+Enter the Cost as purchased from the vendor (by the bottle or case).
+ Total Cost
+–
+This amount
+calculates automatically as Units (as purchased) x Unit Cost. 
+ Date
+–
+D
+efaults to the current date but may be changed to a previous date.
+ Product Code
+and 
+Descrip
+tion
+(optional). Enter the vendor’s product information.
+ Note
+(optional).
+ Expiration Date
+–
+If you have denoted this code as perishable, you must choose an 
+expiration d
+ate. Prescription labels sold from this shipment default to this date.
+ Manufacturer Number
+–
+Enter the shipment’s manufacturer number, if needed.
+ Sale/Free
+–
+Chec
+k this box if you want this item treated as an exception. If this box is 
+checked, the cost of this item is ignored when calculating average costs for this 
+product, and you will not be prompted to update the price based on this cost change.
+ Inventory
+history for this one item is listed in the grid below, most recent first. Scroll 
+down to see more.
+
+
+
+
+<<NEW PAGE 200>>
+
+
+ Trends
+–
+Click this 
+button to see statistics on how much of this 
+product has been 
+purchased and sold for the current and past month and year. Turnover ratios 
+(
+Purchased/Sold
+) and 
+Average
+sold per week are also calculated for your reference. 
+ Price Update 
+–
+Gives access to information on the Purchasing tab.
+
+
+ When all o
+f the data is entered, click 
+Save
+.
+ If the cost has changed, a notification appears and you can choose to update the price. 
+Click 
+Yes
+to change the pricing or 
+No
+to leave it as is. 
+
+
+If you choose 
+No
+, the 
+Inventory Cost Calculations
+window displays curren
+t and new 
+cost information.
+
+
+If you choose 
+Yes
+, the 
+Edit Inventory Code
+window displays with 
+Pricing Information
+and 
+Purch
+asing Information
+. 
+
+
+
+
+<<NEW PAGE 201>>
+
+
+ Adjust 
+Selling Price
+and/or 
+Current Markup %
+. If you have the code set to 
+Keep Markup 
+%
+, your suggested price is already calculated and you just need to confirm. 
+
+
+How to Return Inventory to the Vendor
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+| 
+Inventory Update
+.
+
+
+ To select the Vendor, use the down
+-
+arrow or 
+Enter
+the blank field. Then scroll to find 
+the vendor and double
+-
+click to select. 
+ Verify the correct warehouse is displayed. To 
+change the warehouse, use the down
+-
+arrow.
+ Type either the Code
+or Inventory item name into the blank field, or use the down
+-
+arrow and scroll to your selection.
+ Click 
+Return Inventory
+. 
+
+
+
+
+<<NEW PAGE 202>>
+
+
+ Units
+–
+Number of units purchased from the ve
+ndor (bottles, cases, 
+etc.
+). If the unit 
+types have already been defined for this code it defaults to those descriptions.
+ No. Per Unit
+–
+Number of items in the unit purchased. If 1 case of dog food was 
+purcha

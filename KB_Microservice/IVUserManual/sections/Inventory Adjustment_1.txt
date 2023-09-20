@@ -1,0 +1,197 @@
+Inventory Adjustment
+
+
+In general, you should rarely have to adjust items because there are other tools in place to 
+accurately receive and deplete your stock as needed. 
+Inventory adjustments allow you to do three 
+things: 
+
+
+ D
+eplete inventory
+, in case 
+a portion is unusable,
+ E
+nter an amount after doi
+ng a physical inventory count,
+and 
+ C
+ontrol lot management
+(t
+he allocation of a quantity to a specific expiration date
+)
+.
+
+
+Deplete Inventory
+
+
+Reduce the inventory 
+item by whatever number you deplete. 
+For example, if you drop an item or 
+an item has expired you can de
+p
+lete 
+the quantity on hand
+. 
+The number that you deplete by is 
+always as used or sold by the 
+practice
+. 
+In
+-
+house use or returns to the vendor may be a mo
+re 
+accurate way to deplete your stock.
+Invoicing items out to clients automatically depletes the 
+quantity 
+on
+-
+hand
+.
+
+
+How to Deplete Inventory for a Code
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+| 
+In
+ventory Adjustments
+.
+
+
+
+
+<<NEW PAGE 205>>
+
+
+ Double
+-
+click or type the first few letters of the item into the blank entry line. Locate 
+the item and double
+-
+click on it to move it to the line.
+ Select the appropriate 
+Warehouse
+.
+ Click 
+Deplete Inventory
+and the 
+Inv
+entory Adjustment Deplete Inventory
+window 
+appears.
+
+
+ Enter the amount to reduce inventory
+by in the 
+Quantity
+field. (This is the number of 
+pills/cans used
+.
+) The value of the inventory depleted is ba
+sed on either the 
+Item Cost
+or 
+Total Cost
+and the 
+Quantity
+entered. The new quantity 
+on
+-
+hand
+displays in red.
+ In 
+Note
+enter a brief explanation why the inventory
+is adjusted, if desired.
+ You can change the 
+Date
+by clicking the down
+-
+arrow and making a selection from the 
+calendar.
+ The right pane displays information regarding the code’s lots: 
+Expiration
+dates
+, current 
+Available
+quantity and quantity outstanding in pending charges
+(
+Open
+). A lot is a 
+group of items that sh
+are the same vendor and expiration date (usually all received the 
+same date). 
+ Click 
+Save
+.
+
+
+
+
+<<NEW PAGE 206>>
+
+
+Physical Inventory
+
+
+This area is used when updating your inventory to what you currently have in your practice at t
+he 
+time you enter this quantity. 
+This amount is the physical count of your items including items used 
+for in house and items on temporarily saved invoices (Work in Progress). W
+hen you do an 
+inventory
+adjustment,
+it allows you 
+to make a change and uses that information going forward. 
+
+
+How to Create a Physical Inventory Adjustment
+(Reset)
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory Adjustments
+. 
+
+
+ Double
+-
+click, or typ
+e the first few letters of the item into the blank entry line. Locate 
+the item and double
+-
+click on it to move it to the line.
+ Select the appropriate 
+Warehouse
+.
+ Click 
+Physical Inventory
+and the 
+Inventory Adjustment 
+Physical Adjustment
+win
+dow 
+displays. 
+
+
+ Enter in the current quantity 
+on
+-
+hand
+(the number of pills/cans available to sell or use) 
+in the 
+Quantity
+field. The new Quantity displays in red.

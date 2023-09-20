@@ -1,0 +1,61 @@
+ Show Code Prompt
+ Create Rx Label
+(This only appears if the line selected is for a p
+rescription)
+ Line Discount
+ Donate Item
+
+
+
+
+In this window you can enter 
+discount and 
+payment
+information. 
+For payments, see 
+Transactions.
+
+
+A
+dd an Invoice Discount
+
+
+There are 
+two
+methods to apply a 
+Discount
+. 
+
+
+Method 1: 
+
+
+ Click 
+the 
+Invoice Discount
+button at the bottom of the screen
+. 
+ Select the Discount Type (optional).
+ Enter the Percentage of Discount
+.
+ Check the box 
+Set as permanent client discount
+, if appropriate.
+ Select the appropriate
+discount options: 
+ Apply discount to only items set
+up for discount.
+ Apply discount to all items.
+ Line item discounts take precedence over percent discounts.
+ Apply greater discount amount between line item discounts and percentage 
+discounts.
+
+
+ C
+lick 
+Apply
+, 
+Apply to All
+or
+Cancel
+.

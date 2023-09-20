@@ -1,0 +1,529 @@
+AccessingClientsAccountinIntraVet.yaml - AccessingClientsAccountinIntraVet - A guide on how to access a client's account in IntraVet - IntraVet, client account, access, Control Center, Open Account
+
+AccessTabs.yaml - AccessTabs - How to access and navigate the different tabs in the Client Account Management screen - access tabs, client account management, tabs, account, invoice, payment, estimates, transactions, prescriptions
+
+AccountDefaultSettings.yaml - AccountDefaultSettings - Instructions for setting up default account settings in IntraVet - account, default settings, IntraVet, setup, variables, tax, billing fee, interest, statements, terms
+
+AccountNotepad.yaml - AccountNotepad - Instructions on how to use the Account Notepad feature in IntraVet - account notepad, notes, client account, IntraVet
+
+AccountSetup.yaml - AccountSetup - Instructions for setting up default account settings in IntraVet - account setup, default settings, IntraVet, branch setup, variables
+
+Activities.yaml - Activities - Instructions for using the Activities tab in a software application - Activities, tab, instructions, add, remove, canned text, freeform text, move, selection, main pane, patient notes, custom template
+
+ActivitiesTab.yaml - ActivitiesTab - Instructions for using the Activities tab in the patient management system - activities tab, tasks, instructions, patient management system
+
+AddaReminderRecommendation.yaml - AddaReminderRecommendation - Instructions on how to manually add a reminder or recommendation - reminder, recommendation, manual, add, patient, medical history
+
+AddingaBranchintheSoftware.yaml - AddingaBranchintheSoftware - Instructions on how to create or add a branch in the software - branch, software, setup, windows, tools, help, icons, account, appointment calendar, invoice, boarding availability, payments, pending charges, estimates, lab results, transactions, time clock, prescriptions, ePetHealth, documents, change branch, control center, wild search, general, equine patients
+
+AddingaDocumenttotheList.yaml - AddingaDocumenttotheList - Instructions on how to add a document to the list in a medical records system - document, list, medical records, visit, template, add, modify, print
+
+AdvancedSearch.yaml - AdvancedSearch - How to use the advanced search feature in IntraVet to find specific accounts - advanced search, IntraVet, criteria, search information, client account
+
+AntechNewLabMachineSetup.yaml - AntechNewLabMachineSetup - Instructions for setting up a new Antech lab machine - Antech, lab machine, setup
+
+AntechOrderCodeAssociation.yaml - AntechOrderCodeAssociation - Instructions for creating, editing, inactivating, and reactivating Antech order codes - Antech, order code, association, create, edit, inactivate, reactivate, predefined codes, procedure codes, validation
+
+Antech_ZoasisLabInterfaceSetup.yaml - Antech_ZoasisLabInterfaceSetup - Instructions for setting up the Antech/Zoasis Lab Interface in IntraVet - Antech, Zoasis, lab interface, IntraVet, setup, requisition forms, barcodes, accuracy, client, patient, procedure codes, lab codes
+
+Antech_Zoasis_Lab_Acquisition.yaml - Antech_Zoasis_Lab_Acquisition - Instructions for receiving and viewing lab results from Antech - Antech, Zoasis Lab Acquisition, lab results, IntraVet Control Center
+
+AppointmentCalendarSetup.yaml - AppointmentCalendarSetup - Setting up the appointment calendar in IntraVet - appointment calendar, setup, IntraVet, providers, groups, block types, reserve types, appointment types
+
+AppointmentGroupSetup.yaml - AppointmentGroupSetup - Instructions for setting up appointment groups/calendars in IntraVet - appointment group, calendar setup, IntraVet
+
+Appointment_Calendar_Setup.yaml - Appointment_Calendar_Setup - Instructions for setting up and viewing the appointment calendar - appointment calendar, setup, viewing options, columns, group
+
+AssessmentInstructions.yaml - AssessmentInstructions - Instructions for using the Assessment tab - assessment, tab, edits, diagnosis, code, description, add, remove, notes, template
+
+AssignAccessLevels.yaml - AssignAccessLevels - Instructions for assigning access levels to users - assign, access levels, users, position, system, areas, copy, remove
+
+AssignDocumentstoaVisit.yaml - AssignDocumentstoaVisit - Instructions on how to assign documents to a visit in a medical records system - assign documents, visit, medical records, template, consent form, vaccination certificate
+
+AttachingandPrintingDocumentsinIntraVet.yaml - AttachingandPrintingDocumentsinIntraVet - Instructions on how to attach and print documents in IntraVet - IntraVet, attach documents, print documents, patient visit, medical record
+
+AttachLabResultstoPatientHistory.yaml - AttachLabResultstoPatientHistory - Instructions on how to attach lab results to a patient's medical history in IntraVet - lab results, patient history, IntraVet, update, post
+
+AuditLogViewer.yaml - AuditLogViewer - A guide on how to use the Audit Log Viewer in IntraVet to track changes made in the program - Audit Log Viewer, IntraVet, track changes, security, search filters, source types, action types
+
+BackupandRestoreProcess.yaml - BackupandRestoreProcess - Instructions for backing up and restoring data - backup, restore, data, external media, off-site storage
+
+BlockandReserveSlots.yaml - BlockandReserveSlots - A guide on how to block and reserve appointment slots in the calendar - block, reserve, slots, appointment, calendar
+
+Boarding.yaml - Boarding - Instructions for accessing the boarding reservation window and using the boarding reservation grid and control center - boarding, reservation, window, availability, grid, control center
+
+BoardingCenterStatuses.yaml - BoardingCenterStatuses - Information about the Boarding Center and its statuses - boarding center, statuses, patients, cage type, confirmation number
+
+BoardingControlCenter.yaml - BoardingControlCenter - Instructions on how to access and use the Boarding Control Center - boarding, control center, reservation, grid, scheduled reservations
+
+BoardingReservationGrid.yaml - BoardingReservationGrid - Instructions on accessing and using the boarding reservation grid - boarding, reservation, grid, availability, schedule
+
+BoardingSetup.yaml - BoardingSetup - Instructions for setting up boarding reservations and printing necessary forms - boarding, setup, reservations, forms, printing
+
+BoardingSurcharge.yaml - BoardingSurcharge - Instructions for setting up and applying a boarding surcharge in IntraVet - boarding, surcharge, reservation, fee, holiday, weekend, IntraVet
+
+BodySystems_Bydefaultallitemsarechecked._1.yaml - BodySystems_Bydefaultallitemsarechecked._1 - Instructions for managing body systems in a template - body systems, template, edits, checkbox, attachment
+
+CageTypeSetup.yaml - CageTypeSetup - Instructions on how to set up cage types in the system - cage type, setup, instructions, reservation, coding system, capacity, quantity, charge code, alternative cage type, split reservations
+
+CalendarPrint.yaml - CalendarPrint - Instructions for printing a calendar with different styles and options - calendar, print, options, style, format, new style, start date, end date, print from time, print to time, duration, appointments, fonts, shading, paper, margins, page orientation
+
+CardPaymentCodes.yaml - CardPaymentCodes - A guide on how to create, edit, and inactivate card payment codes in IntraVet - card payment codes, payment types, transaction report, IntraVet
+
+ChangingtheColumnsontheControlCenter.yaml - ChangingtheColumnsontheControlCenter - Instructions on how to change the columns displayed on the Control Center - Control Center, columns, drag and drop, add, remove, rearrange
+
+ChangingthePatientsVisitStatus.yaml - ChangingthePatientsVisitStatus - Instructions on how to change a patient's visit status in the Control Center - patient, visit status, Control Center, change, instructions
+
+Check-inBatchPrint.yaml - Check-inBatchPrint - Instructions for using the check-in batch print feature in the appointment calendar - check-in, batch print, appointment calendar, instructions
+
+CheckInaBoardingPatient.yaml - CheckInaBoardingPatient - Instructions for checking in a boarding patient using confirmation number or date - check in, boarding patient, confirmation number, date, control center, reservation
+
+CheckOutaReservation.yaml - CheckOutaReservation - Instructions for checking out a reservation in the Control Center - check out, reservation, Control Center, services, estimates, documents, attachments, notes, patient status, ePetHealth
+
+ClientAccountManagement.yaml - ClientAccountManagement - A guide to navigating and using the Client Account Management feature in IntraVet - client account management, IntraVet, navigation, features, patient information
+
+ClientAccountManagementScreen.yaml - ClientAccountManagementScreen - Overview of the Client Account Management screen and its features - client account management, screen, patients, options, general overview, weight
+
+ClientAccountManagement_2.yaml - ClientAccountManagement_2 - Overview of client account management features and functions - client account management, documents, print, signed documents, reminders, recommendations, callbacks, ID collar, patient list, patient check-in
+
+ClientandPatientOperatorWarnings.yaml - ClientandPatientOperatorWarnings - Information about client and patient operator warnings and current balance - client, patient, operator warnings, current balance, control center, task manager
+
+ClientSetup_1.yaml - ClientSetup_1 - General Codes Setup for Client Setup - client setup, general codes, code system, client classification codes, client search codes
+
+ClientUtilities.yaml - ClientUtilities - A guide to using the Client Utilities feature in IntraVet software - client utilities, IntraVet, software, pricing structure, copy prices, client quick edit, financial, statements, terms, client combine, mass client inactivate
+
+ClientUtilities_2.yaml - ClientUtilities_2 - Instructions for using the Client Utilities Mass Client Inactivate tool - Client Utilities, Mass Client Inactivate, backup, inactivate clients
+
+ClockOut.yaml - ClockOut - Instructions for clocking out at the end of a shift - clock out, end of shift, job codes, change job codes
+
+CodeUtilities.yaml - CodeUtilities - A guide to the available fields and options in the Code Utilities tool - code utilities, fields, options, overwrite, taxable, basic, discount, action, multi-user, code combine, document utility, import LifeLearn
+
+CodeUtilities_2.yaml - CodeUtilities_2 - Information about code utilities and quantity pricing in IntraVet - code utilities, quantity pricing, IntraVet
+
+CodeUtilities_3.yaml - CodeUtilities_3 - Instructions for using the Code Utilities_3 tool - Code Utilities_3, instructions, pricing, update
+
+CodeUtilities_4.yaml - CodeUtilities_4 - Explanation of the Procedure Code Mass Price Update and Inventory Code Mass Minimum Charge Update utilities in IntraVet - IntraVet, code utilities, price update, mass update, minimum charge update, inventory codes
+
+CodeUtilities_5.yaml - CodeUtilities_5 - Information about the Code Utilities_5 in IntraVet - Code Utilities_5, IntraVet, inventory codes, dispensing fee, price update
+
+CodeUtilities_6.yaml - CodeUtilities_6 - Information about the Inventory Code Quick Edit utility - code utilities, inventory code, quick edit
+
+CodeUtilities_7.yaml - CodeUtilities_7 - A guide to using the Code Utilities feature in IntraVet - Code Utilities, IntraVet, inventory code, procedure code, settings, security
+
+CodeUtilities_9.yaml - CodeUtilities_9 - Instructions for using Code Utilities_9 - Code Utilities_9, import, browse, folder, start, reformat, LifeLearn Installation
+
+Communications.yaml - Communications - A guide on how to search for and communicate with clients using the Communications section - communications, search, clients, email, reminders
+
+ConfirmingAppointments.yaml - ConfirmingAppointments - Instructions on how to confirm appointments and print resources - confirming appointments, print resources, scheduling
+
+ControlCenter.yaml - ControlCenter - A guide to using Wild Search and Advanced Search in the Control Center - Control Center, Wild Search, Advanced Search, client search, patient search
+
+ControlCenterSettings.yaml - ControlCenterSettings - A guide on how to customize the Control Center settings - Control Center, settings, customize, options, entry types, status, flags
+
+ControlCenterSetupCustomization.yaml - ControlCenterSetupCustomization - Overview of the Control Center in IntraVet and how to customize it - Control Center, IntraVet, setup, customization, communication, hub, overview, software
+
+ControlCenterTaskManager.yaml - ControlCenterTaskManager - Instructions on how to use the Control Center Task Manager in IntraVet - Control Center, Task Manager, IntraVet, client, patient, warnings, balance, tasks
+
+CreatingaDatabaseCopy.yaml - CreatingaDatabaseCopy - Instructions for creating a copy of the IntraVet database - database copy, IntraVet, backup, restore
+
+CreatingandManagingBodySystemsinIntraVet.yaml - CreatingandManagingBodySystemsinIntraVet - A guide on how to create, edit, and delete body systems in IntraVet - IntraVet, body systems, create, edit, delete, vital description
+
+CreatingandManagingStableCodes.yaml - CreatingandManagingStableCodes - Instructions for creating and managing stable codes in IntraVet - stable codes, equine, IntraVet, setup, recall generator
+
+CreatingCustomizedVisitTemplates.yaml - CreatingCustomizedVisitTemplates - A guide on how to create customized visit templates in IntraVet - visit templates, SOAPs, customized, appointments, patients, services, documents, consent forms, notes, vitals, abnormalities, tasks, IntraVet
+
+CreatingEditingorDeletingStableCodes.yaml - CreatingEditingorDeletingStableCodes - Instructions on how to create, edit, or delete stable codes in IntraVet - stable codes, create, edit, delete, IntraVet
+
+CreditAdjustments.yaml - CreditAdjustments - A guide on how to process credit adjustments in a client's account - credit adjustments, provider change, return item, restock, refund, financial adjustment, non-sufficient funds
+
+DatabaseCopy.yaml - DatabaseCopy - Instructions for creating a copy of the IntraVet database - database copy, IntraVet, backup, restore
+
+DebitAdjustments.yaml - DebitAdjustments - Instructions on how to create debit adjustments in the client's account - debit adjustments, transactions, financial adjustment, client account
+
+DebitandCreditCardTransactionTypes.yaml - DebitandCreditCardTransactionTypes - Explanation of debit and credit transaction types for adjusting account balances - debit, credit, transaction types, account balances, adjustments
+
+DebitPINPadSetup.yaml - DebitPINPadSetup - Instructions for setting up the debit PIN pad - debit, PIN pad, setup, instructions
+
+DepartmentCodes.yaml - DepartmentCodes - This article provides information on department codes and how to create, edit, or inactivate them. - department codes, procedure codes, inventory codes, productivity reports, inventory reports, business decisions
+
+DiagnosisCodeSetup.yaml - DiagnosisCodeSetup - Instructions for setting up diagnosis codes in the system - diagnosis codes, setup, instructions
+
+DIALite_1.yaml - DIALite_1 - Instructions for starting DIA Lite and setting up PURDigital Viewer - DIA Lite, PURDigital Viewer, PACS, setup
+
+DIASetup.yaml - DIASetup - Instructions for setting up DIA and PURDigital Viewer - DIA, PURDigital Viewer, setup, PACS, server
+
+DiscountTypesCodes.yaml - DiscountTypesCodes - Instructions for revising, inactivating, and creating discount types codes - discount types codes, revise, edit, inactivate, create
+
+DocumentCodes.yaml - DocumentCodes - Information about document codes used for client handouts, health certificates, and authorization forms - document codes, client handouts, health certificates, euthanasia forms, authorization forms, LifeLearn Handouts, IntraVet, educating clients, paperwork
+
+DocumentList.yaml - DocumentList - Instructions on how to set up and assign documents to patient visits - documents, medical records, visit template, consent form, vaccination certificate, dental, assign documents, add documents, print documents
+
+EditaPermanentlySavedInvoiceLine.yaml - EditaPermanentlySavedInvoiceLine - Instructions on how to edit a permanently saved invoice line - edit, permanently saved, invoice line
+
+EditingaVisit.yaml - EditingaVisit - Instructions on how to edit a visit and add a problem list to a patient's medical history - edit, visit, invoice, settings, finalized, auditing, medical history, problem list
+
+EditingReminders.yaml - EditingReminders - Instructions for resizing windows, viewing images, and editing reminders - editing, reminders, resizing windows, viewing images
+
+EditMedicalHistory.yaml - EditMedicalHistory - Instructions for editing patient weight, adding patient photo, and attaching medical images in IntraVet - edit, medical history, patient weight, control center, weights, record, ok, client account management, add photo, load, add medical image, attachment, manipulate image
+
+EditResultList.yaml - EditResultList - Instructions for editing the result list in a search screen - edit, result list, search screen, parameters, dates, search, patients, clients, email, print, process, reminder cards, reminder letters, labels
+
+EditVisitTemplateMain.yaml - EditVisitTemplateMain - Instructions for editing the main section of a visit template - edit, visit template, main, code, description, tabs, treatment
+
+EmailingPatientHistory.yaml - EmailingPatientHistory - Instructions on how to email a patient's medical history - email, patient history, medical history, print options
+
+EnablingSecurityinUtilities.yaml - EnablingSecurityinUtilities - Instructions for enabling security in Financial Utilities, Time Clock Utilities, and other Utility Screens - security, utilities, financial, time clock, audit method
+
+EndofShift_1.yaml - EndofShift_1 - Instructions for clocking out and changing job codes - end of shift, clock out, job codes, change job codes
+
+ePetHealthAppointmentReminderSetup.yaml - ePetHealthAppointmentReminderSetup - Instructions on how to block and reserve appointment slots in ePetHealth - ePetHealth, appointment reminder setup, block slots, reserve slots
+
+eShelfCodeAssociationTool.yaml - eShelfCodeAssociationTool - Instructions for setting up eShelf code association - eShelf, code association, setup, inventory
+
+eShelfConfiguration.yaml - eShelfConfiguration - Instructions for configuring eShelf integration in IntraVet - eShelf, inventory ordering, integration, configuration, setup, options
+
+Estimates.yaml - Estimates - Overview of the Estimates tab and how to create, edit, and delete estimates for a patient - estimates, estimate templates, patient, invoice, discount
+
+EstimateSetup.yaml - EstimateSetup - Instructions for setting up estimates in the Int raVet program - estimate setup, Int raVet, program, checkboxes, automatic actions, visit, branch, print, description, tax, patient, days, estimate header, text, canned text
+
+ExportingReferralClients.yaml - ExportingReferralClients - Instructions on how to export referral clients - export, referral clients, save, file type
+
+ExportingResultListinIntraVet.yaml - ExportingResultListinIntraVet - Instructions on how to export the Result List in IntraVet for use with a third-party application or online reminders - export, result list, IntraVet, third-party application, online reminders
+
+FinanceChargeRemoval.yaml - FinanceChargeRemoval - Instructions for using the Finance Charge Removal utility in IntraVet - finance charge removal, utility, IntraVet, billing fee, interest rates, financial recalculations
+
+FinanceChargeRemovalandFinancialRecalculations.yaml - FinanceChargeRemovalandFinancialRecalculations - Instructions for using the Finance Charge Removal and Financial Recalculations utilities in IntraVet - finance charge removal, financial recalculations, utility, IntraVet
+
+FinancialUtilities.yaml - FinancialUtilities - A guide to using the Financial Utilities function in IntraVet - financial utilities, IntraVet, QuickBooks, account period locking, account period unlocking
+
+FormsHandoutsandTopaz.yaml - FormsHandoutsandTopaz - Instructions for setting up Forms, Handouts, and Topaz in IntraVet - Forms, Handouts, Topaz, IntraVet, setup, program, branch, logo, client handouts, forms
+
+GeneralBranchSetup.yaml - GeneralBranchSetup - Information on how to set up the general branch in IntraVet - general branch setup, IntraVet, practice information, menu bar
+
+GeneralCodesSetup.yaml - GeneralCodesSetup - Setting up a uniform code system for efficient operation of IntraVet software - general codes, setup, code system, IntraVet, data entry, user-definable, numeric codes, alpha codes, alpha numeric combinations, code description, client setup, client classification codes, financial status, collections, cash only, no checks, accounts receivable reports, statements, Recall Generator
+
+GeneralSecurityandAuditingSetup.yaml - GeneralSecurityandAuditingSetup - Overview of the security settings and setup options in IntraVet - security, auditing, setup, security templates, user setup, job setup
+
+GeneratingStatementsinQuickBooks.yaml - GeneratingStatementsinQuickBooks - Instructions for generating statements in QuickBooks and making necessary changes - QuickBooks, statements, generating, billing, interest, charges
+
+HospitalizationServices.yaml - HospitalizationServices - Information about hospitalization services and how to change a patient's status - hospitalization services, patient status, hospitalize, remove hospitalization, visit window, pre-loaded services, vitals, medical notes
+
+HowtoAccesstheClientsAccount.yaml - HowtoAccesstheClientsAccount - A guide on different methods to access and open a client's account in IntraVet - access, open, client's account, IntraVet, methods
+
+HowtoAddaPrescriptioninInvoicing.yaml - HowtoAddaPrescriptioninInvoicing - A guide on how to add a prescription in the invoicing system - prescription, invoicing, medical history, refill, control center
+
+HowtoAddVitals.yaml - HowtoAddVitals - Instructions on how to add vitals in Visit Templates - vitals, Visit Templates, add, instructions
+
+HowtoApplyTemplatesinAppointmentCalendar.yaml - HowtoApplyTemplatesinAppointmentCalendar - A guide on how to apply templates in the appointment calendar - apply, templates, appointment calendar, setup, edit, block, reserve, start time, end time, recurrence, frequency, duration, save, select, add
+
+HowtoAssignandTrackTasks.yaml - HowtoAssignandTrackTasks - A guide on how to assign and track tasks in a system - assign, track, tasks, manage, enter, staff members, procedures, steps, treatment
+
+HowtoAssociateVendorCodeswitheShelf.yaml - HowtoAssociateVendorCodeswitheShelf - Instructions on how to associate vendor codes with eShelf in IntraVet - vendor codes, eShelf, association, inventory, purchase orders, IntraVet
+
+HowtoClearorDeleteaBlockorReserve.yaml - HowtoClearorDeleteaBlockorReserve - Instructions on how to clear or delete a block or reserve in the appointment calendar - clear, delete, block, reserve, appointment calendar
+
+HowtoClockOutforaBreak.yaml - HowtoClockOutforaBreak - Instructions on how to clock out for a break and clock back in when the break is over - clock out, break, clock in, employees
+
+HowtoCreateaCustomizedVisitTemplate.yaml - HowtoCreateaCustomizedVisitTemplate - A guide on creating customized visit templates for common visit types - visit template, customized, SOAP, appointment, patient, services, documents, consent forms, notes, vitals, abnormalities, tasks
+
+HowtoCreateandManageRecommendationCodesinIntraVet.yaml - HowtoCreateandManageRecommendationCodesinIntraVet - A guide on creating and managing recommendation codes in IntraVet - IntraVet, recommendation codes, creating, managing
+
+HowtoCreateandManageVendorCodes.yaml - HowtoCreateandManageVendorCodes - A guide on creating and managing vendor codes in IntraVet - vendor codes, IntraVet, create, manage, inactivate
+
+HowtoCreateEditandInactivateDiscountTypes.yaml - HowtoCreateEditandInactivateDiscountTypes - A guide on how to create, edit, and inactivate discount types in the IntraVet software - discount types, create, edit, inactivate, IntraVet software
+
+HowtoCreateEditorDeleteBodySystems_1.txt.yaml - HowtoCreateEditorDeleteBodySystems_1.txt - Instructions on how to create, edit, or delete body systems in IntraVet software - create, edit, delete, body systems, IntraVet software
+
+HowtoEditaReservation.yaml - HowtoEditaReservation - A guide on how to edit a reservation in the boarding system - edit, reservation, boarding, cage, patient
+
+HowtoEnterandManageTasks.yaml - HowtoEnterandManageTasks - A guide on how to enter and manage tasks in a system - enter, manage, tasks, system, guide
+
+HowtoEnteraNoteforaClient_Patient_1.yaml - HowtoEnteraNoteforaClient_Patient_1 - Instructions on how to enter a note for a client or patient - enter, note, client, patient, instructions
+
+HowtoEnterOperatorIDs.yaml - HowtoEnterOperatorIDs - A guide on how to enter operator IDs in the IntraVet system - operator IDs, IntraVet, user setup, security, job description, provider
+
+HowtoIncludeVitalsinaVisitTemplate.yaml - HowtoIncludeVitalsinaVisitTemplate - Instructions on how to include vitals in a visit template - vitals, visit template, include, edits, weight
+
+HowtoMakeAppointments.yaml - HowtoMakeAppointments - A guide on how to make appointments in the appointment calendar - appointments, appointment calendar, new appointment, client, patient
+
+HowtoMakeaReservation.yaml - HowtoMakeaReservation - Instructions on how to make a boarding reservation - reservation, boarding, cage availability, patient, dates, times
+
+HowtoOpenMedicalHistory.yaml - HowtoOpenMedicalHistory - Instructions on how to open the Medical History in a patient's account - medical history, open, patient account, client account, instructions
+
+HowtoPrintColumnsinAppointmentCalendar.yaml - HowtoPrintColumnsinAppointmentCalendar - Instructions on how to print columns in the Appointment Calendar - print, columns, appointment calendar
+
+HowtoProcessaPurchaseOrder.yaml - HowtoProcessaPurchaseOrder - A guide on how to process a purchase order in the IntraVet system - purchase order, process, IntraVet, inventory, receive, price update
+
+HowtoReviseandInactivateSubjectiveCodesinIntraVet.yaml - HowtoReviseandInactivateSubjectiveCodesinIntraVet - A guide on how to revise and inactivate subjective codes in IntraVet - IntraVet, subjective codes, revise, inactivate
+
+HowtoSearchforDueProceduresCallbacksorRecommendations.yaml - HowtoSearchforDueProceduresCallbacksorRecommendations - A guide on how to search for due procedures, callbacks, or recommendations in a veterinary practice management software - search, due procedures, callbacks, recommendations, veterinary practice management software
+
+HowtoTransferInventorytoAnotherWarehouse.yaml - HowtoTransferInventorytoAnotherWarehouse - A guide on how to transfer inventory between warehouse locations - inventory, warehouse, transfers, guide
+
+HowtoUploadaPatientPhotoandAccessAccountTabs.yaml - HowtoUploadaPatientPhotoandAccessAccountTabs - Instructions on how to upload a patient photo and access the different tabs in the account management screen - upload, patient photo, account tabs, client account management, balance, visits, boarding reservations
+
+HowtoUseTasks.yaml - HowtoUseTasks - A guide on how to use the Tasks feature - tasks, guide, how to, use, features
+
+HowtoUsetheSubjectiveTab.yaml - HowtoUsetheSubjectiveTab - Instructions on how to use the Subjective tab in the application - subjective tab, presenting complaints, enable edits, code/description, add notes, custom template
+
+Index_1.yaml - Index_1 - KB article for appointment calendar index - appointment calendar, appointment, check-in labels, batch print, client account, confirm, callback, cancelled, confirmed, left message, delete, drop off list, edit, history, making, move, multiple, same client, no show, notes, patient inactive, provider, reason, search, available slot, find existing, include past, modify, new, results, summary, walk-in emergency, hospitalize, make appointment, current client/new patient, current client/current patient, new client/new patient, block slots, blocks, add, clear, delete, insert opening, calendar, check-in labels, drop-offs, notes, operator warnings, print, provider/column, time slot, recommendations, recurrence, reminders, reserve code, reserve slots, reserves, search, modify, new, results, setup
+
+Index_2.yaml - Index_2 - Keywords related to appointment calendars and views - appointment, calendars, group, types, color codes, view, columns, background color, drop-offs, name, recurrence, templates, type codes, blocks, duration, reserves, view options, general, hide/unhide left panel, hide/unhide toolbar, time period, work week
+
+InformationTabsontheInvoice.yaml - InformationTabsontheInvoice - This article provides information about the tabs available on the invoice in the IntraVet software. - invoice, IntraVet, tabs, code summary, prescription, messages
+
+IntegrationwithAmericanVeterinaryLaboratoryCorporationAVLC.yaml - IntegrationwithAmericanVeterinaryLaboratoryCorporationAVLC - This article provides instructions on how to set up the AVLC interface and integrate it with IntraVet. - AVLC, American Veterinary Laboratory Corporation, lab interface, integration, IntraVet
+
+IntraVetTools.yaml - IntraVetTools - Overview of the tools available in the IntraVet software - IntraVet, software, tools, utilities, maintenance, branch utilities, branch combine
+
+IntraVetToolsUtilities.yaml - IntraVetToolsUtilities - Overview of the utilities in the Tools section of IntraVet software - IntraVet, software, tools, utilities, maintenance, system backup, branch utilities, branch combine
+
+InventoryAdjustment.yaml - InventoryAdjustment - A guide on how to adjust inventory in a practice management system - inventory adjustment, deplete inventory, physical inventory, practice management system
+
+InventoryBarcode.yaml - InventoryBarcode - How to associate barcodes with inventory items for easy lookup and tracking - inventory, barcode, lookup, associate, in-house use
+
+InventoryCodeSetup.yaml - InventoryCodeSetup - Instructions for linking inventory items to a code and making changes to the linked items - inventory code, linked items, invoice, deplete inventory, edit, update, print, quantity, price, amount, add, remove, inactivate
+
+InventoryCostCorrections.yaml - InventoryCostCorrections - Instructions for making inventory cost corrections and depleting in-house inventory - inventory, cost corrections, deplete, in-house, usage
+
+InventoryLotManagement.yaml - InventoryLotManagement - A guide on how to manage inventory lots and expiration dates in IntraVet - inventory, lot management, expiration dates, IntraVet
+
+InventoryManagementinIntraVet.yaml - InventoryManagementinIntraVet - A guide to setting up and managing inventory in IntraVet - inventory, management, IntraVet, warehouses, setup, branches
+
+InventorySetup.yaml - InventorySetup - Instructions for setting up inventory in IntraVet - inventory, setup, warehouses, vendor codes, unit type codes, individual code
+
+InventoryUpdate.yaml - InventoryUpdate - Instructions for updating inventory information - inventory, update, quantity, cost, date, product code, description, expiration date, manufacturer number, sale, free, history, trends, price update, save
+
+InventoryUtilities.yaml - InventoryUtilities - A guide on how to use the Inventory Utilities in IntraVet - Inventory Utilities, IntraVet, warehouse, transfer, combine
+
+Invoice.yaml - Invoice - A guide on how to create and manage invoices in the system - invoice, clients, visit, date, patients, add, remove, estimate, line note, discount, donation, code summary, prescription, messages, discounts, invoice discount
+
+InvoiceMessageCodes.yaml - InvoiceMessageCodes - A guide on how to create, edit, or delete invoice message codes - invoice message codes, create, edit, delete, additional messages, printed invoices
+
+InvoiceProcessinginIntraVet.yaml - InvoiceProcessinginIntraVet - Instructions for processing payments and managing documents in IntraVet's invoice system - invoice, processing, payments, documents, IntraVet
+
+InvoiceSearch.yaml - InvoiceSearch - Instructions on how to search for an invoice by invoice number - invoice search, search by invoice number, IntraVet, instructions
+
+InvoiceSetupOptions.yaml - InvoiceSetupOptions - A guide on how to set up invoice options in the practice management software - invoice, setup, options, practice management software
+
+InvoiceStandardMessage.yaml - InvoiceStandardMessage - How to include a standard message on each invoice - invoice, standard message, practice slogans, hours of operation, emergency practices
+
+Invoicingtheplanitems.yaml - Invoicingtheplanitems - Instructions for invoicing plan items in the IntraVet system - invoicing, plan items, IntraVet, Control Center, open visit, add/remove, send to invoice, rejected, deferred, ready to invoice, save, check out, invoice, patient total, remove invoice line, add estimate, add line note, repeat invoice
+
+InvoicingtheVisit.yaml - InvoicingtheVisit - A guide on how to invoice a visit in the system - invoicing, visit, estimates, prescriptions, SOAP details
+
+JobCodes.yaml - JobCodes - Information about job codes and how to change them - job codes, time clock, security, employee, practice, departments
+
+JobSetup.yaml - JobSetup - Instructions for setting up job descriptions and security templates in IntraVet - job setup, employee duties, time clock, user setup, security template, IntraVet
+
+LabInstallationInstructions.yaml - LabInstallationInstructions - Instructions for installing and integrating a lab machine - lab, installation, integration, instructions, lab machine
+
+LabInstallationIntegrationandTestResults.yaml - LabInstallationIntegrationandTestResults - Instructions for installing and integrating lab machines in IntraVet - lab installation, lab integration, test results, IntraVet, lab machine
+
+LabInstallationIntegrationandTestResults_1.yaml - LabInstallationIntegrationandTestResults_1 - Instructions for lab installation and integration - lab, installation, integration, test results
+
+LabInterfaceSetup.yaml - LabInterfaceSetup - Instructions for setting up lab interface in IntraVet - lab interface, IntraVet, lab test, lab request, lab results
+
+LabRequests.yaml - LabRequests - How to request a lab test for a patient - lab requests, lab test, procedure code, control center, setup
+
+LabTestRequests.yaml - LabTestRequests - How to request a lab test for a patient - lab test, request, procedure code, Control Center, status
+
+LabTestsOrderCodes.yaml - LabTestsOrderCodes - Instructions for ordering lab tests and accessing lab results in IntraVet software - lab tests, order codes, IntraVet software, lab results
+
+LetterheadPrintout.yaml - LetterheadPrintout - Instructions for selecting a preferred header for different printing options in IntraVet - letterhead, printout, header, printing options, IntraVet
+
+LogoandBackground.yaml - LogoandBackground - Instructions for adding a logo and background in IntraVet - logo, background, IntraVet, setup, program, branch, edit, general, file types, size, load
+
+MaintenanceOptionsinSupportUtility.yaml - MaintenanceOptionsinSupportUtility - Overview of the maintenance options available in the Support Utility - maintenance, support utility, database validation, index defragmentation
+
+MedicalHistoryOrganization.yaml - MedicalHistoryOrganization - Organizing and navigating the Medical History window - medical history, organization, visit, treatment, summary lines, patient information, problem list, reminders, recommendations
+
+MedicalHistoryViewingOptions.yaml - MedicalHistoryViewingOptions - A guide to the different viewing options in the Medical History window - medical history, viewing options, visits, prescriptions, notes, lab results, weight
+
+MerchantServices.yaml - MerchantServices - Overview of XCharge Merchant Services and its compatibility with EMV requirements - Merchant Services, XCharge, OpenEdge, EMV, credit cards, debit cards, transactions, card reader, IntraVet
+
+Method1ApplyinganInvoiceDiscount.yaml - Method1ApplyinganInvoiceDiscount - Instructions for applying an invoice discount in the system - invoice discount, discount type, percentage discount, permanent client discount, discount options, line item discounts, apply discount
+
+Method2SavingandPrintingInvoices.yaml - Method2SavingandPrintingInvoices - Instructions for saving and printing invoices in the system - method 2, saving, printing, invoices, line discount, save options
+
+Method3_Calendar_1.yaml - Method3_Calendar_1 - Instructions for using the IntraVet Appointment Calendar - Method 3, Calendar, IntraVet, Appointment Calendar
+
+Method4_WildSearch_1.yaml - Method4_WildSearch_1 - Instructions for using the Wild Search feature in IntraVet - method 4, wild search, IntraVet, appointment calendar, client account, search options
+
+MovingAppointments.yaml - MovingAppointments - How to move appointments in the calendar using cut, copy, and paste - moving appointments, cut, copy, paste, calendar
+
+NewClientSearch.yaml - NewClientSearch - Instructions for performing a new client search and various actions that can be taken with the search results - new client search, print labels, export result list, instructions
+
+NewPatientSearch.yaml - NewPatientSearch - Instructions for searching and managing new patients in the practice - new patient search, practice management, client communication, print cards, print letters
+
+NewVisit.yaml - NewVisit - Instructions on how to initiate a new visit in the system - new visit, appointments, boarding, control center, medical history
+
+NotesandTasks.yaml - NotesandTasks - A guide on how to use the notes and tasks feature in the Control Center - notes, tasks, client, patient, operator warnings, current balance
+
+PatientCheck-in.yaml - PatientCheck-in - Instructions for checking in a patient and reviewing their information - patient check-in, client information, patient information, reminders, recommendations, plan, weight, vitals, assessments, save, check in, charges, invoice, body systems, notes, documents, images
+
+PatientGeneralOverview.yaml - PatientGeneralOverview - Overview of the patient management features in the Client Account Management screen - patient, general overview, client account management, weight chart, species, breed, sex, color, microchip, rabies tag, date of birth, status, client account balance
+
+PatientHealthCertificate.yaml - PatientHealthCertificate - Instructions for printing a patient health certificate and altered certificate - patient health certificate, altered certificate, printing, proof of alteration, travel
+
+PatientSetup.yaml - PatientSetup - Instructions for setting up patient species, breed, color, and sex codes in IntraVet - patient setup, species codes, breed codes, color codes, sex codes, IntraVet
+
+PatientStatus.yaml - PatientStatus - Overview of the patient status system and summary section in the Control Center - patient status, summary, control center, icons, appointment, invoice
+
+PatientUtilities.yaml - PatientUtilities - A guide to using the patient utilities in the IntraVet system - patient utilities, IntraVet, delete patient, apply species setup, mass patient status change, mass patient delete, history recall corrections
+
+PatientVisitOverview.yaml - PatientVisitOverview - Overview of the patient visit process and tasks - patient visit, tasks, visit templates, check-in process
+
+Payment.yaml - Payment - Managing payments in the Client Account Management screen - payment, client account management, balance, editing, types, confirm change, remove, clear
+
+Payments.yaml - Payments - Instructions for accepting payments through the Payment screen - payments, Payment screen, client account, Cash, Branch, Type
+
+PaymentsTab.yaml - PaymentsTab - Instructions for accepting payments through the Payment screen - payments, payment screen, cash, check, credit card
+
+PlanSectionoftheVisit.yaml - PlanSectionoftheVisit - Instructions on how to manage the plan section of a patient's visit - plan section, visit, document management, attachments, adding items, deleting items, line notes, estimates
+
+Plan_Includetheservicesandinventoryyouwouldnormallyuseinacaseofthiskind._1.yaml - Plan_Includetheservicesandinventoryyouwouldnormallyuseinacaseofthiskind._1 - Instructions for including services and inventory in a case - plan, services, inventory, case, procedure code, description, add, remove, notes
+
+Prescriptions.yaml - Prescriptions - A guide on how to create, edit, and refill prescriptions in the system - prescriptions, reminder type, code, provider, service date, due date, expiration date, refill, directions, days supply, quantity, copies, inventory codes, print, reprint, edit, refill
+
+PrintAlteredCertificate.yaml - PrintAlteredCertificate - Instructions for printing an altered certificate - print, altered certificate, proof of alteration, pet's sex, patient health certificate
+
+PrinterSetup.yaml - PrinterSetup - Instructions for setting up printers in IntraVet - printer setup, IntraVet, printer drivers, assign printer, set all categories
+
+PrintingDocumentsinControlCenter.yaml - PrintingDocumentsinControlCenter - Instructions on how to print documents in Control Center - printing, documents, Control Center, instructions
+
+PrintingDocumentsinVisitTemplate.yaml - PrintingDocumentsinVisitTemplate - Instructions for adding and printing documents in a visit template - printing, documents, visit template, add, attach, select, remove, line item
+
+PrintingHistory.yaml - PrintingHistory - Instructions on how to print and email medical history for a patient - printing history, medical history, print options, email patient history
+
+PrintingLabelsinIntraVet.yaml - PrintingLabelsinIntraVet - Instructions for printing labels in IntraVet - IntraVet, printing labels, inventory corrections, default printer
+
+PrintingLettersandLabels.yaml - PrintingLettersandLabels - Instructions for printing letters and labels for new patients - printing, letters, labels, new patients
+
+PrintMultipleCopiesoftheSameDocument.yaml - PrintMultipleCopiesoftheSameDocument - Instructions on how to print multiple copies of a document - print, multiple copies, document, instructions
+
+PrintReminderListfromtheControlCenter.yaml - PrintReminderListfromtheControlCenter - Instructions on how to print a reminder list from the Control Center - print, reminder list, Control Center, instructions
+
+ProcedureCodeSetup.yaml - ProcedureCodeSetup - Instructions for setting up procedure codes in the practice management software - procedure codes, setup, description, message, invoice, edit, revise, department, species, template, provider, inactivate, invoicing options, overwrite
+
+ProcedureCodeSetup_2.yaml - ProcedureCodeSetup_2 - Instructions for setting up procedure codes in the system - procedure code, setup, inventory item, taxable, message, reminder
+
+ProcedureCodeSetup_3.yaml - ProcedureCodeSetup_3 - Instructions for setting up procedure codes in the advanced tab and linking items to procedure codes - procedure codes, advanced setup, linked items, vaccination, rabies vaccination, hide supplier info, tag ID, X-Ray number, microchip, lab test, certificate, changes sex, patient status, task list
+
+ProcedureCodeSetup_4.yaml - ProcedureCodeSetup_4 - Instructions for setting up procedure codes and pricing options in IntraVet - procedure code setup, pricing options, IntraVet
+
+ProcessingCheck-In-ScheduledAppointment.yaml - ProcessingCheck-In-ScheduledAppointment - Instructions for processing the check-in of a scheduled appointment - check-in, scheduled appointment, client, patient, edit, appointment, check-in report, label, printing options
+
+ProcesstheCheck-inWalk-inEmergency_1.yaml - ProcesstheCheck-inWalk-inEmergency_1 - Instructions for processing a walk-in emergency patient check-in - check-in, walk-in, emergency, patient, invoice
+
+PurchaseOrders.yaml - PurchaseOrders - A guide on how to create and process purchase orders in IntraVet - purchase orders, IntraVet, inventory, vendors, create, process
+
+PURDigitalViewerSetup.yaml - PURDigitalViewerSetup - Instructions for setting up the PURDigital Viewer to view Dicom images - PURDigital Viewer, Dicom images, PACS, setup
+
+RabiesCertificate.yaml - RabiesCertificate - Information about obtaining a rabies certificate - rabies certificate, vaccination, reprint, LifeLearn, IntraVet, client education
+
+RADInfoIntegration.yaml - RADInfoIntegration - Instructions for setting up and using RADInfo Integration in IntraVet - RADInfo, integration, setup, IntraVet, PUR Digital Viewer
+
+RADInfoIntegrationandFileAcquisition.yaml - RADInfoIntegrationandFileAcquisition - Instructions for setting up RADInfo integration and acquiring files - RADInfo, integration, setup, file acquisition, IntraVet, PURdigital, Micro PowerPACS
+
+RADInfoIntegrationSetup.yaml - RADInfoIntegrationSetup - Instructions for setting up RADInfo integration in IntraVet - RADInfo, integration, setup, IntraVet
+
+ReactivateaPatient.yaml - ReactivateaPatient - Instructions on how to reactivate a patient in the system - reactivate, patient, appointment, control center, status
+
+ReasonCodes.yaml - ReasonCodes - A brief description of Reason Codes and how to create, edit, and inactivate them - Reason Codes, appointment, patient visit, IntraVet, setup, create, edit, inactivate
+
+RecallGenerator.yaml - RecallGenerator - Instructions on how to use the Recall Generator feature in IntraVet software - Recall Generator, IntraVet, software, search, client, patient, instructions
+
+RecallGeneratorParameters.yaml - RecallGeneratorParameters - Instructions for selecting search parameters in the Recall Generator - Recall Generator, search parameters, General Options
+
+RecallGeneratorSearch-ResultList.yaml - RecallGeneratorSearch-ResultList - Instructions on how to use the Recall Generator Search and navigate the Result List - Recall Generator Search, Result List, edit client information, edit patient information, print result list, print cards, print letters, print labels, export result list
+
+RecallGeneratorSearch-ResultList_2.yaml - RecallGeneratorSearch-ResultList_2 - Instructions for exporting search results - recall generator, search results, export, delimited, text, excel, XML, Healthy Pet, magazine, save
+
+RecallGeneratorSearchPreviousSearches_1.yaml - RecallGeneratorSearchPreviousSearches_1 - Instructions on how to load previous search parameters in traVet Recall Generator - recall generator, previous searches, load search parameters, traVet
+
+ReferralCodes.yaml - ReferralCodes - Instructions for creating, editing, and inactivating referral codes in the system - referral codes, create, edit, inactivate, instructions
+
+ReferringClientsSearch.yaml - ReferringClientsSearch - A guide on how to use the Referring Clients Search feature in IntraVet - referring clients, search, IntraVet, communications, print, cards, letters, export
+
+RequiredFieldsforNewClients.yaml - RequiredFieldsforNewClients - Setting up required fields for new clients in the system - required fields, new clients, account setup
+
+SearchbyConfirmationNumberorDate.yaml - SearchbyConfirmationNumberorDate - Instructions for searching by confirmation number or date - search, confirmation number, date, instructions
+
+SearchingforAppointments.yaml - SearchingforAppointments - A guide on how to search for available appointment slots and find existing appointments - appointments, search, available slots, find, existing appointments
+
+SecurityinSetupScreens.yaml - SecurityinSetupScreens - Enabling security in various setup screens prompts for security audit method - security, setup screens, audit method
+
+SecuritySetup.yaml - SecuritySetup - Setting up users and passwords to protect data integrity - security, setup, users, passwords, data integrity
+
+ServicesTab.yaml - ServicesTab - Information about the Services tab in a software application - services tab, weight, visit template, treatment plan, add treatment, delete entry, prescription, notes
+
+SettingDocumentPrintTime.yaml - SettingDocumentPrintTime - Instructions on how to set the print time for a document - document, print time, instructions
+
+SettingupDebitPINPadandPrescriptionLabel.yaml - SettingupDebitPINPadandPrescriptionLabel - Instructions for setting up the Debit PIN Pad and default prescription label settings - Debit PIN Pad, setup, prescription label, default settings
+
+SettingupDIAinIntraVet.yaml - SettingupDIAinIntraVet - Instructions for setting up DIA in IntraVet - DIA, IntraVet, setup, client education program
+
+SettingupEmailAccountinIntraVet.yaml - SettingupEmailAccountinIntraVet - Instructions for setting up an email account in IntraVet - IntraVet, email, setup, account, instructions
+
+SettingUpFinancialOptionsinIntraVet.yaml - SettingUpFinancialOptionsinIntraVet - Instructions for setting up financial options in IntraVet - IntraVet, financial options, setup, branch, dispensing fee, pricing
+
+SettingupNameAddressPhoneandTaxinIntraVet.yaml - SettingupNameAddressPhoneandTaxinIntraVet - Instructions for setting up name, address, phone, and tax information in IntraVet - IntraVet, setup, program, general branch setup, name, address, phone, tax
+
+SettingUpSecurityAccessinIntraVet.yaml - SettingUpSecurityAccessinIntraVet - Instructions on how to set up security access in IntraVet - IntraVet, security access, user setup, branch setup, enable security
+
+SettingUpSecurityTemplates.yaml - SettingUpSecurityTemplates - A guide on how to set up security templates in IntraVet - security templates, setup, users, passwords, access levels, roles, IntraVet
+
+SplitInvoicing.yaml - SplitInvoicing - A guide on split invoicing, including discounts, payments, and documents. Also covers ownership partnerships and how to enter partnership information. - split invoicing, discounts, payments, documents, ownership partnerships, entering partnership information
+
+SplitInvoicingandTransactions.yaml - SplitInvoicingandTransactions - A guide on split invoicing and managing transactions in the system - split invoicing, transactions, credit adjustment, debit transaction, client account
+
+StatementMessages.yaml - StatementMessages - How to set up and customize statement messages for client accounts - statement messages, client accounts, setup, customize, balances
+
+StatementSetup.yaml - StatementSetup - Setting up monthly statement parameters and customization options - statement setup, monthly billing, billing fees, interest, customization options
+
+SystemSetupandLicensing.yaml - SystemSetupandLicensing - Instructions for configuring system setup and finding the IntraVet license key - system setup, configuration settings, IntraVet server, maintenance, IT person, support, license key
+
+TasksandActivitiesTab.yaml - TasksandActivitiesTab - Instructions for using the Tasks and Activities tabs in the system - tasks, activities, tab, instructions, add, remove, note
+
+TasksandWorkingwithVisits.yaml - TasksandWorkingwithVisits - Overview of tasks and working with visits in a patient management system - tasks, working with visits, patient management system
+
+TheAppointmentCalendar.yaml - TheAppointmentCalendar - A guide on setting up and managing the appointment calendar in IntraVet - appointment calendar, IntraVet, setup, type codes, block types, reserve types, appointment types, visit template
+
+TimeClock.yaml - TimeClock - Instructions for setting up and using the time clock feature in IntraVet - time clock, setup, user setup, job setup, security levels, general branch setup, clock in
+
+TimeClockManagement.yaml - TimeClockManagement - A guide on how to manage time clock entries and make adjustments - time clock, management, adjust, timesheets, audit, employees, overtime, personal reasons
+
+TimeClockSetupandUsage.yaml - TimeClockSetupandUsage - Instructions for setting up and using the time clock feature in IntraVet - time clock, setup, usage, user setup, job setup, security levels, clock in, clock out, break, end of shift, change job code
+
+TimeSlotPrint.yaml - TimeSlotPrint - Instructions for printing a specific time slot in an appointment calendar - time slot, print, appointment calendar, instructions
+
+TopazSignaturePadIntegration.yaml - TopazSignaturePadIntegration - Instructions for setting up and using the Topaz Signature Pad integration - Topaz Signature Pad, integration, setup, instructions, client handout, forms, prompt for signature, PDF files, collect signatures, sign document, save document, view signed documents
+
+UnitTypeCodes.yaml - UnitTypeCodes - Instructions on how to add unit type codes in the IntraVet system - unit type codes, inventory, IntraVet, setup, program, unit types
+
+UsingMessengerforCommunication.yaml - UsingMessengerforCommunication - A guide on how to use Messenger for effective communication in a practice - messenger, communication, practice, veterinary, tool
+
+VetConnectIntegration.yaml - VetConnectIntegration - Troubleshooting connectivity issues and accessing lab results through VetConnect integration - VetConnect, integration, troubleshooting, connectivity issues, lab results
+
+VetConnect_Antech_1.yaml - VetConnect_Antech_1 - Instructions for updating IDEXX VetConnect/Antech and creating VetConnect/Antech order codes within IntraVet - VetConnect, Antech, IDEXX, Lab Interface Setup, order codes, lab tests, lab results
+
+ViewingandSortingthePatientAppointmentStatus.yaml - ViewingandSortingthePatientAppointmentStatus - Instructions on how to view and sort the patient appointment status in the Control Center - viewing, sorting, patient appointment status, Control Center, sort order, tooltip, filter
+
+ViewLabResultsinthePatientsMedicalHistory.yaml - ViewLabResultsinthePatientsMedicalHistory - Instructions on how to view lab results in the patient's medical history - view, lab results, patient, medical history
+
+VisitSettings.yaml - VisitSettings - Instructions for configuring visit settings in the IntraVet software - visit settings, IntraVet, software, configuration, defaults, invoice
+
+Visits_1.yaml - Visits_1 - Overview of visits in medical history and visit settings - visits, medical history, patient, invoice, settings
+
+VisitTemplateSetup.yaml - VisitTemplateSetup - A guide on how to set up visit templates in IntraVet - visit template, setup, IntraVet, SOAP, customized, appointment, patient, services, documents, consent forms, notes, vitals, abnormalities, tasks
+
+WildSearchandAdvancedSearch.yaml - WildSearchandAdvancedSearch - A guide on how to use Wild Search and Advanced Search in the Control Center - wild search, advanced search, Control Center, client search, patient search
+
+WindowsOption.yaml - WindowsOption - A new option in Windows for navigating between open windows - Windows, option, navigate, open windows
+
+WorkingwithTransactions.yaml - WorkingwithTransactions - A guide on how to work with transactions in the system - transactions, split invoicing, credit adjustment, debit transaction, delete transaction, financial history, payment transactions
+
+WorkingwithVisits.yaml - WorkingwithVisits - A guide on how to work with visits and tasks in the system - visits, tasks, patient visit, check-in process
+
+XChargeMerchantServices.yaml - XChargeMerchantServices - Overview of XCharge Merchant Services and how to set it up in IntraVet - XCharge, Merchant Services, credit card processing, debit card processing, fraud detection, IntraVet

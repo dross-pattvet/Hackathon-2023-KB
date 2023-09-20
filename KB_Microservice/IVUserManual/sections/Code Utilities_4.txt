@@ -1,0 +1,292 @@
+y (specifically "Increase By Amount" or "Increase By 
+Percent"
+) when you update pricing.
+
+
+ Increase by Amount
+–
+Increases the selected code/codes by the amount entered into 
+this box. 
+o Increase by Percent
+–
+Increases the selected code/codes by the percent entered 
+into this box. 
+o Change Selling Price To
+–
+Changes the sel
+ected code/codes to the amount 
+entered in this box.
+o Apply only to items with an existing (non
+-
+zero) selling price
+–
+Allows you to 
+only update codes that currently have a selling price within the code setup. 
+Leaving this unchecked updates all codes regardl
+ess of their current selling 
+price.
+o Disabled if only one code is selected.
+o Enabled if multiple codes are selected.
+o No Rounding
+–
+When selected, the prices are not rounded up or down. This 
+should be selected by default.
+o Round to the nearest nickel
+–
+When s
+elected, rounds prices up or down to the 
+nearest nickel.
+o Round to the nearest dime
+–
+When selected, rounds prices up or down to the 
+nearest dime.
+o Round to the nearest dollar
+–
+When selected, rounds prices up or down to the 
+nearest dollar.
+
+
+
+
+
+
+<<NEW PAGE 470>>
+
+
+o Always round up
+–
+Re
+gardless of the updated price, it always rounds up when 
+this checkbox is checked. 
+(This box works with the other rounding selection 
+options with this utility.)
+
+
+
+
+Action
+
+
+ Apply to All
+–
+If selected, it applies the new selection price criteria to all the pr
+ocedure 
+codes within that branch, species, and department. You must select save to save the 
+changes. 
+ Apply to Selection
+–
+If selected, it applies the new selection price criteria. You must 
+select save to save the changes.
+ If the 
+Save
+button is clicked 
+to save changes without selecting 
+Apply
+To All
+or 
+Apply To 
+Selection
+buttons the following message appears: 
+
+
+ Save
+–
+After you click Save a new window will appear listing all the changes that will be 
+made to the selected codes
+.
+
+
+ Cancel 
+–
+Cancels the cha
+nges and brings you back to the main IntraVet screen.
+
+
+Action
+
+
+ Display
+–
+Shows the changes in display screen. You 
+can
+print from this screen.
+ Print 
+–
+Prints the list.
+ Save
+–
+Applies the displayed changes to the selected code/codes.
+ Cancel
+–
+Cancels the chan
+ges and brings you back to the utility screen.
+
+
+Security
+
+
+
+
+<<NEW PAGE 471>>
+
+
+The 
+Procedure Code Mass Price Update
+option must be checked under 
+Setup | Security | Security 
+Templates
+. 
+
+
+Select the template to which you need access. Go to 
+Area of System | Utilities
+, and check 
+the 
+Procedure Code Mass Price Update
+box. Click 
+OK
+to save.
+
+
+You must have security options/permission to access and run the utility. 
+
+
+Multi
+-
+User
+
+
+Running the utility requires exclusive use.
+
+
+Inventory Code Mass Minimum Charge Update
+
+
+This utility works like the other price update utilities: You can update your inventory prices by 
+amount or percentage. You can select by department, perform a global update, or browse 
+through th
+e codes and update an individual selling price and cost. 
+
+
+You may also select to apply changes to only non
+-
+zero prices and select a rounding option (nickel, 
+dime, or dollar). 
+
+
+You can select to apply changes to codes with a minimum charge and select a roun
+ding option 
+(nickel, dime, or dollar). 
+
+
+If you want to have the new pricing reflected automatically in your estimate templates
+, you must 
+use 
+Update By Amount
+or 
+Update By Percentage
+.
+
+
+From the IntraVet Menu Bar, select 
+Tools
+| 
+Ut
+ilities
+| 
+Code Utilities
+| 
+Inventory Code Mass Minimum 
+Charge Update
+. 
+
+
+
+
+<<NEW PAGE 472>>
+
+
+ Description 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that identifies the Description.
+ Department 
+–
+Section of your practice.
+ Species 
+–
+Type or variety of animal.
+
+
+
+
+Action
+
+
+ S
+how All 
+–
+Shows all the Inventory codes set
+up within IntraVet. If there is a filter set and 
+you click 
+Show All
+, it ignores the filter and shows all the inventory codes.
+ Filter 
+–
+Filters the Inventory codes to only show those that meet the requirements 
+ad
+ded for Description, Code, Department, and Species.
+
+
+
+
+Location
+
+
+ Branch
+–
+Allows you to change branches to update codes.
+
+
+
+
+Updates 
+
+
+ Item Cost
+–
+Displays the actual Cost of the item. It is always disabled.
+ Selling Price
+–
+The price that is normally charged clie
+nts for this item. 
+The 
+maximum value is $999,999,999.99. It 
+has 
+two
+list boxes: 
+ The first box (next to selling price) is enabled. List the new selling price for the 
+selected code/codes. 
+ The second box is disabled. It shows the selected code
+’
+s curre
+nt selling price.
+ Markup %
+–
+Markup percentage is limited by the maximum value of the new selling 
+price.
+ The new selling price cannot exceed a maximum value of $999,999,999.99.
+ Percentage markup for an inventory item. Should be 9,999.99%.
+
+
+
+
+o Min Charge
+–
+The
+lowest amount to be charged for an item. When the quantity, 
+multiplied by the price, equal to or over the minimum charge, only the price per 
+unit is charged. 
+The maximum value is

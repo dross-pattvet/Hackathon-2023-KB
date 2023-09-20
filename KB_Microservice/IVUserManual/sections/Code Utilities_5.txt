@@ -1,0 +1,274 @@
+ $999,999,999.99. 
+
+
+
+
+<<NEW PAGE 473>>
+
+
+o Disp. Fee
+–
+When creating an invoice with a dispensing f
+ee
+,
+the amo
+unt listed for 
+the line item is
+the quantity multiplied by the price, plus the dispensing fee. 
+The 
+maximum value is $999,999,999.99. 
+
+
+The following fields are enabled if multiple codes are selected:
+
+
+ Increase by Amount
+–
+Increases the selected c
+odes by the amount entered into this list 
+box. 
+The maximum value is $999,999,999.99.
+ Increase by Percent
+–
+Increases the selected code/codes by the percent entered into 
+this box. Maximum value should be 
+9,999.99%
+ Change Amount To
+–
+Changes the selected c
+ode/codes to the amount entered in this 
+box. 
+The maximum value is $999,999,999.99.
+
+
+The following fields may be selected:
+
+
+ Apply only to items with an existing (non
+-
+zero) selling price
+–
+Allows you to only 
+update codes that currently have a selling price wi
+thin the code setup. Leaving this 
+unchecked updates all codes regardless of their current selling price.
+o Disabled if only one code is selected.
+o Enabled if multiple codes are selected.
+ No Rounding
+–
+Does not round prices. This should be selected by defaul
+t.
+ Round to the nearest nickel
+–
+When selected, rounds prices up or down to the nearest 
+nickel.
+ Round to the nearest dime
+–
+When selected, rounds prices up or down to the nearest 
+dime.
+ Round to the nearest dollar
+–
+When selected, rounds prices up or down t
+o the nearest 
+dollar.
+ Always round up
+–
+Re
+gardless of the updated price, it always rounds up when this 
+checkbox is checked. 
+(This box works with the other rounding selection options with this 
+utility.)
+
+
+You can update:
+
+
+ Individual codes
+.
+ All codes per branc
+h
+.
+ Codes within a certain department or species that are selected.
+
+
+
+
+<<NEW PAGE 474>>
+
+
+Inventory Code Mass Dispensing Fee Update
+
+
+This utility works like the other price update utilities: You can chan
+ge codes individually, by 
+department, or all inventory codes
+. 
+
+
+You can change prices to a specific amount, by amount or percent. 
+
+
+You may also apply changes to codes with a dispensing fee and select a rounding option (nickel, 
+dime, 
+or dollar). 
+
+
+From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Utilities
+| 
+Inventory Mass Dispensing Fee 
+Update
+. 
+
+
+ Description 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that identifies the Description.
+ Department 
+–
+Section of your practic
+e.
+ Species 
+–
+Type or variety of animal.
+
+
+Action
+
+
+ Show All 
+–
+Shows all the Inventory codes set
+up within IntraVet. If there is a filter set 
+and you click 
+Show All
+, it ignores the filter and shows all the inventory codes.
+ Filter 
+–
+Filters the Inventory codes 
+to only show those that meet the requirements 
+added for Description, Code, Department, and Species.
+
+
+
+
+<<NEW PAGE 475>>
+
+
+Location
+
+
+ Branch
+–
+Allows you to change branches to update codes.
+
+
+Updates 
+
+
+ Item Cost
+–
+Displays the actual Cost of the item. It is always disabled.
+ Selling
+Price
+–
+The price that is normally charged clients for this item. 
+The maximum 
+value is $999,999,999.99. It 
+has 
+two
+list boxes: 
+o The first box (next to selling price) is enabled. List the new selling price for the 
+selected code/codes. 
+o The second box 
+is disabled. It shows the selected code
+’
+s current selling price.
+ Markup %
+–
+Markup percentage is limited by the maximum value of the new selling 
+price.
+o The new selling price cannot exceed a maximum value of $999,999,999.99.
+o Percentage markup for an invent
+ory item. Should be 9,999.99%.
+ Min Charge
+–
+The lowest amount to be charged for an item. When the quantity, 
+multiplied by the price, equal to or over the minimum charge, only the price per unit is 
+charged. 
+The maximum value is $999,999,999.99. 
+ Disp. Fe
+e
+–
+When creating an invoice with a dispensing fee
+,
+the amo
+unt listed for the 
+line item is
+the quantity multiplied by the price, plus the dispensing fee. 
+The maximum 
+value is $999,999,999.99. 
+
+
+The following fields are enabled if multiple codes are selecte
+d:
+
+
+ Increase by Amount
+–
+Increases the selected codes by the amount entered into this list 
+box. 
+The maximum value is $999,999,999.99.
+ Increase by Percent
+–
+Increases the selected code/codes by the percent entered 
+into this box. Maximum value should be 
+9,9
+99.99%
+ Change Amount To
+–
+Changes the selected code/codes to the amount entered in 
+this box. 
+The maximum value is $999,999,999.99.
+
+
+
+
+The following fields may be selected:
+
+
+ Apply only to items with an existing (non
+-
+zero) selling price
+–
+Allows you to only 
+upd
+ate codes that currently have a selling price within the code setup. Leaving this 
+unchecked updates all codes regardless of their current selling price.
+o Disabled if only one code is selected.
+o Enabled if multiple codes are selected.
+ No Rounding
+–
+Does not 
+round prices. This should be selected by default.
+ Round to the nearest nickel
+–
+When selected, rounds prices up or down to the nearest 
+nickel.
+
+
+
+
+<<NEW PAGE 476>>
+
+

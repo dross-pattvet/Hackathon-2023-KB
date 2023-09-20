@@ -1,0 +1,51 @@
+Control Center
+–
+Main
+
+
+Control Center 
+Setup & Customization
+
+
+The Control Center, also known as the white board, is the hub of communication in IntraVet. It 
+allows you to get to many differe
+nt places within the software from one central location. It 
+provides an overview of what is going on in the practice for that day.
+
+
+The top of the screen has three different tabs that switch from different places within the Control 
+Center. This simplifies
+access to other areas of the software. When you enter the Control Center it 
+always defaults to the Control Center tab.
+
+
+ Select
+the Control Center icon 
+in the 
+IntraVet
+T
+oo
+lbar to open the Control Center 
+or select 
+File | Control Center
+.
+
+
+The screen wil
+l open to the main Cont
+r
+ol Center tab.
+
+
+To adjust the length of a section, hold the mouse button down on the four dots between and pull 
+the bar up or push it down to obtain more viewing space in the column. For example, to see more 
+of the 
+Patient Status 
+options, pull its bar over the top of the calendar.
+
+
+An entry is made in the Control Center for each patient that has activity for the day: usually an 
+appointment, treatment in h
+ospital or a drop
+-
+off.

@@ -1,0 +1,79 @@
+ Enter the 
+Item Cost
+. The cost is the co
+st per pill/can as you use or sell it. 
+ Add a 
+Note
+, if desired.
+ Click 
+Save
+.
+
+
+Inventory Lot Management
+
+
+A lot is a collection of the same item or code with the same expiration date. 
+Generally, a lot is 
+created when purchase
+d at the same time from the same vendor. 
+You can track expiration dates 
+so that you know which perishable items have 
+a certain expiration date
+.
+
+
+IntraVet
+gathers expiration dates from you when you receive inventory
+and assumes that you 
+wa
+nt to sell the older lots first (the ones with closer expiration dates). 
+You can directly manage 
+and edit existing lots and their expiration dates, if needed. 
+
+
+How to Edit Lots (Expiration Dates)
+
+
+ From
+the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory Adjustments
+. 
+
+
+ Double
+-
+click, or type the first few letters of the item into the 
+Item
+blank entry line. 
+Locate the item and double
+-
+click on it to move it to 
+the line.
+ Select the appropriate 
+Warehouse
+.
+ Click 
+Lot Management 
+and the
+Inventory Lot Management 
+window displays
+. 
+Each lot 
+shows as a separate line with its own 
+Expiration
+date
+, 
+Available
+quantity
+, 
+Open
+invoice
+quantity and the 
+Manufacturer
+.

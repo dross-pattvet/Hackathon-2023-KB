@@ -1,0 +1,52 @@
+ Click the checkbox to select the specific document(s) (handouts
+, forms, lab
+el, etc.) from 
+the list. Click 
+OK
+. 
+
+
+ 
+
+
+To Set the Document Print Time
+
+
+ Right
+-
+click the selected line under When to Print and 
+select
+your choice. 
+ Select either 
+Print at Check
+-
+In
+or 
+Print at Check
+-
+Out
+. 
+Clear
+will remove the document 
+from the list.
+
+
+Once the document has been printed a checkmark is placed in the Is Printed column.
+
+
+ 
+
+
+Print 
+Reminder List
+from the Control Center
+
+
+Reminders attached to a patient can be printed from the Control Center. 
+
+
+ Right
+-
+click client/patient line and select 
+Go To | Patient | Reminders
+.

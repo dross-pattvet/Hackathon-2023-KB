@@ -1,0 +1,73 @@
+Statement Messages
+
+
+Statement Messages
+can be printed on the statements to 
+remind 
+clients about the status of their 
+accounts
+. W
+hen 
+statements are
+generate
+d, 
+print
+ing
+statement messages
+can 
+be selected
+or 
+turn
+ed
+off. 
+Statement messages may 
+be changed at any time. C
+hanges take 
+effect
+immediately 
+after they have been saved
+. 
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+|
+Program
+|
+General Branch Setup. 
+
+
+ From the Branch List screen, highlight t
+he Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+ Select
+the plus sign (
++
+) in front of 
+Statement
+.
+ Select
+Statement Messages
+.
+ Enter a message for current, 30, 60 and over 
+90
+-
+day
+balances. 
+On statements, the 
+mess
+age prints for the oldest balance the client holds.
+ Click 
+Copy to All Branches
+if 
+you have more than one branch and 
+all branches use the 
+same statement message.

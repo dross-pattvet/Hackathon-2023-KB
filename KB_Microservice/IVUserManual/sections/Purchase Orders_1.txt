@@ -1,0 +1,331 @@
+ Click 
+Edit
+(or right
+-
+click and choose 
+Edit)
+to edit the expiration 
+date of a lot. Use the 
+down
+-
+arrow to the right of the expiration date at the bottom of the window to select a 
+new expiration date. 
+ Click 
+Split Lot
+(or right
+-
+click and choose 
+Split
+) on a lot to separate i
+t into multiple lots. 
+ You can also select 
+Combine Lot
+to merge one lot with another lot. The active lot turns 
+red until you right
+-
+click and choose 
+Combine
+again on another lot. 
+ Click 
+Accept
+or 
+Cancel
+.
+
+
+Purchase Orders 
+
+
+P
+urchase orders
+are a way to order items that have fallen below the reorder level from the chosen 
+Vendor. You can quickly create a purchase order to print, email or fax to your 
+Vendor. 
+You do not 
+have to use purchase orders to receive inventory
+. 
+
+
+
+
+<<NEW PAGE 209>>
+
+
+The Purchase Order Window
+
+
+Purchase orders in progress display here. These are purchase orders that have one or more items 
+still outstanding.
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Inventory |
+Inventory Purchase Orders
+. 
+
+
+ Purchase orders in progress display here. These are purchase orders that have one or 
+more items still outstanding. 
+ From the 
+Inventory 
+Purchase Orders
+window, you can right
+-
+click on an existing 
+PO and 
+choose to do the following actions: 
+a. 
+Create New Order
+–
+Create a new P
+urchase 
+O
+rder
+.
+b. 
+Edit
+–
+Select to change or add items on an existing P
+urchase 
+O
+rder
+.
+c. 
+Process
+–
+Process a 
+Purchase Order
+to indicate items have actually been 
+received (all at once or
+each code one
+-
+by
+-
+one as necessary).
+d. 
+Expand
+–
+View individual line items on a 
+Purchase Order
+.
+e. 
+Print
+–
+Print an individual 
+Purchase Order
+.
+f. 
+Email
+–
+Email the 
+Purchase Order
+to the vendor 
+email
+address on record (in 
+Vendor
+Code Setup
+). Y
+ou must have your 
+practice
+’s 
+email
+information entered 
+in the branch 
+email
+setup.
+
+
+
+
+How to Create a Purchase Order
+
+
+ Select
+the 
+Create 
+Purchase Order
+button in the Inventory Purchase Or
+ders window.
+
+
+
+
+<<NEW PAGE 210>>
+
+
+ Select your vendor by clicking the down
+-
+arrow to the right of the blank field at the top 
+of the window. Your vendors are defaulted or prompted for each code. 
+
+
+When a Vendor is selected, AutoLoad (optional)
+pulls all items for the vendor that 
+are 
+below the reorder level as well as all items that are below the reorder level with no 
+Vendor attached.
+
+
+ AutoL
+oad
+–
+IntraVet uses the primary vendor for a code if there is one, or the last 
+vendor if there is no primary vendor set up. When there is neith
+er a primary code 
+nor a last vendor, you are prompted to select one.
+ All codes below reorder level load if you ch
+ecked
+AutoLoad Items 
+for
+All Vendors
+. 
+ You can e
+nter other codes that you want to a
+dd to the PO. Click the down
+-
+arrow or 
+Enter
+the code/descr
+iption
+line midway down the window
+labeled 
+Inventory Code
+. 
+ Press 
+Enter
+when the correct one has been selected. The descri
+ption field grays out, 
+and the
+fields 
+that request further information
+activate.
+ Product
+Code
+–
+Optional
+(the vendor’s number for the
+item). 
+ Units
+–
+E
+nter the number of Units as you purchase them from the vendor, e.g., 10 
+(bottles). 
+ # per Unit
+–
+E
+nter the number in each unit as the 
+practice
+sells or uses them, e.g., 
+150 (pills). Leave it at 1 if it is something like bags of dog food 
+that 
+are
+sold to the 
+clients in the same unit 
+as
+is purchased from the vendor. 
+ Q
+ty
+(Quantity) 
+–
+T
+he quantity as the 
+practice
+uses/sells it (number of pills, MLs
+,
+etc.
+). 
+It is calculated automatically (Units x # per Unit
+=
+Qty).
+ Unit Cost
+–
+Enter 
+if known
+(sometimes you do not know until the items are 
+received). The 
+Unit Cost
+is how much the vendor charges per Unit as the vendor 
+sells it. IntraVet calculates your cost per unit for you based on the # per Unit that 
+you enter. 
+ The 
+Total Cost
+is calculated 
+as the Units x Unit Cost.
+
+
+If your mouse has a scroll wheel, use the wheel to increase or decrease a price/qty when 
+the cursor is placed in a field.
+
+
+
+
+<<NEW PAGE 211>>
+
+
+ Enter a 
+Note
+, if desired.
+ Check the 
+Primary Vendor
+box
+(optional)
+. This will associate the code to the ve
+ndor for 
+more automated loading of POs and for your reorder report.
+ Click the 
+Add Item
+button to move the line into the grid. 
+ The screen will open to the 
+Purchase History
+tab by default. 
+Click the 
+Compare 
+Vendors
+tab
+if you wish to see a quick pricing comparison of what each vendor last 
+charged you for the code. 
+ If you need to 
+Edit
+or 
+Remove
+a line item, right
+-
+click and select. You can also choose to 
+Remove All
+and begin again.
+
+
+A prompt asks for a cost to be e
+ntered if one was not supplied, but you can continue 
+without entering it.
+
+
+
+
+<<NEW PAGE 212>>
+
+
+If you already have the same code on order in a different PO, you will also be notified, 
+but choose to continue.
+
+
+ Click 
+Save
+. 
+
+
+You now see your new PO in the 
+Inventory
+Purchase O
+rders
+window.
+
+
+Process Purchase Orders
+
+
+When you 
+receive
+items in your purchase order, 

@@ -1,0 +1,268 @@
+Communications
+
+
+The Communications
+section provides your 
+practice
+ways to search for and commun
+icate with 
+your clients
+. Y
+ou can search your client database using man
+y different parameters and then
+send 
+email
+s, printed cards, letters, or labels, or you can export your Result List
+. T
+he following types of 
+searches are available:
+
+
+ Due Reminders
+:
+Search for specific or all due procedures, callbacks and/or 
+recommendations within a date range
+. T
+hen, 
+email
+, send postcards or letters to 
+clients
+. Y
+ou can also export the results to send them to a third party that generates 
+your r
+eminders for you, like our online reminders.
+ New Clients
+/New Patient Searches
+:
+Search by entered date of the client or patient 
+to send welcome packets or coupons.
+ Recall Generator
+:
+Search by certain client or patient parameters to target a specific 
+audience for promotions like dental care, spays/neuters or heartworm/
+flea/
+tick 
+preventative.
+ Referring Clients Search
+:
+Find and thank clients who 
+referred others to your 
+practice.
+
+
+Due Reminders
+
+
+How to Search for Due Procedures, Callbacks or Recommendations
+
+
+ From the 
+IntraVet
+Menu Bar
+,
+select
+Communications
+| 
+Due Reminder Search
+.
+
+
+ Enter a 
+Beginning
+a
+nd 
+Ending
+D
+ate
+range to find recalls due within a time period
+. You 
+can also select the down
+-
+arrow to make your choice from a calendar. 
+
+
+Only codes due within that period will be included. To find outstanding past due 
+reminders, change your beginning date
+to include earlier months.
+
+
+
+
+<<NEW PAGE 359>>
+
+
+ Select a specific
+Branch
+or
+All Branches.
+ Age
+(optional): You can limit your search by the patient’s age. Age can be selected by 
+years, months, or days
+. Click
+the 
+down
+-
+arrow and select
+the appropr
+iate increment. 
+Click the dow
+n
+-
+arrow
+;
+then, double
+-
+click on 
+Equal to
+, 
+Less than or equal to
+, 
+Greater 
+than or equal to
+, or 
+Between
+.
+ Enter the number (in the increment selected 
+in the step above
+: years, months, or days) 
+in the next box. The second age box activates if you choose 
+Betwee
+n
+so that you may 
+enter both ends of an age range.
+ The species (top 
+Code
+and 
+Description
+pane) defaults to all breeds (
+Description
+box 
+defaults to all
+checked). 
+
+
+If you want to include only certain species:
+
+
+ Uncheck a checkbox to remove that species. Leave
+a check for only the species you 
+want to include.
+ If you want only one (or a few species), it is quicker to exclude all species by removing 
+the check in the checkbox next to 
+Description
+; then, check the species you do want.
+ Codes
+(lower 
+Codes
+and 
+Descript
+ion
+pane) defaults to all due codes. This section is 
+optional. Leave this area blank if you want to include all due codes within the date 
+range or to exclude certain codes. 
+
+
+If you want to search for specific codes:
+
+
+ To enter a code in the bottom of the g
+rid, type the first few letters in either the 
+Code
+or 
+Description
+fields to search for the code
+you want, or 
+select
+the down
+-
+arrow next to 
+Description
+and make your selection. A box displaying all the codes and descriptions 
+pops up. Double
+-
+click on eithe
+r the code or the description. Your choice appears in the 
+two fields underneath the 
+Codes
+/
+Description
+pane. 
+ Click 
+Add
+to move the selected code into the grid. If you decide you do not want the 
+code/description after it is moved to the pane, 
+select
+the 
+code or description to 
+highlight and select 
+Delete
+.
+
+
+Additional Search Options:
+
+
+ Search All Recalls
+(checked by default). When checked, 
+IMPORTANT: Search All Recalls
+marks the codes found in the search as recalled. 
+With each successive search, the recall 
+number increase
+s. Every time you do a 
+Search All R
+ecalls
+, it marks reminders found 
+with a search counter. This is how you track how many times you have sent reminders 
+for a certain code/patient.
+
+
+Check this box only
+when you are actually sending out recalls 
+–
+wh
+ether it is via card, 
+letter, e
+mail or exported. Then, your recall information will be correct and valuable 
+when you report on compliance rate and response.
+
+
+ Recall Number
+(optional): Enter a recall number to search for codes only on that round 
+of recalls. For example, enter a 2 to find all patients on their second reminder. 
+
+
+Maximum Recall Limit
+(optional): Enter the maximum for rounds of reminders. For 
+example, if
+you enter 3, patients 
+will only be included in search results up to three 
+time
+s
+, 
+and then
+will automatically be removed from the search results.
+
+
+
+
+<<NEW PAGE 360>>
+
+
+Leave 
+Maximum Recall Limit
+set at 0 (zero) to include all outstanding reminders in the 
+due date range. If a 
+limit is entered this may exclude reminders you want because too 
+many real searches have been processed.
+
+
+ Include Reminders
+, 
+Include Callbacks
+, and 
+Include Recomme
+ndations
+: This defaults to 
+Include Reminders
+, but you can search for any one or all three recall types. Typically, 
+reminders are for necessary, specific procedures (vaccinations, annual ex

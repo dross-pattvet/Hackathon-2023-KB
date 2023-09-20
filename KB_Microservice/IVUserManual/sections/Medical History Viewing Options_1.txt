@@ -1,0 +1,147 @@
+There are 
+five
+viewing options in the lower pane: 
+Visits
+, 
+Prescriptions
+, Notes
+,
+Lab Results
+and 
+Weight
+. 
+V
+isits
+opens by 
+default.
+
+
+ Visits
+ Prescriptions
+ Notes
+ Lab Results
+ Weight
+
+
+Medical History
+Viewing Options
+
+
+To
+set options for your branch
+, 
+click
+the 
+Options
+button 
+at the bottom
+of the 
+Medical History
+window
+. T
+he options are:
+
+
+Visits per Page 
+–
+Select how many visits to display by default on each page
+.
+
+
+Latest Prescriptions 
+–
+Select to display the most recent prescript
+ions.
+
+
+Show visit details
+–
+E
+ach 
+visit
+has 
+arrow
+s
+to expand or collapse a subsection
+and is scrollable for 
+more information
+. 
+With this option selected, each visit will be automatically expanded.
+
+
+Chronolo
+gical 
+order
+–
+IntraVet
+defaults to displaying most recent visits first, but you can set it to 
+chronological order instead.
+
+
+
+
+<<NEW PAGE 336>>
+
+
+Collapse header
+–
+does 
+not show detailed client/patient information at top of window.
+
+
+Collapse reminders
+–
+does not display detailed information for Reminders.
+
+
+Show returns
+–
+dis
+plays
+a record of returned items.
+
+
+Show medical history notes
+–
+header expanded (most recent visit first).
+
+
+There are two 
+S
+ave
+options
+. 
+S
+ave for Branch
+saves the options you selected
+as defaults
+for just 
+that
+branc
+h
+. I
+f you have other facilities and you want them to have the 
+same setup, click
+Save for 
+All Branches
+.
+
+
+To apply the selected options for that patient and that particular viewing, click 
+OK
+. Once the 
+Medical History screen is closed and re
+-
+opened, the defa
+ult options will re
+-
+apply themselves.
+
+
+Visits 
+–
+Attachment Hyperlinks 
+
+
+Select the attachment icon (blue paperclip) to open attachments instantly. From there, you can 
+create new or delete existing attachments.

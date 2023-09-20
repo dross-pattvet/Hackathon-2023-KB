@@ -1,0 +1,211 @@
+Invoice
+
+
+Invoice
+/Visit
+
+
+The setup options for invoice allow you to decide which settings work best for your practice. 
+Changes made
+to 
+Invoice setup 
+take 
+e
+ffect immediately. 
+The c
+hanges do not affect invoices made 
+in the past. 
+
+
+ From the
+IntraVet
+Menu Bar, 
+select 
+Setup
+|
+Program
+|
+General Branch Setup
+. 
+
+
+ From the Branch List screen, highlight
+the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch. 
+ Highlight 
+Invoice
+/Visit
+.
+
+
+Printing 
+Options
+, when box is checked
+:
+
+
+ 2 copies
+–
+Will print 
+2 copies of 
+the
+invoice.
+ Reminders
+–
+Print patient 
+reminders
+on the invoice.
+
+
+
+
+<<NEW PAGE 16>>
+
+
+ Time
+–
+A timestamp for the transaction prints on the invoice.
+ Zero charges
+–
+The unit price of 0.00 prints on the invoice 
+line. If this box is unchecked, 
+no value prints on the invoice line.
+ Appointments
+–
+A reminder for future scheduled appointments prints on the invoice.
+ Patient Picture
+–
+The patient picture
+assigned to this pet prints on the invoic
+e. If this 
+box is unchecked or no picture is assigned to a patient, an empty box appears where 
+the picture would normally be displayed. Refer to the 
+Appointments
+, 
+Add New Client
+chapter for instructions about attaching the patient’s image to the account.
+ Price for items with Minimum charge or Dispensing Fee
+–
+The invoice prints the 
+adjusted unit price on items for which a minimum charge or dispensing fee applies.
+If 
+this box is unchecked, the invoice leaves the price column blank a
+nd prints only the 
+quantity and charge amount for the entire line.
+ Price for items with Quantity Pricing
+–
+The invoice prints the adjusted unit price on 
+items
+with quantity pricing.
+If this box is unchecked, the unit charge does not print.
+ Print Multiple 
+Patient Invoices
+–
+Invoices for multiple patients print on the same 
+invoice.
+If this box is unchecked, the program generates an invoice for each patient.
+ Print line notes on Invoice
+–
+When checked
+the
+line note will print with the invoice
+.
+
+
+Additional Invo
+ice/Visit Options
+
+
+ Add/Edit line notes
+–
+When checked you will be able to add and/or edit line notes.
+ Assign 0 as 
+the 
+initial 
+value to Quantity
+[or 1]
+–
+The operator must enter a quantity each 
+time an item is invoiced.
+If this box is unchecked, the default
+quantity will be one (1) 
+for each invoice item.
+ Auto Load Pending Charges
+–
+Charges automatically load, pausing on
+ly for rabies tag, 
+patient ID, x
+-
+ray number, lot and seri
+al number on rabies vaccinations, printing 
+certificates and R
+X
+labels.
+If
+this box is unchecked, there will be
+the option 
+to
+review 
+and chang
+e
+the data on each line as 
+it is 
+entered
+. 
+ Auto Load Linked items
+–
+Charges load automatically, pausing only for rabies tag, 
+patient ID, x
+-
+ray number, lot and serial number on rabies vaccinations, printing 
+certificates and R
+X
+labels
+. I
+f the box is unchecked, 
+there is
+the option 
+to review and
+change 
+the data on each line as 
+it is entered
+.
+ Show prescription prompt for all linked items 
+–
+If checked a prescription prompt 
+appears for each of the linked items
+.
+ Add Dispensing Fee
+first and compa
+re to Min. charge
+[or take 
+Min
+. charge and add 
+Dis. 
+fee]
+–
+The
+dispensing fee 
+will charge in addition to the charge for the product.
+If the 
+sum is less than the minimum charge, the minimum charge is posted.
+If this box is 
+unchecked, the program uses the 
+minimum charge for items priced below minimum 
+and then adds the dispensing fee.
+ Prompt to enter patient weight 
+–
+It will
+prompt
+you
+to enter the 
+patient 
+weight 
+at the 
+time of the invoice.

@@ -1,0 +1,124 @@
+Calendar
+Print
+
+
+You can 
+select the print options as well as the style of calendar print. 
+
+
+ Click the 
+Printer
+icon in the upper left of the appointment calendar and choose
+Calendar Print
+.
+
+
+ The Format
+tab opens by default. To create a new style 
+select
+Define Styles…
+
+
+
+
+<<NEW PAGE 188>>
+
+
+ Select from the following styles:
+ Daily Style
+ Weekly Style
+ Monthly Style
+ Tri
+-
+fold Style
+ Calendar Details Style
+ Memo Style
+
+
+ Enter a 
+New Style Name
+.
+ Click 
+Add
+or 
+Reset
+. Click 
+Close
+if you
+want to close the window without creating a new 
+style.
+
+
+ Under 
+Options
+:
+ Use the down
+-
+arrow to select the 
+Start Date
+and the 
+End Date
+. 
+ Use the down
+-
+arrow to select the 
+Print from 
+time and the 
+Print to 
+time.
+ Use the down
+-
+arrow to select the 
+Duration
+.
+ Unch
+eck 
+Print all appointments
+if you only want selected appointments printed.
+
+
+ Fonts
+can be changed for the 
+Date Headings
+and 
+Appointments
+.
+ Shading
+can be changed from Full Color to Grayscale or Black and White. 
+ Click 
+Print Preview 
+to see what your document 
+will look like before you print. Click 
+Print
+.
+
+
+
+
+<<NEW PAGE 189>>
+
+
+ Click the 
+Paper
+tab.
+ Under the 
+Paper
+section, scroll to select the type you will use. 
+ Select your 
+Paper Source
+. 
+ Fill in the 
+Margins
+for Top, Bottom, Left and Right.
+ On the right, select the 
+Page orientati
+on
+, Portrait or Landscape.
+ Check the box to 
+Apply settings to all styles
+, if desired.
+ Click 
+Print Preview 
+to see what your document will look like before you print. Click 
+Print
+.

@@ -1,0 +1,42 @@
+Unit Type Codes
+
+
+When you are receiving inventory
+, it is helpful to indicate how an item is package
+d/sold by the 
+vendor (bottles) versus how the 
+practice
+sells or uses it (pills).
+As you receive each individual item, 
+you can describe the unit as purchased (case for foods) and as sold by you to your clients (can). 
+This association is remembered when yo
+u pull up the item for each subsequent order.
+
+
+How to Add Unit Type Codes
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Program
+| 
+Inventory Setup
+| 
+Unit Types
+. 
+
+
+ Click 
+New
+to add additional unit types or 
+Edit
+to make changes
+to an existing unit type.
+ You can also select 
+Inactivate
+if you no longer want to use a particular unit type for 
+your inventory.

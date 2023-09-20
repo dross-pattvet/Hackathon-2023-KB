@@ -1,0 +1,146 @@
+ards/letters:
+Check to combine patients in the 
+same household on the same letter. This reduces the number of letters needed. If 
+unchecked, each patient gets an individual letter. 
+ Exclude clients with email address:
+If checked, clients w
+ith email addresses receive 
+emails instead of printed letters. Save paper by sending communications by 
+email
+when you can. 
+ Send email to those with email addresses:
+Check to send only an email.
+ Send as card/letter and email:
+Check to send an email and a 
+letter.
+ To change the already created (canned) text, click 
+Edit
+. 
+ Make your changes and click 
+Save
+.
+
+
+
+
+<<NEW PAGE 370>>
+
+
+ Click 
+Print
+/
+Process
+to send your letters to the default printer. If the option to send as 
+email is selected, the email will also be sent when you click 
+Print
+. A progress bar 
+indicates that your letters are being printed.
+
+
+New Client Search
+–
+Print Labels
+
+
+To print mailing labels on Avery laser labels 
+(5161 or 5261) 
+for clients found in your list:
+
+
+ Click the 
+Print Labe
+ls
+tab and check the options desired:
+ Exclude clients with email address:
+If checked, clients 
+with email do not have labels printed. 
+ Click
+Print
+to send your labels to the default printer. 
+A progress bar indicates that your labels are being 
+printed.
+
+
+Ne
+w Client Search
+–
+Export
+Result List
+
+
+To export your 
+Result List
+for use with a third
+-
+party application, for online reminders or Word:
+
+
+To remove a contact from the 
+Result List 
+print or export:
+
+
+ Uncheck the box on 
+the left. This will omit them from the Print/Process or Export.
+
+
+You can go to the client’s account from this location.
+
+
+ Right
+-
+click and select 
+Open 
+Selected
+Client
+.
+
+
+To Export:
+
+
+ Select
+the 
+Export
+tab.
+ Place a check in th
+e 
+Patient 
+checkbox in the 
+Patient Section
+to activate the option for 
+Number of patients
+, 
+One record per Client
+and 
+One record per Patient
+. If a client has 
+more than one patient matching your search criteria, you may want to send only one 
+card, letter or 
+e
+mail
+.
+ If exporting patient information, enter the 
+Number of patients
+per Client to include 
+(maximum is 9).
+ If exporting patient information, click to highlight each 
+Patient
+field to export.
+ Select 
+One record per Client
+or 
+One record per Patient
+.
+ Click to h
+ighlight each 
+Client
+field you want to export. 
+ Click the 
+Export
+button. A 
+Save
+As
+window appears.
+ Navigate to the location where you want to save your exported record and name your 
+file.

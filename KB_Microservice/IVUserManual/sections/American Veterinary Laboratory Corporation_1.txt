@@ -1,0 +1,181 @@
+If a patient is at
+tached to the lab result code, the lab result will be associated with the visit 
+automatically, but if there is no patient listed, manually select from the list of active visits or create 
+a new one. 
+
+
+Once posted, the Lab Results will show in the Medical
+History under the Visit and Lab Results tabs, 
+as well as the Visit window and the Lab Tests window. 
+
+
+AVLC 
+–
+American Veterinary Laboratory Corporation
+
+
+Integration is similar to Antech (
+s
+ee above)
+.
+
+
+Download the file from the Lab 
+w
+ebsite and then upload to
+IntraVet.
+
+
+Set
+up AVLC Interface
+
+
+ From the IntraVet Menu Bar, select Setup | Lab Interface. 
+
+
+
+
+<<NEW PAGE 406>>
+
+
+ Click New. 
+
+
+ Select the Manufacturer – AVLC. 
+ Select the Lab Machine – AVLC. 
+ Use the ellipsis button under Location to navigate to the folder where the files 
+are stored. 
+
+
+Heska Data Capture Utility (DCU) 
+
+
+IntraVet contains a la
+b interface for Heska’s CBC
+. This utility allows integration with other Heska 
+equipment. If you currently use the CBC and/or SpotChem lab integration you do not need to 
+change the way your
+equipment is currently connected, unless you want to integrate all your 
+Heska equipment into one interface.
+
+
+The Heska DCU allows the following transfers: 
+
+
+
+
+<<NEW PAGE 407>>
+
+
+ HemaTrue Veterinary Hematology 
+ DRI
+-
+CHEM Veterinary Chemistry Analyzer
+ SpotChem EZ Chemistry
+ CBC Dif
+f
+
+
+Heska DCU requires a special install with IntraVet. 
+
+
+Insert the Installation DVD into the disk tray and close the tray. 
+
+
+ Cancel out of the install. 
+ Double-click on My Computer. Right-click on the CD-ROM drive and select Explore 
+or Open. 
+ Select Heska DCU Folder. 
+ Double-click on the Heska_Data_Capture_utility_2.1.0_installer.exe 
+
+
+ Click Next. 
+
+
+ Check the destination folder. It defaults to the C drive. Edit as needed. 
+ Click Next. 
+
+
+
+
+<<NEW PAGE 408>>
+
+
+ Leave all checkboxes checked and review the disk space. 
+ Click Next. 
+
+
+ Click Install. 
+
+
+
+
+<<NEW PAGE 409>>
+
+
+ Click OK. 
+
+
+ Click Finish. 
+
+
+Configuring Equipment for DCU
+
+
+After the utility has been installed, a Heska icon will appear in the system tray (bottom right of the 
+screen).
+
+
+ Double-click on the Heska tray icon to open the DCU. You can also open DCU 
+through Start | All Programs. Select Configure Analyzers. 
+ Select Add to enter the desired equipment. 
+ Select the Port and the units the device is set to. Once equipment is added, it 
+should be ready to communicate with IntraVet. 
+ Double-click on Preferences to specify results destination. Results should be 
+directed to the C:\Program Files\Intravet\Lab Results\Heska (if there is no Heska 
+folder set up, add a new folder called Heska) and place a checkmark in the Copy 
+Reference Range checkbox. 
+ Click OK and close any remaining windows. 
+
+
+Set
+up Heska Interface in IntraVet
+
+
+ From the IntraVet Menu Bar, select Setup | Lab Interface. 
+
+
+
+
+<<NEW PAGE 410>>
+
+
+ Click New. 
+
+
+ Select the Manufacturer – Heska. 
+ Select a Lab Machine. This will fill in the Description. 
+ All the machines set up within IntraVet will be listed. You can have more than one of 
+the same type of lab machine. Change the description to reflect the name of the 
+room in which the machine is located to distinguish between them. 
+ Use the ellipsis button under Location to navigate to the folder where the files 
+are stored. 
+ Click OK. 
+
+
+
+
+<<NEW PAGE 411>>
+
+
+To view Lab Results for Heska
+
+
+ From the IntraVet Menu Bar, select File | Lab Results. 
+
+
+ Click Import | Heska. 
+
+
+ Select the location you stored the results. Select the results file. 
+ Click Open.

@@ -1,0 +1,40 @@
+ To revise a 
+Description
+or 
+Stable information after the window has been closed, 
+highlight the Stable Code in the Stable List screen. Click 
+Edit
+at the bottom of the 
+screen. 
+ Make the necessary changes and click 
+OK
+.
+ To inactivate a Stable
+Code, highlight it in 
+the Stable List screen and click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+SOAP 
+–
+Subjective 
+
+
+Subjective Codes
+–
+Create, Edit or Delete
+
+
+ From the IntraVet Menu 
+Bar, select 
+Setup
+| 
+General Codes
+|
+Subjective
+.

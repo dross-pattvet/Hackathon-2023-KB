@@ -1,0 +1,83 @@
+Assessment
+:
+
+
+ Click
+the 
+Assessment
+tab
+. (Assessment is optional.)
+ To enable
+edits, click the 
+Include
+box.
+ Click i
+n
+the
+Diagnosis
+field 
+in the lower portion of the window to select the default 
+assessment. 
+ In the pop
+-
+up, 
+select
+Diagnosis
+or 
+Differential
+. This 
+accepts your choice and closes the 
+pop
+-
+up. Use the dotted triangle to resize the pop
+-
+up. 
+ Enter a diagnosis code or description by typing the first letter(s) in either the left or 
+center blank field to the left of the default 
+Diagnosis
+option, or click th
+e down
+-
+arrow 
+and 
+select
+from the pop
+-
+up list. 
+
+
+If the wrong letters were typed in, or you change your mind before the pop
+-
+up closes, 
+click in the field again and type new letters. Another option is to use the scroll bar to 
+locate the code/description choi
+ce and double
+-
+click or press Enter to 
+select
+. If the pop
+-
+up is closed, click in either field and retype the new choice.
+
+
+ To move the selection into the main pane, click 
+the 
+Add
+button
+to the right of the 
+default assessment field.
+ To remove an item, right
+-
+c
+lick on the line item and select 
+Delete
+. 
+Delete All
+will remove 
+all the codes/descriptions. 
+ To add notes to your custom template, click in the blank field at the bottom. Type 
+information pertaining to this template.
+ To continue, select another tab. To 
+accept your changes and close, click 
+OK
+.

@@ -1,0 +1,43 @@
+Payments
+
+
+Payments
+Tab
+
+
+Payments can
+be accepted 
+through the 
+Payment
+screen.
+
+
+To open a client’s 
+Payment
+screen, first open the client’s account.
+
+
+Select the
+Payment
+tab
+. 
+
+
+ 
+
+
+Cash
+
+
+ Use the down
+-
+arrow to select the appropriate
+Branch
+.
+ Cash should be the default 
+Type
+. If it is not selected, use the down
+-
+arrow to select 
+Cash
+.

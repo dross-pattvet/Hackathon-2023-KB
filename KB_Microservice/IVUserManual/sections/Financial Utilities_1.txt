@@ -1,0 +1,303 @@
+Financial Utilities
+
+
+The Financial Utilities function affects the financial information associated with client records.
+
+
+Account Period Lockin
+g (and QuickBooks
+®
+Export)
+
+
+IntraVet
+’s financial information can be transferred to QuickBooks®. 
+
+
+The chart describes the account names and account
+types that are used during the transfer
+. 
+IntraVet
+creates these accounts in QuickBooks® the first time you import data into QuickBooks®. 
+
+
+DO NOT create these accounts in QuickBooks® yourself.
+
+
+Account Names
+
+
+Account Types
+
+
+Accounts Receivable / 
+IntraVet
+
+
+Accounts Receivable
+
+
+AR
+
+
+Fees for Services
+/ 
+IntraVet
+
+
+Income
+
+
+INC
+
+
+Sales Tax Payable / 
+IntraVet
+
+
+Other Current Liability
+
+
+OCLIAB
+
+
+Cash in Drawer / 
+IntraVet
+
+
+Other Current Asset
+
+
+OCASSET
+
+
+Checks / 
+IntraVet
+
+
+Other Current Asset
+
+
+OCASSET
+
+
+Credit Cards / 
+IntraVet
+
+
+Othe
+r Current Asset
+
+
+OCASSET
+
+
+Debit/Credit Adj. / 
+IntraVet
+
+
+Income
+
+
+INC
+
+
+Billing Fees / 
+IntraVet
+
+
+Income
+
+
+INC
+
+
+Monthly Interest / 
+IntraVet
+
+
+Income
+
+
+INC
+
+
+
+
+
+
+<<NEW PAGE 488>>
+
+
+W
+hen you run period locking, users cannot remove data from a prior date
+. T
+his protects your 
+IntraVet
+data from a
+ttempts to change periods that have already been “closed.” If you select 
+“Export to QuickBooks®,” 
+IntraVet
+prepares an export file to be imported to the QuickBooks® 
+program. 
+
+
+Your First Transfer
+
+
+The first QuickBooks® Transfer and Period Closing in 
+IntraVet
+is unique
+. T
+his transfer locks the 
+period and creates a starting place for the 
+IntraVet
+/QuickBooks® link
+. A
+fter this first transfer has 
+been done, 
+IntraVet
+is locked and you cannot 
+backdate any entries prior to the first transfer date. 
+
+
+Transactions within a locked period cannot be deleted or changed. However, you will still be able 
+to backdate invoices
+(after
+the initial transfer). Invoices that are backdated can be deleted until 
+the period that they were entered in has been locked.
+
+
+The 
+IntraVet
+/QuickBooks® link will record new transactions added to locked periods
+. T
+hese added 
+transactions appear on the Peri
+od Locking Report
+.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Financial 
+Utilities
+| 
+Account Period 
+Locking (and QuickBooks
+®
+Export)
+.
+
+
+ A 
+Multi User Check
+will pop
+up. Click 
+OK
+.
+
+
+ Enter
+a 
+Lock Date
+, or click the 
+down
+-
+arrow
+and choose a date from the calendar. 
+
+
+It is recommended to wait until the 15th of the month to close out the previous month. 
+If this is the first time you are running the transfer, you may choose 12/31 of the 
+previous
+year as your first closing date in IntraVet.
+
+
+ Click the 
+Export to QuickBooks
+® box if you use QuickBooks®.
+ Click 
+Start
+. 
+
+
+NOTE:
+This utility locks the financial data prior to the entered date. 
+The process cannot be 
+interrupted or stopped after you click t
+he Start button.
+
+
+IntraVet
+will print a Period Lock Report that displays the Lock Date, a list of accounts, the amounts 
+of debits and credits to these accounts, and final totals for Debit and Credit. 
+
+
+
+
+<<NEW PAGE 489>>
+
+
+Account Period Unlocking
+
+
+You can undo transfers within 
+IntraVet
+to unlock previously locked periods
+. W
+hen a period is 
+unlocked, you can delete transactions within that date range
+. T
+his utility unlocks the last period 
+that was closed.
+
+
+Be careful to 
+import the data from a period into QuickBooks® only once, or you will have duplicate 
+entries. You may unlock only the most recently locked report.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Financial
+Utilities
+| 
+Account Period 
+Unlocking
+.
+
+
+ A 
+Multi User Check
+will pop
+up. Click 
+OK
+.
+
+
+ Click 
+Start
+.
+
+
+Unlocking a period will void the last transaction if you use accounting package 
+transfers. If the last transfer has already been imported, delete it from the accounting 
+package.
+
+
+NOTE:
+The process can
+not be interrupted or stopped after you click the Start button.

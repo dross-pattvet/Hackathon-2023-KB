@@ -1,0 +1,1103 @@
+[
+  {
+    "content": "General Branch Setup",
+    "page": 9
+  },
+  {
+    "content": "Main Screen",
+    "page": 9
+  },
+  {
+    "content": "Menu Bar",
+    "page": 9
+  },
+  {
+    "content": "General",
+    "page": 10
+  },
+  {
+    "content": "Create or Add a Branch",
+    "page": 10
+  },
+  {
+    "content": "Name, Address, Phone and Tax",
+    "page": 12
+  },
+  {
+    "content": "Logo and Background",
+    "page": 13
+  },
+  {
+    "content": "Email",
+    "page": 14
+  },
+  {
+    "content": "Invoice",
+    "page": 15
+  },
+  {
+    "content": "Invoice/Visit",
+    "page": 15
+  },
+  {
+    "content": "Statement",
+    "page": 17
+  },
+  {
+    "content": "Statement Setup",
+    "page": 17
+  },
+  {
+    "content": "Statement Messages",
+    "page": 19
+  },
+  {
+    "content": "Financial",
+    "page": 20
+  },
+  {
+    "content": "Forms, Handouts and Topaz",
+    "page": 21
+  },
+  {
+    "content": "Topaz Signature Pad Integration",
+    "page": 22
+  },
+  {
+    "content": "Security",
+    "page": 24
+  },
+  {
+    "content": "Security Options",
+    "page": 27
+  },
+  {
+    "content": "Account Setup",
+    "page": 29
+  },
+  {
+    "content": "Account Default Settings",
+    "page": 29
+  },
+  {
+    "content": "Required Fields for New Clients",
+    "page": 31
+  },
+  {
+    "content": "Merchant Services",
+    "page": 32
+  },
+  {
+    "content": "XCharge Merchant Services",
+    "page": 32
+  },
+  {
+    "content": "Debit PIN Pad Setup",
+    "page": 34
+  },
+  {
+    "content": "Prescription Label",
+    "page": 34
+  },
+  {
+    "content": "Letterhead Printout",
+    "page": 36
+  },
+  {
+    "content": "Boarding Setup",
+    "page": 37
+  },
+  {
+    "content": "Boarding Surcharge",
+    "page": 40
+  },
+  {
+    "content": "Cage Type Setup",
+    "page": 42
+  },
+  {
+    "content": "eShelf",
+    "page": 44
+  },
+  {
+    "content": "Estimate Setup",
+    "page": 45
+  }
+,
+  {
+    "content": "General Codes Setup",
+    "page": 47
+  },
+  {
+    "content": "General Codes",
+    "page": 47
+  },
+  {
+    "content": "Client Setup",
+    "page": 47
+  },
+  {
+    "content": "Patient Setup",
+    "page": 50
+  },
+  {
+    "content": "Referral Codes",
+    "page": 55
+  },
+  {
+    "content": "Card Payment Codes",
+    "page": 60
+  },
+  {
+    "content": "Debit and Credit Card Transaction Types",
+    "page": 62
+  },
+  {
+    "content": "Department Codes",
+    "page": 64
+  },
+  {
+    "content": "Diagnosis Code Setup",
+    "page": 65
+  },
+  {
+    "content": "Discount Types Codes",
+    "page": 69
+  },
+  {
+    "content": "Discount types can be used to track discounts given to your clients.",
+    "page": 69
+  },
+  {
+    "content": "Document Codes",
+    "page": 71
+  },
+  {
+    "content": "LifeLearn",
+    "page": 72
+  },
+  {
+    "content": "Inventory Code Setup",
+    "page": 74
+  },
+  {
+    "content": "Invoice Message Codes",
+    "page": 87
+  },
+  {
+    "content": "Procedure Code Setup",
+    "page": 88
+  },
+  {
+    "content": "Reason Codes",
+    "page": 102
+  },
+  {
+    "content": "Recommendation",
+    "page": 103
+  },
+  {
+    "content": "Stable",
+    "page": 106
+  },
+  {
+    "content": "SOAP",
+    "page": 106
+  },
+  {
+    "content": "Subjective",
+    "page": 107
+  },
+  {
+    "content": "Vendor",
+    "page": 108
+  },
+  {
+    "content": "Other Programs Setup",
+    "page": 111
+  },
+  {
+    "content": "DIA",
+    "page": 111
+  },
+  {
+    "content": "Settings",
+    "page": 111
+  },
+  {
+    "content": "Start DIA",
+    "page": 112
+  },
+  {
+    "content": "Start DIA Lite",
+    "page": 112
+  },
+  {
+    "content": "PURDigital Viewer Setup",
+    "page": 112
+  },
+  {
+    "content": "General Security & Auditing Setup",
+    "page": 113
+  },
+  {
+    "content": "Security Setup",
+    "page": 114
+  },
+  {
+    "content": "Security Template",
+    "page": 114
+  },
+  {
+    "content": "Assign Access Levels",
+    "page": 115
+  },
+  {
+    "content": "User Setup",
+    "page": 116
+  },
+  {
+    "content": "Job Setup",
+    "page": 118
+  },
+  {
+    "content": "Client Account Management",
+    "page": 120
+  },
+  {
+    "content": "Client Account Management Screen",
+    "page": 138
+  },
+  {
+    "content": "Patient General Overview",
+    "page": 138
+  },
+  {
+    "content": "Access Tabs",
+    "page": 139
+  },
+  {
+    "content": "Account",
+    "page": 139
+  },
+  {
+    "content": "Invoice",
+    "page": 140
+  },
+  {
+    "content": "Payment",
+    "page": 148
+  },
+  {
+    "content": "Estimates",
+    "page": 149
+  },
+  {
+    "content": "Transactions",
+    "page": 153
+  },
+  {
+    "content": "Prescriptions",
+    "page": 154
+  },
+  {
+    "content": "The Appointment Calendar",
+    "page": 156
+  },
+  {
+    "content": "Appointment Calendar Setup",
+    "page": 156
+  },
+  {
+    "content": "Type Codes",
+    "page": 156
+  },
+  {
+    "content": "Appointment Group Setup",
+    "page": 158
+  },
+  {
+    "content": "To Apply Templates",
+    "page": 161
+  },
+  {
+    "content": "Calendar",
+    "page": 164
+  }
+,
+  {
+    "content": "How to Make Appointments",
+    "page": 166
+  },
+  {
+    "content": "Account Notepad",
+    "page": 174
+  },
+  {
+    "content": "Searching for Appointments",
+    "page": 178
+  },
+  {
+    "content": "Accessing ePetHealth",
+    "page": 181
+  },
+  {
+    "content": "Block and Reserve Slots",
+    "page": 181
+  },
+  {
+    "content": "Print the Appointment Calendar",
+    "page": 183
+  },
+  {
+    "content": "Column Print",
+    "page": 184
+  },
+  {
+    "content": "Time Slot Print",
+    "page": 185
+  },
+  {
+    "content": "Check-in Batch Print",
+    "page": 186
+  },
+  {
+    "content": "Calendar Print",
+    "page": 187
+  },
+  {
+    "content": "Confirming Appointments",
+    "page": 190
+  },
+  {
+    "content": "Moving Appointments",
+    "page": 191
+  },
+  {
+    "content": "Inventory",
+    "page": 192
+  },
+  {
+    "content": "Inventory Setup",
+    "page": 192
+  },
+  {
+    "content": "Warehouses",
+    "page": 192
+  },
+  {
+    "content": "Unit Type Codes",
+    "page": 195
+  },
+  {
+    "content": "eShelf Code Association Tool",
+    "page": 196
+  },
+  {
+    "content": "Vendor Codes",
+    "page": 198
+  },
+  {
+    "content": "Inventory Update",
+    "page": 198
+  },
+  {
+    "content": "Inventory Adjustment",
+    "page": 204
+  },
+  {
+    "content": "Inventory Lot Management",
+    "page": 207
+  },
+  {
+    "content": "Purchase Orders",
+    "page": 208
+  },
+  {
+    "content": "Inventory Warehouse Transfers",
+    "page": 218
+  },
+  {
+    "content": "Inventory Barcode",
+    "page": 220
+  },
+  {
+    "content": "Inventory In-House Use",
+    "page": 220
+  },
+  {
+    "content": "Inventory Cost Corrections",
+    "page": 222
+  },
+  {
+    "content": "Labels",
+    "page": 224
+  },
+  {
+    "content": "Control Center",
+    "page": 228
+  },
+  {
+    "content": "Wild Search and Advanced Search",
+    "page": 228
+  },
+  {
+    "content": "General Wild Search",
+    "page": 228
+  },
+  {
+    "content": "Invoice Search",
+    "page": 229
+  },
+  {
+    "content": "Advanced Search",
+    "page": 230
+  },
+  {
+    "content": "Control Center – Main",
+    "page": 231
+  },
+  {
+    "content": "Control Center Setup & Customization",
+    "page": 231
+  },
+  {
+    "content": "Control Center Settings",
+    "page": 232
+  },
+  {
+    "content": "Changing the Columns on the Control Center",
+    "page": 234
+  },
+  {
+    "content": "Viewing and Sorting the Patient Appointment Status",
+    "page": 238
+  },
+  {
+    "content": "Patient Status",
+    "page": 239
+  },
+  {
+    "content": "Summary",
+    "page": 239
+  },
+  {
+    "content": "Document List",
+    "page": 240
+  },
+  {
+    "content": "Assign Documents to a Visit",
+    "page": 240
+  },
+  {
+    "content": "To Add a Document to the List",
+    "page": 240
+  },
+  {
+    "content": "To Set the Document Print Time",
+    "page": 241
+  },
+  {
+    "content": "Print Reminder List from the Control Center",
+    "page": 241
+  },
+  {
+    "content": "Changing the Patient’s Visit Status",
+    "page": 242
+  },
+  {
+    "content": "Process the Check-In – Scheduled Appointment",
+    "page": 243
+  },
+  {
+    "content": "Process the Check-in – Walk-in Emergency",
+    "page": 247
+  },
+  {
+    "content": "Hospitalization Services",
+    "page": 251
+  },
+  {
+    "content": "Reactivate a Patient",
+    "page": 253
+  },
+  {
+    "content": "Notes and Tasks",
+    "page": 255
+  },
+  {
+    "content": "How to Enter a Note for a Client/Patient",
+    "page": 255
+  },
+  {
+    "content": "How to Enter and Manage Tasks",
+    "page": 256
+  }
+,
+  {
+    "content": "How to Assign and Track Tasks",
+    "page": 256
+  },
+  {
+    "content": "Client and Patient Operator Warnings",
+    "page": 258
+  },
+  {
+    "content": "Current Balance",
+    "page": 258
+  },
+  {
+    "content": "Control Center – Task Manager",
+    "page": 258
+  },
+  {
+    "content": "Boarding Control Center",
+    "page": 259
+  },
+  {
+    "content": "Boarding Center Statuses",
+    "page": 260
+  },
+  {
+    "content": "Boarding",
+    "page": 262
+  },
+  {
+    "content": "Boarding Reservation Grid",
+    "page": 262
+  },
+  {
+    "content": "Boarding Control Center",
+    "page": 262
+  },
+  {
+    "content": "How to Make a Reservation",
+    "page": 263
+  },
+  {
+    "content": "Services Tab",
+    "page": 267
+  },
+  {
+    "content": "Notes Tab",
+    "page": 267
+  },
+  {
+    "content": "Tasks Tab",
+    "page": 268
+  },
+  {
+    "content": "Activities Tab",
+    "page": 268
+  },
+  {
+    "content": "How to Edit a Reservation",
+    "page": 270
+  },
+  {
+    "content": "Search by Client",
+    "page": 270
+  },
+  {
+    "content": "Search by Confirmation Number or Date",
+    "page": 274
+  },
+  {
+    "content": "Check In a Boarding Patient",
+    "page": 274
+  },
+  {
+    "content": "Check Out a Reservation",
+    "page": 276
+  },
+  {
+    "content": "Visits and Invoices",
+    "page": 279
+  },
+  {
+    "content": "How to Access the Client’s Account",
+    "page": 279
+  },
+  {
+    "content": "Method 1: Open Account",
+    "page": 279
+  },
+  {
+    "content": "Method 2: Control Center",
+    "page": 279
+  },
+  {
+    "content": "Method 3: Calendar",
+    "page": 281
+  },
+  {
+    "content": "Method 4: Wild Search",
+    "page": 281
+  },
+  {
+    "content": "Visits",
+    "page": 282
+  },
+  {
+    "content": "Visit Settings",
+    "page": 282
+  },
+  {
+    "content": "Visit Templates",
+    "page": 284
+  },
+  {
+    "content": "Visit Template Setup",
+    "page": 284
+  },
+  {
+    "content": "How to Create a Customized Visit Template",
+    "page": 284
+  },
+  {
+    "content": "Edit Visit Template Main:",
+    "page": 285
+  },
+  {
+    "content": "Subjective:",
+    "page": 286
+  },
+  {
+    "content": "Vitals:",
+    "page": 287
+  },
+  {
+    "content": "Body Systems: By default, all items are checked.",
+    "page": 288
+  },
+  {
+    "content": "Assessment:",
+    "page": 289
+  },
+  {
+    "content": "Plan: Include the services and inventory you would normally use in a case of this kind.",
+    "page": 290
+  },
+  {
+    "content": "Tasks:",
+    "page": 291
+  },
+  {
+    "content": "Activities:",
+    "page": 292
+  },
+  {
+    "content": "Documents:",
+    "page": 294
+  },
+  {
+    "content": "Vitals",
+    "page": 295
+  },
+  {
+    "content": "How to Add Vitals",
+    "page": 295
+  },
+  {
+    "content": "Body Systems",
+    "page": 296
+  },
+  {
+    "content": "How to Create, Edit or Delete Body Systems",
+    "page": 296
+  },
+  {
+    "content": "Tasks",
+    "page": 298
+  },
+  {
+    "content": "Working with Visits",
+    "page": 298
+  },
+  {
+    "content": "Patient Visit Overview",
+    "page": 298
+  },
+  {
+    "content": "Patient Check-in",
+    "page": 299
+  },
+  {
+    "content": "Print Documents",
+    "page": 301
+  },
+  {
+    "content": "Print Multiple Copies of the Same Document",
+    "page": 302
+  }
+,
+  {
+    "content": "Print Altered Certificate",
+    "page": 304
+  },
+  {
+    "content": "Patient Health Certificate",
+    "page": 304
+  },
+  {
+    "content": "Rabies Certificate",
+    "page": 306
+  },
+  {
+    "content": "LifeLearn",
+    "page": 306
+  },
+  {
+    "content": "Attach and Print Documents from Visit",
+    "page": 307
+  },
+  {
+    "content": "Plan Section of the Visit",
+    "page": 308
+  },
+  {
+    "content": "Invoicing the Visit",
+    "page": 309
+  },
+  {
+    "content": "Invoicing the plan items",
+    "page": 310
+  },
+  {
+    "content": "Method 1",
+    "page": 312
+  },
+  {
+    "content": "Method 2",
+    "page": 313
+  },
+  {
+    "content": "Information Tabs on the Invoice",
+    "page": 314
+  },
+  {
+    "content": "Split Invoicing",
+    "page": 315
+  },
+  {
+    "content": "Transactions",
+    "page": 318
+  },
+  {
+    "content": "Working with Transactions",
+    "page": 318
+  },
+  {
+    "content": "Edit a Permanently Saved Invoice Line",
+    "page": 320
+  },
+  {
+    "content": "Credit Adjustments",
+    "page": 321
+  },
+  {
+    "content": "Debit Adjustments",
+    "page": 328
+  },
+  {
+    "content": "Payments",
+    "page": 330
+  },
+  {
+    "content": "Payments Tab",
+    "page": 330
+  },
+  {
+    "content": "Medical History",
+    "page": 333
+  },
+  {
+    "content": "Open Medical History",
+    "page": 333
+  },
+  {
+    "content": "Medical History Organization",
+    "page": 334
+  },
+  {
+    "content": "Medical History Viewing Options",
+    "page": 335
+  },
+  {
+    "content": "New Visit",
+    "page": 337
+  },
+  {
+    "content": "Edit a Visit",
+    "page": 339
+  },
+  {
+    "content": "Edit Medical History",
+    "page": 342
+  },
+  {
+    "content": "Edit Reminders",
+    "page": 346
+  },
+  {
+    "content": "Add a Reminder (Recommendation)",
+    "page": 348
+  },
+  {
+    "content": "Prescriptions",
+    "page": 349
+  },
+  {
+    "content": "Printing History",
+    "page": 355
+  },
+  {
+    "content": "Emailing Patient History",
+    "page": 355
+  },
+  {
+    "content": "Communications",
+    "page": 358
+  },
+  {
+    "content": "Due Reminders",
+    "page": 358
+  },
+  {
+    "content": "How to Search for Due Procedures, Callbacks or Recommendations",
+    "page": 358
+  },
+  {
+    "content": "Edit Result List",
+    "page": 363
+  },
+  {
+    "content": "New Client Search",
+    "page": 366
+  },
+  {
+    "content": "New Patient Search",
+    "page": 371
+  },
+  {
+    "content": "Recall Generator",
+    "page": 375
+  },
+  {
+    "content": "Recall Generator Search – Previous Searches",
+    "page": 378
+  },
+  {
+    "content": "Recall Generator Search – Result List",
+    "page": 379
+  },
+  {
+    "content": "Referring Clients Search",
+    "page": 383
+  },
+  {
+    "content": "Lab Installation, Integration and Test Results",
+    "page": 387
+  },
+  {
+    "content": "Lab Installation Instructions",
+    "page": 387
+  },
+  {
+    "content": "Lab Integration",
+    "page": 387
+  },
+  {
+    "content": "VetConnect Integration",
+    "page": 389
+  },
+  {
+    "content": "Antech/Zoasis Lab Interface Setup",
+    "page": 391
+  },
+  {
+    "content": "Antech Order Code Association",
+    "page": 393
+  },
+  {
+    "content": "Antech New Lab Machine Setup",
+    "page": 395
+  },
+  {
+    "content": "Antech / Zoasis Lab Acquisition",
+    "page": 396
+  },
+  {
+    "content": "Lab Tests/Order Codes",
+    "page": 400
+  }
+,
+  {
+    "content": "Create and Link to VetConnect/Antech",
+    "page": "401"
+  },
+  {
+    "content": "American Veterinary Laboratory Corporation",
+    "page": "405"
+  },
+  {
+    "content": "Lab Interface Setup",
+    "page": "412"
+  },
+  {
+    "content": "RADInfo Integration",
+    "page": "414"
+  },
+  {
+    "content": "RADInfo Integration Setup",
+    "page": "414"
+  },
+  {
+    "content": "RADInfo File Acquisition",
+    "page": "414"
+  },
+  {
+    "content": "Lab Requests",
+    "page": "419"
+  },
+  {
+    "content": "Requesting a Lab Test",
+    "page": "419"
+  },
+  {
+    "content": "Attach Lab Results to Patient History",
+    "page": "422"
+  },
+  {
+    "content": "View Lab Results in the Patient’s Medical History",
+    "page": "425"
+  },
+  {
+    "content": "Time Clock",
+    "page": "427"
+  },
+  {
+    "content": "Clock In",
+    "page": "427"
+  },
+  {
+    "content": "Clock Out",
+    "page": "429"
+  },
+  {
+    "content": "Break",
+    "page": "429"
+  },
+  {
+    "content": "Clock Out",
+    "page": "430"
+  },
+  {
+    "content": "End of Shift",
+    "page": "430"
+  },
+  {
+    "content": "Job Codes",
+    "page": "430"
+  },
+  {
+    "content": "Time Clock Management",
+    "page": "431"
+  },
+  {
+    "content": "Messenger",
+    "page": "434"
+  },
+  {
+    "content": "Tools",
+    "page": "436"
+  },
+  {
+    "content": "Utilities",
+    "page": "436"
+  },
+  {
+    "content": "Branch Utilities",
+    "page": "436"
+  },
+  {
+    "content": "Client Utilities",
+    "page": "438"
+  },
+  {
+    "content": "Patient Utilities",
+    "page": "444"
+  },
+  {
+    "content": "Inventory Utilities",
+    "page": "455"
+  },
+  {
+    "content": "Code Utilities",
+    "page": "456"
+  },
+  {
+    "content": "Financial Utilities",
+    "page": "487"
+  },
+  {
+    "content": "Statements",
+    "page": "490"
+  },
+  {
+    "content": "Finance Charge Removal",
+    "page": "493"
+  },
+  {
+    "content": "Financial Recalculations",
+    "page": "493"
+  },
+  {
+    "content": "Audit Log Viewer",
+    "page": "494"
+  },
+  {
+    "content": "Maintenance",
+    "page": "497"
+  },
+  {
+    "content": "System Setup",
+    "page": "497"
+  },
+  {
+    "content": "Licensing",
+    "page": "497"
+  },
+  {
+    "content": "Printer Setup",
+    "page": "498"
+  },
+  {
+    "content": "Database Copy",
+    "page": "500"
+  },
+  {
+    "content": "Make a Database Copy",
+    "page": "500"
+  },
+  {
+    "content": "Store a Backup",
+    "page": "502"
+  },
+  {
+    "content": "Restore",
+    "page": "502"
+  },
+  {
+    "content": "Maintenance",
+    "page": "504"
+  },
+  {
+    "content": "Windows Option",
+    "page": "505"
+  },
+  {
+    "content": "Index",
+    "page": "506"
+  }
+]

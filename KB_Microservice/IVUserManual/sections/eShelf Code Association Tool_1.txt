@@ -1,0 +1,44 @@
+eShelf Code Association Tool
+
+
+After you have enabled eShelf
+under 
+Setup | General Branch Setup
+, you will need to set
+up your
+eShelf code association. To associate your code in mass, go to 
+Setup | Program | Inventory Setup | 
+eShelf Code Association Tool.
+
+
+At the top of the screen you have two filter options: 
+
+
+ Show All with Associations, 
+allows
+you to view all Codes with eShel
+f associations.
+ Show Changes allows you to see only the changes you are making at this time. 
+
+
+Select the IntraV
+et Inventory Code from the 
+drop
+-
+down
+menu at the bottom of the screen and 
+associate it with an eShelf Code. 
+
+
+
+
+<<NEW PAGE 197>>
+
+
+Click Add Association to add it t
+o the box above.
+
+
+Once you have the codes associated with eShelf, click 
+Save
+to update your changes.

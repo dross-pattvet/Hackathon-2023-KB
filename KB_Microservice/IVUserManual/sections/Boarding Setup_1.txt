@@ -1,0 +1,408 @@
+ Reminder Letters
+ Reminder Cards
+ Purchase Orders
+ Referral Letters
+ Estimates
+
+
+The options for each print job are as follows:
+
+
+ Use Neither
+–
+If the radio button is selected 
+in this column, 
+IntraVet
+applies the 
+default header using information entered in the 
+Name
+, 
+Address
+, 
+Phone
+and 
+Tax
+section at the beginning of this chapter. 
+ Use Letterhead
+–
+If 
+the 
+radio button is selected
+in this column, 
+IntraVet
+does not 
+p
+rint anything and assumes 
+preprinted letterhead station
+e
+ry has been
+loaded into 
+the printer’s paper tray. 
+ Use Logo
+–
+If the radio button is selected 
+in this column, 
+IntraVet
+prints the
+logo 
+that is saved in the Logo and B
+ackground
+setup
+. 
+ D
+ifferent headers or the same header 
+may be used 
+for different print jobs.
+ Click 
+Copy to 
+All 
+Branches
+if all 
+branches
+use the same print settings.
+ Click 
+OK
+.
+
+
+ 
+
+
+Boarding
+Setup
+
+
+Boardi
+ng Setup 
+
+
+Th
+is section allows 
+defaults 
+to
+quickly, easily and consistently process a 
+boarder’s
+check
+-
+in
+,
+check
+-
+out, invoicing and payment
+. 
+
+
+
+
+<<NEW PAGE 38>>
+
+
+If there are
+multiple branches, create an e
+ntry for each branch before 
+select
+ing the
+defaults.
+
+
+ From the
+IntraVet
+Men
+u Bar, select 
+Setup | Program | General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+
+
+Select
+Boarding
+Setup.
+
+
+If 
+you have
+multiple branches
+, 
+eithe
+r apply the defaults to all
+branch locations or establish 
+different defaults for specific locations. 
+Determine the easies
+t and fastest way to set up
+your 
+multiple branches.
+
+
+For example, 
+you may have
+six branches
+, but their de
+faults are different.
+Perhaps
+two 
+branches
+have 
+ABC
+boarding defaults
+; three branches have LMN defaults, and one branch has XYZ defaults.
+Depending on the number of boarding differences 
+between the 
+branch
+es
+, 
+instead of opening the 
+LMN and XYZ branches se
+parately, 
+it might be easiest to open any branch, set the defaults and 
+select 
+Copy to All Branches
+and 
+OK
+to save
+. 
+Then, open 
+a
+branch that is different
+;
+set its defaults 
+and choose 
+OK
+, but DO NOT 
+select
+Copy to All Branches
+again
+.
+
+
+Some key options that 
+y
+ou should consider
+when setting up boarding are:
+
+
+ Do you want to charge ext
+ra for early or late check
+-
+in/
+-
+out times? 
+ Do you want to allow overbooking or split reservations
+? 
+ Do you want a boarding charge to be sent autom
+atically to the invoice?
+ Default
+[
+check
+-
+in
+, 
+check
+-
+out
+] 
+time
+–
+Default times appear on all new reservations but can 
+be edited as needed.
+ Add extra days for early check
+-
+in or late check
+-
+out
+–
+Extra days are determined according 
+to the time listed in 
+the cut
+-
+off time field
+.
+Although they take up an extra cage (before or 
+after reservation dates), the reservation check
+-
+in and check
+-
+out dates will remain the dates 
+listed.
+When ch
+ecked
+, 
+this activates the cut
+-
+off check
+-
+in and check
+-
+out time.
+Use either the 
+up
+-
+or 
+down
+-
+arrow
+to select a time, or 
+e
+nter
+your
+choice.
+ Cut
+-
+off
+[
+check
+-
+in
+, 
+check
+-
+out
+] 
+time
+–
+Any check
+-
+in time before the check
+-
+in cut
+-
+off 
+time 
+charges an extra day
+. C
+heck
+-
+out times after the check
+-
+out cut
+-
+off time charges an extra 
+day
+. U
+se either the up
+-
+or 
+down
+-
+arrow
+to select a time, or 
+e
+nter
+your
+choice
+.
+ Enable overbooking with confirmation
+–
+You may know
+hi
+storically how many 
+cancellations
+or no
+-
+show
+s you will have
+, so 
+more cages 
+can 
+be 
+reserve
+d
+than are actually 
+
+
+
+
+<<NEW PAGE 39>>
+
+
+available.
+If checked, 
+it is
+advised
+that no cages are ava
+ilable and asked if an 
+overbook
+ing 
+is wanted
+.
+If overbooked, the reservation window sho
+ws a negative number in red for that 
+cage type
+availability
+.
+ Enable split reservations
+–
+Use this option when the requested cage type is not available 
+for each day of the reservation. 
+The 
+board
+er
+can be relocated to other cages for part of the 
+stay. 
+There will be a prompt to split the reservation since
+that
+cage
+is
+not available 
+for the 
+duration of the stay
+.
+ It is recommended that you enter cage types from largest to smallest.
+
+
+
+
+ After reservation
+save, show confirmation number
+–
+If checked, a unique number for that 
+reservation is displayed
+. T
+he confirmation number shows up on several boarding reports 
+and on the Existing Reservation Window, whether or not they 
+have this option checked
+. 
+We recommend providing
+the client wit
+h a confirmation number so 
+there is less chance of 
+an error occurring at check
+-
+in
+,
+and to provide a 
+quick
+method to locate the 
+boarder 
+in the 
+system
+.
+ Print patient picture
+on forms and cage tag
+–
+Including a 
+boarder 
+(patient) 
+photo is a 
+beneficial safety feature to ensure that the correct 
+boarder 
+is removed 
+from 
+and returned 
+to its cage 
+or moved to a different cage type
+and 
+accurately 
+recorded on daily cage check 
+log books.
+ After 
+saving the reservation
+, activate
+client action screen for deposi

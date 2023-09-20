@@ -1,0 +1,248 @@
+ows the email to be previewed as it will appear to t
+he recipient.
+
+
+Documents
+
+
+The 
+Documents
+icon allows 
+you
+to choose items to be printed 
+for
+the client by selecting a 
+Client, 
+Pati
+ent, Provider, type of document and
+then the document itself.
+
+
+Types include:
+
+
+ Documents
+
+
+ Patient Certificate
+
+
+ Labels
+
+
+
+
+When a ty
+pe is selected, the list of available documents of that type display for selection.
+
+
+If you are 
+logged into ePetHealth and click the ePetHealth button
+within the Documents Window
+, 
+the ePetHealth Client Education Articles page will open in your web browser.
+
+
+
+
+<<NEW PAGE 131>>
+
+
+Print Multiple Copies of the 
+S
+ame Document
+
+
+Sometimes more than one copy of a document or label is needed. 
+
+
+ To print multiple copies: From the Control Center, right
+-
+click on the client/patient line 
+and go to 
+Print | Document
+(or what it is you want print
+ed). 
+ Select 
+Print Preview
+. 
+
+
+ Select the printer icon with the question 
+mark
+.
+
+
+
+
+<<NEW PAGE 132>>
+
+
+ Choose the printer where you would like the document to print.
+ Enter the 
+Number of copies
+.
+ Click 
+Print
+.
+
+
+
+
+<<NEW PAGE 133>>
+
+
+C:\Users\cberg\AppData\Local\Temp\SNAGHTML13679d3e.PNG
+Signed Documents
+
+
+This window houses all signed d
+ocuments for 
+this account. For e
+xample, you can use the Topaz 
+Signature pad to sign for Credit Card Receipts, Estimates, Invoices, Boarding Release Form and the 
+Health and Rabies Certificates. 
+
+
+Reminders/Recommendations
+
+
+Th
+is
+wi
+ndow houses all the reminders, recomm
+endations, and callbacks for the selected patient. 
+Reminders show in black, overdue reminders show in red, recommendations show in purple, and 
+callbacks show in blue. This will help differentiate between the different types of items within this 
+window.
+
+
+T
+his window includes the following options:
+
+
+ New
+
+
+New
+allows the creation of a new reminder, recommendation, or callback. 
+
+
+
+
+<<NEW PAGE 134>>
+
+
+Select the reminder type, the code, the provider, 
+service date 
+and the due date. Click 
+OK
+to save 
+the information.
+
+
+ Edit
+
+
+Edit
+all
+ows t
+he selected reminder, recommendation, or callback code 
+to
+be edited. The 
+code 
+description and the 
+due date
+can 
+be changed.
+
+
+
+
+<<NEW PAGE 135>>
+
+
+ Manually Clear
+
+
+Select the code to 
+Manually C
+lear
+the reminder. Once the reminder is cleared, you will have the 
+option to 
+Undo Manually Clear.
+
+
+ Print Report
+
+
+Print R
+eport
+will print a report of the reminders, recommendations, and callbacks for the selected 
+patient.
+
+
+ Audit Trail
+
+
+The 
+Audit Trail
+prints a list of 
+all
+the reminders the selected patient has ever had. 
+It details ou
+t 
+what code 
+generated the reminder, the provider attached to the code, the date it was created, the 
+reminder due, if it was cleared, the number of recalls it had in a reminder search, if it was a 
+manually created reminder, and the date it is due.
+
+
+
+
+<<NEW PAGE 136>>
+
+
+Print 
+ID Collar
+
+
+The 
+Print ID Collar
+icon provides the option to print Pet Detect ID collars. It allows for several collar 
+sizes as well as special notations. 
+
+
+Print Patient List
+
+
+The 
+Print Patient List
+icon prints a list of patients for the client, and wil
+l note if they have a patient 
+operator warning.
+
+
+
+
+<<NEW PAGE 137>>
+
+
+Patient Check
+-
+In
+
+
+The 
+Patient Check
+-
+In
+icon allows a patient check
+-
+in report and label to be printed.
+
+
+Click the 
+Options
+button which allows for determining the number of visits and selection of what is
+to be printed.

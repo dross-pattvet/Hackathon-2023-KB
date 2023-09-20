@@ -1,0 +1,75 @@
+ The blank line at the bottom of the window can be used to include a 
+standard message 
+on each invoice
+. E
+xamples of commonly used messages are 
+practice 
+slogans, hours of 
+operation, emergency 
+practices 
+for after hours, etc
+. 
+o There is a 
+116
+-
+character
+limit. Letters, numbers, spaces and punctuation are 
+included in the charac
+ter count.
+
+
+ Click 
+OK
+to save your changes
+.
+
+
+ 
+
+
+Statemen
+t
+
+
+Statement
+Setup
+
+
+Statement
+setup defines the monthly statement parameters
+. T
+hese parameters are the general 
+guidelines
+for the preparation of 
+monthly billing 
+st
+atements. 
+You can customize c
+lient accounts 
+individually by editing the selections that affect the monthly statements in the Setup screen of 
+Edit Client
+. 
+
+
+Whether or not to charge
+billing fees an
+d interest is an option at the time of billing, so even if 
+monthly interest 
+and billing fees have
+been 
+defined, the client is not charged unless the account
+has been set
+to receive these charges, and the program 
+was set 
+to charge the client at the time 
+whe
+n monthly statements are generated.
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+|
+Program
+| General Branch Setup.

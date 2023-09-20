@@ -1,0 +1,242 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\Gencodes-Inventory.png
+ Make your changes and save the document with the same name or a new name. 
+ Click 
+OK
+.
+
+
+Inventory Code
+Setup
+
+
+Inventory codes
+are used for invoicing, documenting a history of prescribed medications, and 
+tracking inventory usage. 
+Create an inventory code for each item that you sell and any items for 
+which you wish to track the usage. 
+
+
+Inventory Codes 
+–
+B
+asic
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+| 
+General Codes
+|
+Inventory
+. 
+
+
+ To create a new 
+Inventory
+code, click 
+New
+at the bottom of the Inventory Code List 
+screen. 
+The Inventory Code window opens the 
+Basic
+tab by default.
+ Enter
+a 
+Code
+. 
+ Enter
+a 
+Desc
+ription
+. This description should be the terminology used in your 
+practice
+.
+ Client Description
+–
+The first description automatically fills in the 
+Client Description
+; 
+however, you can change the description to read differently so that it better explains 
+the
+charges to your clients. For example, the Description is “Torbugesic Injection”; 
+Client Description 
+–
+“Pain Injection.” Your employees will invoice the code as 
+Torbugesic Injection, but Pain Injection prints on the client’s invoice. 
+ Department
+–
+Every inventory code must be assigned to a department. This helps 
+determine where the information for this code prints on departmental productivity 
+reports and departmental listings. 
+ Species
+–
+C
+lick to assign a specific species to your code. A message will appear if this 
+code is invoiced under a different species. It will not prevent you from using the code 
+on the wrong species. (This is not a required field.)
+ Template
+–
+Each inventory code can be associated with a template for text so that you 
+can make consistent medical note entries. If you have a template defined that pertains 
+to this inventory item, enter the template code here. (This is no
+t a required field.)
+
+
+
+
+<<NEW PAGE 75>>
+
+
+ Provider
+–
+To set this inventory code
+to be credited to a particular provider, enter the 
+doctor’s code. This is particularly helpful if there are lab, grooming,
+or technical 
+procedures that should not report on the attending veterinarian’s productivity. (This is 
+not a required field.) 
+ Controlled Drug
+–
+Check this box if the item is a controlled subs
+tance. This will allow 
+for proper documentation to the controlled substance log.
+ Before saving your data, 
+select
+the 
+Pricing
+tab to complete the inventory setup.
+ Click 
+OK
+.
+ To revise an 
+Inventory Code
+, double
+-
+click the code/description in the Inventory Cod
+e 
+List screen, or click once to highlight and click the 
+Edit
+button at the bottom of the 
+screen.
+ Select the appropriate tab.
+ Make the necessary changes and click 
+OK
+.
+ To inactivate a Code/Description, highlight
+the desired code 
+and click the 
+Inactivate
+butt
+on at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+Inventory 
+Code 
+–
+Invoicing Options
+
+
+At the time of invoicing, you can overwrite data. By default, al
+l items are checked to be able to be 
+overwritten. Uncheck any item that you do 
+not
+want overwritten for a particular inventory code. 
+
+
+ Select
+the 
+Invoicing
+tab.
+
+
+At the time of invoicing:
+
+
+ Overwrite Date
+–
+Allows users to change the date on the 
+Invoice
+line. This is helpful if 
+you have a patient that has been treated over a period of time. The line items will be 
+entered into history using the date entered on the invoice. However, the accou
+nting 
+date
+for the entire invoice will be the date on which it is permanently saved. 
+
+
+
+
+<<NEW PAGE 76>>
+
+
+ Overwrite Description
+–
+Allows users to change the wording of the description o
+n the 
+invoice and in the patient history for this procedure code. This does not change the 
+description for this code for future use.
+ Overwrite Quantity
+–
+Allows users to change the quantity being cha
+rged.
+ Overwrite Price
+–
+Allows users to change the unit price for this inventory
+item at the 
+time of invoicing. If unchecked, the price cannot be changed and will remain the price 
+set 
+in 
+Inventory Code Setup
+.
+ Overwrite Amount
+–
+Allows users to change the total amount for the invoice line. If 
+unchecked, the amount will remain the total of the quantity times the unit price.
+ Apply Blan
+ket Discount
+–
+There are three selections for 
+Discounts
+(Percentage). Check 
+o
+ne.
+ Yes
+–
+allows a discount on this inventory
+item.
+ No
+–
+(default) not allowed on this inventory
+item.
+ Confirm
+–
+select at the time of invoicing if the code will be discounted.
+
+
+ Taxable
+ No Tax
+–
+(default) non
+-
+taxable inventory item.
+ Sales Tax
+–
+charges the primary 
+tax
+percent for this
+inventory item. 
+(Tax
+rates are set
+up in Setup | Program | General Branch Setup.)
+ Secondary Tax 
+–
+charges the Secondary Tax percent for this inventory item. (Tax 
+rates are set
+up in Setup | Program | General Branch Setup.)
+ Add Sales Tax and Sec

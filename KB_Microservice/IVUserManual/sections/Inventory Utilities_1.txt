@@ -1,0 +1,82 @@
+C:\Users\kelly werner\Desktop\Nancys Files\Users Guide Images\History Recall Corrections_3.jpg
+Inve
+ntory Utilities
+
+
+Before using 
+Inventory
+Utilities, make a full backup of your data.
+
+
+When you have more than one warehouse, you can transfer one warehouse’s entire inventory
+into 
+another warehouse
+. T
+his is useful when, for example, a warehouse is being closed.
+
+
+Warehouse Combine
+
+
+This utility combines warehouses by moving the quantities 
+on
+-
+hand
+from a second warehouse into 
+the first ware
+house.
+
+
+Alert your staff that 
+IntraVet
+will be unavailable while this utility is running.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Inventory Utilities
+| 
+Warehouse 
+Combine
+. 
+
+
+ Use the 
+down
+-
+arrow
+to select which 
+Warehouse
+to keep.
+ Use the 
+down
+-
+a
+rrow
+to select which 
+Warehouse
+to discard (and whose inventory will be 
+transferred to the kept warehouse).
+
+
+It is strongly recommended that you make a full backup of your data files before starting this 
+utility
+.
+
+
+This utility 
+cannot be stopped once the Start
+button is clicked
+. The program makes the 
+changes and automatically closes the window.
+
+
+ Click 
+Start
+.

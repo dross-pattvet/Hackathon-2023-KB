@@ -1,0 +1,103 @@
+F:\eShelf Screenshots\Process PO.PNG
+ If order is complete, c
+heck the box to Complete Order and 
+click 
+S
+ave
+.
+
+
+ 
+
+
+ This will remove it f
+rom the purchase order list since it is now completed. 
+
+
+Inventory Warehouse
+Transfers
+
+
+If you have more than one warehouse set up, use this utility to move inventory between 
+warehouse locations
+. T
+here is a transfer repo
+rt available to view previous transfers, if needed.
+
+
+How to Transfer Inventory to Another Warehouse
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Inventory
+|
+Inventory Warehouse Transfers
+. 
+
+
+ Enter the Warehouse you want to 
+Transfer From
+.
+ Enter the Warehouse you want 
+to 
+Transfer To
+.
+ Double
+-
+click in the 
+Item to Transfer
+field
+, or type the code or description in the field for 
+the item(s) you wish to transfer.
+ Double
+-
+click or p
+ress Enter
+on the keyboard
+to 
+confirm
+your selection. 
+ Enter the quantity to be transferred. 
+Th
+e number 
+on the Transfer From s
+ide will 
+decrease 
+by the amount to be transferred on the Transfer To side.
+
+
+
+
+<<NEW PAGE 219>>
+
+
+ Click the 
+Add Item to Transfer List
+button to add.
+ There is also an option to 
+Load Items below Reorder Level
+. 
+ When you have finished adding the it
+ems to be transferred, c
+lick 
+Save
+.
+ The new on
+-
+hand quantities are shown in red for both warehouses
+below as each line 
+item in the grid is highlighted. The expiration dates 
+(if applicable) 
+are shown for 
+reference 
+on the right
+.
+
+
+ Click 
+Tra
+nsfer Items
+.

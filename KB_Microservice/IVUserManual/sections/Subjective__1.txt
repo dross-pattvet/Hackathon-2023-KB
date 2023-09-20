@@ -1,0 +1,39 @@
+Subjective
+:
+
+
+ Click the 
+Subjective
+tab to enter presenting complaints.
+ To 
+enable edits,
+c
+lick the 
+Include
+box.
+ In the middle of the screen, c
+lick the drop
+-
+down box and scroll to select the desired 
+code/description
+. Click Add to move it to the code/description grid.
+ To remove an 
+item, right
+-
+click 
+on the line item 
+and select 
+Delete
+. 
+Delete All
+will remove 
+all the codes/descriptions
+. 
+ To add notes to your custom template, click in the blank field at the bottom. 
+Enter
+in
+formation pertaining to this template.
+ To continue, select ano
+ther tab. To accept your changes and close, click 
+OK
+.

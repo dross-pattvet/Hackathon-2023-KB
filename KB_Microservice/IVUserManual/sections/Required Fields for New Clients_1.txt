@@ -1,0 +1,113 @@
+ COD
+–
+Calculates interest charges on items not paid
+,
+the day after
+the service was 
+rendered.
+ 30 Days
+–
+Calculates monthly interest 
+charges 
+only on items not paid 
+within 
+30 days 
+after the date of service.
+ 60 Days
+–
+Calculates monthly interest 
+charges 
+only on items not paid 
+within 
+60 days 
+after the date of service.
+ 90 Days
+–
+Calculates monthly interest 
+charges
+only on items not paid 
+within 
+90 days 
+after the date of service.
+
+
+Required
+Fields
+for New Clients
+
+
+Certain client information can 
+be 
+set
+up to be marked as required
+. 
+The required inf
+ormation must 
+be entered into the system before the account can be fully created.
+
+
+If 
+you 
+attempt to save an account with missing 
+required 
+information
+,
+you will receive
+an 
+error 
+message stating 
+which
+field 
+is missing data
+. 
+You will
+continue to receive an 
+e
+rror message
+until 
+all 
+data in 
+the 
+required fields has been
+entered. 
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup
+| 
+Program
+| 
+General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, o
+r 
+double
+-
+click
+the Branch.
+
+
+Select
+the plus sign (
++
+) in front of 
+Account Setup
+.
+
+
+ Select
+Required Fields
+. 
+ Check the fields required to be completed when setting up 
+a new client
+.
+ Click 
+OK
+to save your changes
+.

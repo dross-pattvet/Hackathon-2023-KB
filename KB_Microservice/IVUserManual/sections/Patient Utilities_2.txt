@@ -1,0 +1,350 @@
+.
+
+
+Patient 
+–
+Is the patient that is to be deleted from the system.
+
+
+De
+lete
+–
+Removes the selected Patient from the system.
+
+
+Cancel 
+–
+Closes the screen without saving changes.
+
+
+Security
+
+
+You must have security options/permission to access and run the utility. 
+
+
+The patient delete option must be checked under 
+Setup | Security | S
+ecurity Templates
+. 
+
+
+ Select the template to which you need access. 
+ Go to 
+Area of System | Utilities
+, and check the 
+Patient Delete
+box. 
+ Click 
+OK
+to save.
+
+
+
+
+<<NEW PAGE 451>>
+
+
+Multi
+-
+User
+
+
+Running the utility requires exclusive use.
+
+
+Apply Species Setup to Patient File
+
+
+The patient variables 
+Keep Medical History
+, 
+Update Reminders
+, and 
+Send Reminders
+may be 
+preset by species
+. A
+s you enter a patient into the database, the variables are preset according to 
+its species
+. S
+p
+ecies are set up in 
+Setup
+/
+General Codes
+/
+Patient
+. T
+his utility function applies the 
+changes that you made in your species setup to all patients in your database. 
+
+
+ From the
+IntraVet
+Menu Bar, 
+select
+Tool
+| 
+Utilities
+| 
+Patient Utilities
+| 
+Apply Species 
+Setup
+to Patient File
+. 
+
+
+ Click 
+Start
+to apply the presets. 
+
+
+Click 
+Close
+any time prior to clicking 
+Start
+if you want to exit without making changes; 
+otherwise, a progress bar activates, and the window closes when the task finishes. 
+
+
+M
+ass Patient Status Chang
+e
+
+
+This utility changes patient status from 
+“
+active
+”
+to the selected status option
+. T
+he objective is to 
+mark the patients that have been inactive in your system for some time and move th
+em to inactive 
+status so that they will not be included in reminders and searches for mailings. 
+
+
+
+
+<<NEW PAGE 452>>
+
+
+NOTE
+:
+It is strongly recommend
+ed
+that
+you do a full back
+up of your 
+IntraVet
+system before running this 
+utility.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Util
+ities
+| 
+Patient Utilities
+| 
+Mass Patient 
+Status Change
+. 
+
+
+ Enter
+a species code or description to select the species you want to change, or scroll to 
+your choice. Double
+-
+click on the name to move it in the blank entry line. (The screen 
+will default to Al
+l Species.) 
+ Enter a date for 
+Change status for patients with no activity since
+, or use the down
+-
+arrow to select a date from the calendar. The date cannot be later than 12/31/2011. 
+ Either double
+-
+click in the blank entry line or use the down
+-
+arrow to sele
+ct the status 
+you want to apply to the group of patients. 
+ If
+you establish a date above
+you can uncheck the 
+Last Activity
+box.
+ Click 
+Start
+to begin the status change utility. 
+
+
+It is strongly recommended 
+that you make a full backup of your data files befor
+e starting 
+this utility
+.
+
+
+Mass Patient Delete
+
+
+This utility removes patients, patient demographics and medical histories for patients that fit the 
+selected criteria; however, only data stored in
+your computer 
+prior to
+December 31, 2011
+can be 
+mass deleted. 
+
+
+
+
+<<NEW PAGE 453>>
+
+
+This is useful to remove patients that have not been in your 
+practice
+for a long span of time, for 
+example, and those that have had a change in their status, e.g., patient was given away
+. T
+he
+se two 
+options must be run at separate times.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Patient 
+Utilities
+| 
+Mass Patient 
+Delete
+. 
+
+
+ Select the species you want to change in the 
+Species to Delete
+entry line. 
+Enter
+the 
+code or description, if y
+ou know them, or make your selection from the list. Double
+-
+select
+your choice to move it in the blank field. System defaults to <ALL>.
+ Under
+Delete Patients with…
+you can
+select a
+n option
+,
+then 
+e
+nter
+a
+date
+or choose a 
+date from the drop
+-
+down calendar. 
+Remember, the date must be before 12/31/2011.
+ Select one of the following:
+• No Activity Since
+• Status Changes On or Before 
+
+
+This activates the third section of filters. Click in each box to remove patients with those 
+statuses.
+
+
+ Click 
+Start
+.
+
+
+To run a second f
+ile purge:
+
+
+ Repeat the steps
+from above. 
+
+
+It is strongly recommended that you make a full backup of your data files before starting this 
+utility
+.
+
+
+
+
+<<NEW PAGE 454>>
+
+
+History 
+Recall Corrections
+
+
+History 
+and Recall Corrections
+applies all current reminder settings to patient history files
+. I
+f you 
+have made changes to the reminder relationships or intervals in your codes, those changes will 
+only be effective from the date of the change forward
+. T
+his 
+utili
+ty
+must be run to correct older 
+patient reminders so that they will reflect the new settings. 
+
+
+ From the 
+IntraVet
+M
+e
+nu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Patient Utilities
+| 
+History 
+Recall 
+Corrections
+. 
+
+
+ Check the box to 
+Remove inactivated codes from Medical 
+History
+if you 
+want to discard 
+codes no longer in use.
+ If this option is selected it may extend the processing time of the utility. 
+
+
+ Click 
+Start
+, or if you do not want to run this utility, click the 
+X
+in the upper right corner 
+of the window to exit.

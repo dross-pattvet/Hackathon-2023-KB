@@ -1,0 +1,326 @@
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+. 
+ Click 
+OK
+.
+ To revise 
+the
+Description
+of an existing Department Code, click once to highlight, and 
+then click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To inactivate
+a Cod
+e/Description, 
+highlight the desired code 
+and 
+click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+Diagnosis Code Setup
+
+
+Diagnosis Codes
+allow for
+enter
+ing
+a diagnosis in an invoice
+. P
+atient history 
+or visit allows you to
+search for patients later that have had that diagnosis.
+
+
+Diagnosis Codes 
+–
+Basic Tab
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup | General Codes
+|
+Diagnosis
+.
+
+
+
+
+<<NEW PAGE 66>>
+
+
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Diagnosis.png
+ To create a new 
+Diagnosis
+code, click 
+New
+at the bottom of the Diagnosis Code List 
+screen (under the Basic tab).
+ Enter
+a 
+Code
+.
+ Enter
+a 
+Description
+.
+ Enter
+a 
+Client Description
+. Use terminology that a client will better understand. For 
+exampl
+e, the Description might be “Dental Prophy,” but the Client Description would 
+be “Dental Cleaning.”
+ Choose a 
+Provider
+from the drop
+-
+down list
+(optional)
+.
+ Select a 
+Template
+from the drop
+-
+down
+list
+(optional)
+.
+ To add to the 
+Problem List
+automatically when this diagnosis is assigned in a Visit
+, click 
+Yes
+,
+otherwise click 
+No
+.
+ Click 
+OK
+.
+ To revise 
+information for
+an existing Diagnosis Code, highlig
+ht
+the desired code
+and 
+click the 
+Edit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+.
+ To 
+inactivate
+a Code/Description, highlight the desired code
+and 
+click the 
+Inactivate
+button at the bottom of the screen. (A second chance 
+warning will appear asking to 
+confirm the decision to 
+Inactivate
+.
+)
+
+
+
+
+<<NEW PAGE 67>>
+
+
+Diagnosis Code 
+–
+Message
+Tab
+
+
+Messages on an
+invoice can help educate clients. 
+Procedures often have side effects or 
+precautions that can be printed on th
+e invoi
+ce to help rei
+nforce th
+e information 
+give
+n to
+clients in 
+the exam room. 
+
+
+ Enter a message to be printed on the invoice
+(total 480 characters and/or 6 lines of 
+text) and/or use 
+Select Canned Text
+–
+prints on the invoice when this diagnosis code is 
+entered on an invoice.
+ Print Documents 
+–
+If 
+LifeLearn Client SA8 Handouts
+w
+ere
+purchased
+, some documents 
+automatically attach wh
+en the LifeLearn installation CD is run. Any documents that 
+have been created as client handouts (limit is 3 documents) may also be attached.
+ To revise 
+the
+Description or Message
+of an existing Diagnosis Code, click once to 
+highlight, and then click the 
+E
+dit
+button at the bottom of the screen.
+ Make the necessary changes and click 
+OK
+. 
+ To 
+inactivate
+a Code/Description, 
+highlight
+the desired code 
+and 
+click the 
+Inactivate
+button at the bottom of the screen. (A second chance warning will appear asking to 
+con
+firm the decision to 
+Inactivate
+.
+) 
+See both graphics below.
+
+
+
+
+<<NEW PAGE 68>>
+
+
+Diagnosis Code 
+–
+Reminders
+Tab
+
+
+Reminder
+setup is important for sending reminders at regular intervals. 
+A reminder for a diagnosis 
+code is cre
+ated like a reminder for procedure
+and inventory codes
+. A
+reminder can be set up as a 
+Reminder
+or
+a 
+Callback
+reminder that creates a reminder but does not clear
+any previous 
+reminders. 
+
+
+ Select
+the 
+down
+-
+arrow
+in the 
+Description
+field and select the 
+code/
+description for the 
+reminder.
+ Select
+the 
+down
+-
+arrow
+next to 
+Reminder
+and choose 
+Reminder
+or
+Callback
+for this 
+reminder. 
+ Enter
+the number of days in which the remi
+nder will generate a due date.
+ If
+Callback
+is selected
+, set the number of days in which it will 
+clear
+.
+ Click
+Add
+to set the reminder. 
+Multiple manual reminders or callbacks can be set.
+ Check the 
+Qty
+box if this is a reminder
+in which the date needs to change based on the 
+quantity of the code entered
+. T
+his feature is used mostly with inventory items such as 
+Heartworm or Flea & 
+Tick preventative
+. I
+f 
+30 
+is entered and 
+Qty
+is checked
+, the 
+reminder will be created 30 days
+later for every item sold, in 60 days if 
+two are 
+s
+old
+, in 
+90 days 
+if three are sold
+, etc.
+
+
+Clear
+reminder
+also for
+–
+When a code is selected, it will clear due reminders for the code 
+entered below
+.
+
+
+ Click 
+Add
+. A
+n unlimited
+number of related codes 
+may be added 
+to clear when this code 
+is entered.
+ Click 
+OK
+.

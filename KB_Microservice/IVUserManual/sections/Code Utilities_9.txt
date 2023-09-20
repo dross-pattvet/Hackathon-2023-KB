@@ -1,0 +1,50 @@
+ Select the 
+Import LifeLearn
+from CD radio button.
+
+
+
+
+<<NEW PAGE 486>>
+
+
+ Click 
+Browse
+. 
+
+
+ Browse for Folder
+screen will open.
+ Select
+Computer
+(or My Computer) and find the drive where your CD is locat
+ed.
+ Click 
+OK
+.
+ Click 
+Start
+.
+
+
+NOTE: 
+This utility cannot be interrupted or stopped once th
+e Start button is clicked. The 
+program 
+makes the changes and automatically closes the window.
+
+
+Reformat Existing LifeLearn Installation 
+
+
+ Select the 
+Reformat Existing L
+ifeLearn Installation
+radio button.
+ S
+elect the document
+;
+double
+-
+click to open
+.

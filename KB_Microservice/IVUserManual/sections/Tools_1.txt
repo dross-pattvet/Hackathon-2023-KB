@@ -1,0 +1,83 @@
+Tools
+
+
+Within the 
+IntraVet
+software there are several types of tools that should be used 
+cautiously
+. 
+T
+hese 
+are included in 
+Utilities
+and 
+Maintenance
+within the 
+Tools
+menu
+. M
+ost of these tools require 
+exclusive use:
+the user
+running the utility
+can 
+be the 
+only
+user
+within IntraV
+et. 
+T
+he utilities and 
+maintenance programs in this section can have a 
+majo
+r global impact 
+on the way your system 
+operates. 
+
+
+NOTE:
+It is imperative to do a system backup prior to working with the Tools section of the 
+IntraVet
+program.
+
+
+Utilities
+
+
+Branch Utilities
+
+
+Before using Branch
+Utilities, make a full ba
+ckup of your data.
+
+
+Branch Combine
+
+
+The 
+Branch Combine
+utility allows you to take all data associated with one branch and add it to 
+another branch
+. T
+his utility
+is useful when a branch is no longer needed: perhaps a branch was 
+sold or closed
+. A
+ll setup items for the branch to be deleted (combined) are removed from the 
+system.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities | 
+Branch 
+Utilities
+| 
+Branch Combin
+e
+.

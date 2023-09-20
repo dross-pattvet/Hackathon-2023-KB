@@ -1,0 +1,90 @@
+A walk
+-
+in emergency will be time
+-
+stamped with the current time when you begin the check
+-
+in 
+process.
+
+
+Hosp
+italization Services
+
+
+If it is necessary to hospitalize the patient, you can change the patient’s status to 
+Hospitalize
+either 
+directly from scheduled status or after check
+-
+in is complete. 
+
+
+ To change a patient status to 
+Hospitalized
+either
+right
+-
+click on the client/patient line
+and select 
+Hospitalize
+, or 
+select
+Hospitalize
+under the Patient Status/Status column. 
+
+
+
+
+<<NEW PAGE 252>>
+
+
+ To change a patient status to 
+Remove Hospitalization
+either
+right
+-
+click on the 
+client/patient line and select 
+Remove Hospitalization
+, or 
+select
+Remove Hospitalization
+under the Patient Status/Status column.
+
+
+ Double
+-
+click on a 
+Client
+/
+Patient
+line
+to open the Visit window
+if your Visit Settings are 
+set up accordingly; otherwise, right
+-
+click on the client/patient line and select 
+Open 
+Visit
+.
+
+
+ If services are pre
+-
+loaded from the Visit
+template, right
+-
+click and choose 
+Send A
+ll 
+to 
+I
+nv
+oice
+to quickly confirm all charges. 
+ Vitals
+, 
+Body System
+and other me
+dical notes may be added or removed.

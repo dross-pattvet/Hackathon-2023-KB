@@ -1,0 +1,48 @@
+ Click 
+Print Report
+.
+
+
+Changing the Patient’s Visit Status
+
+
+Patient status is controlled and displayed in both the center pane and the left panel of the Control 
+Center. 
+
+
+The center pane is where the patient visit displays.
+
+
+To c
+hang
+e the patient’s visit status, right
+-
+cl
+ick
+on the c
+lient/patient line and select
+a new status.
+Depending on your patient’s new status, you have other options. 
+Normally
+, the status changes as 
+follows:
+
+
+ The patient status starts out as 
+Scheduled
+because most line items start as an 
+appointment, drop
+-
+off or reservation made in advance.
+ When
+the patient arrives, choose 
+Check I
+n
+to process th
+e check
+-
+in, and change 
+the patient’s status at that time.
+ Another way to get status options is to right
+-
+click on a patient line.

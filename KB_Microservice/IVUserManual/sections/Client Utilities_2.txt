@@ -1,0 +1,78 @@
+ text at the bottom of the window, and it will change according to 
+the current year of operation. 
+
+
+You must 
+make a full back
+up before running this utility
+. Once clients are 
+inactivated
+, your only 
+option is to restore the data from backup data.
+
+
+ From the
+IntraVet
+Menu Bar, 
+select
+Tools
+| Utilities
+| 
+Client Utilities
+| 
+Mass Client 
+Inactivate
+. 
+
+
+ Either 
+e
+nter
+a date in the top blank entry line, or click the 
+down
+-
+arrow
+and choose a 
+date from the calendar.
+ To select a 
+Classification
+, click the down
+-
+a
+rrow. Single
+-
+click to select.
+ Place a check 
+mark 
+in 
+the box to filter 
+by:
+ Inactivate only clients with no patients
+. 
+ Inactivate temporary clients only
+.
+
+
+
+
+Make a full backup of your database before starting this utility.
+
+
+ When you are ready to start this uti
+lity click 
+Start
+. 
+
+
+When you run this utility, clients with balances, clients with future appointments or boarding 
+reservations, and clients set up
+for split billing will not be 
+inactivated
+.
+
+
+If the utility is aborted or interrupted while running, it will ha
+ve 
+inactivated
+only the clients listed 
+up until the time it was stopped.

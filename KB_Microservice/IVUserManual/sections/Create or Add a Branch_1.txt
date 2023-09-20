@@ -1,0 +1,147 @@
+ Messenger 
+–
+Chat with employees within your practice to let them know when a 
+patient is in th
+e exam room.
+ Setup
+–
+This is where you go to set
+up your system
+ Windows 
+–
+List the windows or screens currently open.
+ Tools
+–
+System utilities and maintenance are accessed from here
+including the Printer 
+Setup.
+ Help
+–
+Locate the User’s Guide, remote suppor
+t, and information regarding your 
+program.
+
+
+These icons allow 
+you
+to 
+quickly 
+access the most used portions of the software. 
+
+
+Open Account
+
+
+Appointment Calendar
+
+
+Invoice
+
+
+Boarding Availability 
+
+
+Payments
+
+
+Pending Charges 
+
+
+Estimates
+
+
+Lab Res
+ults
+
+
+Transactions
+
+
+Time Clock
+
+
+Prescriptions
+
+
+ePetHealth 
+–
+this button will open a web 
+browser and take you to the ePetHealth 
+provider portal home page
+
+
+Documents
+
+
+Change 
+Branch/Warehouse 
+(This only appears if you have 
+more than 1 warehouse or br
+anch.)
+
+
+Control Center 
+
+
+Close
+
+
+Wild Search
+
+
+
+
+General
+
+
+Create or Add a Branch
+
+
+Once your initial branch has been entered, follow the same process from the Branch List screen by 
+selecting the 
+New
+button at the bottom of the screen. Repeat the process 
+for entering additional 
+branch’s information.
+
+
+ From
+the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Program
+| 
+General Branch Setu
+p.
+
+
+
+
+<<NEW PAGE 11>>
+
+
+
+
+ From the Branch List click 
+New
+to create or 
+Edit
+to make changes to a branch.
+
+
+ Click 
+the 
+Enable Equine Specifi
+c Procedures
+c
+heckbox if 
+you
+accept equine patients
+.
+ Click the 
+Open Control Center when starting IntraVet
+checkbox if you want the Control 
+Center to open automatically when you start up IntraVet.

@@ -1,0 +1,149 @@
+nked 
+to an inventory code to create groups. 
+When an inventory item is linked, it depletes from 
+the
+inventory numbers 
+once
+that code is
+invoice
+d
+.
+
+
+ Click the 
+Linked Items
+tab.
+ In the blank field at the bottom of the window, 
+enter an item you want to link to this 
+code. You can 
+e
+nter
+the first few letters of the item to quickly go to that alphabetical 
+listing. Double
+-
+click on the code or description to move the code into the blank line. If 
+an incorrect item is chosen, 
+select
+Clear Entry Line
+to remove it from the field.
+ Click the 
+down
+-
+arrow
+for 
+Print/Update
+and choose one of the following:
+ Update
+–
+depletes inventory
+but does not show on the invoice/visit.
+ Print/Update
+–
+prints on the invoice and depletes inventory.
+ Edit/Update
+–
+allows the item to be edited (such as quantity, etc.) while invoicing and 
+depletes inventory but does not print out.
+
+
+
+
+
+
+<<NEW PAGE 85>>
+
+
+ Quantity (Qty)
+–
+This is
+a default quantity of a linked item
+.
+ Price and Amo
+unt
+–
+The price 
+(cost of an individual unit) 
+and amount (qty x price) of 
+the item will appear in the next fields as a reference (
+t
+he selling price of the linked code 
+is defaulted and can only be changed at the time of invoice if the linked item is set to 
+E
+dit/Update
+, Print/Update,
+or if you set the linked item up as discounted within the 
+linking).
+ Click
+Add
+to move your selection into the upper grid.
+ Add additional codes to link as necessary. 
+ Click 
+OK
+.
+
+
+To edit or make changes to the Linked Items
+
+
+ D
+ouble
+-
+cl
+ick the code/description in the Inventory Code List screen, or highlight
+the 
+code
+and click the 
+Edit
+button at the bottom of the screen.
+ Select
+the 
+Linked Items
+tab. 
+ To add another item to the linked list, type a parti
+al code or description into the blank 
+entry line under the grid, or double
+-
+click in the line and scroll to your selection. Then, 
+click 
+Add
+to move it into the blank line.
+
+
+
+
+<<NEW PAGE 86>>
+
+
+ Repeat
+steps above
+.
+ Right
+-
+click on the item, select Discount. 
+Enter
+the amo
+unt you want to 
+discount the item. IntraVet fills in the rest of the data.
+ When you are finished, click 
+OK
+to save your data, or click 
+Cancel
+to not make a 
+discount change.
+
+
+ If you want to remove an item, right
+-
+click on any line and choose 
+Delete
+.
+ When y
+ou are done adding and deleting items, click 
+OK
+.
+ To inactivate an inventory code
+, locate it. 
+Select
+it and click the 
+Inactivate
+button.

@@ -1,0 +1,257 @@
+nt amount between line item discounts and percentage 
+discounts.
+
+
+Payments
+
+
+The 
+Payments
+tab shows the applied payments within the op
+en invoice.
+
+
+Right
+-
+click allows the payment to be edited or removed. 
+
+
+Add Payment
+
+
+The 
+Add Payment
+button allows a payment to be added to the invoice. 
+
+
+There is a branch drop
+-
+down to assign the payment to a specific branch (if there is more than one 
+br
+anch set
+up). 
+
+
+It has a description, type, and amount fields that can be filled in with the appropriate information. 
+
+
+Click the 
+Add Payment
+button to apply multiple payment types within this window as well as 
+multiple entries for the same payment type, s
+uch as two separate card payments. 
+
+
+The 
+Confirm Change
+button implies that the customer wants change back. If the Confirm Change 
+button is not clicked, the customer will get a credit on their account for the amount of the change.
+
+
+
+
+<<NEW PAGE 146>>
+
+
+Processing Card Payme
+nts
+
+
+IntraVet integrates with X
+-
+C
+harge, an OpenE
+dge product, which allows offices to process credit 
+cards.
+
+
+To accept a credit card payment 
+using X
+-
+C
+harge
+, 
+use the following instructions. 
+These instructions 
+are used with a card that is 
+swiped
+or a card that
+is dipped
+. 
+A dipped card refers to a card that is 
+processed using the chip instead of the magnetic strip.
+
+
+ Change the payment Type to 
+Card
+.
+ Enter a dollar amount
+.
+ Set the Card Type by clicking on either 
+Credit
+or 
+Debit
+.
+ Select
+the drop
+-
+down arrow next to 
+Card Type 
+to display card names. Double
+-
+click on a 
+card name.
+ Click 
+Add Payment
+.
+ Select
+either 
+Print / Save
+or 
+Save
+.
+ Swipe the card.
+ Payment should process automatically after swiping.
+
+
+To add a 
+keyed
+card payment:
+
+
+ Change the payment Type to 
+Card
+.
+ Enter a
+dollar amount
+.
+ Set the Card Type by clicking on either 
+Credit
+or 
+Debit
+.
+ Select
+the drop
+-
+down arrow next to 
+Card Type 
+to display card names. Double
+-
+click on a card 
+name.
+ Click 
+Add Payment
+.
+ Select
+either 
+Print / Save
+or 
+Save
+.
+ Manually key in the card number
+and other required fields.
+
+
+
+
+<<NEW PAGE 147>>
+
+
+ Click 
+Process
+.
+
+
+T
+o accept a credit card payment 
+using another card processor
+,
+use the following instructions. 
+
+
+ Change the payment Type to 
+Card
+.
+ Enter a dollar amount
+.
+ Set the Card Type by clicking 
+Non
+-
+Merchant
+.
+ Select
+the drop
+-
+d
+own arrow next to 
+Card Type 
+to display card names. Double
+-
+click on a 
+card name.
+ Click 
+Add Payment
+.
+ Click 
+Yes
+on the “Continue?” prompt.
+ Select
+either 
+Print / Save
+or 
+Save
+.
+
+
+Documents
+
+
+The 
+Documents
+tab shows the documents set
+up to print when certain codes a
+re added to the 
+invoice.
+
+
+ Check to indicate the document has already been printed. 
+ Right
+-
+click to add a new document
+, label, certificate, routing sheet or Check
+-
+In Report
+to print with the invoice (if it is not attached to a code). 
+ Right
+-
+click and selec
+t 
+Print
+to print the document now
+or 
+Action
+to set it to print 
+automatically at check
+-
+in or check
+-
+out.
+ Right
+-
+click and select 
+Remove
+to remove a document from the list.
+
+
+Delete
+
+
+When the 
+Delete
+button 
+is 
+selected,
+it will delete the selected line item in t
+he invoice. 
+There will be 
+no confirmation or warning.

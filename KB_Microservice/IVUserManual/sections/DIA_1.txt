@@ -1,0 +1,54 @@
+Other Programs Setup
+
+
+DIA 
+
+
+DIA
+is a 
+client 
+education program that is integrated into 
+IntraVet
+. O
+nce you install DIA, you can 
+access its files from 
+IntraVet
+.
+
+
+Settings
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Setup
+| 
+Other Programs
+|
+DIA Setup.
+
+
+ If you have the full DIA program, 
+enter
+the path or use the 
+ellipsis button and 
+navigate to the location where DIA is stored, and select to enter that path in the 
+DIA 
+Executable 
+Path
+field.
+ If you have the DIA
+Lite program, 
+enter
+the path or use the 
+ellipsis button and 
+navigate to the location where DIA is stored, and select to enter that path in the 
+DIA 
+Lite Path
+field
+.
+ Click 
+OK
+.

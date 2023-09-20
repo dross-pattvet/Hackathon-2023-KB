@@ -1,0 +1,70 @@
+Tasks
+
+
+Tasks can be create
+d and associated with visit templates and/or 
+free formed
+as needed. 
+They can 
+be assigned to particular users and marked as complete to track what needs to be done in an 
+ongoing patient visit
+. See “
+How to Enter and Manage Tasks.
+”
+
+
+Working with Visits
+
+
+Vi
+sit Templates
+can be 
+added to appointments and/or Control C
+enter entries upon scheduling or 
+editing the appointment
+. The 
+visits follow the process outlined below.
+
+
+The appointment, reservation or drop
+-
+off is entered
+in the appointment calendar
+or Control 
+C
+enter
+.
+The type of template should be entered or selected
+at this time
+. 
+The visit is then 
+“scheduled.” 
+S
+ervices and notes can be added without checking in the patient.
+
+
+Refer to the 
+Control Center
+chapter, 
+Process
+the Check
+-
+in
+–
+Walk
+-
+in Emergency
+for additional 
+information about checking in a walk
+-
+in emergency or a patient whose status is inactive
+.
+
+
+Patient Visit
+Overview
+
+
+When the patient arrives, begin the check
+-
+in process from the Control Center window.

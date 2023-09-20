@@ -1,0 +1,287 @@
+ the selling price. If this option is 
+checked, and 
+Yes
+is selected, the selling price is marked up by the last percentage
+used for this item.
+
+
+Basic
+
+
+ Controlled Drug
+–
+If this field is checked, the item is marked as a controlled 
+substance. When you dispense a controlled 
+substance,
+it appears on the controlled 
+substance report.
+
+
+
+
+<<NEW PAGE 479>>
+
+
+ Species
+–
+Species can be defined for an inventory
+code. Codes with a defined 
+species generate a warning when invoiced for a different species. If a species is 
+selected, that inventory code is set.
+
+
+Purchasing
+
+
+ Optimal Quantity
+–
+Enter the quantity 
+on
+-
+hand
+for this item that is an 
+acceptable level. When t
+he quantity 
+on
+-
+hand
+falls below the number entered 
+in this field, it appears on the Inventory Reorder Report.
+ Reorder Level
+–
+This field indicates the quantity of an item that needs to be 
+ordered
+. 
+This is for information purposes only and does not otherwi
+se affect 
+the system.
+
+
+Discount 
+
+
+ No
+–
+If No, the selected codes will not be marked as discountable.
+ Yes
+–
+If Yes, the selected codes will be marked as discountable.
+ Confirm 
+–
+There will be a pop
+-
+up message asking you to confirm whether or not 
+tax should be 
+charged.
+
+
+Action
+
+
+ Apply To All
+–
+If this button is clicked, it applies to all codes. It does not Apply 
+To All until after Save is clicked. 
+When this option has been selected it 
+highlights in blue. Only 1 apply option can be selected. If Apply To All is 
+s
+elected, you cannot choose Apply To Selection.
+ Apply To Selection
+–
+If this button is clicked, it applies to the selected codes. 
+When this option has been selected it highlights in blue. Only 1 apply option 
+can be selected. If Apply To Selection is sele
+cted, you cannot choose Apply To 
+All.
+ Save
+–
+Save will take the apply option selected and save the selected changes 
+to the selected code/s. If there is not an apply option selected before you click 
+save, it will only make the changes to the selected code/
+s.
+
+
+If the 
+Save
+button is clicked to save changes without selecting 
+Apply
+To All
+or 
+Apply 
+To Selection
+buttons the following message appears: 
+
+
+ Cancel
+–
+Cancels all changes and takes you back to the main IntraVet screen. 
+
+
+
+
+<<NEW PAGE 480>>
+
+
+Security
+
+
+You must have security
+options
+/
+permission to access and run the utility. 
+
+
+The 
+Inventory Code Quick Edit
+option must be checked under 
+Setup | Security | Security 
+Templates
+. 
+
+
+
+
+<<NEW PAGE 481>>
+
+
+Select the template to which you need access. Go to 
+Area of System | Utilities
+, and check the 
+Inven
+tory Code Quick Edit
+box. Click 
+OK
+to save.
+
+
+Multi
+-
+User
+
+
+Running the utility requires exclusive use.
+
+
+Procedure Code Quick Edit
+
+
+Procedure Code Quick Edit
+allows you to
+change 
+certain 
+pro
+cedure code set
+tings
+globally, 
+departmentally, or individually
+. Y
+ou can select default settings for more than one field to create a 
+profile and apply the profile to all inventory codes, to specific departments or to individually 
+selected codes. 
+
+
+The setti
+ngs for the procedure codes are originally set
+up for the code under 
+Setup | General Codes 
+| Procedure
+. Select a code and click Edit, and then click the Invoicing tab.
+
+
+From the 
+IntraVet
+Menu Bar, select 
+Tools
+| 
+Utilities
+| 
+Code Utilities
+| 
+Procedure Code 
+Quick Edit
+. 
+
+
+When you enter the utility, one code will be selected and the current settings are reflected in the 
+right pane for that code. You can select default settings for more than one field to create a profile 
+and apply the profile to the selected 
+procedure codes.
+
+
+To select multiple codes:
+
+
+ Hold down the 
+Ctrl
+key to highlight and select multiple (non
+-
+consecutive) codes. 
+ Hold down the 
+Shift
+key to highlight and select multiple (consecutive) codes. 
+
+
+
+
+<<NEW PAGE 482>>
+
+
+You can use the utility when you have multiple Pro
+cedure codes that need to be edited. Codes 
+that were not set
+up properly initially can be corrected in the utility. Run the Procedure Code 
+Quick Edit utility, which sets the codes to the preferred settings.
+
+
+The list of codes can be filtered by:
+
+
+ Descripti
+on 
+–
+Explanation of item.
+ Code 
+–
+Alpha/numeric numbering that identifies the Description.
+ Department 
+–
+Section of your practice.
+ Species 
+–
+Type or variety of animal.
+
+
+
+
+Action
+
+
+ Show All 
+–
+Shows all the Procedure codes set
+up within IntraVet. If there is a fil
+ter 
+set and you click 
+Show All
+, it ignores the filter and shows all the procedure codes.
+ Filter 
+–
+Filters the Procedure codes to only show those that meet the requirements 
+added for Description, Code, Department, and Species.
+
+
+When you have a single code hi
+ghlighted in the left pane, its current setup is reflected on the right 
+pane. If there is more than one item highlighted, the right pane has everything unchecked at the 
+top, with no tax, and no discount. 
+To
+change the 
+values,
+you must 
+select
+the red flag
+so it changes 
+to green. If the flag remains red, the codes selected do not update.
+
+
+The f

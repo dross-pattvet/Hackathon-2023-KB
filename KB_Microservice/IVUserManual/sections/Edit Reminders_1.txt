@@ -1,0 +1,127 @@
+Both the 
+Attach
+ment
+and image enhancement windows can be resized by clicking on an edge 
+and dragging the mouse.
+
+
+If you make changes to an image, you can save it under a different name to preserve the 
+original image or overwrite the original image.
+
+
+To view an image, 
+
+
+ Righ
+t
+-
+click on the 
+Plan
+line where you want to attach the image. 
+ Select 
+Line Attachment
+from the pop
+-
+up menu. The 
+Attachments
+window appears.
+ Highlight the image you want to see and it will show in the rig
+ht pane of the window.
+
+
+If a 
+Plan
+line with attached images is deleted, the images are also deleted.
+
+
+If an invoice is deleted, images attached to a 
+Plan
+line originating from that invoice are deleted.
+
+
+Edit Reminders
+
+
+R
+eminders are generated based on the code setup
+. Y
+ou can set up codes to generate and clear 
+each type of reminder: 
+Regular
+, 
+Manual
+, 
+Callbacks
+and 
+Recommendations
+. I
+f reminders are not 
+behaving as you like, chances are, it is a code setup issue
+. F
+irst, make sure yo
+ur codes are set
+up 
+correctly
+. T
+hen, run a reminder update utility (
+P
+atient History
+and 
+Recall Corrections
+) to apply 
+your changes to existing history, and recalculate reminders.
+
+
+ From the IntraVet Menu Bar, select 
+Tools | Utilities | Patient Utilities
+|
+History Recall 
+Corrections
+.
+
+
+ Click 
+Start
+. 
+
+
+
+
+<<NEW PAGE 347>>
+
+
+The reminders on a patient may also be 
+manually added
+or changed rather than generated from 
+previous line items
+. T
+he recalculation feature updates an individual patient’s reminders based on 
+any changes that
+were made and/or the current code setup definitions.
+
+
+ From the Control Center, r
+ight
+-
+c
+lick the
+client/patient line and 
+select
+Go To | Patient | 
+Reminders
+.
+
+
+All outstanding reminders (or manually cleared
+reminders) display.
+
+
+ Click once on a reminder to highlight. Scroll if necessary to locate the reminder.
+ Click 
+Edit
+. You can change the 
+Due Date
+for reminders and the 
+Expiration Date
+for 
+Recommendations.

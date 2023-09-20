@@ -1,0 +1,116 @@
+intment Calendar 
+Screens
+. When enabled, saving anything in 
+Setup 
+Appointment Calendar 
+Screens 
+will prompt you to enter the security audit method 
+selected.
+ Setup Screens
+–
+Boardi
+ng
+–
+Select this option to enable security in 
+Boarding 
+Setup 
+Screens
+. When enabled, saving anything in 
+Boarding 
+Setup Screens 
+will prompt you 
+to enter the security audit method selected.
+ Setup Screens
+–
+Forms
+–
+Select this option to enable security in 
+For
+ms 
+Setup Screens
+. 
+When enabled, saving anything in 
+Forms 
+Setup Screens 
+will prompt you to enter the 
+security audit method selected.
+ Setup Screens
+–
+General Codes
+–
+Select this option to enable security in 
+General 
+Codes 
+Setup Screens
+. When enabled, saving
+anything in 
+General Codes 
+Setup 
+Screens 
+will prompt you to enter the security audit method selected.
+ Setup Screens
+–
+Program & Security
+–
+Select this option to enable security in 
+Program 
+and Security 
+Setup Screens
+. When enabled, saving anything in 
+Progra
+m and Security 
+Setup Screens 
+will prompt you to enter the security audit method selected.
+ Setup Screens
+–
+Visits
+–
+Select this option to enable security in 
+Visits 
+Setup Screens
+. 
+When enabled, saving anything in 
+Visits 
+Setup Screens 
+will prompt you to ente
+r the 
+security audit method selected.
+ Setup Screens
+–
+Other
+–
+Select this option to enable security in 
+all other
+Setup 
+Screens that have not been listed separately
+. When enabled, saving anything in 
+these 
+Setup Screens 
+will prompt you to enter the security
+audit method selected.
+ Utilities
+–
+Client & Patient
+–
+Select this option to enable security in 
+Client and Patient 
+Utilities
+. When enabled, saving anything in 
+Client and Patient 
+Utilities
+will prompt 
+you to enter the security audit method selected.
+ Utilit
+ies
+–
+Code Utilities
+–
+Select this option to enable security in 
+Code 
+Utilities
+. When 
+enabled, saving anything in 
+Code 
+Utilities
+will prompt you to enter the security audit 
+method selected.

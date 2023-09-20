@@ -1,0 +1,69 @@
+Medical History
+Organization 
+
+
+Medical History
+is organized by 
+Visit
+or treatment
+. S
+ummary lines provide an at
+-
+a
+-
+glance picture 
+of a patient’s general health and treatment history. 
+
+
+The 
+Medical History
+window can be adjusted vertically by hove
+ring over the bottom of the window
+until a double arrow displays. Hold down the left mouse button and drag the bord
+er up or down 
+to change the window
+size.
+
+
+There are several panes that comprise
+the 
+Medical History
+window
+.
+
+
+Default panes:
+
+
+Client
+/
+patient
+–
+Client and patient information
+is displayed in the top section of the window
+.
+
+
+Problem List 
+–
+Contains a list of potential problems that the 
+practice
+ne
+eds to address with the 
+client regarding their patient. 
+It can include items like chronic issues, a thyroid condition, a 
+vaccination reaction, etc.
+
+
+Reminders
+/Recommendations
+–
+Right
+-
+click anywhere in the Reminders/Recommendations section 
+to select
+the 
+Edit Reminders
+dialog box or 
+Audit Trail
+.

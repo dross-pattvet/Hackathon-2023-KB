@@ -1,0 +1,48 @@
+C:\Users\cberg\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\D2U3UVJO\GenCodes-Stable.png
+Stable
+
+
+Stable
+codes
+can be assigned when equine specific
+features are enabled in 
+General Branch Setup
+. 
+Y
+ou can search for all horses at a particular stable through 
+Recall Generator
+. R
+efer to the chapter 
+Communications
+for information about 
+Recall Generator
+.
+
+
+Stable Codes
+–
+Create, Edit
+or Delete
+
+
+ From the 
+IntraVet
+Menu Bar, select 
+Setup
+|
+General Codes
+|
+Stable
+.
+
+
+ To create a new 
+Stable
+code, 
+select
+New
+at the bottom of the Stable Code List screen.
+ Fill in the empty fields. (All fields are optional.)
+ Click 
+OK
+.

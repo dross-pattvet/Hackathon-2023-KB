@@ -1,0 +1,218 @@
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+|
+Utilities
+|
+Financial
+Recalculations
+.
+
+
+ Click 
+Start
+.
+
+
+You will need exclusiv
+e use of the program when running this utility. Alert your staff that IntraVet 
+will not be available while this utility is running.
+
+
+The amount of time needed to run this utility can vary greatly depending on the size of your data 
+files and the length of t
+ime your 
+practice
+has been using IntraVet.
+
+
+ When the process is complete
+the window will close and you will be back to the
+IntraV
+et desktop.
+
+
+ 
+
+
+Audit Log Viewer
+
+
+The Audit Log Viewer allows you 
+to see who made changes to a specific area within the program. 
+For example, if an employee deletes an appointment, you can find out who deleted that 
+appointment along with the date and time if you have security set
+up. 
+The Audit Log Viewer is a 
+feature th
+at helps to keep track of entering, modifying, and deleting in
+formation within the 
+IntraV
+et Database for security and tracking purposes. 
+T
+here are three broad filter categories to 
+set up a search query: 
+User
+, 
+Source
+Type
+and 
+Action
+. E
+ach of these broad 
+categories contains 
+numerous sub
+-
+filter options.
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+|
+Utilities
+|
+Audit Log Viewer
+. T
+he window 
+opens by default to the 
+Search
+tab.
+
+
+
+
+<<NEW PAGE 495>>
+
+
+ There are three main 
+filters
+in whic
+h 
+to specify your search
+. They are By User, By 
+Account, and By Patient. 
+Which filter may need to be used d
+epend
+s
+on what is
+being 
+searched
+. 
+Each area has a different set of source types 
+with 
+which to narrow down the 
+search results. To run a 
+search,
+take th
+e following steps:
+ Choose the search filte
+r:
+By User, By Account, or By Patient
+.
+a) 
+By User 
+–
+this allows 
+a 
+search by specifi
+c employee or user within IntraV
+et. 
+b) 
+By Account 
+–
+this allows 
+a
+search 
+for a specific client account
+. 
+c) 
+By Patient 
+–
+this allows 
+a
+sear
+ch 
+for 
+an account for a specific patient. 
+
+
+ Choose
+the source type; these differ depending on the search filter used
+.
+a) 
+You can minimize or maximize the results of your search depending on the 
+selections the search is run for with these check boxes. 
+Use the 
+C
+lear
+button 
+to remove all checkmarks by all items
+, 
+i
+f you want only one or a few items 
+checked
+.
+
+
+ Choose the action type:
+Add, Delete, and Modify
+
+
+ Enter
+a 
+Start
+and 
+End Date
+, or click the down
+-
+arrow and choose the dates from the 
+calendars.
+ Enter
+S
+tart
+and 
+E
+n
+d
+times
+, or click the down
+-
+arrow and scroll to the desired times.
+ Click 
+Search
+.
+
+
+
+
+<<NEW PAGE 496>>
+
+
+ T
+he 
+Results
+tab 
+will display once the Search has been completed
+.
+ If security is not enabled all users in the results list wil
+l appear as < no user >. 
+
+
+ When you are finished, click 
+Close
+.
+
+
+Information stored within the Audit Log Viewer does not al
+low for the information to be 
+populated back into IntraV
+et should it be deleted. It is strictly a tracking system for information 
+that
+may be 
+deleted
+.

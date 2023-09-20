@@ -1,0 +1,80 @@
+ Click the 
+Resources
+tab.
+ Check if you want to 
+Print all resources on one pa
+ge
+. If unchecked, it will activate the 
+Resources per page
+, to be filled in with a number.
+ Check if you want to 
+Use current grouping of the active view
+. If unchecked, it will 
+activate the 
+Group by
+down
+-
+arrow. The choices are None, Date and Resources.
+ Che
+ck if you want to 
+Print using the custom collection
+. If unchecked, it will activate the 
+Resources kind
+down
+-
+arrow. The choices are All resources, Visible resources and 
+OnScreen resources.
+
+
+If 
+Print using the custom collection
+is checked it activates the C
+ustom collection. The 
+Available resources are listed in the left pane. To move them to the 
+right pane
+(
+Resources to print
+), highlight and click the single right
+-
+arrow to move them one at a 
+time. Click the double right
+-
+arrow to move them all at once. To
+move resources from 
+the right pane to the left, highlight and click the single left
+-
+arrow to move one at a 
+time. Click the double left
+-
+arrow to move them all at once. 
+
+
+Resources in the right pane can be moved Up or Down in the list. Highlight the 
+resou
+rce and click either Up or Down.
+
+
+ Click 
+Print Preview 
+to see what your document will look like before you print. Click 
+Print
+.
+
+
+Confirming Appointments
+
+
+Many practices routinely call to confirm appointments s
+cheduled for the next day.
+After calling 
+the client, you can indicate the confirmed status of an appointment.
+
+
+ Right
+-
+click on the appointment in the calendar.
+ Choose 
+Confirm
+and then one of the following options:
+ Scheduled 
+(clock)

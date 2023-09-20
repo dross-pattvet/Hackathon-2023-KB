@@ -1,0 +1,10 @@
+Windows Option 
+
+A windows option 
+has been added 
+to easily navigate between open w
+indows. 
+
+
+Select the Windows menu to view a list of open windows that are currently active. Select from the 
+list of open windows to bring that window into focus.

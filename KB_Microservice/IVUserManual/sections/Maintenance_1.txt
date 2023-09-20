@@ -1,0 +1,21 @@
+Maintenance
+
+
+The maintenance options within the Support Utility include
+Database Validation and Index 
+Defragmentation.
+
+
+Please work with IntraV
+et support and make a backup prior to running either of these utilities. 
+
+
+ Databas
+e Validation
+–
+Performs an integrity check on your database and reports on any 
+issues.
+ Index Defragmentation
+–
+Defragments database indexes that are overly fragmented. 
+Excessive fragmentation leads to poor performance.

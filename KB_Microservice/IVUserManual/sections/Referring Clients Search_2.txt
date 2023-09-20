@@ -1,0 +1,24 @@
+ng c
+lient
+or 
+One record per 
+refer
+ral client
+.
+ Click the 
+Export
+button. A 
+Save
+As
+window appears.
+ Navigate to the location where you want to save your exported record and name your 
+file.
+ Save as Type:
+Choose the file type you want to save it as. You can export it as Delimited 
+text, Excel,
+XML, or Healthy Pet (encoded for use with 
+Healthy Pet
+magazine).
+ Click 
+Save
+.

@@ -1,0 +1,130 @@
+VetConnect/Antech sends results and results status to IntraVet for easy updating of the patient 
+history.
+
+
+To update your IDEXX VetCon
+nect/Antech, you will need to make some changes to your Lab 
+Interface Setup.
+
+
+To make the changes, go to 
+Setup | Lab Interface Setup| VetConnect Order Codes or Setup | Lab 
+Interface Setup | Antech Order Codes.
+You have the option to create New, Edit or Inac
+tivate Codes. 
+
+
+Create and Link to VetConnect
+/Antech
+
+
+Create and link VetConnect
+/Antech
+order codes within IntraVet. 
+To begin, select
+Setup
+| Lab 
+Interface| VetC
+onnect| VetConnect Order Codes or 
+Setup
+| Lab Interface| 
+Antech
+|
+Antech Order 
+Codes
+. 
+
+
+This is 
+also available from the lab tests screen.
+
+
+The Code List Window appears. Select New or Edit to open the code window.
+
+
+
+
+<<NEW PAGE 402>>
+
+
+Select a code from the 
+VetConnect/Antech
+code list. The Specimen details will appear. Select an 
+existing IntraVet Procedure Code 
+to link the code to an 
+VetConnect/Antech
+order code.
+
+
+After creating a new VetConnect
+/Antech
+test:
+
+
+ Complete the info needed on the form and add an order code(s). Order codes can 
+be created from this screen as well. 
+ Click OK. A request to VetConnect/Antech will be sent. 
+ The order form will print automatically and the procedure code will be automatically 
+added to the Patient Visit plan. 
+
+
+The following is an example of the printed form from IntraVet.
+
+
+Requisition forms are only available with Antech and 
+VetConnect
+.
+
+
+
+
+<<NEW PAGE 403>>
+
+
+The Lab Test window displays all the lab tests that have been created for the selected patient visit. 
+Access this from the Visit, Medical History, Lab Results Screen and Control Center. 
+
+
+Now, you can add tests throughout these areas for any 
+labs. Codes that are marked as 
+Lab Test
+within code setup are added to the plan within a visit or invoice. You can also manually create a 
+lab test for a procedure that is not marked as a 
+Lab Test
+within IntraVet. 
+
+
+Note: 
+Your practice
+must have the Lab 
+Results section added within the visit to access t
+he Lab Test 
+screen with a right
+-
+click.
+
+
+In the Lab Test, you can Edit, Cancel and Print the Lab Test by right
+-
+clicking on the selected Lab 
+Test. Depending on the status displayed in IntraVet from 
+VetCon
+nect/Antech
+, the lab test can be 
+edited or cancelled.
+
+
+
+
+<<NEW PAGE 404>>
+
+
+Note: As always, notes can be added to a lab test.
+
+
+To post the Lab Results to the patient’s visit, select the L
+ab Results option in IntraVet, 
+located 
+under 
+File | Lab Results
+.

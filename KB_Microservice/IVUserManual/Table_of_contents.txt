@@ -1,0 +1,586 @@
+General Branch Setup 
+9 
+Main Screen 
+9 
+Menu Bar 
+9 
+General 
+10 
+Create or Add a Branch 
+10 
+Name, Address, 
+Phone and Tax 
+12 
+Logo and Background 
+13 
+Email 
+14 
+Invoice 
+15 
+Invoice/Visit 
+15 
+Statement 
+17 
+Statement Setup 
+17 
+Statement Messages 
+19 
+Financial 
+20 
+Financial 
+20 
+Forms, Handouts and Topaz 
+21 
+Forms, Handouts and Topaz 
+21 
+Topaz Signature Pad Integration 22 
+Security 
+24 
+Security 
+24 
+Security Options 
+27 
+Account Setup 
+29 
+Account Default Settings 
+29 
+Required Fields for New Clients 
+31 
+Merchant Services 
+32 
+XCharge Merchant Services 
+32 
+Debit PIN Pad Setup 
+34 
+Prescription Label 
+34 
+Prescription Label 
+34 
+Letterhead Printout 
+36 
+Letterhead Printout 
+36 
+Boarding Setup 
+37 
+Boarding Setup 
+37 
+Boarding Surcharge 
+40 
+Cage Type Setup 
+42 
+eShelf 
+44 
+Estimate Setup 
+45 
+Estimate Setup 
+45 
+General Codes Setup 
+47 
+General Codes 
+47 
+Client Setup 
+47 
+Patient Setup 
+50 
+Referral Codes 
+55 
+Card Payment Codes 
+60 
+Debit and Credit Card Transaction Types 
+62 
+Department Codes 
+64 
+Diagnosis Code Setup 
+65 
+Discount Types Codes 
+69 
+Discount types can be used to track discounts given to your clients. 
+69 
+Document Codes 
+71 
+LifeLearn 
+72 
+Inventory Code Setup 
+74 
+Invoice Message Codes 
+87 
+Procedure Code Setup 
+88 
+Reason Codes 
+102 
+Recommendation 
+103 
+Stable 
+106 
+SOAP 
+–
+Subjective 
+107 
+Vendor 
+108 
+Other Progr
+ams Setup 
+111 
+DIA 
+111 
+Settings 
+111 
+Start DIA 
+112 
+Start DIA Lite 
+112 
+PURDigital Viewer Setup 
+112 
+General Security & Auditing Setu
+p 
+113 
+Security Setup 
+114 
+Security Template 
+114 
+Assign Access Lev
+els 
+115 
+User Setup 
+116 
+Job Setup 
+118 
+Client Account Management 
+120 
+Client Account Management Screen 
+138 
+Patient General Overview 
+138 
+Access Tabs 
+139 
+Account 
+139 
+Invoice 
+140 
+Payment 
+148 
+Estimates 
+149 
+Transactions 
+153 
+Prescriptions 
+154 
+The Appointment Calendar 
+156 
+Appointment Calendar Setup 
+156 
+Type Codes 
+156 
+Appointment Group Setup 
+158 
+To Apply Templates 
+161 
+Calendar 
+164 
+How to Make Appointments 
+166 
+Account Notepad 
+174 
+Searching for Appointments 
+178 
+Accessing ePetHealth 
+181 
+Block and Reserve Slots 
+181 
+Print 
+the Appointment Calendar 
+183 
+Column Print 
+184 
+Time Slot Print 
+185 
+Check
+-
+in Batch Print 
+186 
+Calendar Print 
+187 
+Confirming Appointments 
+190 
+Moving Appointments 191 
+Inventory 
+192 
+Inventory Setup 
+192 
+Warehouses 
+192 
+Unit Type Codes 
+195 
+eShelf Code Association Tool 
+196 
+Vendor Codes 
+198 
+Inventory Update 
+198 
+Inventory Adjustment 
+204 
+Inventory Lot Management 
+207 
+Purchase Orders 
+208 
+Inventory Warehouse Transfers 
+218 
+Inventory Barcode 
+220 
+Inventory In
+-
+House Use 
+220 
+Inventory Cost Corrections 
+222 
+Labels 
+224 
+Control Center 
+228 
+Wild Search and Advanced Search 
+228 
+General Wild Search 
+228 
+Invoice Search 
+229 
+Advanced Search 
+230 
+Control Center 
+–
+Main 
+231 
+Control Center Setup & Customization 
+231 
+Control Center Set
+tings 
+232 
+Changing the Columns on the Control Center 
+234 
+Viewing and Sorting the Patient Appointment Status 
+238 
+Patient Status 
+239 
+Summary 
+239 
+Document List 
+240 
+Assign Documents to a Visit 
+240 
+To Add a Document to the List 
+240 
+To Set the Document Print Tim
+e 
+241 
+Print Reminder List from the Control Center 
+241 
+Changing the Patient’s Visit Status 
+242 
+Process the Check
+-
+In 
+–
+Scheduled Appointment 
+243 
+Process the Check
+-
+in 
+–
+Walk
+-
+in Emergency 
+247 
+Hosp
+italization Services 
+251 
+Reactivate a Patient 
+253 
+Notes and Tasks 
+255 
+How to Enter a Note for a Client/Patient 
+255 
+How to Enter and Manage Tasks 
+256 
+How to Assign and Track Tasks 
+256 
+Client and Patient Operator Warnings 
+258 
+Current Balance 
+258 
+Control Cent
+er 
+–
+Task Manager 
+258 
+Boarding Control Center 
+259 
+Boarding Center Statuses 
+260 
+Boarding 
+262 
+Boarding Reservation Grid 
+262 
+Boarding Control Center 
+262 
+How to Make a Reservation 
+263 
+Services Tab 
+267 
+Notes Tab 
+267 
+Tasks Tab 
+268 
+Activities Tab 
+268 
+How to Edit a Reservation 
+270 
+Search by Client 
+270 
+Search by Confirmation Number or Date 
+274 
+Check In a Boarding Patient 
+274 
+Check Out a Reservation 
+276 
+Visits and Invoices 
+279 
+How to Access the Client’s 
+Account 
+279 
+Method 1: Open Account 279 
+Method 2: Control Center 279 
+Method 3: Calendar 281 
+Method 4: Wild Search 281 
+Visits 
+282 
+Visit Settings 
+282 
+Visit Templates 
+284 
+Visit Template Setup 
+284 
+How to Create a Customized Visit Template 
+284 
+Edit Visit Template Main: 285 
+Subjective: 286 
+Vitals: 287 
+Body Systems: By default, all items are checked. 288 
+Assessment: 289 
+Plan: Include the services and inventory you would normally use in a case of this kind. 
+290 
+Tasks: 291 
+Activities: 292 
+Documents: 294 
+Vitals 
+295 
+Ho
+w to Add Vitals 
+295 
+Body Systems 
+296 
+How to Create, Edit or Delete Body Systems 
+296 
+Tasks 
+298 
+Working with Visits 
+298 
+Patient Visit Overview 
+298 
+Patient Check
+-
+in 
+299 
+Print Documents 
+301 
+Print Multiple Copies of the Same Document 302 
+Print Altered Certificate 
+304 
+Patient Health Certificate 
+304 
+Rabies Certificate 
+306 
+LifeLearn 
+306 
+Attach and Print Documents from Visit 
+307 
+Plan Sectio
+n of the Visit 
+308 
+Invoicing the Visit 
+309 
+Invoicing the plan items 
+310 
+Method 1: 312 
+Method 2: 313 
+Information Tabs on the Invoice 314 
+Split Invoicing 
+315 
+Transactions 
+318 
+Working with Transactions 
+318 
+Edit a Permanently Saved Invoice Line 
+320 
+Credit Adjustments 
+321 
+Debit Adjustments 
+328 
+Payments 
+330 
+Payments Tab 
+330 
+Medical History 
+333 
+Open Medical History 
+333 
+Medical History Organization 
+334 
+Medical History Viewing Options 
+335 
+New Visit 
+337 
+Edit a Visit 
+339 
+Edit Medical History 
+342 
+Edit Reminders 
+346 
+Add a Reminder (Recommendation) 
+348 
+Prescriptions 
+349 
+Printing History 
+355 
+Emailing Patient History 
+355 
+Communications 
+358 
+Due Reminders 
+358 
+How to Search for Due Procedures, Callbacks or Recommendations 
+358 
+Due Reminders 
+–
+Edit Result List 
+363 
+New Client Search 
+366 
+New Patient Search 
+371 
+Recall Generator 
+375 
+Recall Generator Search 
+–
+Previous Searches 
+378 
+Recall Generator Search 
+–
+Re
+sult List 
+379 
+Referring Clients Search 
+383 
+Lab Installation, Integration and Test Results 
+387 
+Lab Installation Instructions 
+387 
+Lab Integration 
+387 
+VetConnect Integration 
+389 
+Antech/Zoasis Lab Interface Setup 
+391 
+Antech Order Code Association 
+393 
+Antech Ne
+w Lab Machine Setup 
+395 
+Antech / Zoasis Lab Acquisition 
+396 
+Lab Tests/Order Codes 
+400 
+Create and Link to VetConnect/Antech 
+401 
+AVLC 
+–
+American Veterinary Laboratory Corporation 
+405 
+Marshfield 
+Lab Interface Setup 
+412 
+RADInfo Integration 
+414 
+RADInfo Integration Setup 
+414 
+RADInfo File Acquisition 
+414 
+Lab Requests 
+419 
+Requesting a Lab Test 
+419 
+Attach Lab Results to Patient History 
+422 
+View Lab Results in the Patient’s Medical History 
+425 
+Time Clock 
+427 
+Clock In 
+427 
+Clock Out 
+–
+Break 
+429 
+Clock Out 
+–
+End of Shift 
+430 
+Job Codes 
+430 
+Time Clock Management 
+431 
+Messenger 
+434 
+Tools 
+436 
+Utilities 
+436 
+Branch Utilities 
+436 
+Client Utilities 
+438 
+Patient Utilities 
+444 
+Inventory Utilities 
+455 
+Code Utilities 
+456 
+Financial Utilities 
+487 
+Statements 
+490 
+Finance Charge Removal 
+493 
+Financial Recalculations 
+493 
+Audit Log Viewer 
+494 
+Maintenance 
+497 
+System Setup 
+497 
+Licensing 
+497 
+Printer Setup 
+498 
+Database Copy 
+500 
+Make a Database Copy 
+500 
+Store a Backup 
+502 
+Restore 
+502 
+Maintenance 
+504 
+Windows Option 505 
+Index 
+506 

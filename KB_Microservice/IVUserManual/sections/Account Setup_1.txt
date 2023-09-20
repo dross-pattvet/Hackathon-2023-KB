@@ -1,0 +1,76 @@
+Account
+Setup
+
+
+Account 
+Default Settings
+
+
+ From the
+IntraVet
+Menu Bar, select 
+Setup | Program | General Branch Setup. 
+
+
+ From the Branch List screen, highlight the Branch and select the 
+Edit
+button at the 
+bottom of the screen, or 
+double
+-
+click
+the Branch.
+
+
+Select
+the plus sign (
++
+) in front of 
+Account Setup
+.
+
+
+ Select
+Default Settings
+.
+
+
+To simplify entry and to save time, 
+variables 
+can 
+be 
+define
+d
+for new clients.
+These default
+s 
+can be changed, 
+when adding a new client. 
+
+
+ Varia
+b
+les that can be entered include:
+ A
+rea Code
+–
+Enter the most commonly enter
+ed area code for 
+your
+practice.
+ County
+–
+Enter the most common county for clients in your practice.
+ Credit Limit
+–
+Enter th
+e credit limit most commonly entered for the clients in 
+your practice. Setting a credit limit does not prevent a client from exceeding it. 
+There will be no warning if the client exceeds their limit. Credit limits can be 
+viewed on the screen and can be o
+verwritten on individual client accounts. 
+Leave EMPTY ($0) if the practice does not extend credit.
+ User Defined Entry
+–
+Use these two fields for any additional information needed 
+in the client database.

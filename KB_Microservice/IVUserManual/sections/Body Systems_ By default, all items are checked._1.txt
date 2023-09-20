@@ -1,0 +1,31 @@
+Body Systems
+:
+By default, all items are checked. 
+
+
+ Click
+the 
+Body Systems
+tab
+.
+ To enable edits, click the 
+Include
+box
+.
+ Uncheck each system you do not want in the template.
+ To 
+Select All
+or 
+Unselect All
+, right
+-
+click in the description field and sele
+ct.
+ To add an attachment, 
+select
+the icon 
+with the paperclip
+.
+ To continue, select another tab. To accept your changes and close, click 
+OK
+.

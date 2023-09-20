@@ -1,0 +1,210 @@
+Make the necessary changes and then rerun the QuickBooks® transfer utility for the same period
+. 
+I
+mport the new IIF file into QuickBooks® only if you have not already done so; otherwise, dup
+licate 
+entries will be made for that period. 
+
+
+Statements
+
+
+You can print statements for clients with balances, calculate billing and monthly interest 
+percentages, and apply these charges to clients with balances that are de
+signated to receive such 
+charges. 
+
+
+Each client entered into your system is assigned four billing
+variables that affect statements: 
+
+
+ Billing Fee
+ Interest
+ Statement Type
+(Summary, Detail or None)
+ Terms of COD, 30, 60, or 90 days. 
+
+
+Each statement is generated according to the parameters in each client’s record (
+s
+ee Client Setup
+)
+.
+
+
+When preparing to pr
+int statements, certain decisions m
+ust be made whether or not to:
+
+
+ P
+rint 
+Statement
+Messages. 
+ S
+end
+a
+statement
+to
+a
+client with less than a certain balance. 
+ C
+harge billing fees and monthly interest percentages to clients already set up 
+for these charges. 
+ You can charge billing fees only to past due accounts or to charge only the 
+greater of the two: monthly interest or billing fee.
+ Charge the greater of the billing fee and interest. 
+o IntraV
+et will automatically charge both billing fee and interest if the 
+ab
+ove is not selected. 
+
+
+ S
+end statements to all clients or to clients with certain classification codes. 
+
+
+To generate an itemized statement
+for one client:
+
+
+ From the 
+IntraVet
+Menu Bar, 
+select
+Tools
+| 
+Utilities
+| 
+Stat
+ements
+.
+
+
+
+
+<<NEW PAGE 491>>
+
+
+ A p
+erformance warning will pop
+up. 
+Click 
+OK
+.
+
+
+ Select the date(s) and check the pertinent boxes that apply to this client.
+ Balance forward transactions on and before this date
+–
+Whatever date is selected in 
+this box will be the beginning date fo
+r the statement. Any balance on the account 
+before
+this date will show as an amount only.
+ Print the statements as of this date
+–
+This date will be the ending date range for items 
+printed on the statement.
+ No statements if balance due is less than or equal
+to
+–
+If a client’s balance is less than 
+the amount entered in this field, that client will not receive a statement.
+ Branch
+–
+Allows you to print statements for only the selected branch.
+ Print Statement messages
+–
+This includes a message on each statement,
+depending 
+on the age of the balance.
+ Charge Billing Fee
+–
+If a Billing Fee is set
+up, each client that is marked to be charged 
+a Billing Fee will have it applied.
+ Charge Billing Fee only if the account is Past Due
+–
+This will only charge clients that 
+are 
+set
+up to get a Billing Fee and have a Past Due balance.
+ Charge Interest if the account is Past Due
+–
+This will only charge clients that are set
+up 
+to 
+be charged Interest if they
+have a Past Due balance.
+ Charge the greater of the Billing Fee and Interest
+–
+This will charge the client the 
+greater amount (either the Billing Fee or Interest) if their account is Past Due.
+ Classifications
+–
+This area allows you to exclude or include groups of clients based on 
+their classification. 
+ Exclude Selected Classificatio
+ns
+–
+Excludes any selected classifications.
+ Include Selected Classifications
+–
+Includes any selected classifications.
+
+
+
+
+
+
+<<NEW PAGE 492>>
+
+
+ In the blank 
+Start From
+entry line, enter the client’s account number, or double
+-
+click in 
+the blank entry line and scroll to the desired c
+lient. Press Enter to move the client’s 
+name into the entry line.
+ If the number 1 is entered, it will begin with the first account and start processing 
+from the first account that is found that matches the selected criteria.
+
+
+ Enter a number
+in the 
+Print Ne
+xt
+field to print 
+that number of
+statement
+s, 
+pause
+. 
+If the 
+number 1 is entered the next one statement will print. If left blank, all statements will 
+print at one time.
+
+
+Often, when printing one statement, billing fees and interest are not charged.
+
+
+The 
+buttons along the lower edge of the window provide more options. For example, 
+Details
+provides additional information about the client’s account.
+
+
+ When you are finished making selections, click the 
+Pri
+nt Totals
+button.
+ When you are ready to print statements, click 
+Start Printing
+.
+ To exit, click 
+Close
+.

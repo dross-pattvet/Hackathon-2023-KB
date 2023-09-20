@@ -1,0 +1,164 @@
+oose
+the 
+prescripti
+on 
+code in invoicing
+/visit
+or 
+through
+Medical 
+History
+.
+
+
+ In 
+Control Center
+, right
+-
+click on the client/patient 
+Visit l
+ine.
+ Click 
+Go To | Patient | 
+Medical History
+.
+
+
+ Select
+the 
+Prescriptions
+tab.
+ Right
+-
+click in the prescription. 
+Selec
+t 
+Show Refillable
+. 
+
+
+
+
+<<NEW PAGE 354>>
+
+
+You may be asked for a password, if set up. You may also be brought to an existing visit if 
+the patient has other services currently underway to add your refill.
+
+
+ Fill in the information as needed
+(and as allowed)
+.
+ Provider
+–
+prescrib
+ing doctor
+(cannot be changed on a refill)
+.
+ Expiration
+–
+the expiration of the inventory
+item itself, usually entered through 
+inventory
+receives. Date shortcuts can be used (“
+T
+”
+for Today, “
+W
+”
+or “
+K
+”
+for 
+the beg
+inning or end of the week, “
+M
+”
+or “
+H
+”
+for month, “
+Y
+”
+or “
+R
+”
+for year). 
+You can also arrow over to the year and press the arrow to change the month 
+one month at a time.
+ Directions
+–
+can be preset from the inventory code
+setup and cu
+stomized per 
+code. It includes the drug description. You can also choose from common 
+canned text. Unlimited choices can be set up by selecting 
+Setup
+| 
+Forms
+| 
+Canned Text
+| 
+Prescriptions
+from the IntraVet Menu Bar. Rig
+ht
+-
+click in the 
+Instructions
+area to choose from BID, TID, etc. and insert these canned 
+instructions.
+ Refill Until
+–
+enter a date that a refill can be approved until (in addition to the 
+number of refills)
+.
+ Est Days Supply
+(optional) 
+–
+s
+ome states require t
+his for controlled drugs
+(doctor 
+cannot be changed on a refill)
+.
+ Quantity
+–
+number of pills
+(doctor 
+cannot be changed on a refill)
+.
+ Refills
+–
+the number of refills approved. This num
+ber decreases as you 
+generate additional labels for the same code/patient
+(doctor 
+cannot be 
+changed on a refill)
+.
+ Copies
+–
+the number of copies to print can be set globally. From the IntraVet 
+Menu Bar, 
+select
+Setup
+| Forms
+| Bulk Prescriptio
+n Labels
+menu. However, you 
+can change it for individual prescriptions as needed.
+
+
+Inventory codes
+must be set up to generate a prescript
+ion prompt in order to 
+get the prescription prompt in invoice.
+
+
+ Click 
+Print Now
+(prints and sends to invoice or adds to existing visit) or
+,
+ Save T
+o Print
+to send to the invoice/current visit. It will print with the invoice instead.
