@@ -37,5 +37,6 @@ This project has benefited from a number of other open-source projects and resou
 - David Shapiro's [Private ChatGPT instance with ChromaDB backend, builds personal KB articles, updates User Profile!](https://youtu.be/n8X2h8Mg3WE) for ChromaDB, chatbot and ChatGPT.
 - David Shapiro's [ChatGPT as an Interpreter: Introducing the KB Microservice for autonomous AI entities](https://www.example.com) for guiding the create and search of KB articles.
 - [David Shapiro](https://github.com/daveshap) GitHub Profile
+- [ChromaDB](https://github.com/chroma-core/chroma) Github Repo for ChromaDB (Vector db)
 
 We're grateful for the contributions of these projects and the people behind them.
